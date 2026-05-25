@@ -1,0 +1,113 @@
+---
+title: "Notes"
+page-layout: full
+toc: false
+---
+
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">VfM source notes</span>
+
+# Start with the source, then map the concepts
+
+This section collects value for money evaluation notes. Start with the definitions synthesis, then follow the source notes and map to see how citations and linked source material connect.
+
+<div class="page-metadata">
+  <span>Source notes</span>
+  <span>VfM criteria</span>
+  <span>Evidence map</span>
+</div>
+:::
+
+## Source Notes {#source-notes .section-heading}
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [VfM Definitions](vfm-definitions.qmd)
+
+Compares authoritative definitions from HM Treasury, the National Audit Office, and the OECD DAC evaluation criteria.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [Green Book VfM Guidance](green-book-vfm-guidance.qmd)
+
+Summarises HM Treasury's Green Book definition of value for money, including social value, monetised and unmonetised effects, distribution, and risk.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [NAO VfM Definition](nao-vfm-definition.qmd)
+
+Summarises the National Audit Office definition of good value for money through economy, efficiency, effectiveness, and intended outcomes.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [OPM King VfM Guidance](opm-king-vfm-guidance.qmd)
+
+Summarises OPM's approach to assessing value for money, including criteria, rubrics, evidence standards, synthesis, judgement, and reporting.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd)
+
+Summarises HM Treasury's Magenta Book guidance on value for money evaluation, including appraisal links, VfM methods, Four Es, rubric-based approaches, and mixed evidence synthesis.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd)
+
+Summarises the OECD DAC evaluation criteria, including relevance, coherence, effectiveness, efficiency, impact, sustainability, and the principles for thoughtful use.
+:::
+:::
+
+## Notes Map {#notes-map .section-heading}
+
+<p class="section-intro">Internal nodes are limited to the Notes section. External nodes show cited references and linked source pages.</p>
+
+```{=html}
+<div id="link-graph-shell" class="link-graph-shell graph-section" data-graph-src="../data/notes_link_graph_payload.json">
+  <div class="link-graph-controls" role="group" aria-label="Link graph controls">
+    <label class="link-graph-search" for="link-graph-search">
+      <span class="link-graph-control-label">Find node</span>
+      <input id="link-graph-search" type="search" placeholder="Search by label or path" list="link-graph-node-options" />
+    </label>
+    <label class="link-graph-toggle" for="toggle-internal">
+      <input id="toggle-internal" type="checkbox" checked />
+      <span>Notes pages</span>
+    </label>
+    <label class="link-graph-toggle" for="toggle-external">
+      <input id="toggle-external" type="checkbox" checked />
+      <span>External sources</span>
+    </label>
+    <button id="reset-link-graph" class="link-graph-button link-graph-button-secondary" type="button">Reset view</button>
+    <datalist id="link-graph-node-options"></datalist>
+  </div>
+  <div class="link-graph-legend">
+    <span class="link-graph-legend-item link-graph-legend-item-internal"><span class="kind-pill internal">internal</span> Notes pages</span>
+    <span class="link-graph-legend-item link-graph-legend-item-external"><span class="kind-pill external">external</span> Cited and linked sources</span>
+    <span class="link-graph-legend-note">Hover to highlight links, click for details and navigation, then drag to reposition or scroll to zoom.</span>
+  </div>
+  <div id="link-graph-root" class="link-graph-root">
+    <div class="link-graph-canvas-wrap">
+      <div id="link-graph-svg" class="link-graph-svg" role="img" aria-label="Interactive VfM notes section map"></div>
+    </div>
+  </div>
+</div>
+
+<script src="../assets/vendor/d3.min.js"></script>
+<script src="../assets/js/link_network.js"></script>
+```
+
+</div>

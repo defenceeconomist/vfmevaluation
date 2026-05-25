@@ -1,0 +1,65 @@
+---
+title: "OECD DAC Evaluation Criteria"
+description: "Source note on the OECD DAC criteria for evaluating interventions."
+---
+
+## Source
+
+This note summarises the OECD DAC evaluation criteria using the OECD's official evaluation criteria page and the OECD DAC Network on Development Evaluation publications that revised and explained the criteria [@oecd_2019_better_criteria; @oecd_2021_applying_criteria].
+
+The related source pages are:
+
+- [OECD: Evaluation Criteria](https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html)
+- [OECD: Better Criteria for Better Evaluation](https://doi.org/10.1787/15a9c26b-en)
+- [OECD: Applying Evaluation Criteria Thoughtfully](https://doi.org/10.1787/543e84ed-en)
+
+## Core Idea
+
+The OECD DAC criteria are a shared framework for judging the merit, worth, or significance of an intervention. They are not a method in themselves. They define the main evaluative questions that an evaluation may need to answer.
+
+The criteria work as complementary lenses. Together, they help evaluators examine whether an intervention is appropriate to the context, fits with other activity, achieves results, uses resources well, produces important wider effects, and leaves benefits that can continue.
+
+## The Six Criteria
+
+The revised OECD DAC criteria are relevance, coherence, effectiveness, efficiency, impact, and sustainability.
+
+- Relevance asks whether the intervention is doing the right things. It examines how far objectives and design respond to needs, policies, priorities, and changing circumstances.
+- Coherence asks how well the intervention fits. It examines compatibility with other interventions, policies, standards, actors, and systems in the same context.
+- Effectiveness asks whether the intervention is achieving its objectives. It examines achieved or expected results, including differential results across groups.
+- Efficiency asks how well resources are being used. It examines whether results are delivered economically and in a timely way.
+- Impact asks what difference the intervention makes. It examines significant positive or negative, intended or unintended, higher-level effects.
+- Sustainability asks whether the benefits will last. It examines whether the net benefits of the intervention continue or are likely to continue.
+
+The 2019 revision added coherence as a distinct criterion and updated the other definitions to support more nuanced analysis, including attention to equity, environmental effects, synergies, and trade-offs.
+
+## Principles for Use
+
+The OECD gives two principles for applying the criteria. First, they should be applied thoughtfully, with their meaning interpreted in light of the intervention, stakeholders, context, and evaluation questions. Second, their use should depend on the purpose of the evaluation. An evaluation does not need to cover every criterion mechanically.
+
+This means the criteria should be selected and adapted before analysis begins. The evaluation design should explain which criteria matter most, how each criterion is interpreted for the intervention, and what evidence would support a credible judgement.
+
+## Practical Implications for VfM Evaluation
+
+For value for money evaluation, the DAC criteria help broaden the judgement beyond cost and impact alone. Efficiency is directly relevant to resource use, but it is only one lens. A low-cost intervention may still represent poor value if it is not relevant, duplicates other work, produces weak or inequitable results, creates harmful wider effects, or leaves benefits that cannot be sustained.
+
+The criteria are especially useful when they are turned into explicit evaluation questions, indicators, evidence standards, or rubrics. This makes the judgement traceable: readers can see how evidence under each criterion contributes to the overall conclusion.
+
+The OECD framing is relevant to definitions of VfM because it treats evaluation criteria as lenses for judging interventions. The criteria are "not a methodology or approach"; they define questions that evaluations need to answer. For VfM, this means efficiency should usually be interpreted alongside relevance, coherence, effectiveness, impact, and sustainability rather than isolated as a narrow resource-use metric.
+
+## Limits and Risks
+
+The criteria do not replace evaluation design. They do not decide the method, identify the counterfactual, define evidence quality, or explain how trade-offs should be weighed. Those choices still need to be made explicitly.
+
+A common risk is treating the criteria as a checklist. A stronger evaluation uses them to focus inquiry: selecting the criteria that matter for the decision, defining clear questions, assessing evidence quality, and explaining how mixed findings have been synthesised.
+
+## Links
+
+See also the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) note for a rubric-based approach to criteria, standards, synthesis, and judgement.
+
+See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for UK government guidance on value for money evaluation, including Four Es, monetised analysis, and rubric-based approaches.
+
+See also the [VfM Definitions](vfm-definitions.qmd) note for a comparison of Green Book, NAO, and OECD framings.
+
+Return to the [notes overview](index.qmd).
+
+## References

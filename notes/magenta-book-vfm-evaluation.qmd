@@ -1,0 +1,91 @@
+---
+title: "Magenta Book VfM Evaluation"
+description: "Source note on HM Treasury's Magenta Book guidance for value for money evaluation."
+---
+
+## Source
+
+This note summarises the Magenta Book's guidance on value for money evaluation, with emphasis on the 2026 HTML version of the central guidance and Annex A's analytical methods [@hm_treasury_evaluation_task_force_2026_magenta_book; @hm_treasury_evaluation_task_force_2026_magenta_book_annex_a]. It also links the evaluation guidance to the Green Book's value for money supplementary guidance [@hm_treasury_2022_green_book_vfm].
+
+The related source pages are:
+
+- [GOV.UK: The Magenta Book](https://www.gov.uk/government/publications/the-magenta-book)
+- [Magenta Book: Central Government guidance on evaluation](https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html)
+- [Magenta Book Annex A: analytical methods for use within an evaluation](https://www.gov.uk/government/publications/the-magenta-book/magenta-book-annex-a-analytical-methods-for-use-within-an-evaluation-html)
+- [Green Book Supplementary Guidance: Value for Money](https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money)
+
+## Core Idea
+
+The Magenta Book frames value for money evaluation around a practical question: whether an intervention is a good use of public resources. That question cannot be answered by impact evidence alone. Impact evaluation can estimate what changed, but VfM evaluation asks whether the outcomes, costs, unintended effects, and alternatives justify the use of resources.
+
+The guidance treats VfM as a balanced judgement about public value. Monetised costs and benefits matter, but the judgement should also account for important benefits and costs that cannot be monetised or placed in a benefit-cost ratio.
+
+## Relationship to Appraisal
+
+Magenta Book VfM evaluation is closely connected to Green Book appraisal. A standard VfM evaluation compares the costs and benefits achieved by the intervention with the expectations set out in the business case or impact assessment.
+
+A more developed evaluation can go further by comparing different ways of achieving the same strategic objective. This makes VfM evaluation useful for both accountability and learning: it can show whether appraisal assumptions held up in practice and whether future business cases should adjust their forecasts.
+
+## Planning Principles
+
+The Magenta Book gives four practical design principles for VfM evaluation:
+
+1. Plan VfM from the outset, alongside process and impact evaluation.
+2. Define what good value means before the analysis begins.
+3. Link the evaluation back to appraisal forecasts and business case assumptions.
+4. Build from observed data wherever possible, while being clear when forecasts are needed for longer-term benefits or costs.
+
+The design implication is that cost, process, outcome, and contextual data need to be collected deliberately. A late VfM exercise may be forced to rely on incomplete cost data, weak attribution, or assumptions that cannot be tested.
+
+## Common Methods
+
+The Magenta Book identifies social cost-benefit analysis as a widely used method when the main costs and benefits can be quantified and monetised. This can produce summary measures such as benefit-cost ratios, and it can compare options with different types of outcomes.
+
+Other related approaches include social cost-effectiveness analysis, cost utility analysis, and social return on investment. These are most useful when the evaluation can measure enough of the intervention's costs and outcomes to support credible comparison.
+
+The guidance is clear that monetised findings need context. A reported ratio or net present value should sit alongside evidence on major unmonetised benefits, unmonetised costs, limitations, uncertainty, and omitted effects.
+
+## Four Es Framework
+
+Where monetisation is incomplete or unsuitable, the Magenta Book describes the Four Es framework as an additional way to structure VfM assessment:
+
+- Economy: whether inputs were purchased or obtained at appropriate cost and quality.
+- Efficiency: whether resources were converted into outputs or outcomes well.
+- Effectiveness: whether the intervention achieved its intended outcomes.
+- Equity: whether benefits, costs, and access were distributed fairly.
+
+The Four Es can organise mixed quantitative and qualitative evidence, but they do not usually produce a comparable numerical summary. They are criteria for making a judgement, not a substitute for explaining how evidence has been weighed.
+
+## Rubric-Based Approaches
+
+Annex A explicitly recognises rubric-based VfM assessment. A rubric defines criteria and performance standards, often in a table, so evaluators can judge whether observed performance is poor, adequate, good, excellent, or another agreed standard.
+
+The method is especially useful when outcomes are intangible, hard to monetise, or spread across several dimensions of public value. The rubric should be co-designed early, aligned with the Theory of Change, and agreed before evidence is interpreted. This reduces the risk of inventing standards after results are known.
+
+Rubrics do not generate VfM metrics by themselves. Their value is that they provide a transparent way to interpret mixed evidence and synthesize it into an overall evaluative judgement.
+
+## Link to OPM King
+
+The Magenta Book's treatment of rubric-based approaches is closely aligned with the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd). Both approaches treat VfM as explicit evaluative judgement rather than only financial calculation.
+
+The Annex A discussion also cites Julian King's OPM guide and gives examples of government evaluations using Four Es and rubric-based frameworks. This makes the OPM King approach part of the recognised UK government evaluation methods landscape, especially for interventions where monetisation is difficult or partial.
+
+## Practical Implications
+
+For evaluators, the Magenta Book points to a staged workflow:
+
+1. Start from the decision context and appraisal assumptions.
+2. Decide which benefits and costs can be credibly monetised.
+3. Identify important non-monetised effects that still matter for public value.
+4. Select a method or combined framework that fits the intervention and evidence base.
+5. Define criteria and standards early, especially if using Four Es or rubrics.
+6. Gather empirical cost, process, output, outcome, and distributional evidence.
+7. Report both summary measures and judgement-based findings with limitations.
+
+The most credible VfM evaluations make the judgement traceable. Readers should be able to see how appraisal expectations, observed evidence, monetised analysis, unmonetised effects, uncertainty, and stakeholder-relevant criteria combine into the final conclusion.
+
+## Links
+
+Return to the [notes overview](index.qmd).
+
+## References

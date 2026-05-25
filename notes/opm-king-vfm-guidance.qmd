@@ -1,0 +1,348 @@
+---
+title: "OPM King VfM Guidance"
+description: "Source note on OPM and Julian King's approach to assessing value for money."
+---
+
+## Source
+
+This note summarises the second edition of OPM's value for money guidance, *Assessing Value for Money: The Oxford Policy Management Approach* [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm]. The guide was written by Julian King, Daniel Wate, Esther Namukasa, Alex Hurrell, Frances Hansford, Patrick Ward, and Shiva Faramarzifar.
+
+The main source is:
+
+- [OPM PDF: Assessing Value for Money: The Oxford Policy Management Approach, second edition](https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf)
+
+Related earlier source material:
+
+- [OPM: In Depth - OPM's approach to assessing Value for Money](https://www.opml.co.uk/publications/in-depth-opm-approach-assessing-value-for-money)
+- [OPM briefing PDF: OPM's approach to assessing Value for Money](https://www.opml.co.uk/sites/default/files/migrated_bolt_files/bn-assessing-vfm.pdf)
+- [BetterEvaluation: OPM's approach to assessing value for money](https://www.betterevaluation.org/tools-resources/opms-approach-assessing-value-for-money)
+
+## One-Page Summary
+
+OPM defines value for money as **good resource use**. VfM asks how well resources are used and whether that use is justified. The guide is explicit that VfM cannot be measured by a single formula, even though numeric and economic evidence can be important.
+
+The practical contribution of the approach is a disciplined process for making evaluative judgements. It uses criteria to define the aspects of performance that matter, standards to define different levels of performance, and mixed evidence to support a transparent judgement. This makes VfM a reasoning process: evidence is organised, interpreted against agreed standards, and synthesised into a performance story.
+
+The guidance uses the FCDO/NAO 5Es as a useful starting point: economy, efficiency, effectiveness, equity, and cost-effectiveness. These are not fixed labels to copy into every framework. Each criterion should be translated into programme-specific definitions and subcriteria. The same word, such as efficiency, can mean different things in a training programme, an adaptive governance programme, a market systems programme, or a humanitarian response.
+
+The approach is intended to be integrated with monitoring, evaluation, and learning systems. VfM frameworks should use existing evidence where it is relevant, avoid duplicating MEL processes, and support adaptive management. The strongest VfM reports show the chain of reasoning from criteria to standards, evidence, judgement, and recommendations for improving resource use.
+
+## Concept Map
+
+```{mermaid}
+flowchart TD
+  A[VfM as good resource use] --> B[Transparent evaluative judgement]
+  A --> C[Opportunity cost and alternatives]
+  A --> D[Learning and accountability]
+
+  B --> E[Criteria: what matters]
+  B --> F[Standards: how good is good enough]
+  B --> G[Mixed evidence]
+  B --> H[Performance story]
+
+  E --> I[Economy]
+  E --> J[Efficiency]
+  E --> K[Effectiveness]
+  E --> L[Equity]
+  E --> M[Cost-effectiveness]
+
+  I --> I1[Appropriate quality at the right price]
+  J --> J1[Technical efficiency]
+  J --> J2[Allocative efficiency]
+  J --> J3[Dynamic efficiency]
+  J --> J4[Relational efficiency]
+  K --> K1[Outputs contribute to intended outcomes]
+  L --> L1[Fair distribution and marginalised groups]
+  M --> M1[Value created justifies resources used]
+
+  F --> N[Rubrics: poor / adequate / good / excellent]
+  G --> O[Quantitative evidence]
+  G --> P[Qualitative evidence]
+  G --> Q[Economic analysis]
+  G --> R[MEL and programme evidence]
+  G --> S[Stakeholder perspectives]
+
+  H --> T[Traceable synthesis]
+  T --> U[Judgement by criterion]
+  T --> V[Overall VfM judgement]
+  V --> W[Actions to improve resource use]
+```
+
+## Concept Notes
+
+### VfM as Evaluative Judgement
+
+OPM frames VfM as an evaluative question about resource use. The question is not simply whether outputs were delivered, or whether a cost ratio looks favourable. It is whether the resource use was good enough in context, given the value created, the alternatives available, and the perspectives that matter.
+
+This is why the guide emphasises explicit evaluative reasoning. The evaluator must explain what counts as good performance before judging the evidence. That reasoning should be open to scrutiny, not hidden behind a dashboard or formula.
+
+### Opportunity Cost and Alternatives
+
+The need for VfM assessment arises because public and donor resources have opportunity costs. Spending on one intervention means giving up other possible uses of the same resources.
+
+In principle, good resource allocation should compare favourably with the next-best alternative. In practice, OPM recognises that alternatives and benchmarks may be unclear in complex development settings. The response is to define agreed standards for what good performance and good resource use look like in the programme context.
+
+### Criteria
+
+Criteria are selected dimensions of programme performance that matter for good resource use. OPM discusses the 5Es: economy, efficiency, effectiveness, equity, and cost-effectiveness.
+
+The criteria should not be treated as a generic checklist. They need to be chosen and shaped around the intervention, decision context, stakeholders, timing, and intended use of the assessment.
+
+### Standards and Rubrics
+
+Standards define levels of performance for each criterion. OPM commonly uses rubric levels such as poor, adequate, good, and excellent.
+
+The timing matters. Criteria and standards should be agreed before the evidence is gathered and interpreted. This gives the judgement a transparent basis and reduces the risk that evaluators retrofit the standard to the result.
+
+### Mixed Evidence
+
+The OPM approach uses evidence from multiple sources: programme finance, operations, monitoring data, evaluation findings, qualitative inquiry, quantitative indicators, stakeholder perspectives, and economic analysis where feasible.
+
+Economic methods can provide strong evidence, but they do not replace evaluative judgement. VfM assessment often needs to account for value that is hard to monetise, including quality, equity, sustainability, institutional change, learning, and dignity.
+
+### Traceable Synthesis
+
+The final VfM judgement should be traceable. Readers should be able to follow the path from criteria, to programme-specific definitions, to standards, to evidence, to ratings, to the overall conclusion.
+
+Traceability is what makes the judgement useful for accountability and learning. It also helps identify concrete opportunities to improve resource use.
+
+## OPM Eight-Step Process
+
+OPM presents VfM assessment as an eight-step process:
+
+1. Understand the programme, including its theory of change and value proposition.
+2. Develop VfM criteria.
+3. Develop VfM standards.
+4. Identify evidence requirements and select methods.
+5. Gather evidence.
+6. Analyse the evidence.
+7. Synthesise findings and make judgements.
+8. Report the judgement and opportunities for improvement.
+
+Steps 1 to 4 design the VfM framework. Steps 5 to 8 apply it through evidence collection, analysis, synthesis, and reporting.
+
+## Creating VfM Criteria and Standards
+
+Criteria development is the centre of the OPM approach. The aim is to define what good resource use means for the specific programme, not to copy generic definitions from another framework.
+
+The practical sequence is:
+
+1. **Understand the value proposition.** Clarify what the programme is trying to create, for whom, through what causal pathway, and with what resources.
+2. **Select the relevant criteria.** Start with the 5Es, but include only the criteria that support useful judgement and decision making.
+3. **Write programme-specific definitions.** Translate each E into the programme context.
+4. **Identify subcriteria.** Choose the small number of dimensions that would represent most of the important performance story.
+5. **Define standards.** Describe poor, adequate, good, and excellent performance before interpreting evidence.
+6. **Then identify evidence.** OPM advises suspending measurement discussions until the criteria and standards are clear.
+
+Useful prompts for drafting criteria:
+
+- What would make this programme's resource use clearly good?
+- What would make it unacceptable, even if some indicators looked positive?
+- Which stakeholders need to recognise the judgement as valid?
+- What trade-offs are likely between cost, quality, equity, and learning?
+- What would be different at early, mid-point, and late stages of implementation?
+
+## Criteria Table
+
+| Criterion | Core question | Criteria-development focus | Common evidence |
+|---|---|---|---|
+| Economy | Are inputs bought at the right price and quality? | Procurement, input quality, cost drivers, probity, stewardship. | Budgets, procurement records, unit costs, audit findings, market comparisons. |
+| Efficiency | How well are inputs converted into outputs? | Technical, allocative, dynamic, and relational efficiency. | Output data, spend data, delivery timelines, portfolio decisions, adaptation logs, partner evidence. |
+| Effectiveness | Are outputs contributing to intended outcomes? | Contribution to outcomes, quality, causality, unintended effects. | Outcome indicators, evaluation findings, contribution analysis, qualitative evidence. |
+| Equity | Are benefits fairly distributed and are marginalised groups reached? | Access, distribution, inclusion, dignity, differential outcomes. | Disaggregated data, beneficiary research, GESI analysis, distributional analysis. |
+| Cost-effectiveness | Does the value created justify the resources used? | Costs relative to outcomes, impacts, alternatives, and equity goals. | CEA, CBA, ROI, break-even analysis, comparator evidence, qualitative value judgement. |
+
+## Economy Criteria
+
+Economy concerns the conversion of resources into the inputs needed to deliver the intervention. The basic question is whether the programme buys inputs of appropriate quality at the right price.
+
+OPM is clear that economy is not the same as buying the cheapest option. A low-cost input can damage VfM if it reduces quality, excludes capable suppliers, weakens delivery, creates environmental harm, or increases downstream costs.
+
+### Programme-Specific Definition Template
+
+The programme is economical when it acts as a good steward of resources, procuring and managing inputs of appropriate quality at reasonable cost while protecting probity, delivery quality, and the wider value proposition.
+
+### Potential Subcriteria
+
+- Inputs are procured at reasonable prices relative to market conditions and required quality.
+- Procurement is competitive, proportionate, timely, and transparent where feasible.
+- Major cost drivers are understood, actively managed, and reviewed.
+- Financial management and probity arrangements reduce leakage, waste, and fiduciary risk.
+- The programme seeks economies of scale or scope where these do not weaken quality or equity.
+- The programme considers wider stewardship issues, such as carbon costs, local supplier development, equitable pay, and responsible sourcing.
+
+### Economy Rubric Sketch
+
+| Level | Standard |
+|---|---|
+| Poor | Input choices are mainly cost-driven or poorly controlled, with weak procurement, avoidable waste, or material fiduciary risk. |
+| Adequate | Inputs are generally appropriate and major costs are controlled, but some cost drivers, procurement choices, or stewardship risks are weakly managed. |
+| Good | The programme buys inputs of suitable quality at reasonable prices, manages major cost drivers, and can explain significant procurement choices. |
+| Excellent | The programme demonstrates strong stewardship of financial, human, political, and environmental resources, using procurement and cost management to protect and strengthen the value proposition. |
+
+## Efficiency Criteria
+
+Efficiency concerns how well inputs are converted into outputs. FCDO's definition aligns most closely with **technical efficiency**, but OPM notes that other forms of efficiency may be needed, especially for complex, adaptive, or portfolio-based programmes.
+
+Efficiency criteria should therefore avoid over-reliance on simple cost-per-output metrics. Those metrics can be useful, but they may mislead where the quality of outputs, the choice of outputs, learning, relationships, or adaptation are central to value.
+
+### Efficiency Typology
+
+| Type | Main question | When it matters | Possible subcriteria |
+|---|---|---|---|
+| Technical efficiency | Are planned outputs delivered to the required quality within reasonable time and cost? | Service delivery, training, infrastructure, grants, procurement-heavy programmes. | Unit costs, timeliness, output quality, budget adherence, process productivity. |
+| Allocative efficiency | Are resources allocated to the right activities, outputs, geographies, groups, or partners? | Portfolios, adaptive programmes, programmes with competing delivery routes. | Portfolio balance, targeting, prioritisation, stopping low-value work, shifting resources to higher-value opportunities. |
+| Dynamic efficiency | Does the programme learn and adapt to improve resource use over time? | Innovation, governance, market systems, influencing, systems change. | Feedback loops, experimentation, learning from failure, timely adaptation, improved productivity over time. |
+| Relational efficiency | Do relationships and coordination reduce waste and improve delivery? | Multi-stakeholder programmes, technical assistance, politically informed work, networked delivery. | Trust, coordination, partner alignment, reduced duplication, useful communication, lower transaction costs. |
+
+### Programme-Specific Definition Template
+
+The programme is efficient when it converts resources into high-quality outputs through delivery choices, portfolio decisions, adaptation, and relationships that make the best practical use of available resources.
+
+### Potential Subcriteria
+
+- Outputs are delivered to agreed quality, time, and cost expectations.
+- Delivery processes minimise avoidable duplication, delay, rework, and transaction costs.
+- Resources are allocated to the activities, groups, or workstreams most likely to create value.
+- The programme uses evidence to stop, adapt, or scale activities as learning emerges.
+- Coordination with partners improves delivery and avoids waste.
+- Output efficiency is not achieved at the expense of effectiveness or equity.
+
+### Efficiency Rubric Sketch
+
+| Level | Standard |
+|---|---|
+| Poor | Delivery is slow, costly, poorly targeted, or weakly coordinated, with limited evidence that resources are being converted into useful outputs. |
+| Adequate | The programme delivers core outputs, but efficiency is uneven across workstreams or depends too heavily on activity completion rather than quality, targeting, or learning. |
+| Good | The programme delivers useful outputs at reasonable cost and quality, allocates resources sensibly, and adapts delivery when evidence shows better ways to use resources. |
+| Excellent | The programme combines strong technical, allocative, dynamic, and relational efficiency, with clear evidence that learning and coordination improve value over time. |
+
+## Effectiveness Criteria
+
+Effectiveness concerns whether outputs are having the intended effects. It moves the VfM assessment beyond delivery performance to ask whether the programme is creating the intended outcomes.
+
+Effectiveness criteria should be grounded in the theory of change. They should also consider contribution, unintended effects, and whether outcomes are meaningful for the groups and institutions the programme is meant to support.
+
+### Programme-Specific Definition Template
+
+The programme is effective when its outputs make a credible and meaningful contribution to intended outcomes, with evidence that the observed changes are important, contextually plausible, and consistent with the theory of change.
+
+### Potential Subcriteria
+
+- Outputs are of sufficient quality and relevance to plausibly contribute to outcomes.
+- Intended short- and medium-term outcomes are being achieved or are on a credible pathway.
+- Contribution claims are supported by evidence and do not over-claim attribution.
+- Important unintended positive and negative effects are identified and weighed.
+- The programme's effects are meaningful to intended users, recipients, partners, or decision makers.
+- Effectiveness is assessed in ways that recognise context, complexity, and timing.
+
+### Effectiveness Rubric Sketch
+
+| Level | Standard |
+|---|---|
+| Poor | Outputs show little credible contribution to intended outcomes, or important negative effects undermine the programme's value proposition. |
+| Adequate | Some intended outcomes are emerging, but the contribution story is partial, uneven, or dependent on assumptions that need stronger evidence. |
+| Good | The programme shows credible contribution to important intended outcomes, with plausible causal reasoning and attention to unintended effects. |
+| Excellent | The programme demonstrates strong, meaningful, and well-evidenced contribution to intended outcomes, including evidence on quality, significance, and causal pathways. |
+
+## Equity Criteria
+
+Equity concerns the fair distribution of benefits and the extent to which marginalised groups are reached. OPM treats equity as central to development VfM because the purpose of many programmes is to address inequity.
+
+Equity can also create trade-offs. Reaching the most marginalised groups may cost more per participant than reaching easier-to-serve groups. That does not automatically weaken VfM if the programme's value proposition is fundamentally about distributive justice, rights, dignity, or inclusion.
+
+### Programme-Specific Definition Template
+
+The programme is equitable when its design, delivery, and outcomes fairly benefit the groups it is intended to serve, especially marginalised groups, and when resource-use decisions are justified in light of distributional goals.
+
+### Potential Subcriteria
+
+- Target groups and marginalised groups are clearly defined for the programme context.
+- Design choices address barriers to access, participation, and benefit.
+- Delivery reaches marginalised groups without unacceptable exclusion, stigma, or harm.
+- Benefits and costs are distributed fairly across relevant groups and places.
+- Disaggregated evidence is used to understand who benefits, who does not, and why.
+- Higher costs of reaching marginalised groups are explicitly justified against the programme's equity objectives.
+
+### Equity Rubric Sketch
+
+| Level | Standard |
+|---|---|
+| Poor | The programme does not adequately reach or benefit marginalised groups, or it creates avoidable exclusion, stigma, or inequitable distribution of costs and benefits. |
+| Adequate | The programme recognises equity objectives and reaches some target groups, but evidence on access, distribution, or differential outcomes is limited or uneven. |
+| Good | The programme makes clear, evidenced progress on equitable access and benefits, and can justify resource-use choices that support marginalised groups. |
+| Excellent | Equity is embedded in design, delivery, evidence, and judgement, with strong evidence that marginalised groups benefit meaningfully and fairly. |
+
+## Cost-Effectiveness Criteria
+
+Cost-effectiveness asks whether the ultimate value created justifies the resources invested. OPM treats this as a companion criterion to the other Es because it looks across the results chain from inputs to outcomes or impact.
+
+Cost-effectiveness can use economic methods such as cost-effectiveness analysis, cost-benefit analysis, return on investment, and break-even analysis. But it should not be reduced to a single ratio where important value is intangible, uncertain, long-term, or equity-focused.
+
+### Programme-Specific Definition Template
+
+The programme is cost-effective when the value of its outcomes or impacts, including non-monetised and equity-related value, is sufficient to justify the resources used compared with realistic alternatives or expectations.
+
+### Potential Subcriteria
+
+- Outcomes or impacts and associated costs compare reasonably with relevant alternatives or benchmarks.
+- The costs of action are justifiable relative to the costs of doing nothing.
+- The value created to date, or expected future value, plausibly exceeds or justifies resources used.
+- Cost-effectiveness claims account for sustainability, contribution, deadweight, displacement, leakage, substitution, and externalities where relevant.
+- Equity-related value is included in the judgement rather than treated as a secondary consideration.
+
+### Cost-Effectiveness Rubric Sketch
+
+| Level | Standard |
+|---|---|
+| Poor | Costs are high relative to weak or uncertain outcomes, and the value proposition does not justify continued investment without major change. |
+| Adequate | Outcomes provide some justification for costs, but evidence is incomplete, comparator evidence is weak, or future value depends on uncertain assumptions. |
+| Good | Costs are justified by credible evidence of meaningful outcomes, with reasonable comparison to alternatives, expectations, or the cost of inaction. |
+| Excellent | The programme shows strong evidence that value created or credibly expected exceeds resources used, including careful treatment of sustainability, contribution, and equity. |
+
+## Practical Checklist
+
+Use this checklist when applying the OPM approach to a programme:
+
+1. Confirm the programme's theory of change and value proposition.
+2. Identify the main decisions the VfM assessment needs to inform.
+3. Choose criteria that capture the most important dimensions of good resource use.
+4. Write programme-specific definitions for each selected E.
+5. Limit subcriteria to the dimensions that will drive meaningful judgement.
+6. Draft poor, adequate, good, and excellent standards before gathering evidence.
+7. Check whether each standard is specific enough to guide judgement but not so specific that it becomes an indicator list.
+8. Identify evidence only after the rubric is clear.
+9. Use mixed evidence: financial, operational, monitoring, evaluation, qualitative, quantitative, economic, and stakeholder evidence.
+10. Synthesise evidence criterion by criterion before making the overall VfM judgement.
+11. Give greater weight to criteria that matter most for the programme and timing of the assessment.
+12. Report the reasoning clearly, including uncertainty, trade-offs, and opportunities to improve resource use.
+
+## Examples From the Guidance
+
+### MUVA
+
+MUVA, a female economic empowerment learning and influencing programme in Mozambique, illustrates why a simple cost-per-output view can mislead. The programme worked through experiments, learning cycles, and influencing activity, so not all value could be measured through predefined output metrics.
+
+The VfM framework therefore treated efficiency more broadly. It considered technical efficiency, allocative efficiency across a portfolio of interventions, and dynamic efficiency in adapting, responding to feedback, and exiting interventions that were not working. Effectiveness and equity also used qualitative evidence to capture learning, influencing, and empowerment.
+
+### FSD Africa and the FSD Network
+
+The FSD Africa example shows the approach being used to support consistency across a network while preserving flexibility for context. The framework needed to be practical, minimise reporting burden, support accountability and learning, align with theories of change, and inform investment decisions.
+
+OPM's response was to combine explicit criteria and standards with quantitative and qualitative evidence, link the VfM framework to existing results measurement guidance, and build on the Es approach. The point was not to force invalid comparisons across programmes, but to create a common reasoning structure.
+
+### Pakistan Sub-National Governance
+
+The Pakistan Sub-National Governance programme shows how the approach handles complex governance reform. The programme operated across different workstreams in a changing political economy, with no straightforward external benchmarks.
+
+The framework addressed this by co-developing standards with programme teams and DFID before evidence was gathered. It also allowed the assessment to capture emergent opportunities, learning from failure, and adaptive programming rather than judging the programme only against a fixed early workplan.
+
+## Links
+
+See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for HM Treasury's 2026 guidance on value for money evaluation methods, including Four Es and rubric-based approaches.
+
+See also the [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd) note for effectiveness, efficiency, impact, sustainability, relevance, and coherence.
+
+Return to the [notes overview](index.qmd).
+
+## References

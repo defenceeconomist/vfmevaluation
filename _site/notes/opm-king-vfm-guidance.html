@@ -1,0 +1,1249 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="Source note on OPM and Julian King’s approach to assessing value for money.">
+
+<title>OPM King VfM Guidance – Value for Money Evaluation Knowledge Base</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-b337f537912f5ab074b938eebad4c5d7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="../assets/css/site.css">
+<link rel="stylesheet" href="../assets/css/link_network.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Value for Money Evaluation Knowledge Base</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="../notes/index.html" aria-current="page"> 
+<span class="menu-text">Notes</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../notes/opm-king-vfm-guidance.html">OPM King VfM Guidance</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Notes Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/vfm-definitions.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">VfM Definitions</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/green-book-vfm-guidance.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Green Book VfM Guidance</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/nao-vfm-definition.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">NAO VfM Definition</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/opm-king-vfm-guidance.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">OPM King VfM Guidance</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/magenta-book-vfm-evaluation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Magenta Book VfM Evaluation</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/oecd-dac-evaluation-criteria.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">OECD DAC Evaluation Criteria</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#source" id="toc-source" class="nav-link active" data-scroll-target="#source">Source</a></li>
+  <li><a href="#one-page-summary" id="toc-one-page-summary" class="nav-link" data-scroll-target="#one-page-summary">One-Page Summary</a></li>
+  <li><a href="#concept-map" id="toc-concept-map" class="nav-link" data-scroll-target="#concept-map">Concept Map</a></li>
+  <li><a href="#concept-notes" id="toc-concept-notes" class="nav-link" data-scroll-target="#concept-notes">Concept Notes</a>
+  <ul class="collapse">
+  <li><a href="#vfm-as-evaluative-judgement" id="toc-vfm-as-evaluative-judgement" class="nav-link" data-scroll-target="#vfm-as-evaluative-judgement">VfM as Evaluative Judgement</a></li>
+  <li><a href="#opportunity-cost-and-alternatives" id="toc-opportunity-cost-and-alternatives" class="nav-link" data-scroll-target="#opportunity-cost-and-alternatives">Opportunity Cost and Alternatives</a></li>
+  <li><a href="#criteria" id="toc-criteria" class="nav-link" data-scroll-target="#criteria">Criteria</a></li>
+  <li><a href="#standards-and-rubrics" id="toc-standards-and-rubrics" class="nav-link" data-scroll-target="#standards-and-rubrics">Standards and Rubrics</a></li>
+  <li><a href="#mixed-evidence" id="toc-mixed-evidence" class="nav-link" data-scroll-target="#mixed-evidence">Mixed Evidence</a></li>
+  <li><a href="#traceable-synthesis" id="toc-traceable-synthesis" class="nav-link" data-scroll-target="#traceable-synthesis">Traceable Synthesis</a></li>
+  </ul></li>
+  <li><a href="#opm-eight-step-process" id="toc-opm-eight-step-process" class="nav-link" data-scroll-target="#opm-eight-step-process">OPM Eight-Step Process</a></li>
+  <li><a href="#creating-vfm-criteria-and-standards" id="toc-creating-vfm-criteria-and-standards" class="nav-link" data-scroll-target="#creating-vfm-criteria-and-standards">Creating VfM Criteria and Standards</a></li>
+  <li><a href="#criteria-table" id="toc-criteria-table" class="nav-link" data-scroll-target="#criteria-table">Criteria Table</a></li>
+  <li><a href="#economy-criteria" id="toc-economy-criteria" class="nav-link" data-scroll-target="#economy-criteria">Economy Criteria</a>
+  <ul class="collapse">
+  <li><a href="#programme-specific-definition-template" id="toc-programme-specific-definition-template" class="nav-link" data-scroll-target="#programme-specific-definition-template">Programme-Specific Definition Template</a></li>
+  <li><a href="#potential-subcriteria" id="toc-potential-subcriteria" class="nav-link" data-scroll-target="#potential-subcriteria">Potential Subcriteria</a></li>
+  <li><a href="#economy-rubric-sketch" id="toc-economy-rubric-sketch" class="nav-link" data-scroll-target="#economy-rubric-sketch">Economy Rubric Sketch</a></li>
+  </ul></li>
+  <li><a href="#efficiency-criteria" id="toc-efficiency-criteria" class="nav-link" data-scroll-target="#efficiency-criteria">Efficiency Criteria</a>
+  <ul class="collapse">
+  <li><a href="#efficiency-typology" id="toc-efficiency-typology" class="nav-link" data-scroll-target="#efficiency-typology">Efficiency Typology</a></li>
+  <li><a href="#programme-specific-definition-template-1" id="toc-programme-specific-definition-template-1" class="nav-link" data-scroll-target="#programme-specific-definition-template-1">Programme-Specific Definition Template</a></li>
+  <li><a href="#potential-subcriteria-1" id="toc-potential-subcriteria-1" class="nav-link" data-scroll-target="#potential-subcriteria-1">Potential Subcriteria</a></li>
+  <li><a href="#efficiency-rubric-sketch" id="toc-efficiency-rubric-sketch" class="nav-link" data-scroll-target="#efficiency-rubric-sketch">Efficiency Rubric Sketch</a></li>
+  </ul></li>
+  <li><a href="#effectiveness-criteria" id="toc-effectiveness-criteria" class="nav-link" data-scroll-target="#effectiveness-criteria">Effectiveness Criteria</a>
+  <ul class="collapse">
+  <li><a href="#programme-specific-definition-template-2" id="toc-programme-specific-definition-template-2" class="nav-link" data-scroll-target="#programme-specific-definition-template-2">Programme-Specific Definition Template</a></li>
+  <li><a href="#potential-subcriteria-2" id="toc-potential-subcriteria-2" class="nav-link" data-scroll-target="#potential-subcriteria-2">Potential Subcriteria</a></li>
+  <li><a href="#effectiveness-rubric-sketch" id="toc-effectiveness-rubric-sketch" class="nav-link" data-scroll-target="#effectiveness-rubric-sketch">Effectiveness Rubric Sketch</a></li>
+  </ul></li>
+  <li><a href="#equity-criteria" id="toc-equity-criteria" class="nav-link" data-scroll-target="#equity-criteria">Equity Criteria</a>
+  <ul class="collapse">
+  <li><a href="#programme-specific-definition-template-3" id="toc-programme-specific-definition-template-3" class="nav-link" data-scroll-target="#programme-specific-definition-template-3">Programme-Specific Definition Template</a></li>
+  <li><a href="#potential-subcriteria-3" id="toc-potential-subcriteria-3" class="nav-link" data-scroll-target="#potential-subcriteria-3">Potential Subcriteria</a></li>
+  <li><a href="#equity-rubric-sketch" id="toc-equity-rubric-sketch" class="nav-link" data-scroll-target="#equity-rubric-sketch">Equity Rubric Sketch</a></li>
+  </ul></li>
+  <li><a href="#cost-effectiveness-criteria" id="toc-cost-effectiveness-criteria" class="nav-link" data-scroll-target="#cost-effectiveness-criteria">Cost-Effectiveness Criteria</a>
+  <ul class="collapse">
+  <li><a href="#programme-specific-definition-template-4" id="toc-programme-specific-definition-template-4" class="nav-link" data-scroll-target="#programme-specific-definition-template-4">Programme-Specific Definition Template</a></li>
+  <li><a href="#potential-subcriteria-4" id="toc-potential-subcriteria-4" class="nav-link" data-scroll-target="#potential-subcriteria-4">Potential Subcriteria</a></li>
+  <li><a href="#cost-effectiveness-rubric-sketch" id="toc-cost-effectiveness-rubric-sketch" class="nav-link" data-scroll-target="#cost-effectiveness-rubric-sketch">Cost-Effectiveness Rubric Sketch</a></li>
+  </ul></li>
+  <li><a href="#practical-checklist" id="toc-practical-checklist" class="nav-link" data-scroll-target="#practical-checklist">Practical Checklist</a></li>
+  <li><a href="#examples-from-the-guidance" id="toc-examples-from-the-guidance" class="nav-link" data-scroll-target="#examples-from-the-guidance">Examples From the Guidance</a>
+  <ul class="collapse">
+  <li><a href="#muva" id="toc-muva" class="nav-link" data-scroll-target="#muva">MUVA</a></li>
+  <li><a href="#fsd-africa-and-the-fsd-network" id="toc-fsd-africa-and-the-fsd-network" class="nav-link" data-scroll-target="#fsd-africa-and-the-fsd-network">FSD Africa and the FSD Network</a></li>
+  <li><a href="#pakistan-sub-national-governance" id="toc-pakistan-sub-national-governance" class="nav-link" data-scroll-target="#pakistan-sub-national-governance">Pakistan Sub-National Governance</a></li>
+  </ul></li>
+  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">OPM King VfM Guidance</h1>
+</div>
+
+<div>
+  <div class="description">
+    Source note on OPM and Julian King’s approach to assessing value for money.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="source" class="level2">
+<h2 class="anchored" data-anchor-id="source">Source</h2>
+<p>This note summarises the second edition of OPM’s value for money guidance, <em>Assessing Value for Money: The Oxford Policy Management Approach</em> <span class="citation" data-cites="king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm">(<a href="#ref-king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm" role="doc-biblioref">King et al. 2023</a>)</span>. The guide was written by Julian King, Daniel Wate, Esther Namukasa, Alex Hurrell, Frances Hansford, Patrick Ward, and Shiva Faramarzifar.</p>
+<p>The main source is:</p>
+<ul>
+<li><a href="https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf">OPM PDF: Assessing Value for Money: The Oxford Policy Management Approach, second edition</a></li>
+</ul>
+<p>Related earlier source material:</p>
+<ul>
+<li><a href="https://www.opml.co.uk/publications/in-depth-opm-approach-assessing-value-for-money">OPM: In Depth - OPM’s approach to assessing Value for Money</a></li>
+<li><a href="https://www.opml.co.uk/sites/default/files/migrated_bolt_files/bn-assessing-vfm.pdf">OPM briefing PDF: OPM’s approach to assessing Value for Money</a></li>
+<li><a href="https://www.betterevaluation.org/tools-resources/opms-approach-assessing-value-for-money">BetterEvaluation: OPM’s approach to assessing value for money</a></li>
+</ul>
+</section>
+<section id="one-page-summary" class="level2">
+<h2 class="anchored" data-anchor-id="one-page-summary">One-Page Summary</h2>
+<p>OPM defines value for money as <strong>good resource use</strong>. VfM asks how well resources are used and whether that use is justified. The guide is explicit that VfM cannot be measured by a single formula, even though numeric and economic evidence can be important.</p>
+<p>The practical contribution of the approach is a disciplined process for making evaluative judgements. It uses criteria to define the aspects of performance that matter, standards to define different levels of performance, and mixed evidence to support a transparent judgement. This makes VfM a reasoning process: evidence is organised, interpreted against agreed standards, and synthesised into a performance story.</p>
+<p>The guidance uses the FCDO/NAO 5Es as a useful starting point: economy, efficiency, effectiveness, equity, and cost-effectiveness. These are not fixed labels to copy into every framework. Each criterion should be translated into programme-specific definitions and subcriteria. The same word, such as efficiency, can mean different things in a training programme, an adaptive governance programme, a market systems programme, or a humanitarian response.</p>
+<p>The approach is intended to be integrated with monitoring, evaluation, and learning systems. VfM frameworks should use existing evidence where it is relevant, avoid duplicating MEL processes, and support adaptive management. The strongest VfM reports show the chain of reasoning from criteria to standards, evidence, judgement, and recommendations for improving resource use.</p>
+</section>
+<section id="concept-map" class="level2">
+<h2 class="anchored" data-anchor-id="concept-map">Concept Map</h2>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  A[VfM as good resource use] --&gt; B[Transparent evaluative judgement]
+  A --&gt; C[Opportunity cost and alternatives]
+  A --&gt; D[Learning and accountability]
+
+  B --&gt; E[Criteria: what matters]
+  B --&gt; F[Standards: how good is good enough]
+  B --&gt; G[Mixed evidence]
+  B --&gt; H[Performance story]
+
+  E --&gt; I[Economy]
+  E --&gt; J[Efficiency]
+  E --&gt; K[Effectiveness]
+  E --&gt; L[Equity]
+  E --&gt; M[Cost-effectiveness]
+
+  I --&gt; I1[Appropriate quality at the right price]
+  J --&gt; J1[Technical efficiency]
+  J --&gt; J2[Allocative efficiency]
+  J --&gt; J3[Dynamic efficiency]
+  J --&gt; J4[Relational efficiency]
+  K --&gt; K1[Outputs contribute to intended outcomes]
+  L --&gt; L1[Fair distribution and marginalised groups]
+  M --&gt; M1[Value created justifies resources used]
+
+  F --&gt; N[Rubrics: poor / adequate / good / excellent]
+  G --&gt; O[Quantitative evidence]
+  G --&gt; P[Qualitative evidence]
+  G --&gt; Q[Economic analysis]
+  G --&gt; R[MEL and programme evidence]
+  G --&gt; S[Stakeholder perspectives]
+
+  H --&gt; T[Traceable synthesis]
+  T --&gt; U[Judgement by criterion]
+  T --&gt; V[Overall VfM judgement]
+  V --&gt; W[Actions to improve resource use]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="concept-notes" class="level2">
+<h2 class="anchored" data-anchor-id="concept-notes">Concept Notes</h2>
+<section id="vfm-as-evaluative-judgement" class="level3">
+<h3 class="anchored" data-anchor-id="vfm-as-evaluative-judgement">VfM as Evaluative Judgement</h3>
+<p>OPM frames VfM as an evaluative question about resource use. The question is not simply whether outputs were delivered, or whether a cost ratio looks favourable. It is whether the resource use was good enough in context, given the value created, the alternatives available, and the perspectives that matter.</p>
+<p>This is why the guide emphasises explicit evaluative reasoning. The evaluator must explain what counts as good performance before judging the evidence. That reasoning should be open to scrutiny, not hidden behind a dashboard or formula.</p>
+</section>
+<section id="opportunity-cost-and-alternatives" class="level3">
+<h3 class="anchored" data-anchor-id="opportunity-cost-and-alternatives">Opportunity Cost and Alternatives</h3>
+<p>The need for VfM assessment arises because public and donor resources have opportunity costs. Spending on one intervention means giving up other possible uses of the same resources.</p>
+<p>In principle, good resource allocation should compare favourably with the next-best alternative. In practice, OPM recognises that alternatives and benchmarks may be unclear in complex development settings. The response is to define agreed standards for what good performance and good resource use look like in the programme context.</p>
+</section>
+<section id="criteria" class="level3">
+<h3 class="anchored" data-anchor-id="criteria">Criteria</h3>
+<p>Criteria are selected dimensions of programme performance that matter for good resource use. OPM discusses the 5Es: economy, efficiency, effectiveness, equity, and cost-effectiveness.</p>
+<p>The criteria should not be treated as a generic checklist. They need to be chosen and shaped around the intervention, decision context, stakeholders, timing, and intended use of the assessment.</p>
+</section>
+<section id="standards-and-rubrics" class="level3">
+<h3 class="anchored" data-anchor-id="standards-and-rubrics">Standards and Rubrics</h3>
+<p>Standards define levels of performance for each criterion. OPM commonly uses rubric levels such as poor, adequate, good, and excellent.</p>
+<p>The timing matters. Criteria and standards should be agreed before the evidence is gathered and interpreted. This gives the judgement a transparent basis and reduces the risk that evaluators retrofit the standard to the result.</p>
+</section>
+<section id="mixed-evidence" class="level3">
+<h3 class="anchored" data-anchor-id="mixed-evidence">Mixed Evidence</h3>
+<p>The OPM approach uses evidence from multiple sources: programme finance, operations, monitoring data, evaluation findings, qualitative inquiry, quantitative indicators, stakeholder perspectives, and economic analysis where feasible.</p>
+<p>Economic methods can provide strong evidence, but they do not replace evaluative judgement. VfM assessment often needs to account for value that is hard to monetise, including quality, equity, sustainability, institutional change, learning, and dignity.</p>
+</section>
+<section id="traceable-synthesis" class="level3">
+<h3 class="anchored" data-anchor-id="traceable-synthesis">Traceable Synthesis</h3>
+<p>The final VfM judgement should be traceable. Readers should be able to follow the path from criteria, to programme-specific definitions, to standards, to evidence, to ratings, to the overall conclusion.</p>
+<p>Traceability is what makes the judgement useful for accountability and learning. It also helps identify concrete opportunities to improve resource use.</p>
+</section>
+</section>
+<section id="opm-eight-step-process" class="level2">
+<h2 class="anchored" data-anchor-id="opm-eight-step-process">OPM Eight-Step Process</h2>
+<p>OPM presents VfM assessment as an eight-step process:</p>
+<ol type="1">
+<li>Understand the programme, including its theory of change and value proposition.</li>
+<li>Develop VfM criteria.</li>
+<li>Develop VfM standards.</li>
+<li>Identify evidence requirements and select methods.</li>
+<li>Gather evidence.</li>
+<li>Analyse the evidence.</li>
+<li>Synthesise findings and make judgements.</li>
+<li>Report the judgement and opportunities for improvement.</li>
+</ol>
+<p>Steps 1 to 4 design the VfM framework. Steps 5 to 8 apply it through evidence collection, analysis, synthesis, and reporting.</p>
+</section>
+<section id="creating-vfm-criteria-and-standards" class="level2">
+<h2 class="anchored" data-anchor-id="creating-vfm-criteria-and-standards">Creating VfM Criteria and Standards</h2>
+<p>Criteria development is the centre of the OPM approach. The aim is to define what good resource use means for the specific programme, not to copy generic definitions from another framework.</p>
+<p>The practical sequence is:</p>
+<ol type="1">
+<li><strong>Understand the value proposition.</strong> Clarify what the programme is trying to create, for whom, through what causal pathway, and with what resources.</li>
+<li><strong>Select the relevant criteria.</strong> Start with the 5Es, but include only the criteria that support useful judgement and decision making.</li>
+<li><strong>Write programme-specific definitions.</strong> Translate each E into the programme context.</li>
+<li><strong>Identify subcriteria.</strong> Choose the small number of dimensions that would represent most of the important performance story.</li>
+<li><strong>Define standards.</strong> Describe poor, adequate, good, and excellent performance before interpreting evidence.</li>
+<li><strong>Then identify evidence.</strong> OPM advises suspending measurement discussions until the criteria and standards are clear.</li>
+</ol>
+<p>Useful prompts for drafting criteria:</p>
+<ul>
+<li>What would make this programme’s resource use clearly good?</li>
+<li>What would make it unacceptable, even if some indicators looked positive?</li>
+<li>Which stakeholders need to recognise the judgement as valid?</li>
+<li>What trade-offs are likely between cost, quality, equity, and learning?</li>
+<li>What would be different at early, mid-point, and late stages of implementation?</li>
+</ul>
+</section>
+<section id="criteria-table" class="level2">
+<h2 class="anchored" data-anchor-id="criteria-table">Criteria Table</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Core question</th>
+<th>Criteria-development focus</th>
+<th>Common evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Economy</td>
+<td>Are inputs bought at the right price and quality?</td>
+<td>Procurement, input quality, cost drivers, probity, stewardship.</td>
+<td>Budgets, procurement records, unit costs, audit findings, market comparisons.</td>
+</tr>
+<tr class="even">
+<td>Efficiency</td>
+<td>How well are inputs converted into outputs?</td>
+<td>Technical, allocative, dynamic, and relational efficiency.</td>
+<td>Output data, spend data, delivery timelines, portfolio decisions, adaptation logs, partner evidence.</td>
+</tr>
+<tr class="odd">
+<td>Effectiveness</td>
+<td>Are outputs contributing to intended outcomes?</td>
+<td>Contribution to outcomes, quality, causality, unintended effects.</td>
+<td>Outcome indicators, evaluation findings, contribution analysis, qualitative evidence.</td>
+</tr>
+<tr class="even">
+<td>Equity</td>
+<td>Are benefits fairly distributed and are marginalised groups reached?</td>
+<td>Access, distribution, inclusion, dignity, differential outcomes.</td>
+<td>Disaggregated data, beneficiary research, GESI analysis, distributional analysis.</td>
+</tr>
+<tr class="odd">
+<td>Cost-effectiveness</td>
+<td>Does the value created justify the resources used?</td>
+<td>Costs relative to outcomes, impacts, alternatives, and equity goals.</td>
+<td>CEA, CBA, ROI, break-even analysis, comparator evidence, qualitative value judgement.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="economy-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="economy-criteria">Economy Criteria</h2>
+<p>Economy concerns the conversion of resources into the inputs needed to deliver the intervention. The basic question is whether the programme buys inputs of appropriate quality at the right price.</p>
+<p>OPM is clear that economy is not the same as buying the cheapest option. A low-cost input can damage VfM if it reduces quality, excludes capable suppliers, weakens delivery, creates environmental harm, or increases downstream costs.</p>
+<section id="programme-specific-definition-template" class="level3">
+<h3 class="anchored" data-anchor-id="programme-specific-definition-template">Programme-Specific Definition Template</h3>
+<p>The programme is economical when it acts as a good steward of resources, procuring and managing inputs of appropriate quality at reasonable cost while protecting probity, delivery quality, and the wider value proposition.</p>
+</section>
+<section id="potential-subcriteria" class="level3">
+<h3 class="anchored" data-anchor-id="potential-subcriteria">Potential Subcriteria</h3>
+<ul>
+<li>Inputs are procured at reasonable prices relative to market conditions and required quality.</li>
+<li>Procurement is competitive, proportionate, timely, and transparent where feasible.</li>
+<li>Major cost drivers are understood, actively managed, and reviewed.</li>
+<li>Financial management and probity arrangements reduce leakage, waste, and fiduciary risk.</li>
+<li>The programme seeks economies of scale or scope where these do not weaken quality or equity.</li>
+<li>The programme considers wider stewardship issues, such as carbon costs, local supplier development, equitable pay, and responsible sourcing.</li>
+</ul>
+</section>
+<section id="economy-rubric-sketch" class="level3">
+<h3 class="anchored" data-anchor-id="economy-rubric-sketch">Economy Rubric Sketch</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Level</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Poor</td>
+<td>Input choices are mainly cost-driven or poorly controlled, with weak procurement, avoidable waste, or material fiduciary risk.</td>
+</tr>
+<tr class="even">
+<td>Adequate</td>
+<td>Inputs are generally appropriate and major costs are controlled, but some cost drivers, procurement choices, or stewardship risks are weakly managed.</td>
+</tr>
+<tr class="odd">
+<td>Good</td>
+<td>The programme buys inputs of suitable quality at reasonable prices, manages major cost drivers, and can explain significant procurement choices.</td>
+</tr>
+<tr class="even">
+<td>Excellent</td>
+<td>The programme demonstrates strong stewardship of financial, human, political, and environmental resources, using procurement and cost management to protect and strengthen the value proposition.</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="efficiency-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="efficiency-criteria">Efficiency Criteria</h2>
+<p>Efficiency concerns how well inputs are converted into outputs. FCDO’s definition aligns most closely with <strong>technical efficiency</strong>, but OPM notes that other forms of efficiency may be needed, especially for complex, adaptive, or portfolio-based programmes.</p>
+<p>Efficiency criteria should therefore avoid over-reliance on simple cost-per-output metrics. Those metrics can be useful, but they may mislead where the quality of outputs, the choice of outputs, learning, relationships, or adaptation are central to value.</p>
+<section id="efficiency-typology" class="level3">
+<h3 class="anchored" data-anchor-id="efficiency-typology">Efficiency Typology</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Main question</th>
+<th>When it matters</th>
+<th>Possible subcriteria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Technical efficiency</td>
+<td>Are planned outputs delivered to the required quality within reasonable time and cost?</td>
+<td>Service delivery, training, infrastructure, grants, procurement-heavy programmes.</td>
+<td>Unit costs, timeliness, output quality, budget adherence, process productivity.</td>
+</tr>
+<tr class="even">
+<td>Allocative efficiency</td>
+<td>Are resources allocated to the right activities, outputs, geographies, groups, or partners?</td>
+<td>Portfolios, adaptive programmes, programmes with competing delivery routes.</td>
+<td>Portfolio balance, targeting, prioritisation, stopping low-value work, shifting resources to higher-value opportunities.</td>
+</tr>
+<tr class="odd">
+<td>Dynamic efficiency</td>
+<td>Does the programme learn and adapt to improve resource use over time?</td>
+<td>Innovation, governance, market systems, influencing, systems change.</td>
+<td>Feedback loops, experimentation, learning from failure, timely adaptation, improved productivity over time.</td>
+</tr>
+<tr class="even">
+<td>Relational efficiency</td>
+<td>Do relationships and coordination reduce waste and improve delivery?</td>
+<td>Multi-stakeholder programmes, technical assistance, politically informed work, networked delivery.</td>
+<td>Trust, coordination, partner alignment, reduced duplication, useful communication, lower transaction costs.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="programme-specific-definition-template-1" class="level3">
+<h3 class="anchored" data-anchor-id="programme-specific-definition-template-1">Programme-Specific Definition Template</h3>
+<p>The programme is efficient when it converts resources into high-quality outputs through delivery choices, portfolio decisions, adaptation, and relationships that make the best practical use of available resources.</p>
+</section>
+<section id="potential-subcriteria-1" class="level3">
+<h3 class="anchored" data-anchor-id="potential-subcriteria-1">Potential Subcriteria</h3>
+<ul>
+<li>Outputs are delivered to agreed quality, time, and cost expectations.</li>
+<li>Delivery processes minimise avoidable duplication, delay, rework, and transaction costs.</li>
+<li>Resources are allocated to the activities, groups, or workstreams most likely to create value.</li>
+<li>The programme uses evidence to stop, adapt, or scale activities as learning emerges.</li>
+<li>Coordination with partners improves delivery and avoids waste.</li>
+<li>Output efficiency is not achieved at the expense of effectiveness or equity.</li>
+</ul>
+</section>
+<section id="efficiency-rubric-sketch" class="level3">
+<h3 class="anchored" data-anchor-id="efficiency-rubric-sketch">Efficiency Rubric Sketch</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Level</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Poor</td>
+<td>Delivery is slow, costly, poorly targeted, or weakly coordinated, with limited evidence that resources are being converted into useful outputs.</td>
+</tr>
+<tr class="even">
+<td>Adequate</td>
+<td>The programme delivers core outputs, but efficiency is uneven across workstreams or depends too heavily on activity completion rather than quality, targeting, or learning.</td>
+</tr>
+<tr class="odd">
+<td>Good</td>
+<td>The programme delivers useful outputs at reasonable cost and quality, allocates resources sensibly, and adapts delivery when evidence shows better ways to use resources.</td>
+</tr>
+<tr class="even">
+<td>Excellent</td>
+<td>The programme combines strong technical, allocative, dynamic, and relational efficiency, with clear evidence that learning and coordination improve value over time.</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="effectiveness-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="effectiveness-criteria">Effectiveness Criteria</h2>
+<p>Effectiveness concerns whether outputs are having the intended effects. It moves the VfM assessment beyond delivery performance to ask whether the programme is creating the intended outcomes.</p>
+<p>Effectiveness criteria should be grounded in the theory of change. They should also consider contribution, unintended effects, and whether outcomes are meaningful for the groups and institutions the programme is meant to support.</p>
+<section id="programme-specific-definition-template-2" class="level3">
+<h3 class="anchored" data-anchor-id="programme-specific-definition-template-2">Programme-Specific Definition Template</h3>
+<p>The programme is effective when its outputs make a credible and meaningful contribution to intended outcomes, with evidence that the observed changes are important, contextually plausible, and consistent with the theory of change.</p>
+</section>
+<section id="potential-subcriteria-2" class="level3">
+<h3 class="anchored" data-anchor-id="potential-subcriteria-2">Potential Subcriteria</h3>
+<ul>
+<li>Outputs are of sufficient quality and relevance to plausibly contribute to outcomes.</li>
+<li>Intended short- and medium-term outcomes are being achieved or are on a credible pathway.</li>
+<li>Contribution claims are supported by evidence and do not over-claim attribution.</li>
+<li>Important unintended positive and negative effects are identified and weighed.</li>
+<li>The programme’s effects are meaningful to intended users, recipients, partners, or decision makers.</li>
+<li>Effectiveness is assessed in ways that recognise context, complexity, and timing.</li>
+</ul>
+</section>
+<section id="effectiveness-rubric-sketch" class="level3">
+<h3 class="anchored" data-anchor-id="effectiveness-rubric-sketch">Effectiveness Rubric Sketch</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Level</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Poor</td>
+<td>Outputs show little credible contribution to intended outcomes, or important negative effects undermine the programme’s value proposition.</td>
+</tr>
+<tr class="even">
+<td>Adequate</td>
+<td>Some intended outcomes are emerging, but the contribution story is partial, uneven, or dependent on assumptions that need stronger evidence.</td>
+</tr>
+<tr class="odd">
+<td>Good</td>
+<td>The programme shows credible contribution to important intended outcomes, with plausible causal reasoning and attention to unintended effects.</td>
+</tr>
+<tr class="even">
+<td>Excellent</td>
+<td>The programme demonstrates strong, meaningful, and well-evidenced contribution to intended outcomes, including evidence on quality, significance, and causal pathways.</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="equity-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="equity-criteria">Equity Criteria</h2>
+<p>Equity concerns the fair distribution of benefits and the extent to which marginalised groups are reached. OPM treats equity as central to development VfM because the purpose of many programmes is to address inequity.</p>
+<p>Equity can also create trade-offs. Reaching the most marginalised groups may cost more per participant than reaching easier-to-serve groups. That does not automatically weaken VfM if the programme’s value proposition is fundamentally about distributive justice, rights, dignity, or inclusion.</p>
+<section id="programme-specific-definition-template-3" class="level3">
+<h3 class="anchored" data-anchor-id="programme-specific-definition-template-3">Programme-Specific Definition Template</h3>
+<p>The programme is equitable when its design, delivery, and outcomes fairly benefit the groups it is intended to serve, especially marginalised groups, and when resource-use decisions are justified in light of distributional goals.</p>
+</section>
+<section id="potential-subcriteria-3" class="level3">
+<h3 class="anchored" data-anchor-id="potential-subcriteria-3">Potential Subcriteria</h3>
+<ul>
+<li>Target groups and marginalised groups are clearly defined for the programme context.</li>
+<li>Design choices address barriers to access, participation, and benefit.</li>
+<li>Delivery reaches marginalised groups without unacceptable exclusion, stigma, or harm.</li>
+<li>Benefits and costs are distributed fairly across relevant groups and places.</li>
+<li>Disaggregated evidence is used to understand who benefits, who does not, and why.</li>
+<li>Higher costs of reaching marginalised groups are explicitly justified against the programme’s equity objectives.</li>
+</ul>
+</section>
+<section id="equity-rubric-sketch" class="level3">
+<h3 class="anchored" data-anchor-id="equity-rubric-sketch">Equity Rubric Sketch</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Level</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Poor</td>
+<td>The programme does not adequately reach or benefit marginalised groups, or it creates avoidable exclusion, stigma, or inequitable distribution of costs and benefits.</td>
+</tr>
+<tr class="even">
+<td>Adequate</td>
+<td>The programme recognises equity objectives and reaches some target groups, but evidence on access, distribution, or differential outcomes is limited or uneven.</td>
+</tr>
+<tr class="odd">
+<td>Good</td>
+<td>The programme makes clear, evidenced progress on equitable access and benefits, and can justify resource-use choices that support marginalised groups.</td>
+</tr>
+<tr class="even">
+<td>Excellent</td>
+<td>Equity is embedded in design, delivery, evidence, and judgement, with strong evidence that marginalised groups benefit meaningfully and fairly.</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="cost-effectiveness-criteria" class="level2">
+<h2 class="anchored" data-anchor-id="cost-effectiveness-criteria">Cost-Effectiveness Criteria</h2>
+<p>Cost-effectiveness asks whether the ultimate value created justifies the resources invested. OPM treats this as a companion criterion to the other Es because it looks across the results chain from inputs to outcomes or impact.</p>
+<p>Cost-effectiveness can use economic methods such as cost-effectiveness analysis, cost-benefit analysis, return on investment, and break-even analysis. But it should not be reduced to a single ratio where important value is intangible, uncertain, long-term, or equity-focused.</p>
+<section id="programme-specific-definition-template-4" class="level3">
+<h3 class="anchored" data-anchor-id="programme-specific-definition-template-4">Programme-Specific Definition Template</h3>
+<p>The programme is cost-effective when the value of its outcomes or impacts, including non-monetised and equity-related value, is sufficient to justify the resources used compared with realistic alternatives or expectations.</p>
+</section>
+<section id="potential-subcriteria-4" class="level3">
+<h3 class="anchored" data-anchor-id="potential-subcriteria-4">Potential Subcriteria</h3>
+<ul>
+<li>Outcomes or impacts and associated costs compare reasonably with relevant alternatives or benchmarks.</li>
+<li>The costs of action are justifiable relative to the costs of doing nothing.</li>
+<li>The value created to date, or expected future value, plausibly exceeds or justifies resources used.</li>
+<li>Cost-effectiveness claims account for sustainability, contribution, deadweight, displacement, leakage, substitution, and externalities where relevant.</li>
+<li>Equity-related value is included in the judgement rather than treated as a secondary consideration.</li>
+</ul>
+</section>
+<section id="cost-effectiveness-rubric-sketch" class="level3">
+<h3 class="anchored" data-anchor-id="cost-effectiveness-rubric-sketch">Cost-Effectiveness Rubric Sketch</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Level</th>
+<th>Standard</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Poor</td>
+<td>Costs are high relative to weak or uncertain outcomes, and the value proposition does not justify continued investment without major change.</td>
+</tr>
+<tr class="even">
+<td>Adequate</td>
+<td>Outcomes provide some justification for costs, but evidence is incomplete, comparator evidence is weak, or future value depends on uncertain assumptions.</td>
+</tr>
+<tr class="odd">
+<td>Good</td>
+<td>Costs are justified by credible evidence of meaningful outcomes, with reasonable comparison to alternatives, expectations, or the cost of inaction.</td>
+</tr>
+<tr class="even">
+<td>Excellent</td>
+<td>The programme shows strong evidence that value created or credibly expected exceeds resources used, including careful treatment of sustainability, contribution, and equity.</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="practical-checklist" class="level2">
+<h2 class="anchored" data-anchor-id="practical-checklist">Practical Checklist</h2>
+<p>Use this checklist when applying the OPM approach to a programme:</p>
+<ol type="1">
+<li>Confirm the programme’s theory of change and value proposition.</li>
+<li>Identify the main decisions the VfM assessment needs to inform.</li>
+<li>Choose criteria that capture the most important dimensions of good resource use.</li>
+<li>Write programme-specific definitions for each selected E.</li>
+<li>Limit subcriteria to the dimensions that will drive meaningful judgement.</li>
+<li>Draft poor, adequate, good, and excellent standards before gathering evidence.</li>
+<li>Check whether each standard is specific enough to guide judgement but not so specific that it becomes an indicator list.</li>
+<li>Identify evidence only after the rubric is clear.</li>
+<li>Use mixed evidence: financial, operational, monitoring, evaluation, qualitative, quantitative, economic, and stakeholder evidence.</li>
+<li>Synthesise evidence criterion by criterion before making the overall VfM judgement.</li>
+<li>Give greater weight to criteria that matter most for the programme and timing of the assessment.</li>
+<li>Report the reasoning clearly, including uncertainty, trade-offs, and opportunities to improve resource use.</li>
+</ol>
+</section>
+<section id="examples-from-the-guidance" class="level2">
+<h2 class="anchored" data-anchor-id="examples-from-the-guidance">Examples From the Guidance</h2>
+<section id="muva" class="level3">
+<h3 class="anchored" data-anchor-id="muva">MUVA</h3>
+<p>MUVA, a female economic empowerment learning and influencing programme in Mozambique, illustrates why a simple cost-per-output view can mislead. The programme worked through experiments, learning cycles, and influencing activity, so not all value could be measured through predefined output metrics.</p>
+<p>The VfM framework therefore treated efficiency more broadly. It considered technical efficiency, allocative efficiency across a portfolio of interventions, and dynamic efficiency in adapting, responding to feedback, and exiting interventions that were not working. Effectiveness and equity also used qualitative evidence to capture learning, influencing, and empowerment.</p>
+</section>
+<section id="fsd-africa-and-the-fsd-network" class="level3">
+<h3 class="anchored" data-anchor-id="fsd-africa-and-the-fsd-network">FSD Africa and the FSD Network</h3>
+<p>The FSD Africa example shows the approach being used to support consistency across a network while preserving flexibility for context. The framework needed to be practical, minimise reporting burden, support accountability and learning, align with theories of change, and inform investment decisions.</p>
+<p>OPM’s response was to combine explicit criteria and standards with quantitative and qualitative evidence, link the VfM framework to existing results measurement guidance, and build on the Es approach. The point was not to force invalid comparisons across programmes, but to create a common reasoning structure.</p>
+</section>
+<section id="pakistan-sub-national-governance" class="level3">
+<h3 class="anchored" data-anchor-id="pakistan-sub-national-governance">Pakistan Sub-National Governance</h3>
+<p>The Pakistan Sub-National Governance programme shows how the approach handles complex governance reform. The programme operated across different workstreams in a changing political economy, with no straightforward external benchmarks.</p>
+<p>The framework addressed this by co-developing standards with programme teams and DFID before evidence was gathered. It also allowed the assessment to capture emergent opportunities, learning from failure, and adaptive programming rather than judging the programme only against a fixed early workplan.</p>
+</section>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>See also the <a href="../notes/magenta-book-vfm-evaluation.html">Magenta Book VfM Evaluation</a> note for HM Treasury’s 2026 guidance on value for money evaluation methods, including Four Es and rubric-based approaches.</p>
+<p>See also the <a href="../notes/oecd-dac-evaluation-criteria.html">OECD DAC Evaluation Criteria</a> note for effectiveness, efficiency, impact, sustainability, relevance, and coherence.</p>
+<p>Return to the <a href="../notes/index.html">notes overview</a>.</p>
+</section>
+<section id="references" class="level2">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm" class="csl-entry" role="listitem">
+King, Julian, Daniel Wate, Esther Namukasa, Alex Hurrell, Frances Hansford, Patrick Ward, and Shiva Faramarzifar. 2023. <em>Assessing Value for Money: The Oxford Policy Management Approach</em>. Second. Oxford Policy Management. <a href="https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf">https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf</a>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

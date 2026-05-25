@@ -1,0 +1,83 @@
+---
+title: "VfM Definitions"
+description: "Synthesis note comparing authoritative definitions of value for money."
+---
+
+## Source
+
+This note compares definitions of value for money from UK government appraisal guidance, the National Audit Office, and the OECD DAC evaluation criteria [@hm_treasury_2026_green_book; @hm_treasury_2022_green_book_vfm; @nao_about_us_vfm; @nao_2013_vfm_diagram; @oecd_2019_better_criteria; @oecd_2021_applying_criteria].
+
+The related source pages are:
+
+- [HM Treasury: The Green Book (2026)](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026)
+- [HM Treasury: Green Book Supplementary Guidance: Value for Money](https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money)
+- [National Audit Office: About us](https://www.nao.org.uk/about-us/)
+- [National Audit Office: VFM diagram](https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf)
+- [OECD: Evaluation Criteria](https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html)
+- [OECD: Applying Evaluation Criteria Thoughtfully](https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en)
+
+## Core Idea
+
+Authoritative definitions agree that value for money is a judgement about resources and results, not a single financial metric. The sources differ in emphasis:
+
+- HM Treasury frames VfM as a balanced appraisal judgement about public resources, objectives, social value, monetisable and unmonetisable effects, distribution, and risk.
+- The NAO frames VfM as the optimal use of resources through economy, efficiency, and effectiveness to achieve intended outcomes.
+- The OECD DAC criteria frame evaluation as a judgement of merit or worth, with efficiency asking whether resources are justified by results.
+
+Together, these definitions support a broad but disciplined view of VfM. A credible VfM note should explain what objectives matter, what resources were used, what results were achieved, what effects were not monetised, and how trade-offs were judged.
+
+## Comparison of Definitions
+
+| Source | Short definition | Main emphasis | Practical implication |
+|---|---|---|---|
+| Green Book | "balanced judgement about the optimal use of public resources" | Social value, objectives, monetised and unmonetised effects, distribution, risk | Do not rank options by benefit-cost ratio alone. Show the full judgement. |
+| Green Book supplementary guidance | "finding the best way to use public resources" | Applying the Green Book method and five case model | Tie VfM to objectives, strategic fit, economic appraisal, and decision advice. |
+| NAO | "optimal use of resources" to achieve intended outcomes | Economy, efficiency, effectiveness | Test whether spending was used well in delivering policy objectives. |
+| OECD DAC | Criteria are "not a methodology or approach" | Evaluation questions and lenses for judging interventions | Use criteria thoughtfully; do not treat them as a mechanical checklist. |
+
+## What the Definitions Share
+
+All three institutional framings require explicit objectives. An option or intervention cannot be good value if it does not achieve the purpose it was meant to serve.
+
+They also require more than cost minimisation. The NAO's economy criterion asks whether inputs were obtained at the right cost and quality, but its definition also includes efficiency and effectiveness. HM Treasury is even more explicit that monetisable costs and benefits are only part of the judgement. OECD similarly treats efficiency as one lens among relevance, coherence, effectiveness, impact, and sustainability.
+
+The common pattern is:
+
+1. Define the objectives and decision context.
+2. Identify the resources used or proposed.
+3. Assess results, benefits, costs, quality, risk, and distribution.
+4. Explain the judgement, including trade-offs and uncertainty.
+
+## Differences in Emphasis
+
+The Green Book is strongest for appraisal. It is designed to help decision makers choose between options before implementation, using social cost-benefit analysis or social cost-effectiveness analysis where appropriate.
+
+The NAO definition is strongest for public audit. It looks at whether government has used money well in delivering policy objectives, while not questioning the policy objectives themselves.
+
+The OECD DAC criteria are strongest for evaluation design and synthesis. They broaden the judgement beyond resource conversion alone, especially where relevance, coherence, impact, sustainability, or equity concerns affect whether an intervention is worth continuing or scaling.
+
+## Practical Implications
+
+For value for money evaluation, these definitions imply that the evaluator should:
+
+1. State the VfM definition being used.
+2. Link the definition to the decision or accountability question.
+3. Avoid treating a benefit-cost ratio as the whole VfM answer.
+4. Include non-monetised benefits, costs, risks, and distributional effects where they matter.
+5. Use criteria or rubrics to make the final judgement traceable.
+
+The most useful definition is therefore not just a sentence. It is a working framework for deciding what evidence must be collected and how mixed evidence will be interpreted.
+
+## Links
+
+See also the [Green Book VfM Guidance](green-book-vfm-guidance.qmd) note for the UK appraisal definition.
+
+See also the [NAO VfM Definition](nao-vfm-definition.qmd) note for the public audit definition.
+
+See also the [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd) note for the criteria-based evaluation framing.
+
+See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for UK government evaluation guidance.
+
+Return to the [notes overview](index.qmd).
+
+## References

@@ -1,0 +1,66 @@
+---
+title: "Green Book VfM Guidance"
+description: "Source note on HM Treasury's Green Book definition of value for money."
+---
+
+## Source
+
+This note summarises HM Treasury's Green Book definition of value for money, using the 2026 Green Book and the 2022 Green Book supplementary guidance on value for money [@hm_treasury_2026_green_book; @hm_treasury_2022_green_book_vfm].
+
+The related source pages are:
+
+- [HM Treasury: The Green Book (2026)](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026)
+- [HM Treasury: Green Book Supplementary Guidance: Value for Money](https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money)
+
+## Core Idea
+
+The Green Book defines value for money as a balanced judgement about "the optimal use of public resources" to achieve a proposal's objectives.
+
+This makes VfM broader than choosing the option with the highest benefit-cost ratio. The preferred option must meet the proposal's objectives and optimise social value within the constraints faced by decision makers.
+
+## Social Value
+
+The Green Book links value for money to social value. Social value includes the benefits, costs, and risks that affect the wellbeing of the UK population, not only direct financial returns to government.
+
+This is why appraisal needs to consider effects on people, places, public bodies, businesses, households, charities, and the environment where those effects are material. Public value and social value are closely related terms in this guidance.
+
+## Factors in the Judgement
+
+The Green Book definition identifies several factors that should inform the VfM judgement:
+
+- Performance against the proposal's objectives and critical success factors.
+- Monetisable social costs and benefits.
+- Unmonetisable social costs and benefits.
+- Public sector financial impact.
+- Distribution of costs and benefits across social groups and places.
+- Risk and uncertainty.
+
+The implication is that a summary metric can inform but not replace judgement. Benefit-cost ratios, net present social value, and other measures must be interpreted alongside unmonetised effects and uncertainty.
+
+## Supplementary Guidance
+
+The Green Book supplementary guidance says VfM is about "finding the best way to use public resources" to deliver policy objectives. It explains the role of the five case model and shows how strategic and economic dimensions interact.
+
+The guidance is especially useful for explaining why the highest benefit-cost ratio is not automatically the best VfM option. Decision advice can justify selecting a different option when objectives, unmonetisable factors, risk, affordability, or strategic fit make that option stronger overall.
+
+## Practical Implications
+
+For evaluators and analysts, the Green Book framing means that a VfM assessment should:
+
+1. Start with clear objectives and critical success factors.
+2. Compare realistic options, including business as usual where relevant.
+3. Present monetised and unmonetised effects together.
+4. Explain risk, uncertainty, and distributional effects.
+5. Show why the preferred option is the balanced judgement, not only the highest ratio.
+
+This definition is particularly useful when linking ex post evaluation back to appraisal. Evaluation can test whether the social value, costs, risks, and distributional assumptions used in a business case held up in practice.
+
+## Links
+
+See also the [VfM Definitions](vfm-definitions.qmd) synthesis note.
+
+See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for how UK evaluation guidance connects VfM evaluation to Green Book appraisal.
+
+Return to the [notes overview](index.qmd).
+
+## References

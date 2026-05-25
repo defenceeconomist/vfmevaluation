@@ -1,0 +1,59 @@
+---
+title: "NAO VfM Definition"
+description: "Source note on the National Audit Office definition of value for money."
+---
+
+## Source
+
+This note summarises the National Audit Office definition of value for money, using the NAO's public description of its work and its VFM diagram [@nao_about_us_vfm; @nao_2013_vfm_diagram].
+
+The related source pages are:
+
+- [National Audit Office: About us](https://www.nao.org.uk/about-us/)
+- [National Audit Office: VFM diagram](https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf)
+
+## Core Idea
+
+The NAO defines good value for money as "the optimal use of resources" to achieve intended outcomes.
+
+This definition is grounded in public audit. The NAO reports to Parliament on whether government is delivering value for money and examines how public money has been spent. Its role is to assess delivery and resource use, not to question the policy objectives set by government.
+
+## The Three Es
+
+The NAO definition is structured around economy, efficiency, and effectiveness:
+
+- Economy concerns the cost and quality of resources used as inputs.
+- Efficiency concerns the relationship between outputs and the resources used to produce them.
+- Effectiveness concerns whether intended and unintended outcomes are achieved.
+
+The VFM diagram links resources, inputs, outputs, and outcomes. It shows that cost-effectiveness and value for money depend on the relationship between resources and outcomes, not only on whether spending was low.
+
+## Public Audit Framing
+
+The NAO framing is practical and accountability-focused. It asks whether public bodies have used resources well in delivering policy objectives, whether services could be improved, and whether recommendations can help government achieve better value.
+
+This makes the definition well suited to reviews of implementation, programme management, service delivery, procurement, and operational performance. It is less focused on selecting between options before implementation than the Green Book, but it is highly relevant to judging actual delivery.
+
+## Practical Implications
+
+For value for money evaluation, the NAO definition implies that the evaluator should:
+
+1. Identify the intended outcomes and the resources used.
+2. Distinguish economy, efficiency, and effectiveness evidence.
+3. Avoid treating savings as VfM unless quality and outcomes are protected.
+4. Explain whether weaknesses are due to objectives, delivery, resources, governance, or external factors.
+5. Make findings useful for accountability and improvement.
+
+A low-cost intervention can still be poor value if it produces weak outcomes. A costly intervention can still represent good value if it delivers important outcomes efficiently and effectively relative to the resources used.
+
+## Links
+
+See also the [VfM Definitions](vfm-definitions.qmd) synthesis note.
+
+See also the [Green Book VfM Guidance](green-book-vfm-guidance.qmd) note for the appraisal definition of VfM.
+
+See also the [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd) note for a broader criteria-based evaluation framework.
+
+Return to the [notes overview](index.qmd).
+
+## References

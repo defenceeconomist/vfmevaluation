@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - notes/index.qmd
+    - notes/**/*.qmd
+  pre-render:
+    - python3 scripts/extract_link_graph.py --output data/notes_link_graph_payload.json --include-prefix notes/
+  resources:
+    - data/notes_link_graph_payload.json
+    - assets/**
+
+website:
+  title: "Value for Money Evaluation Knowledge Base"
+  navbar:
+    left:
+      - href: notes/index.qmd
+        text: Notes
+  sidebar:
+    - id: notes
+      title: "Notes"
+      style: docked
+      search: true
+      contents:
+        - href: notes/index.qmd
+          text: Notes Overview
+        - href: notes/vfm-definitions.qmd
+          text: VfM Definitions
+        - href: notes/green-book-vfm-guidance.qmd
+          text: Green Book VfM Guidance
+        - href: notes/nao-vfm-definition.qmd
+          text: NAO VfM Definition
+        - href: notes/opm-king-vfm-guidance.qmd
+          text: OPM King VfM Guidance
+        - href: notes/magenta-book-vfm-evaluation.qmd
+          text: Magenta Book VfM Evaluation
+        - href: notes/oecd-dac-evaluation-criteria.qmd
+          text: OECD DAC Evaluation Criteria
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - assets/css/site.css
+      - assets/css/link_network.css
+    toc: true
+    toc-depth: 3
+
+bibliography: references.bib
