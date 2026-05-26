@@ -82,6 +82,14 @@ Summarises the OECD DAC evaluation criteria, including relevance, coherence, eff
 ::: {.section-card}
 <span class="page-badge badge-source">Source</span>
 
+### [VfI and OECD DAC Relationship](vfi-oecd-dac-relationship.qmd)
+
+Explains how Julian King's Value for Investment framing can use the OECD DAC criteria as evaluation lenses while adding standards, synthesis, and an explicit resource-use judgement.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
 ### [Defence Logistics Vessel DAC VfM Evaluation](defence-logistics-vessel-dac-vfm-evaluation.qmd)
 
 Summarises an ex-post evaluation of HNoMS Maud, showing how a DAC-inspired framework can assess operational, tactical, and strategic defence project success.

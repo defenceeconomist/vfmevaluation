@@ -29,9 +29,9 @@
       "title": "Applying Evaluation Criteria Thoughtfully",
       "id": "cite:oecd_2021_applying_criteria",
       "kind": "external",
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 0,
-      "degree": 2
+      "degree": 3
     },
     {
       "label": "Assessing Value for Money: The Oxford Polic...",
@@ -51,9 +51,9 @@
       "title": "Better Criteria for Better Evaluation: Revised Evaluation Criteria Definitions and Principles for Use",
       "id": "cite:oecd_2019_better_criteria",
       "kind": "external",
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 0,
-      "degree": 2
+      "degree": 3
     },
     {
       "label": "betterevaluation.org: opms approach...",
@@ -100,18 +100,18 @@
       "url": "https://doi.org/10.1787/15a9c26b-en",
       "id": "https://doi.org/10.1787/15a9c26b-en",
       "kind": "external",
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 0,
-      "degree": 1
+      "degree": 2
     },
     {
       "label": "doi.org: 543e84ed en",
       "url": "https://doi.org/10.1787/543e84ed-en",
       "id": "https://doi.org/10.1787/543e84ed-en",
       "kind": "external",
-      "incoming": 1,
+      "incoming": 2,
       "outgoing": 0,
-      "degree": 1
+      "degree": 2
     },
     {
       "label": "Evaluating Defence Projects - Success May B...",
@@ -255,6 +255,15 @@
       "degree": 1
     },
     {
+      "label": "julianking.co.nz: criteria",
+      "url": "https://www.julianking.co.nz/vfi/criteria/",
+      "id": "https://www.julianking.co.nz/vfi/criteria/",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
       "label": "julianking.co.nz: Verian Group Valu...",
       "url": "https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf",
       "id": "https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf",
@@ -317,9 +326,9 @@
       "url": "https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html",
       "id": "https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html",
       "kind": "external",
-      "incoming": 2,
+      "incoming": 3,
       "outgoing": 0,
-      "degree": 2
+      "degree": 3
     },
     {
       "label": "opml.co.uk: bn assessing vfm.pdf",
@@ -398,6 +407,17 @@
       "citation_key": "department_for_transport_2016_major_bus_schemes_vfm",
       "title": "Value for Money Assessment for Major Bus-Related Schemes",
       "id": "cite:department_for_transport_2016_major_bus_schemes_vfm",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Value for Money Criteria",
+      "url": "https://www.julianking.co.nz/vfi/criteria/",
+      "citation_key": "king_2019_vfm_criteria",
+      "title": "Value for Money Criteria",
+      "id": "cite:king_2019_vfm_criteria",
       "kind": "external",
       "incoming": 1,
       "outgoing": 0,
@@ -518,36 +538,45 @@
       "label": "Notes",
       "kind": "internal",
       "path": "notes/index.qmd",
-      "incoming": 13,
-      "outgoing": 13,
-      "degree": 13
+      "incoming": 14,
+      "outgoing": 14,
+      "degree": 14
     },
     {
       "id": "notes/oecd-dac-evaluation-criteria.qmd",
       "label": "OECD DAC Evaluation Criteria",
       "kind": "internal",
       "path": "notes/oecd-dac-evaluation-criteria.qmd",
-      "incoming": 5,
+      "incoming": 6,
       "outgoing": 9,
-      "degree": 11
+      "degree": 12
     },
     {
       "id": "notes/opm-king-vfm-guidance.qmd",
       "label": "OPM King VfM Guidance",
       "kind": "internal",
       "path": "notes/opm-king-vfm-guidance.qmd",
-      "incoming": 8,
+      "incoming": 9,
       "outgoing": 9,
-      "degree": 13
+      "degree": 14
     },
     {
       "id": "notes/verian-value-for-investment-guidance.qmd",
       "label": "Verian Value for Investment Guidance",
       "kind": "internal",
       "path": "notes/verian-value-for-investment-guidance.qmd",
-      "incoming": 5,
+      "incoming": 6,
       "outgoing": 9,
-      "degree": 9
+      "degree": 10
+    },
+    {
+      "id": "notes/vfi-oecd-dac-relationship.qmd",
+      "label": "VfI and OECD DAC Relationship",
+      "kind": "internal",
+      "path": "notes/vfi-oecd-dac-relationship.qmd",
+      "incoming": 1,
+      "outgoing": 11,
+      "degree": 11
     },
     {
       "id": "notes/vfm-definitions.qmd",
@@ -922,6 +951,11 @@
     },
     {
       "source": "notes/index.qmd",
+      "target": "notes/vfi-oecd-dac-relationship.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
       "target": "notes/vfm-definitions.qmd",
       "kind": "internal"
     },
@@ -1148,6 +1182,61 @@
     {
       "source": "notes/verian-value-for-investment-guidance.qmd",
       "target": "notes/vfm-definitions.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "cite:king_2019_vfm_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "cite:oecd_2019_better_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "cite:oecd_2021_applying_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "https://doi.org/10.1787/15a9c26b-en",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "https://doi.org/10.1787/543e84ed-en",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "https://www.julianking.co.nz/vfi/criteria/",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "notes/oecd-dac-evaluation-criteria.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
       "kind": "internal"
     },
     {

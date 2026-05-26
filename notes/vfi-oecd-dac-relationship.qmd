@@ -1,0 +1,126 @@
+---
+title: "VfI and OECD DAC Relationship"
+description: "Synthesis note on how Value for Investment relates to the OECD DAC evaluation criteria."
+---
+
+## Source
+
+This note uses Julian King's 2019 blog post on value for money criteria as the primary source [@king_2019_vfm_criteria]. It reads that post alongside the OECD DAC evaluation criteria and existing notes on [Value for Investment](verian-value-for-investment-guidance.qmd), [OPM King VfM Guidance](opm-king-vfm-guidance.qmd), and [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd).
+
+The main source pages are:
+
+- [Julian King & Associates: Value for Money criteria](https://www.julianking.co.nz/vfi/criteria/)
+- [OECD: Evaluation Criteria](https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html)
+- [OECD: Better Criteria for Better Evaluation](https://doi.org/10.1787/15a9c26b-en)
+- [OECD: Applying Evaluation Criteria Thoughtfully](https://doi.org/10.1787/543e84ed-en)
+
+## Core Argument
+
+Value for Investment and the OECD DAC criteria are complementary. The DAC criteria provide broad evaluative lenses for judging an intervention's merit or worth. VfI provides a practical reasoning system for judging whether the resources invested are justified by the value created.
+
+Put simply: the DAC criteria help structure what should be examined; VfI helps make and explain the judgement about whether the intervention was a good use of resources.
+
+This means VfI should not be treated as a replacement for the DAC criteria. It can use DAC criteria as part of the value framework, then add explicit standards, evidence requirements, synthesis, and judgement about trade-offs.
+
+## King's VfI Framing
+
+King frames value for money as an evaluative question about how well resources are used and whether that resource use is justified [@king_2019_vfm_criteria]. That question needs evaluative reasoning: a transparent and logical way of moving from evidence to judgement.
+
+In King's account, criteria and standards do practical work. Criteria define the aspects of value for money that matter. Standards define the levels of performance needed for the resource use to count as poor, adequate, good, or excellent. Together, they help identify evidence needs, organise analysis, interpret results, make robust judgements, and tell a clear performance story.
+
+King also argues that criteria should be determined by values and context. The familiar Five Es used in development programmes - economy, efficiency, effectiveness, cost-effectiveness, and equity - are a useful starting point, but not the final word. Other criteria may matter, including sustainability, ethical resource use, cultural fit, risk, affordability, relational efficiency, dignity, fairness, and learning.
+
+## OECD DAC Framing
+
+The OECD DAC criteria are relevance, coherence, effectiveness, efficiency, impact, and sustainability [@oecd_2019_better_criteria; @oecd_2021_applying_criteria]. The OECD describes them as a normative framework for judging the merit or worth of an intervention.
+
+The criteria are not a methodology. They define questions to be answered about an intervention and should be applied thoughtfully, in light of the evaluation purpose, stakeholders, intervention, and context. The six criteria work as complementary lenses:
+
+- Relevance asks whether the intervention is doing the right things.
+- Coherence asks how well the intervention fits with other policies, interventions, actors, and systems.
+- Effectiveness asks whether the intervention is achieving its objectives.
+- Efficiency asks how well resources are being used.
+- Impact asks what difference the intervention makes.
+- Sustainability asks whether benefits are likely to last.
+
+## Where They Overlap
+
+The clearest overlap is efficiency, because both VfI and DAC evaluation are concerned with resource use. But VfI is broader than efficiency. King's framing asks three linked questions: what was invested, what resulted, and whether it was worth it.
+
+Those three questions cut across the DAC criteria:
+
+| VfI question | Related DAC criteria | How the relationship works |
+|---|---|---|
+| What did we put in? | Relevance, coherence, efficiency | The evaluation examines whether resources, design, partnerships, timing, and delivery arrangements were appropriate for the need and context. |
+| What did we get out? | Effectiveness, impact, sustainability | The evaluation examines outputs, outcomes, wider effects, durability of benefits, and differential results across groups. |
+| Was it worth it? | All six criteria | The evaluation synthesises evidence about need, fit, results, resource use, wider effects, and durability into a justified value judgement. |
+
+This is why DAC criteria can support VfI, but cannot by themselves complete a VfI assessment. They organise inquiry, but the evaluator still needs to define standards and explain how mixed evidence is weighed.
+
+## How VfI Extends DAC-Based Evaluation
+
+VfI adds four disciplines that are often implicit in DAC-based evaluations.
+
+First, VfI makes the overall resource-use question explicit. A DAC evaluation can answer separate questions about relevance, effectiveness, efficiency, impact, and sustainability without clearly stating whether the investment was justified overall. VfI requires the overall judgement to be made and explained.
+
+Second, VfI requires standards. DAC criteria name dimensions of merit, but they do not automatically say what level of performance is good enough. VfI asks what counts as adequate, good, or excellent value for the scale, risk, ambition, and opportunity cost of the investment.
+
+Third, VfI foregrounds trade-offs. An intervention may be highly relevant but costly, efficient but inequitable, effective but unsustainable, or coherent with current policy but weak on long-term impact. VfI requires the evaluation to explain how those tensions affect the final judgement.
+
+Fourth, VfI allows context-specific criteria. DAC criteria are broad and widely recognised, but King's post is clear that criteria should reflect values and context. A VfI framework can therefore use DAC criteria while adding criteria such as equity, cultural value, ethical resource use, resilience, capability, or learning where they are material to the value proposition.
+
+## Practical Synthesis
+
+A practical way to combine the two frameworks is to use the DAC criteria as the starting set of evaluation lenses and VfI as the judgement architecture.
+
+| DAC criterion | VfI interpretation |
+|---|---|
+| Relevance | Is the investment aimed at a need, priority, or value proposition that matters? |
+| Coherence | Does the investment fit with other activity, avoid duplication, and create useful synergies? |
+| Effectiveness | Is the investment producing intended results, and for whom? |
+| Efficiency | Are resources being converted into outputs and outcomes well, considering cost, timeliness, quality, and delivery constraints? |
+| Impact | Is the investment creating meaningful wider value, including intended and unintended effects? |
+| Sustainability | Is the value likely to endure after the current investment, delivery model, or funding period? |
+
+The synthesis should then add:
+
+- context-specific criteria where the DAC set is incomplete;
+- performance standards for each criterion;
+- evidence expectations for each standard;
+- an explicit synthesis process for reaching criterion-level and overall judgements;
+- a clear account of uncertainty, omitted evidence, and trade-offs.
+
+## Implications for Evaluation Design
+
+For evaluation terms of reference, the relationship can be expressed as follows:
+
+> The evaluation will use the OECD DAC criteria as the main evaluative lenses and a Value for Investment approach to synthesise evidence into an overall judgement about whether the resources invested were justified by the value created.
+
+This wording avoids two common problems. It avoids reducing VfI to the DAC efficiency criterion. It also avoids treating the DAC criteria as a checklist that automatically produces a value judgement.
+
+The design should then specify:
+
+- which DAC criteria will be used and why;
+- whether any criteria need to be adapted, combined, or deprioritised;
+- what additional VfI criteria are needed for the context;
+- what standards define poor, adequate, good, or excellent performance;
+- what evidence will be used for each criterion;
+- how evidence will be synthesised into an overall judgement.
+
+## Main Takeaway
+
+The best relationship is nested and complementary. DAC criteria can provide the common evaluation language. VfI can provide the evaluative reasoning needed to judge good resource use.
+
+The resulting evaluation is stronger than either framework used mechanically. It can be comprehensive without being a checklist, and judgement-based without being opaque.
+
+## Links
+
+See also the [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd) note for the source framework and principles for thoughtful use.
+
+See also the [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) note for King and Hurrell's broader account of VfI in UK public services.
+
+See also the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) note for a rubric-based approach to criteria, standards, evidence, synthesis, and reporting.
+
+Return to the [notes overview](index.qmd).
+
+## References
