@@ -45,6 +45,8 @@ website:
           text: Magenta Book VfM Evaluation
         - href: notes/oecd-dac-evaluation-criteria.qmd
           text: OECD DAC Evaluation Criteria
+        - href: notes/defence-logistics-vessel-dac-vfm-evaluation.qmd
+          text: Defence Logistics Vessel DAC VfM Evaluation
         - href: notes/dft-vfm-framework.qmd
           text: DfT VfM Framework
         - href: notes/dft-transport-business-case.qmd
