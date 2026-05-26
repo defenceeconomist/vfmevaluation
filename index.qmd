@@ -43,6 +43,14 @@ Read the source note on HM Treasury's guidance for value for money evaluation.
 
 Explore the emerging relationship between pages, citations, and linked source material.
 :::
+
+::: {.section-card}
+<span class="page-badge badge-overview">Report</span>
+
+### [Defence VfM Guidance](reports/defence-vfm-guidance.qmd)
+
+Apply rubric-based value for money evaluation to defence capability, digital, and infrastructure programmes.
+:::
 :::
 
 </div>

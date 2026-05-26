@@ -1,0 +1,35 @@
+---
+title: "Reports"
+page-layout: full
+toc: false
+---
+
+<div class="landing-stack">
+
+::: {.landing-hero}
+<span class="hero-eyebrow">Applied guidance</span>
+
+# Reports for evaluators
+
+This section turns source guidance into practical evaluator-facing reports. Reports are separate from the Notes section and are not included in the notes network diagram.
+
+<div class="page-metadata">
+  <span>Applied VfM</span>
+  <span>Evaluator guidance</span>
+  <span>Defence context</span>
+</div>
+:::
+
+## Available Reports {#available-reports .section-heading}
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-source">Report</span>
+
+### [Defence VfM Guidance](defence-vfm-guidance.qmd)
+
+Guidance for applying rubric-based value for money evaluation to defence capability, digital, and infrastructure programmes.
+:::
+:::
+
+</div>

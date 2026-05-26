@@ -5,6 +5,8 @@ project:
     - index.qmd
     - notes/index.qmd
     - notes/**/*.qmd
+    - reports/index.qmd
+    - reports/**/*.qmd
   pre-render:
     - python3 scripts/extract_link_graph.py --output data/notes_link_graph_payload.json --include-prefix notes/
   resources:
@@ -19,6 +21,8 @@ website:
     left:
       - href: notes/index.qmd
         text: Notes
+      - href: reports/index.qmd
+        text: Reports
   sidebar:
     - id: notes
       title: "Notes"
@@ -39,6 +43,15 @@ website:
           text: Magenta Book VfM Evaluation
         - href: notes/oecd-dac-evaluation-criteria.qmd
           text: OECD DAC Evaluation Criteria
+    - id: reports
+      title: "Reports"
+      style: docked
+      search: true
+      contents:
+        - href: reports/index.qmd
+          text: Reports Overview
+        - href: reports/defence-vfm-guidance.qmd
+          text: Defence VfM Guidance
 
 format:
   html:

@@ -1,0 +1,259 @@
+---
+title: "Defence VfM Guidance"
+description: "Evaluator guidance for applying rubric-based value for money assessment in defence programmes."
+format:
+  html:
+    toc: true
+    format-links:
+      - pdf
+      - docx
+  pdf:
+    toc: true
+  docx:
+    toc: true
+---
+
+## Purpose
+
+This report converts a draft defence value for money (VfM) framework into practical guidance for evaluators. It is grounded in Oxford Policy Management's rubric-based approach to VfM assessment [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm] and Verian's Value for Investment guidance [@king_hurrell_2024_verian_vfm], then adapts those ideas to defence capability, digital, and infrastructure programmes.
+
+The central message is simple: defence VfM is not proved by a benefit-cost ratio alone. Evaluators need a transparent judgement about whether resource use is good enough in context, given the capability created, the risks carried, the alternatives available, and the value that is hard to monetise.
+
+::: {.cta-row}
+[Download PDF](defence-vfm-guidance.pdf){.cta-button}
+[Download Word](defence-vfm-guidance.docx){.cta-button .secondary}
+:::
+
+## Evaluation Workflow
+
+Verian's Value for Investment process has two phases: design and implementation. The design phase covers understanding the programme, defining the value proposition and evaluation questions, setting criteria, setting standards, and determining the evidence needed. The implementation phase covers gathering evidence, analysing evidence, synthesising judgements through the criteria and standards, and reporting clear answers [@king_hurrell_2024_verian_vfm].
+
+### 1. Understand the Programme
+
+Start with the programme, not with indicators. Establish the decision context, users, stakeholders, information needs, programme boundaries, lifecycle stage, and constraints. In defence, this should include the operational problem, acquisition route, industrial context, security and safety constraints, support model, dependencies with other programmes, and the decision the evaluation must inform.
+
+Develop or review the theory of change at this stage. The theory of change should describe how defence resources and inputs are expected to support activities, outputs, outcomes, and wider impacts. For a defence programme, it should make the causal pathway explicit:
+
+- resources and inputs: funding, people, contracts, facilities, data, equipment, intellectual property, permissions, and relationships;
+- activities: design, procurement, build, integration, testing, training, deployment, support, adaptation, and assurance;
+- outputs: delivered equipment, software, services, facilities, trained users, doctrine, support arrangements, and data products;
+- outcomes: operational availability, decision advantage, deterrence, resilience, welfare, safety, interoperability, productivity, or estate quality;
+- impacts: national security effect, readiness, alliance contribution, sovereign choice, public value, industrial capacity, environmental performance, and future-force optionality.
+
+### 2. Define the Value Proposition and Evaluation Questions
+
+Extend the theory of change with a value proposition. Verian describes this as making value creation explicit: who the investment is valuable to, what resources are invested, how the investment converts resources into value, and what ways of working enable that value [@king_hurrell_2024_verian_vfm].
+
+For a defence programme, write a short value proposition covering:
+
+- who values the investment: front-line users, commands, maintainers, allies, suppliers, communities, taxpayers, and future programmes;
+- what value is expected: operational effect, resilience, deterrence, interoperability, safety, personnel welfare, industrial capacity, environmental value, sovereign options, and learning;
+- what resources are consumed: acquisition, support, workforce, facilities, data, training, assurance, opportunity cost, and through-life funding;
+- what alternatives exist: doing less, delaying, upgrading existing capability, buying off the shelf, partnering with allies, leasing, using commercial services, or choosing a non-materiel option;
+- what must be true for value to emerge: user adoption, integration, security, supportability, realistic training, supplier performance, governance, and credible threat or demand assumptions.
+
+Turn this into a small number of evaluation questions. The main VfM question should ask whether the resource use is justified in context; subquestions should map to the criteria, standards, and evidence plan.
+
+This follows OPM's principle that VfM criteria must be specific to the programme rather than copied from generic definitions [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm]. It also reflects Verian's argument that VfM assessment should integrate economic, social, environmental, cultural, and other public values rather than treating cost-benefit analysis as the whole answer [@king_hurrell_2024_verian_vfm].
+
+### 3. Set Criteria for Good Resource Use
+
+Use the 5Es as a starting structure, then translate each criterion into defence language. Do not assume each E has equal weight in every programme.
+
+| Criterion | Defence interpretation | Evaluator prompt |
+|---|---|---|
+| Economy | Stewardship of inputs, contracts, workforce, facilities, support, data, and scarce specialist capacity. | Were the right inputs secured at appropriate quality and cost, with credible commercial discipline and risk control? |
+| Efficiency | Conversion of resources into outputs through delivery, governance, integration, testing, learning, and relationships. | Did the programme avoid avoidable delay, rework, duplication, idle capacity, and transaction cost? |
+| Effectiveness | Operational, organisational, and user value created by the delivered capability. | Does the capability work in the conditions that matter, with users able to exploit it? |
+| Equity | Fair distribution of benefits, burdens, access, risks, and future liabilities. | Are personnel, commands, allies, suppliers, communities, taxpayers, and future budgets treated fairly? |
+| Cost-effectiveness | Whether the total value created justifies the total resource use compared with credible alternatives. | Is the defence effect worth the acquisition, support, risk, opportunity, and through-life cost? |
+
+The 5Es are often most useful for ex-post or in-flight assessment. For ex-ante decisions, coordinate with the Green Book five-case model and use explicit criteria to make the strategic, economic, commercial, financial, and management cases easier to judge coherently.
+
+### 4. Set Standards Before Interpreting Evidence
+
+OPM's practical contribution is the disciplined link from criteria to standards, evidence, and judgement [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm]. For each criterion, agree performance standards before judging the evidence.
+
+| Level | Defence VfM standard |
+|---|---|
+| Excellent | Performance exceeds reasonable expectations; trade-offs are explicit; evidence shows strong delivery of operational value, stewardship, learning, and fair distribution of burdens. |
+| Good | Performance meets expectations with minor exceptions; material risks are controlled; evidence supports a credible positive judgement. |
+| Adequate | Minimum expectations are met, but important weaknesses remain in cost, schedule, usability, integration, support, evidence, or distribution of burdens. |
+| Poor | Minimum expectations are not met, or unresolved weaknesses make the use of resources hard to justify. |
+
+Rubrics should be specific enough to guide judgement. For example, "good effectiveness" for a satellite communications programme is not the same as "good effectiveness" for accommodation modernisation. The former may turn on assured communications, contested-environment resilience, and allied interoperability; the latter may turn on living conditions, occupancy, maintainability, and effects on personnel welfare.
+
+### 5. Identify the Evidence and Methods Needed
+
+Use economic analysis where it is feasible, but do not let it crowd out other evidence. Verian's Value for Investment approach is useful for defence because many important effects are uncertain, classified, strategic, or difficult to monetise [@king_hurrell_2024_verian_vfm].
+
+Common evidence sources include:
+
+- business cases, approvals, commercial strategies, contract data, cost models, and cost assurance;
+- schedules, risk registers, issue logs, test results, acceptance evidence, and support data;
+- operational analysis, trials, exercises, user research, training records, and readiness data;
+- cyber, safety, security, resilience, interoperability, and data-governance evidence;
+- supplier, workforce, estate, environmental, community, and industrial-base evidence;
+- comparator evidence from allies, commercial alternatives, previous programmes, or portfolio options;
+- stakeholder evidence from users, front-line commands, maintainers, digital operators, commercial staff, suppliers, local communities, and allied partners.
+
+At this point, decide whether cost-benefit analysis, cost-effectiveness analysis, break-even analysis, scenario analysis, or another economic method can make a useful contribution. Include CBA where the cost-benefit test is relevant, outcomes and costs can be credibly quantified and monetised, and the necessary data, skills, time, and ethical conditions are present. Where those conditions do not hold, use CBA only for the monetisable part of the value story or use a rubric-based VfM assessment as the main method.
+
+### 6. Gather Evidence
+
+Collect the agreed evidence in a way that follows the rubric. Survey, interview, document-review, trial-analysis, and administrative-data tools should use headings aligned to the criteria and subcriteria so evidence can be organised efficiently.
+
+Defence evaluations should plan for practical constraints: classified evidence, operational security, small user populations, immature outcome data, long benefit horizons, supplier confidentiality, and contested causal claims. These constraints should be recorded as evidence limitations, not hidden in the final judgement.
+
+### 7. Analyse Evidence
+
+Analyse each evidence stream separately before synthesis. Cost data, schedule data, test evidence, operational analysis, user feedback, cyber assurance, estate data, and supplier evidence each need their own quality checks.
+
+This is also where causal inference or contribution analysis should be handled. For some defence questions, a counterfactual may be available through options analysis, historical comparison, allied benchmarking, or status quo modelling. For others, a theory-based contribution claim will be more credible than forced monetisation.
+
+### 8. Synthesize Judgements and Report
+
+The final VfM judgement should show the reasoning chain:
+
+1. programme context and theory of change;
+2. value proposition and evaluation questions;
+3. tailored criteria and subcriteria;
+4. agreed standards;
+5. evidence by criterion;
+6. analysis, ratings, and uncertainty;
+7. trade-offs between criteria;
+8. overall judgement;
+9. actions to improve future resource use.
+
+Avoid averaging scores mechanically. Defence programmes often involve explicit trade-offs: higher acquisition cost may be justified by survivability, safety, interoperability, resilience, or lower through-life cost. The evaluator's task is to explain whether those trade-offs are justified by the evidence.
+
+Report the answer up front. The report should give clear evidence-supported ratings against the criteria, then show the reasoning and limitations behind those ratings.
+
+## Defence Criteria and Evidence Prompts
+
+### Economy: Resource Stewardship
+
+Focus on whether the programme secured appropriate inputs at appropriate cost and quality.
+
+| Subcriterion | Defence evidence |
+|---|---|
+| Commercial discipline | Procurement strategy, competition records, sole-source justification, open-book evidence, price benchmarking, should-cost analysis. |
+| Whole-life cost control | Acquisition, support, infrastructure, training, workforce, digital, disposal, decommissioning, and upgrade cost models. |
+| Scarce capability inputs | Specialist engineering, nuclear, cyber, software, shipbuilding, aviation, construction, commercial, and safety skills. |
+| Long-lead and obsolescence management | Long-lead item plans, spares, technology roadmaps, refresh cycles, design-change control, inventory strategy. |
+| Security and quality investment | Assurance, test, certification, safety, cyber, data protection, and quality-at-source decisions that prevent later rework or failure. |
+
+### Efficiency: Delivery and Learning
+
+Focus on whether resources were converted into useful outputs without avoidable waste.
+
+| Subcriterion | Defence evidence |
+|---|---|
+| Schedule realism | Integrated master schedule, risk adjustment, critical path, dependency tracking, approvals history. |
+| Integration and test flow | Systems integration evidence, trials plans, certification progress, defect and rework logs, acceptance evidence. |
+| Governance speed | Decision logs, escalation routes, approvals time, change-control performance, delegated authority. |
+| Supply-chain and resource flow | Supplier performance, material availability, yard or facility capacity, workforce allocation, competing programme demands. |
+| Dynamic and relational efficiency | Learning logs, adaptation decisions, joint working arrangements, information sharing, dispute resolution, lessons applied across projects. |
+
+### Effectiveness: Operational Value
+
+Focus on whether the delivered outputs plausibly create intended defence outcomes.
+
+| Subcriterion | Defence evidence |
+|---|---|
+| Capability delivered | Acceptance trials, operational test and evaluation, performance against key parameters, mission-thread evidence. |
+| Reliability, availability, maintainability | Availability data, defect rates, mean time between failures, support burden, spares availability, maintainer feedback. |
+| Interoperability | Allied, joint, and legacy-system integration evidence; standards compliance; exercise results; data-sharing evidence. |
+| User adoption and readiness | Training completion, user feedback, doctrine and tactics updates, simulator use, operational readiness indicators. |
+| Resilience and adaptability | Cyber resilience, contested-environment performance, safety, upgrade path, modularity, technical debt, climate resilience where relevant. |
+
+### Equity: Distribution of Benefits and Burdens
+
+Focus on fairness across stakeholders and time.
+
+| Subcriterion | Defence evidence |
+|---|---|
+| Risk allocation | Contract terms, liability, incentives, safety responsibilities, cyber responsibilities, insurance, decommissioning obligations. |
+| User and maintainer burden | Training load, supportability, operating cost, workload, safety, welfare, usability, deployment constraints. |
+| Cross-force and allied access | Allocation across services, units, geographies, readiness priorities, allied interoperability, coalition use. |
+| Industrial and workforce distribution | SME participation, regional effects, skills pipelines, sovereign capability, workshare, supplier resilience. |
+| Inter-generational fairness | Technical debt, deferred maintenance, disposal liabilities, carbon, estate condition, future budget pressure. |
+
+### Cost-Effectiveness: Value Relative to Alternatives
+
+Focus on whether the outcomes justify the resources used.
+
+| Subcriterion | Defence evidence |
+|---|---|
+| Total cost of ownership | Acquisition, operation, sustainment, infrastructure, training, refresh, disposal, and opportunity cost. |
+| Alternative options | Commercial service, allied collaboration, upgrade, lease, off-the-shelf buy, smaller scope, slower delivery, or non-materiel solution. |
+| Strategic and operational value | Deterrence, resilience, readiness, interoperability, mission success, personnel welfare, information advantage. |
+| Wider public value | Industrial capacity, exports, skills, environmental gains, community effects, cross-government reuse. |
+| Uncertainty and sensitivity | Scenario analysis, optimism bias, cost risk, threat changes, demand changes, technology cycles. |
+
+## Applying the Guidance by Programme Type
+
+### Major Capability Platforms
+
+For combat air, submarines, destroyers, armoured vehicles, and similar platforms, use the platform descriptions as adaptation prompts rather than generic case studies.
+
+| Programme type | VfM emphasis |
+|---|---|
+| Combat air | Integration of sensors, weapons, software, support, training, international partners, mission data, and through-life upgrade cost. |
+| Submarines | Nuclear or specialist safety, stealth, industrial capacity, long-lead items, assurance, decommissioning liabilities, and strategic deterrence value. |
+| Surface warships | Shipyard flow, combat-system integration, fleet availability, interoperability, crew burden, growth margins, and upgrade path. |
+| Armoured vehicles | Protection, mobility, firepower, weight trade-offs, maintainability, soldier usability, fleet commonality, and alternative land-effect options. |
+
+For each platform, define what "good" means against the actual capability need, not against a generic list of desirable features.
+
+### Digital and Cyber Programmes
+
+Digital programmes create value through data, connectivity, software, resilience, and user adoption. They need VfM criteria that recognise rapid technology cycles and cyber risk.
+
+Skynet 6 illustrates the point. MOD describes it as the next-generation military satellite communications programme, with more than £5 billion being invested in the Skynet programme over ten years and objectives including resilient global services, space workforce development, prosperity, contested-space capability, and net zero [@ministry_of_defence_2025_skynet_6]. A VfM assessment should therefore examine commercial arrangements, satellite, ground and user segments, cyber and anti-jamming resilience, allied interoperability, workforce capacity, alternatives such as commercial SATCOM, and through-life replacement cycles.
+
+LETacCIS is another useful example. MOD describes it as a land tactical communications programme delivered by Army Headquarters and Defence Digital's Tactical Systems Service Executive with industry partners, including projects such as MORPHEUS, TRINITY, and Dismounted Situational Awareness [@ministry_of_defence_2023_letaccis]. A VfM assessment should test whether modular delivery, multi-vendor coordination, open standards, data integrity, tactical usability, and cyber resilience are improving decision-making for users at reasonable cost.
+
+Do not treat system uptime, agile velocity, or licence cost as sufficient VfM evidence by themselves. Digital VfM depends on whether users can exploit the system securely and reliably in operational conditions.
+
+### Infrastructure and Estate Programmes
+
+Infrastructure programmes create value through places where personnel live, train, work, and operate. They need VfM criteria that account for long asset lives, planning and environmental constraints, communities, maintainability, and user experience.
+
+The Defence Estate Optimisation portfolio is the main public example. MOD describes it as Defence's largest estates change programme, investing £5.1 billion in modern, greener, and sustainable infrastructure, delivering accommodation for over 27,000 personnel and families, releasing surplus land for more than 32,000 homes, and forecasting over 200 hectares of biodiversity net-gain measures [@ministry_of_defence_2026_deo]. Evaluation should therefore combine cost and schedule evidence with estate rationalisation, personnel outcomes, biodiversity, land-disposal value, community effects, and future estate liabilities. The NAO's report on optimising the defence estate provides an important accountability source for judging delivery risks and assumptions [@national_audit_office_2021_optimising_defence_estate].
+
+Single Living Accommodation Modernisation shows the need to evaluate outputs and outcomes separately. DIO reported that Project SLAM built or refurbished more than 22,800 bedspaces across 52 locations, with a construction spend of nearly £1.3 billion and extensive use of modular construction [@dio_communications_team_2015_slam]. The NAO later found persistent single living accommodation problems, including low-quality accommodation and under-occupancy [@national_audit_office_2021_single_living_accommodation]. A VfM judgement should therefore ask not only whether rooms were delivered efficiently, but whether the accommodation system as a whole produced sustained improvements in quality, occupancy, welfare, retention, and maintenance burden.
+
+## Reporting Template
+
+Use a consistent reporting structure so readers can audit the judgement:
+
+1. **Decision context:** What decision will the VfM assessment support?
+2. **Theory of change:** How are resources expected to create defence outputs, outcomes, and wider impacts?
+3. **Value proposition:** What value was expected, for whom, through what mechanisms, and compared with what alternatives?
+4. **Evaluation questions:** What answers do decision-makers and stakeholders need?
+5. **Tailored criteria:** How were the 5Es translated into programme-specific definitions?
+6. **Standards:** What would poor, adequate, good, and excellent performance look like?
+7. **Evidence and methods:** What evidence was used, what was missing, and how credible is it?
+8. **Analysis and judgements:** What rating is given for each criterion, and why?
+9. **Trade-offs and uncertainty:** Which weaknesses are tolerable, which are material, and which undermine VfM?
+10. **Overall conclusion:** Is resource use justified in context?
+11. **Improvement actions:** What should change in delivery, future approvals, commercial strategy, data, evaluation, or portfolio decisions?
+
+## Common Risks
+
+- Retrofitting standards after seeing the evidence.
+- Treating cost control as the whole of VfM.
+- Ignoring users, maintainers, cyber operators, safety specialists, or local communities.
+- Counting industrial or strategic benefits without evidence that they are additional.
+- Reporting a single overall rating without explaining trade-offs and uncertainty.
+- Using generic 5E definitions that do not reflect the actual defence capability.
+- Confusing delivery outputs with sustained operational or welfare outcomes.
+
+## Conclusion
+
+The strongest defence VfM evaluations combine OPM's explicit criteria, standards, evidence, and judgement discipline with Verian's broader Value for Investment framing. That combination is well suited to defence because the value of a programme often lies in resilience, deterrence, interoperability, safety, welfare, sovereign choice, and future optionality as well as monetised benefits.
+
+Evaluators should therefore design VfM assessment as a transparent reasoning process. The question is not simply whether the programme spent less, delivered more, or produced a favourable ratio. It is whether the total resource use was justified by the operational, organisational, strategic, social, environmental, and future value created.
+
+## References
