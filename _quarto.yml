@@ -13,6 +13,8 @@ project:
 
 website:
   title: "Value for Money Evaluation Knowledge Base"
+  page-footer:
+    center: "[defenceeconomist.github.io](https://defenceeconomist.github.io)"
   navbar:
     left:
       - href: notes/index.qmd
