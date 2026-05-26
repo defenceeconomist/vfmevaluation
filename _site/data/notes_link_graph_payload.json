@@ -54,6 +54,28 @@
       "degree": 1
     },
     {
+      "label": "DfT Value for Money Framework",
+      "url": "https://www.gov.uk/government/publications/dft-value-for-money-framework",
+      "citation_key": "department_for_transport_2025_vfm_framework",
+      "title": "DfT Value for Money Framework",
+      "id": "cite:department_for_transport_2025_vfm_framework",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "DfT Value for Money Indicator",
+      "url": "https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money",
+      "citation_key": "department_for_transport_2022_vfm_indicator",
+      "title": "DfT Value for Money Indicator",
+      "id": "cite:department_for_transport_2022_vfm_indicator",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
       "label": "doi.org: 15a9c26b en",
       "url": "https://doi.org/10.1787/15a9c26b-en",
       "id": "https://doi.org/10.1787/15a9c26b-en",
@@ -66,6 +88,24 @@
       "label": "doi.org: 543e84ed en",
       "url": "https://doi.org/10.1787/543e84ed-en",
       "id": "https://doi.org/10.1787/543e84ed-en",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: dft value for money framework",
+      "url": "https://www.gov.uk/government/publications/dft-value-for-money-framework",
+      "id": "https://www.gov.uk/government/publications/dft-value-for-money-framework",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: green book supplementary gu...",
+      "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport",
+      "id": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport",
       "kind": "external",
       "incoming": 1,
       "outgoing": 0,
@@ -99,6 +139,15 @@
       "degree": 1
     },
     {
+      "label": "gov.uk: percentage of dft s apprais...",
+      "url": "https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money",
+      "id": "https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
       "label": "gov.uk: the green book 2026",
       "url": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026",
       "id": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026",
@@ -117,6 +166,42 @@
       "degree": 1
     },
     {
+      "label": "gov.uk: transport appraisal and str...",
+      "url": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "id": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "gov.uk: transport business case gui...",
+      "url": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance",
+      "id": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: value for money assessment...",
+      "url": "https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block",
+      "id": "https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: value for money of major bu...",
+      "url": "https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes",
+      "id": "https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
       "label": "Green Book Supplementary Guidance: Value fo...",
       "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money",
       "citation_key": "hm_treasury_2022_green_book_vfm",
@@ -126,6 +211,17 @@
       "incoming": 3,
       "outgoing": 0,
       "degree": 3
+    },
+    {
+      "label": "Integrated Transport Block Funding: Value f...",
+      "url": "https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block",
+      "citation_key": "department_for_transport_2016_integrated_transport_block_vfm",
+      "title": "Integrated Transport Block Funding: Value for Money Assessment",
+      "id": "cite:department_for_transport_2016_integrated_transport_block_vfm",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
     },
     {
       "label": "Magenta Book Annex A: Analytical Methods fo...",
@@ -224,6 +320,50 @@
       "degree": 2
     },
     {
+      "label": "Transport Analysis Guidance",
+      "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport",
+      "citation_key": "department_for_transport_2025_tag",
+      "title": "Transport Analysis Guidance",
+      "id": "cite:department_for_transport_2025_tag",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Transport Appraisal and Strategic Modelling...",
+      "url": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "citation_key": "department_for_transport_2026_tasm",
+      "title": "Transport Appraisal and Strategic Modelling Division",
+      "id": "cite:department_for_transport_2026_tasm",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "Transport Business Case Guidance",
+      "url": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance",
+      "citation_key": "department_for_transport_2022_transport_business_case",
+      "title": "Transport Business Case Guidance",
+      "id": "cite:department_for_transport_2022_transport_business_case",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Value for Money Assessment for Major Bus-Re...",
+      "url": "https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes",
+      "citation_key": "department_for_transport_2016_major_bus_schemes_vfm",
+      "title": "Value for Money Assessment for Major Bus-Related Schemes",
+      "id": "cite:department_for_transport_2016_major_bus_schemes_vfm",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
       "label": "VFM Diagram",
       "url": "https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf",
       "citation_key": "nao_2013_vfm_diagram",
@@ -235,22 +375,67 @@
       "degree": 2
     },
     {
+      "id": "notes/dft-tag-appraisal-evaluation.qmd",
+      "label": "DfT TAG Appraisal and Evaluation",
+      "kind": "internal",
+      "path": "notes/dft-tag-appraisal-evaluation.qmd",
+      "incoming": 4,
+      "outgoing": 9,
+      "degree": 10
+    },
+    {
+      "id": "notes/dft-transport-business-case.qmd",
+      "label": "DfT Transport Business Case",
+      "kind": "internal",
+      "path": "notes/dft-transport-business-case.qmd",
+      "incoming": 4,
+      "outgoing": 8,
+      "degree": 9
+    },
+    {
+      "id": "notes/dft-vfm-case-examples.qmd",
+      "label": "DfT VfM Case Examples",
+      "kind": "internal",
+      "path": "notes/dft-vfm-case-examples.qmd",
+      "incoming": 3,
+      "outgoing": 10,
+      "degree": 11
+    },
+    {
+      "id": "notes/dft-vfm-framework.qmd",
+      "label": "DfT VfM Framework",
+      "kind": "internal",
+      "path": "notes/dft-vfm-framework.qmd",
+      "incoming": 5,
+      "outgoing": 11,
+      "degree": 12
+    },
+    {
+      "id": "notes/dft-vfm-indicator.qmd",
+      "label": "DfT VfM Indicator",
+      "kind": "internal",
+      "path": "notes/dft-vfm-indicator.qmd",
+      "incoming": 3,
+      "outgoing": 8,
+      "degree": 8
+    },
+    {
       "id": "notes/green-book-vfm-guidance.qmd",
       "label": "Green Book VfM Guidance",
       "kind": "internal",
       "path": "notes/green-book-vfm-guidance.qmd",
-      "incoming": 3,
+      "incoming": 6,
       "outgoing": 7,
-      "degree": 8
+      "degree": 11
     },
     {
       "id": "notes/magenta-book-vfm-evaluation.qmd",
       "label": "Magenta Book VfM Evaluation",
       "kind": "internal",
       "path": "notes/magenta-book-vfm-evaluation.qmd",
-      "incoming": 5,
+      "incoming": 10,
       "outgoing": 9,
-      "degree": 12
+      "degree": 17
     },
     {
       "id": "notes/nao-vfm-definition.qmd",
@@ -266,9 +451,9 @@
       "label": "Notes",
       "kind": "internal",
       "path": "notes/index.qmd",
-      "incoming": 6,
-      "outgoing": 6,
-      "degree": 6
+      "incoming": 11,
+      "outgoing": 11,
+      "degree": 11
     },
     {
       "id": "notes/oecd-dac-evaluation-criteria.qmd",
@@ -284,9 +469,9 @@
       "label": "OPM King VfM Guidance",
       "kind": "internal",
       "path": "notes/opm-king-vfm-guidance.qmd",
-      "incoming": 3,
+      "incoming": 6,
       "outgoing": 8,
-      "degree": 8
+      "degree": 11
     },
     {
       "id": "notes/vfm-definitions.qmd",
@@ -299,6 +484,236 @@
     }
   ],
   "edges": [
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "cite:department_for_transport_2025_tag",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "cite:department_for_transport_2026_tasm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/dft-transport-business-case.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "cite:department_for_transport_2022_transport_business_case",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/dft-tag-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/dft-vfm-case-examples.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "cite:department_for_transport_2016_integrated_transport_block_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "cite:department_for_transport_2016_major_bus_schemes_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/dft-tag-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/dft-vfm-indicator.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "cite:department_for_transport_2025_vfm_framework",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "cite:department_for_transport_2026_tasm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "https://www.gov.uk/government/publications/dft-value-for-money-framework",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/dft-tag-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/dft-transport-business-case.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/dft-vfm-indicator.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "cite:department_for_transport_2022_vfm_indicator",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/dft-transport-business-case.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/dft-vfm-case-examples.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
     {
       "source": "notes/green-book-vfm-guidance.qmd",
       "target": "cite:hm_treasury_2022_green_book_vfm",
@@ -332,6 +747,31 @@
     {
       "source": "notes/green-book-vfm-guidance.qmd",
       "target": "notes/vfm-definitions.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-tag-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-transport-business-case.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-vfm-case-examples.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-vfm-indicator.qmd",
       "kind": "internal"
     },
     {

@@ -1,0 +1,76 @@
+---
+title: "DfT VfM Case Examples"
+description: "Source note on DfT value for money assessments for Integrated Transport Block and major bus-related schemes."
+---
+
+## Source
+
+This note summarises two DfT value for money assessment examples: Integrated Transport Block funding and major bus-related schemes [@department_for_transport_2016_integrated_transport_block_vfm; @department_for_transport_2016_major_bus_schemes_vfm].
+
+The related source pages are:
+
+- [GOV.UK: Integrated transport block funding: value for money assessment](https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block)
+- [GOV.UK: Value for money assessment for major bus-related schemes](https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes)
+
+## Core Idea
+
+These examples show DfT applying value for money logic to portfolios or groups of transport schemes rather than to a single business case. They are useful because they expose the practical compromises in aggregating appraisal evidence across many local or modal interventions.
+
+The examples are still primarily appraisal-based. They estimate approximate value from available scheme evidence, costs, benefits, assumptions, and sensitivity tests. They are not full ex post evaluations of realised value.
+
+## Integrated Transport Block
+
+The Integrated Transport Block assessment examined local authority capital funding for smaller transport improvement schemes. The source is useful because small schemes often have weaker appraisal, monitoring, and evaluation evidence than major projects.
+
+The assessment therefore has to work with uneven local evidence. It uses survey evidence, available appraisal material, monitoring or evaluation evidence where present, and sensitivity tests to estimate approximate VfM.
+
+For evaluators, the important lesson is that evidence systems matter. If local bodies do not collect consistent data on costs, outputs, outcomes, and benefits, later VfM assessment becomes dependent on assumptions and partial evidence.
+
+## Major Bus-Related Schemes
+
+The major bus-related schemes assessment reviewed schemes approved under funds including Local Majors, Local Sustainable Transport Fund, and Better Bus Areas. It reported an aggregate BCR and translated that into a DfT value for money judgement.
+
+The report is explicit that only monetised benefits and costs are included in the aggregate analysis, while non-monetised benefits and costs are handled qualitatively in the wider appraisal process. This is a useful example of the boundary between monetised portfolio metrics and broader VfM judgement.
+
+For evaluation, the key question is whether the expected benefits from bus priority, interchange, reliability, passenger growth, decongestion, and wider impacts were realised after implementation.
+
+## Lessons for VfM Evaluation
+
+The two examples illustrate several recurring issues:
+
+- portfolio VfM can hide variation between schemes;
+- aggregate BCRs depend on consistent methods and comparable assumptions;
+- small schemes may lack strong monitoring and evaluation data;
+- non-monetised impacts can be important even when the headline result is monetised;
+- sensitivity tests are essential when evidence is partial;
+- expected value should not be confused with achieved value.
+
+These lessons connect the examples to the [DfT VfM Indicator](dft-vfm-indicator.qmd), which also reports expected value at approval rather than evaluated value after delivery.
+
+## Relationship to Evaluation
+
+Both examples can be used as starting points for retrospective evaluation. The evaluator would need to reconstruct the original appraisal assumptions, gather delivery and outcome evidence, and compare expected and realised value.
+
+Where monetised data are weak, a structured criteria or rubric approach may be needed. The [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) is useful here because it gives a way to combine monetised evidence, qualitative evidence, standards, and judgement transparently.
+
+## Practical Implications
+
+For future transport VfM notes, case examples should record:
+
+1. funding stream and scheme population;
+2. whether evidence is ex ante, in-flight, or ex post;
+3. monetised benefits and costs included in the aggregate figure;
+4. non-monetised impacts handled outside the aggregate figure;
+5. quality of monitoring and evaluation evidence;
+6. sensitivity tests and assumptions;
+7. implications for future appraisal and evaluation design.
+
+This makes the examples useful not just as reported results, but as evidence about how transport VfM assessment works in practice.
+
+## Links
+
+See also the [DfT VfM Framework](dft-vfm-framework.qmd), [DfT TAG Appraisal and Evaluation](dft-tag-appraisal-evaluation.qmd), and [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References

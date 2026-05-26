@@ -70,6 +70,46 @@ Summarises HM Treasury's Magenta Book guidance on value for money evaluation, in
 
 Summarises the OECD DAC evaluation criteria, including relevance, coherence, effectiveness, efficiency, impact, sustainability, and the principles for thoughtful use.
 :::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [DfT VfM Framework](dft-vfm-framework.qmd)
+
+Summarises DfT's framework for transport value for money assessment, including BCRs, non-monetised impacts, risk, uncertainty, and VfM categories.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [DfT Transport Business Case](dft-transport-business-case.qmd)
+
+Summarises how DfT applies the five-case model, TAG, Green Book guidance, and value for money evidence in transport investment decisions.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [DfT TAG Appraisal and Evaluation](dft-tag-appraisal-evaluation.qmd)
+
+Summarises Transport Analysis Guidance as DfT's technical base for transport modelling, appraisal, evaluation planning, and analytical assurance.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [DfT VfM Indicator](dft-vfm-indicator.qmd)
+
+Summarises DfT's portfolio indicator for expected value for money at approval and distinguishes it from evaluation of achieved value.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
+### [DfT VfM Case Examples](dft-vfm-case-examples.qmd)
+
+Summarises DfT's Integrated Transport Block and major bus-related scheme value for money assessments as practical portfolio examples.
+:::
 :::
 
 ## Notes Map {#notes-map .section-heading}

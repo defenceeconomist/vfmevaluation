@@ -1,0 +1,78 @@
+---
+title: "DfT Transport Business Case"
+description: "Source note on how DfT applies the five-case model and value for money evidence in transport business cases."
+---
+
+## Source
+
+This note summarises the Department for Transport's transport business case guidance [@department_for_transport_2022_transport_business_case]. It focuses on how the business case process uses appraisal evidence, Transport Analysis Guidance, the Green Book, and DfT's value for money framework.
+
+The related source page is:
+
+- [GOV.UK: Transport business case guidance](https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance)
+
+## Core Idea
+
+DfT uses the five-case model to structure transport investment decisions. Value for money sits mainly in the economic dimension, but the guidance is clear that the five dimensions are connected. A proposal can only be strong if it has strategic fit, economic value, commercial viability, financial affordability, and credible delivery arrangements.
+
+The business case is therefore not just a container for a BCR. It is an iterative decision document that should become more accurate as evidence develops from strategic outline case to outline business case to full business case.
+
+## Business Case Dimensions
+
+The five dimensions create a practical frame for VfM:
+
+- Strategic dimension: whether the proposal responds to a real transport problem and fits national, regional, local, and organisational priorities.
+- Economic dimension: whether the proposal is the best choice for maximising social welfare, using options appraisal and DfT's value for money framework.
+- Commercial dimension: whether the market, procurement route, and supply-side capacity can deliver the proposal.
+- Financial dimension: whether the proposal is affordable within the relevant budgets.
+- Management dimension: whether the proposal can be delivered and managed from outputs through to outcomes.
+
+This matters for VfM evaluation because weak delivery, affordability, or commercial assumptions can undermine expected value even when the appraisal ratio looks strong.
+
+## Role of TAG and the VfM Framework
+
+The guidance positions TAG as the detailed transport appraisal and modelling guidance used to produce consistent evidence for business cases. DfT's value for money framework then explains how appraisal outputs are converted into a VfM assessment and communicated to decision makers.
+
+The economic dimension should include economic, environmental, and social impacts. It should use monetised evidence where possible, but also account for qualitative and quantitative evidence where monetisation is not credible or complete. This aligns with the [Green Book VfM Guidance](green-book-vfm-guidance.qmd) and the [DfT VfM Framework](dft-vfm-framework.qmd).
+
+## Strategic Coherence and Distribution
+
+The 2022 guidance reflects the Green Book Review emphasis on strategic coherence, distributional analysis, and place-based impacts. This is important for transport because schemes often have uneven effects across people, places, transport users, non-users, businesses, and future generations.
+
+For evaluation, this means that the business case should not be treated only as a forecast of aggregate benefits. It is also a record of whose outcomes mattered, where benefits and costs were expected to fall, and which strategic objectives the intervention was supposed to advance.
+
+## Relationship to Evaluation
+
+The business case sets the expected value story. Evaluation tests that story.
+
+The management dimension is especially important because it should describe how outputs become outcomes and how benefits will be realised. A later VfM evaluation can use the business case to ask:
+
+1. Were the original objectives and critical success factors still relevant?
+2. Were the short-listed options and counterfactual assumptions reasonable?
+3. Did costs, benefits, risks, and delivery assumptions hold up?
+4. Were non-monetised and distributional effects tracked after approval?
+5. Did commercial, financial, or management issues affect achieved value?
+
+The [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) provides the stronger evaluation framing for this comparison between expected and realised value.
+
+## Practical Implications
+
+For evaluators taking notes from a transport business case, the useful extraction fields are:
+
+- stage of business case and investment decision point;
+- strategic objectives and spending objectives;
+- preferred option and alternatives rejected;
+- VfM category, BCR, net present value, and non-monetised impacts;
+- key risks, sensitivities, optimism bias, and uncertainty analysis;
+- distributional and place-based claims;
+- benefits management, monitoring, and evaluation commitments.
+
+These fields make it possible to connect DfT appraisal evidence to later process, impact, and value for money evaluation.
+
+## Links
+
+See also the [DfT TAG Appraisal and Evaluation](dft-tag-appraisal-evaluation.qmd), [DfT VfM Framework](dft-vfm-framework.qmd), and [DfT VfM Case Examples](dft-vfm-case-examples.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References

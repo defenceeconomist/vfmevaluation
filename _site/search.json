@@ -385,11 +385,304 @@
     ]
   },
   {
+    "objectID": "notes/dft-vfm-indicator.html",
+    "href": "notes/dft-vfm-indicator.html",
+    "title": "DfT VfM Indicator",
+    "section": "",
+    "text": "This note summarises DfT’s value for money indicator collection (Department for Transport 2022). It focuses on what the indicator reports and what it does not report.\nThe related source page is:\n\nGOV.UK: DfT value for money indicator",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Indicator"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-indicator.html#source",
+    "href": "notes/dft-vfm-indicator.html#source",
+    "title": "DfT VfM Indicator",
+    "section": "",
+    "text": "This note summarises DfT’s value for money indicator collection (Department for Transport 2022). It focuses on what the indicator reports and what it does not report.\nThe related source page is:\n\nGOV.UK: DfT value for money indicator",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Indicator"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-indicator.html#core-idea",
+    "href": "notes/dft-vfm-indicator.html#core-idea",
+    "title": "DfT VfM Indicator",
+    "section": "Core Idea",
+    "text": "Core Idea\nThe DfT value for money indicator reports the proportion of approved project spending that is assessed as high or very high value for money under DfT’s framework. It is a transparency measure about investment decisions, not an evaluation of realised project performance.\nThis distinction is central. The indicator is based on expected value at the point of approval. It does not show whether schemes later delivered the benefits, costs, distributional effects, or non-monetised impacts assumed in the appraisal.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Indicator"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-indicator.html#how-the-indicator-works",
+    "href": "notes/dft-vfm-indicator.html#how-the-indicator-works",
+    "title": "DfT VfM Indicator",
+    "section": "How the Indicator Works",
+    "text": "How the Indicator Works\nThe indicator aggregates approved spending by value for money category. Projects are weighted by approved spending, so large lower-value projects can materially affect the indicator even if many smaller projects are high value.\nThe category used in the indicator comes from DfT’s appraisal process. The process starts from monetised evidence such as BCRs and then considers impacts, risks, and non-monetised factors before assigning a final category.\nThe indicator therefore depends on the quality of the underlying appraisal evidence, the consistency of category assignment, and the treatment of uncertainty.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Indicator"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-indicator.html#what-it-does-not-show",
+    "href": "notes/dft-vfm-indicator.html#what-it-does-not-show",
+    "title": "DfT VfM Indicator",
+    "section": "What It Does Not Show",
+    "text": "What It Does Not Show\nThe indicator should not be read as evidence of achieved value for money. It does not compare forecast benefits with realised benefits after implementation. It also does not show whether optimism bias, demand forecasts, cost risks, or non-monetised impacts were borne out in practice.\nThis makes it useful for understanding DfT’s appraisal and decision pipeline, but limited for evaluation. A separate evaluation would be needed to assess whether the approved portfolio actually delivered high or very high value once implemented.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Indicator"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-indicator.html#relationship-to-evaluation",
+    "href": "notes/dft-vfm-indicator.html#relationship-to-evaluation",
+    "title": "DfT VfM Indicator",
+    "section": "Relationship to Evaluation",
+    "text": "Relationship to Evaluation\nThe indicator creates a portfolio-level evaluation opportunity. Evaluators can use it to identify which approved projects were expected to deliver strong VfM, then investigate:\n\nwhether the original categories were robust;\nwhether schemes delivered the benefits and costs assumed at approval;\nwhether lower or higher realised value was driven by delivery, demand, price, scope, or external-context changes;\nwhether non-monetised impacts strengthened or weakened achieved value;\nwhether lessons should change future TAG assumptions or DfT category judgements.\n\nThis is where the Magenta Book VfM Evaluation and OPM King VfM Guidance can add value. They provide methods for judging actual value when the evidence is mixed and not all effects can be monetised.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Indicator"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-indicator.html#practical-implications",
+    "href": "notes/dft-vfm-indicator.html#practical-implications",
+    "title": "DfT VfM Indicator",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nFor the knowledge base, the DfT indicator should be coded as an appraisal transparency source rather than an evaluation source.\nUseful note fields include:\n\nreporting year and project scope;\nspending included and excluded;\ncategory distribution by approved spending;\nstated limitations and uncertainty;\nany explicit caveats about expected versus achieved value;\nlinks back to the DfT VfM Framework.\n\nThis prevents a common mistake: treating an ex ante portfolio indicator as proof of ex post performance.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Indicator"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-indicator.html#links",
+    "href": "notes/dft-vfm-indicator.html#links",
+    "title": "DfT VfM Indicator",
+    "section": "Links",
+    "text": "Links\nSee also the DfT VfM Framework, DfT Transport Business Case, and DfT VfM Case Examples notes.\nReturn to the notes overview.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Indicator"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html",
+    "href": "notes/dft-vfm-case-examples.html",
+    "title": "DfT VfM Case Examples",
+    "section": "",
+    "text": "This note summarises two DfT value for money assessment examples: Integrated Transport Block funding and major bus-related schemes (Department for Transport 2016a, 2016b).\nThe related source pages are:\n\nGOV.UK: Integrated transport block funding: value for money assessment\nGOV.UK: Value for money assessment for major bus-related schemes",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html#source",
+    "href": "notes/dft-vfm-case-examples.html#source",
+    "title": "DfT VfM Case Examples",
+    "section": "",
+    "text": "This note summarises two DfT value for money assessment examples: Integrated Transport Block funding and major bus-related schemes (Department for Transport 2016a, 2016b).\nThe related source pages are:\n\nGOV.UK: Integrated transport block funding: value for money assessment\nGOV.UK: Value for money assessment for major bus-related schemes",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html#core-idea",
+    "href": "notes/dft-vfm-case-examples.html#core-idea",
+    "title": "DfT VfM Case Examples",
+    "section": "Core Idea",
+    "text": "Core Idea\nThese examples show DfT applying value for money logic to portfolios or groups of transport schemes rather than to a single business case. They are useful because they expose the practical compromises in aggregating appraisal evidence across many local or modal interventions.\nThe examples are still primarily appraisal-based. They estimate approximate value from available scheme evidence, costs, benefits, assumptions, and sensitivity tests. They are not full ex post evaluations of realised value.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html#integrated-transport-block",
+    "href": "notes/dft-vfm-case-examples.html#integrated-transport-block",
+    "title": "DfT VfM Case Examples",
+    "section": "Integrated Transport Block",
+    "text": "Integrated Transport Block\nThe Integrated Transport Block assessment examined local authority capital funding for smaller transport improvement schemes. The source is useful because small schemes often have weaker appraisal, monitoring, and evaluation evidence than major projects.\nThe assessment therefore has to work with uneven local evidence. It uses survey evidence, available appraisal material, monitoring or evaluation evidence where present, and sensitivity tests to estimate approximate VfM.\nFor evaluators, the important lesson is that evidence systems matter. If local bodies do not collect consistent data on costs, outputs, outcomes, and benefits, later VfM assessment becomes dependent on assumptions and partial evidence.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html#major-bus-related-schemes",
+    "href": "notes/dft-vfm-case-examples.html#major-bus-related-schemes",
+    "title": "DfT VfM Case Examples",
+    "section": "Major Bus-Related Schemes",
+    "text": "Major Bus-Related Schemes\nThe major bus-related schemes assessment reviewed schemes approved under funds including Local Majors, Local Sustainable Transport Fund, and Better Bus Areas. It reported an aggregate BCR and translated that into a DfT value for money judgement.\nThe report is explicit that only monetised benefits and costs are included in the aggregate analysis, while non-monetised benefits and costs are handled qualitatively in the wider appraisal process. This is a useful example of the boundary between monetised portfolio metrics and broader VfM judgement.\nFor evaluation, the key question is whether the expected benefits from bus priority, interchange, reliability, passenger growth, decongestion, and wider impacts were realised after implementation.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html#lessons-for-vfm-evaluation",
+    "href": "notes/dft-vfm-case-examples.html#lessons-for-vfm-evaluation",
+    "title": "DfT VfM Case Examples",
+    "section": "Lessons for VfM Evaluation",
+    "text": "Lessons for VfM Evaluation\nThe two examples illustrate several recurring issues:\n\nportfolio VfM can hide variation between schemes;\naggregate BCRs depend on consistent methods and comparable assumptions;\nsmall schemes may lack strong monitoring and evaluation data;\nnon-monetised impacts can be important even when the headline result is monetised;\nsensitivity tests are essential when evidence is partial;\nexpected value should not be confused with achieved value.\n\nThese lessons connect the examples to the DfT VfM Indicator, which also reports expected value at approval rather than evaluated value after delivery.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html#relationship-to-evaluation",
+    "href": "notes/dft-vfm-case-examples.html#relationship-to-evaluation",
+    "title": "DfT VfM Case Examples",
+    "section": "Relationship to Evaluation",
+    "text": "Relationship to Evaluation\nBoth examples can be used as starting points for retrospective evaluation. The evaluator would need to reconstruct the original appraisal assumptions, gather delivery and outcome evidence, and compare expected and realised value.\nWhere monetised data are weak, a structured criteria or rubric approach may be needed. The OPM King VfM Guidance is useful here because it gives a way to combine monetised evidence, qualitative evidence, standards, and judgement transparently.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html#practical-implications",
+    "href": "notes/dft-vfm-case-examples.html#practical-implications",
+    "title": "DfT VfM Case Examples",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nFor future transport VfM notes, case examples should record:\n\nfunding stream and scheme population;\nwhether evidence is ex ante, in-flight, or ex post;\nmonetised benefits and costs included in the aggregate figure;\nnon-monetised impacts handled outside the aggregate figure;\nquality of monitoring and evaluation evidence;\nsensitivity tests and assumptions;\nimplications for future appraisal and evaluation design.\n\nThis makes the examples useful not just as reported results, but as evidence about how transport VfM assessment works in practice.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-case-examples.html#links",
+    "href": "notes/dft-vfm-case-examples.html#links",
+    "title": "DfT VfM Case Examples",
+    "section": "Links",
+    "text": "Links\nSee also the DfT VfM Framework, DfT TAG Appraisal and Evaluation, and Magenta Book VfM Evaluation notes.\nReturn to the notes overview.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Case Examples"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html",
+    "href": "notes/dft-tag-appraisal-evaluation.html",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "",
+    "text": "This note summarises the Department for Transport’s Transport Analysis Guidance (TAG) landing page and the role of the Transport Appraisal and Strategic Modelling division (Department for Transport 2025, 2026).\nThe related source pages are:\n\nGOV.UK: Transport analysis guidance\nDfT: Transport appraisal and strategic modelling division",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html#source",
+    "href": "notes/dft-tag-appraisal-evaluation.html#source",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "",
+    "text": "This note summarises the Department for Transport’s Transport Analysis Guidance (TAG) landing page and the role of the Transport Appraisal and Strategic Modelling division (Department for Transport 2025, 2026).\nThe related source pages are:\n\nGOV.UK: Transport analysis guidance\nDfT: Transport appraisal and strategic modelling division",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html#core-idea",
+    "href": "notes/dft-tag-appraisal-evaluation.html#core-idea",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "Core Idea",
+    "text": "Core Idea\nTAG is DfT’s transport-specific analytical system for modelling and appraisal. It gives practitioners guidance on defining problems, developing options, building transport models, estimating impacts, and presenting appraisal evidence for business cases.\nFor value for money work, TAG is the technical base. It supplies the methods and data assumptions that feed the DfT VfM Framework and the economic dimension of the DfT Transport Business Case.",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html#appraisal-scope",
+    "href": "notes/dft-tag-appraisal-evaluation.html#appraisal-scope",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "Appraisal Scope",
+    "text": "Appraisal Scope\nTAG covers several linked areas:\n\noverview material on the transport appraisal process;\nguidance for senior responsible officers and technical project managers;\nappraisal units on cost-benefit analysis, costs, user and provider impacts, economic impacts, environmental impacts, social impacts, distributional impacts, and mode-specific issues;\nmodelling guidance on forecasting, demand modelling, assignment, calibration, validation, and uncertainty;\nappraisal worksheets, databooks, software tools, supplementary guidance, and update reports.\n\nThe scope shows why transport VfM is broader than transport user benefits alone. A credible appraisal needs to account for economic, environmental, social, place-based, distributional, and uncertainty evidence where material.",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html#evaluation-practitioner-guidance",
+    "href": "notes/dft-tag-appraisal-evaluation.html#evaluation-practitioner-guidance",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "Evaluation Practitioner Guidance",
+    "text": "Evaluation Practitioner Guidance\nTAG includes guidance for the evaluation practitioner. This matters because DfT treats evaluation as part of the transport appraisal process rather than a disconnected afterthought.\nThe implication is that evaluation should be planned early enough to collect baseline data, monitor delivery, and compare realised effects with the assumptions used in appraisal. Evaluation can then improve future appraisal by testing demand forecasts, cost assumptions, behaviour change assumptions, benefit realisation, and the treatment of non-monetised impacts.",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html#analytical-assurance",
+    "href": "notes/dft-tag-appraisal-evaluation.html#analytical-assurance",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "Analytical Assurance",
+    "text": "Analytical Assurance\nTASM maintains TAG, develops value for money guidance, scrutinises value for money advice submitted to ministers and DfT investment boards, and oversees analytical assurance. This gives the guidance an institutional role: TAG is both a technical method base and a quality-assurance standard for decision advice.\nFor evaluators, the assurance role is important because weaknesses in modelling, data, or assumptions can become evaluation questions. A good evaluation can ask whether the appraisal method was proportionate, transparent, and empirically supported.",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html#relationship-to-evaluation",
+    "href": "notes/dft-tag-appraisal-evaluation.html#relationship-to-evaluation",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "Relationship to Evaluation",
+    "text": "Relationship to Evaluation\nTAG is strongest as appraisal guidance. It supports ex ante decisions by estimating expected costs and benefits before delivery. Evaluation uses a different evidence posture: it asks what happened, why, for whom, at what cost, and how this compares with expectations.\nThe link between the two is learning. TAG assumptions should not be treated as settled truths. They are hypotheses that can be tested through monitoring, process evaluation, impact evaluation, and value for money evaluation.\nThis connects TAG to the Magenta Book VfM Evaluation, which gives central government guidance on using evaluation evidence to judge actual value after implementation.",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html#practical-implications",
+    "href": "notes/dft-tag-appraisal-evaluation.html#practical-implications",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nWhen integrating TAG into a VfM evidence base, useful notes should separate:\n\nappraisal methods used to forecast value;\nmodelling assumptions and TAG databook values;\nnon-monetised effects and how they were described;\nsensitivity and uncertainty analysis;\nmonitoring and evaluation plans;\nevidence gaps that later evaluation should close.\n\nThis makes TAG useful both as a source of appraisal standards and as a map of claims that can be tested after transport interventions are delivered.",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "notes/dft-tag-appraisal-evaluation.html#links",
+    "href": "notes/dft-tag-appraisal-evaluation.html#links",
+    "title": "DfT TAG Appraisal and Evaluation",
+    "section": "Links",
+    "text": "Links\nSee also the DfT VfM Framework, DfT Transport Business Case, and Green Book VfM Guidance notes.\nReturn to the notes overview.",
+    "crumbs": [
+      "Notes",
+      "DfT TAG Appraisal and Evaluation"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Value for Money Evaluation Knowledge Base",
+    "section": "",
+    "text": "Evaluation evidence and judgement\n\nValue for money evaluation\nThis knowledge base organises practical notes on value for money evaluation: how evaluators define criteria, assemble evidence, make transparent judgements, and report credible conclusions.\n\nOpen Notes Start with Definitions\n\n\n\n\n\nSource note\n\nVfM Definitions\nCompare authoritative definitions from HM Treasury, the National Audit Office, and OECD DAC.\n\n\n\nSource note\n\nMagenta Book VfM Evaluation\nRead the source note on HM Treasury’s guidance for value for money evaluation.\n\n\n\nKnowledge map\n\nNotes Map\nExplore the emerging relationship between pages, citations, and linked source material.\n\n\n\nReport\n\nDefence VfM Guidance\nApply rubric-based value for money evaluation to defence capability, digital, and infrastructure programmes."
+  },
+  {
     "objectID": "notes/index.html",
     "href": "notes/index.html",
     "title": "Notes",
     "section": "",
-    "text": "VfM source notes\n\n\nThis section collects value for money evaluation notes. Start with the definitions synthesis, then follow the source notes and map to see how citations and linked source material connect.\n\nSource notes VfM criteria Evidence map\n\n\n\n\n\n\n\nSource\n\n\nCompares authoritative definitions from HM Treasury, the National Audit Office, and the OECD DAC evaluation criteria.\n\n\n\nSource\n\n\nSummarises HM Treasury’s Green Book definition of value for money, including social value, monetised and unmonetised effects, distribution, and risk.\n\n\n\nSource\n\n\nSummarises the National Audit Office definition of good value for money through economy, efficiency, effectiveness, and intended outcomes.\n\n\n\nSource\n\n\nSummarises OPM’s approach to assessing value for money, including criteria, rubrics, evidence standards, synthesis, judgement, and reporting.\n\n\n\nSource\n\n\nSummarises HM Treasury’s Magenta Book guidance on value for money evaluation, including appraisal links, VfM methods, Four Es, rubric-based approaches, and mixed evidence synthesis.\n\n\n\nSource\n\n\nSummarises the OECD DAC evaluation criteria, including relevance, coherence, effectiveness, efficiency, impact, sustainability, and the principles for thoughtful use.\n\n\n\n\n\n\n\nInternal nodes are limited to the Notes section. External nodes show cited references and linked source pages.\n\n\n  \n    \n      Find node\n      \n    \n    \n      \n      Notes pages\n    \n    \n      \n      External sources\n    \n    Reset view\n    \n  \n  \n    internal Notes pages\n    external Cited and linked sources\n    Hover to highlight links, click for details and navigation, then drag to reposition or scroll to zoom.",
+    "text": "VfM source notes\n\n\nThis section collects value for money evaluation notes. Start with the definitions synthesis, then follow the source notes and map to see how citations and linked source material connect.\n\nSource notes VfM criteria Evidence map\n\n\n\n\n\n\n\nSource\n\n\nCompares authoritative definitions from HM Treasury, the National Audit Office, and the OECD DAC evaluation criteria.\n\n\n\nSource\n\n\nSummarises HM Treasury’s Green Book definition of value for money, including social value, monetised and unmonetised effects, distribution, and risk.\n\n\n\nSource\n\n\nSummarises the National Audit Office definition of good value for money through economy, efficiency, effectiveness, and intended outcomes.\n\n\n\nSource\n\n\nSummarises OPM’s approach to assessing value for money, including criteria, rubrics, evidence standards, synthesis, judgement, and reporting.\n\n\n\nSource\n\n\nSummarises HM Treasury’s Magenta Book guidance on value for money evaluation, including appraisal links, VfM methods, Four Es, rubric-based approaches, and mixed evidence synthesis.\n\n\n\nSource\n\n\nSummarises the OECD DAC evaluation criteria, including relevance, coherence, effectiveness, efficiency, impact, sustainability, and the principles for thoughtful use.\n\n\n\nSource\n\n\nSummarises DfT’s framework for transport value for money assessment, including BCRs, non-monetised impacts, risk, uncertainty, and VfM categories.\n\n\n\nSource\n\n\nSummarises how DfT applies the five-case model, TAG, Green Book guidance, and value for money evidence in transport investment decisions.\n\n\n\nSource\n\n\nSummarises Transport Analysis Guidance as DfT’s technical base for transport modelling, appraisal, evaluation planning, and analytical assurance.\n\n\n\nSource\n\n\nSummarises DfT’s portfolio indicator for expected value for money at approval and distinguishes it from evaluation of achieved value.\n\n\n\nSource\n\n\nSummarises DfT’s Integrated Transport Block and major bus-related scheme value for money assessments as practical portfolio examples.\n\n\n\n\n\n\n\nInternal nodes are limited to the Notes section. External nodes show cited references and linked source pages.\n\n\n  \n    \n      Find node\n      \n    \n    \n      \n      Notes pages\n    \n    \n      \n      External sources\n    \n    Reset view\n    \n  \n  \n    internal Notes pages\n    external Cited and linked sources\n    Hover to highlight links, click for details and navigation, then drag to reposition or scroll to zoom.",
     "crumbs": [
       "Notes",
       "Notes Overview"
@@ -400,7 +693,7 @@
     "href": "notes/index.html#source-notes",
     "title": "Notes",
     "section": "",
-    "text": "Source\n\n\nCompares authoritative definitions from HM Treasury, the National Audit Office, and the OECD DAC evaluation criteria.\n\n\n\nSource\n\n\nSummarises HM Treasury’s Green Book definition of value for money, including social value, monetised and unmonetised effects, distribution, and risk.\n\n\n\nSource\n\n\nSummarises the National Audit Office definition of good value for money through economy, efficiency, effectiveness, and intended outcomes.\n\n\n\nSource\n\n\nSummarises OPM’s approach to assessing value for money, including criteria, rubrics, evidence standards, synthesis, judgement, and reporting.\n\n\n\nSource\n\n\nSummarises HM Treasury’s Magenta Book guidance on value for money evaluation, including appraisal links, VfM methods, Four Es, rubric-based approaches, and mixed evidence synthesis.\n\n\n\nSource\n\n\nSummarises the OECD DAC evaluation criteria, including relevance, coherence, effectiveness, efficiency, impact, sustainability, and the principles for thoughtful use.",
+    "text": "Source\n\n\nCompares authoritative definitions from HM Treasury, the National Audit Office, and the OECD DAC evaluation criteria.\n\n\n\nSource\n\n\nSummarises HM Treasury’s Green Book definition of value for money, including social value, monetised and unmonetised effects, distribution, and risk.\n\n\n\nSource\n\n\nSummarises the National Audit Office definition of good value for money through economy, efficiency, effectiveness, and intended outcomes.\n\n\n\nSource\n\n\nSummarises OPM’s approach to assessing value for money, including criteria, rubrics, evidence standards, synthesis, judgement, and reporting.\n\n\n\nSource\n\n\nSummarises HM Treasury’s Magenta Book guidance on value for money evaluation, including appraisal links, VfM methods, Four Es, rubric-based approaches, and mixed evidence synthesis.\n\n\n\nSource\n\n\nSummarises the OECD DAC evaluation criteria, including relevance, coherence, effectiveness, efficiency, impact, sustainability, and the principles for thoughtful use.\n\n\n\nSource\n\n\nSummarises DfT’s framework for transport value for money assessment, including BCRs, non-monetised impacts, risk, uncertainty, and VfM categories.\n\n\n\nSource\n\n\nSummarises how DfT applies the five-case model, TAG, Green Book guidance, and value for money evidence in transport investment decisions.\n\n\n\nSource\n\n\nSummarises Transport Analysis Guidance as DfT’s technical base for transport modelling, appraisal, evaluation planning, and analytical assurance.\n\n\n\nSource\n\n\nSummarises DfT’s portfolio indicator for expected value for money at approval and distinguishes it from evaluation of achieved value.\n\n\n\nSource\n\n\nSummarises DfT’s Integrated Transport Block and major bus-related scheme value for money assessments as practical portfolio examples.",
     "crumbs": [
       "Notes",
       "Notes Overview"
@@ -418,11 +711,202 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Value for Money Evaluation Knowledge Base",
+    "objectID": "notes/dft-transport-business-case.html",
+    "href": "notes/dft-transport-business-case.html",
+    "title": "DfT Transport Business Case",
     "section": "",
-    "text": "Evaluation evidence and judgement\n\nValue for money evaluation\nThis knowledge base organises practical notes on value for money evaluation: how evaluators define criteria, assemble evidence, make transparent judgements, and report credible conclusions.\n\nOpen Notes Start with Definitions\n\n\n\n\n\nSource note\n\nVfM Definitions\nCompare authoritative definitions from HM Treasury, the National Audit Office, and OECD DAC.\n\n\n\nSource note\n\nMagenta Book VfM Evaluation\nRead the source note on HM Treasury’s guidance for value for money evaluation.\n\n\n\nKnowledge map\n\nNotes Map\nExplore the emerging relationship between pages, citations, and linked source material.\n\n\n\nReport\n\nDefence VfM Guidance\nApply rubric-based value for money evaluation to defence capability, digital, and infrastructure programmes."
+    "text": "This note summarises the Department for Transport’s transport business case guidance (Department for Transport 2022). It focuses on how the business case process uses appraisal evidence, Transport Analysis Guidance, the Green Book, and DfT’s value for money framework.\nThe related source page is:\n\nGOV.UK: Transport business case guidance",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-transport-business-case.html#source",
+    "href": "notes/dft-transport-business-case.html#source",
+    "title": "DfT Transport Business Case",
+    "section": "",
+    "text": "This note summarises the Department for Transport’s transport business case guidance (Department for Transport 2022). It focuses on how the business case process uses appraisal evidence, Transport Analysis Guidance, the Green Book, and DfT’s value for money framework.\nThe related source page is:\n\nGOV.UK: Transport business case guidance",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-transport-business-case.html#core-idea",
+    "href": "notes/dft-transport-business-case.html#core-idea",
+    "title": "DfT Transport Business Case",
+    "section": "Core Idea",
+    "text": "Core Idea\nDfT uses the five-case model to structure transport investment decisions. Value for money sits mainly in the economic dimension, but the guidance is clear that the five dimensions are connected. A proposal can only be strong if it has strategic fit, economic value, commercial viability, financial affordability, and credible delivery arrangements.\nThe business case is therefore not just a container for a BCR. It is an iterative decision document that should become more accurate as evidence develops from strategic outline case to outline business case to full business case.",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-transport-business-case.html#business-case-dimensions",
+    "href": "notes/dft-transport-business-case.html#business-case-dimensions",
+    "title": "DfT Transport Business Case",
+    "section": "Business Case Dimensions",
+    "text": "Business Case Dimensions\nThe five dimensions create a practical frame for VfM:\n\nStrategic dimension: whether the proposal responds to a real transport problem and fits national, regional, local, and organisational priorities.\nEconomic dimension: whether the proposal is the best choice for maximising social welfare, using options appraisal and DfT’s value for money framework.\nCommercial dimension: whether the market, procurement route, and supply-side capacity can deliver the proposal.\nFinancial dimension: whether the proposal is affordable within the relevant budgets.\nManagement dimension: whether the proposal can be delivered and managed from outputs through to outcomes.\n\nThis matters for VfM evaluation because weak delivery, affordability, or commercial assumptions can undermine expected value even when the appraisal ratio looks strong.",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-transport-business-case.html#role-of-tag-and-the-vfm-framework",
+    "href": "notes/dft-transport-business-case.html#role-of-tag-and-the-vfm-framework",
+    "title": "DfT Transport Business Case",
+    "section": "Role of TAG and the VfM Framework",
+    "text": "Role of TAG and the VfM Framework\nThe guidance positions TAG as the detailed transport appraisal and modelling guidance used to produce consistent evidence for business cases. DfT’s value for money framework then explains how appraisal outputs are converted into a VfM assessment and communicated to decision makers.\nThe economic dimension should include economic, environmental, and social impacts. It should use monetised evidence where possible, but also account for qualitative and quantitative evidence where monetisation is not credible or complete. This aligns with the Green Book VfM Guidance and the DfT VfM Framework.",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-transport-business-case.html#strategic-coherence-and-distribution",
+    "href": "notes/dft-transport-business-case.html#strategic-coherence-and-distribution",
+    "title": "DfT Transport Business Case",
+    "section": "Strategic Coherence and Distribution",
+    "text": "Strategic Coherence and Distribution\nThe 2022 guidance reflects the Green Book Review emphasis on strategic coherence, distributional analysis, and place-based impacts. This is important for transport because schemes often have uneven effects across people, places, transport users, non-users, businesses, and future generations.\nFor evaluation, this means that the business case should not be treated only as a forecast of aggregate benefits. It is also a record of whose outcomes mattered, where benefits and costs were expected to fall, and which strategic objectives the intervention was supposed to advance.",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-transport-business-case.html#relationship-to-evaluation",
+    "href": "notes/dft-transport-business-case.html#relationship-to-evaluation",
+    "title": "DfT Transport Business Case",
+    "section": "Relationship to Evaluation",
+    "text": "Relationship to Evaluation\nThe business case sets the expected value story. Evaluation tests that story.\nThe management dimension is especially important because it should describe how outputs become outcomes and how benefits will be realised. A later VfM evaluation can use the business case to ask:\n\nWere the original objectives and critical success factors still relevant?\nWere the short-listed options and counterfactual assumptions reasonable?\nDid costs, benefits, risks, and delivery assumptions hold up?\nWere non-monetised and distributional effects tracked after approval?\nDid commercial, financial, or management issues affect achieved value?\n\nThe Magenta Book VfM Evaluation provides the stronger evaluation framing for this comparison between expected and realised value.",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-transport-business-case.html#practical-implications",
+    "href": "notes/dft-transport-business-case.html#practical-implications",
+    "title": "DfT Transport Business Case",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nFor evaluators taking notes from a transport business case, the useful extraction fields are:\n\nstage of business case and investment decision point;\nstrategic objectives and spending objectives;\npreferred option and alternatives rejected;\nVfM category, BCR, net present value, and non-monetised impacts;\nkey risks, sensitivities, optimism bias, and uncertainty analysis;\ndistributional and place-based claims;\nbenefits management, monitoring, and evaluation commitments.\n\nThese fields make it possible to connect DfT appraisal evidence to later process, impact, and value for money evaluation.",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-transport-business-case.html#links",
+    "href": "notes/dft-transport-business-case.html#links",
+    "title": "DfT Transport Business Case",
+    "section": "Links",
+    "text": "Links\nSee also the DfT TAG Appraisal and Evaluation, DfT VfM Framework, and DfT VfM Case Examples notes.\nReturn to the notes overview.",
+    "crumbs": [
+      "Notes",
+      "DfT Transport Business Case"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html",
+    "href": "notes/dft-vfm-framework.html",
+    "title": "DfT VfM Framework",
+    "section": "",
+    "text": "This note summarises the Department for Transport’s value for money framework and the role of the Transport Appraisal and Strategic Modelling division in maintaining value for money guidance (Department for Transport 2025, 2026).\nThe related source pages are:\n\nGOV.UK: DfT value for money framework\nDfT: Transport appraisal and strategic modelling division",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html#source",
+    "href": "notes/dft-vfm-framework.html#source",
+    "title": "DfT VfM Framework",
+    "section": "",
+    "text": "This note summarises the Department for Transport’s value for money framework and the role of the Transport Appraisal and Strategic Modelling division in maintaining value for money guidance (Department for Transport 2025, 2026).\nThe related source pages are:\n\nGOV.UK: DfT value for money framework\nDfT: Transport appraisal and strategic modelling division",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html#core-idea",
+    "href": "notes/dft-vfm-framework.html#core-idea",
+    "title": "DfT VfM Framework",
+    "section": "Core Idea",
+    "text": "Core Idea\nDfT’s framework is an appraisal framework for judging whether expected costs are justified by expected benefits. It is designed for decision advice on proposed transport interventions, especially where ministers and investment boards need a clear value for money statement.\nThe framework sits inside the wider government appraisal system. It draws on the Green Book VfM Guidance, uses DfT’s Transport Analysis Guidance for transport-specific appraisal methods, and feeds the economic dimension of the DfT Transport Business Case.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html#vfm-metrics",
+    "href": "notes/dft-vfm-framework.html#vfm-metrics",
+    "title": "DfT VfM Framework",
+    "section": "VfM Metrics",
+    "text": "VfM Metrics\nThe framework starts from monetised appraisal. Benefit-cost ratios (BCRs), net present values, present value of benefits, and present value of costs are central because they give decision makers a disciplined way to compare expected social benefits with expected resource costs.\nDfT also recognises that a single monetised ratio is incomplete. Transport proposals can have important environmental, social, place-based, distributional, safety, reliability, resilience, and landscape effects that may not be fully monetised. The VfM judgement therefore needs to combine monetised evidence with qualitative and quantitative evidence on non-monetised impacts.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html#vfm-categories",
+    "href": "notes/dft-vfm-framework.html#vfm-categories",
+    "title": "DfT VfM Framework",
+    "section": "VfM Categories",
+    "text": "VfM Categories\nDfT communicates results through value for money categories. The category is not simply the initial BCR band. Analysts are expected to consider non-monetised impacts, risk, uncertainty, sensitivity tests, and the robustness of the analysis before recommending a final category.\nThis makes the category a structured judgement. The BCR provides the starting point, but the final judgement should explain whether other effects strengthen, weaken, or materially change the initial conclusion.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html#risk-and-uncertainty",
+    "href": "notes/dft-vfm-framework.html#risk-and-uncertainty",
+    "title": "DfT VfM Framework",
+    "section": "Risk and Uncertainty",
+    "text": "Risk and Uncertainty\nThe framework places weight on uncertainty because transport benefits and costs often depend on long-term demand, delivery risk, behavioural response, technology change, environmental assumptions, and wider economic conditions.\nGood VfM advice should therefore show:\n\ncentral estimates and the assumptions behind them;\nsensitivity tests around material drivers of benefits and costs;\nswitching values where useful for showing what would need to change to alter the category;\noptimism bias, cost risk, and delivery risk where relevant;\nthe direction and scale of non-monetised effects.\n\nThe practical implication is that uncertainty is part of the VfM judgement, not a caveat added after the result.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html#relationship-to-evaluation",
+    "href": "notes/dft-vfm-framework.html#relationship-to-evaluation",
+    "title": "DfT VfM Framework",
+    "section": "Relationship to Evaluation",
+    "text": "Relationship to Evaluation\nThe DfT framework is mainly ex ante. It guides decisions before schemes are approved and implemented. It does not itself provide a full method for ex post value for money evaluation.\nHowever, it creates a clear evaluation agenda. If appraisal expects benefits from journey time savings, reliability, safety, mode shift, carbon reduction, local growth, or distributional effects, later evaluation should test whether those benefits were delivered and whether the appraisal assumptions were credible.\nThis links directly to the Magenta Book VfM Evaluation note. The Magenta Book is more explicit about evaluating actual costs, outcomes, unintended effects, and alternatives after implementation. DfT’s framework supplies the original appraisal expectations that evaluation can test.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html#practical-implications",
+    "href": "notes/dft-vfm-framework.html#practical-implications",
+    "title": "DfT VfM Framework",
+    "section": "Practical Implications",
+    "text": "Practical Implications\nFor transport evaluators, the framework is useful as a baseline for reconstructing the original value proposition:\n\nIdentify the original VfM category and its monetised basis.\nSeparate monetised impacts from non-monetised impacts.\nTrace the assumptions that drove the BCR or net present value.\nCheck whether sensitivity tests covered the risks that later mattered.\nCompare expected and realised costs, benefits, and distributional effects.\nRecord lessons for future TAG parameters, optimism bias, and appraisal practice.\n\nWhere effects cannot be monetised convincingly, evaluators may need a rubric-based or criteria-based synthesis. That is where the OPM King VfM Guidance complements DfT’s category framework.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
+  },
+  {
+    "objectID": "notes/dft-vfm-framework.html#links",
+    "href": "notes/dft-vfm-framework.html#links",
+    "title": "DfT VfM Framework",
+    "section": "Links",
+    "text": "Links\nSee also the DfT Transport Business Case, DfT TAG Appraisal and Evaluation, and DfT VfM Indicator notes.\nReturn to the notes overview.",
+    "crumbs": [
+      "Notes",
+      "DfT VfM Framework"
+    ]
   },
   {
     "objectID": "notes/green-book-vfm-guidance.html",

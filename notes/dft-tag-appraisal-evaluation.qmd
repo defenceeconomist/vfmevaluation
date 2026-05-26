@@ -1,0 +1,72 @@
+---
+title: "DfT TAG Appraisal and Evaluation"
+description: "Source note on Transport Analysis Guidance and its role in transport appraisal, modelling, and evaluation."
+---
+
+## Source
+
+This note summarises the Department for Transport's Transport Analysis Guidance (TAG) landing page and the role of the Transport Appraisal and Strategic Modelling division [@department_for_transport_2025_tag; @department_for_transport_2026_tasm].
+
+The related source pages are:
+
+- [GOV.UK: Transport analysis guidance](https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport)
+- [DfT: Transport appraisal and strategic modelling division](https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division)
+
+## Core Idea
+
+TAG is DfT's transport-specific analytical system for modelling and appraisal. It gives practitioners guidance on defining problems, developing options, building transport models, estimating impacts, and presenting appraisal evidence for business cases.
+
+For value for money work, TAG is the technical base. It supplies the methods and data assumptions that feed the [DfT VfM Framework](dft-vfm-framework.qmd) and the economic dimension of the [DfT Transport Business Case](dft-transport-business-case.qmd).
+
+## Appraisal Scope
+
+TAG covers several linked areas:
+
+- overview material on the transport appraisal process;
+- guidance for senior responsible officers and technical project managers;
+- appraisal units on cost-benefit analysis, costs, user and provider impacts, economic impacts, environmental impacts, social impacts, distributional impacts, and mode-specific issues;
+- modelling guidance on forecasting, demand modelling, assignment, calibration, validation, and uncertainty;
+- appraisal worksheets, databooks, software tools, supplementary guidance, and update reports.
+
+The scope shows why transport VfM is broader than transport user benefits alone. A credible appraisal needs to account for economic, environmental, social, place-based, distributional, and uncertainty evidence where material.
+
+## Evaluation Practitioner Guidance
+
+TAG includes guidance for the evaluation practitioner. This matters because DfT treats evaluation as part of the transport appraisal process rather than a disconnected afterthought.
+
+The implication is that evaluation should be planned early enough to collect baseline data, monitor delivery, and compare realised effects with the assumptions used in appraisal. Evaluation can then improve future appraisal by testing demand forecasts, cost assumptions, behaviour change assumptions, benefit realisation, and the treatment of non-monetised impacts.
+
+## Analytical Assurance
+
+TASM maintains TAG, develops value for money guidance, scrutinises value for money advice submitted to ministers and DfT investment boards, and oversees analytical assurance. This gives the guidance an institutional role: TAG is both a technical method base and a quality-assurance standard for decision advice.
+
+For evaluators, the assurance role is important because weaknesses in modelling, data, or assumptions can become evaluation questions. A good evaluation can ask whether the appraisal method was proportionate, transparent, and empirically supported.
+
+## Relationship to Evaluation
+
+TAG is strongest as appraisal guidance. It supports ex ante decisions by estimating expected costs and benefits before delivery. Evaluation uses a different evidence posture: it asks what happened, why, for whom, at what cost, and how this compares with expectations.
+
+The link between the two is learning. TAG assumptions should not be treated as settled truths. They are hypotheses that can be tested through monitoring, process evaluation, impact evaluation, and value for money evaluation.
+
+This connects TAG to the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd), which gives central government guidance on using evaluation evidence to judge actual value after implementation.
+
+## Practical Implications
+
+When integrating TAG into a VfM evidence base, useful notes should separate:
+
+1. appraisal methods used to forecast value;
+2. modelling assumptions and TAG databook values;
+3. non-monetised effects and how they were described;
+4. sensitivity and uncertainty analysis;
+5. monitoring and evaluation plans;
+6. evidence gaps that later evaluation should close.
+
+This makes TAG useful both as a source of appraisal standards and as a map of claims that can be tested after transport interventions are delivered.
+
+## Links
+
+See also the [DfT VfM Framework](dft-vfm-framework.qmd), [DfT Transport Business Case](dft-transport-business-case.qmd), and [Green Book VfM Guidance](green-book-vfm-guidance.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References

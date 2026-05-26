@@ -1,0 +1,67 @@
+---
+title: "DfT VfM Indicator"
+description: "Source note on DfT's value for money indicator and its distinction between expected and achieved value."
+---
+
+## Source
+
+This note summarises DfT's value for money indicator collection [@department_for_transport_2022_vfm_indicator]. It focuses on what the indicator reports and what it does not report.
+
+The related source page is:
+
+- [GOV.UK: DfT value for money indicator](https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money)
+
+## Core Idea
+
+The DfT value for money indicator reports the proportion of approved project spending that is assessed as high or very high value for money under DfT's framework. It is a transparency measure about investment decisions, not an evaluation of realised project performance.
+
+This distinction is central. The indicator is based on expected value at the point of approval. It does not show whether schemes later delivered the benefits, costs, distributional effects, or non-monetised impacts assumed in the appraisal.
+
+## How the Indicator Works
+
+The indicator aggregates approved spending by value for money category. Projects are weighted by approved spending, so large lower-value projects can materially affect the indicator even if many smaller projects are high value.
+
+The category used in the indicator comes from DfT's appraisal process. The process starts from monetised evidence such as BCRs and then considers impacts, risks, and non-monetised factors before assigning a final category.
+
+The indicator therefore depends on the quality of the underlying appraisal evidence, the consistency of category assignment, and the treatment of uncertainty.
+
+## What It Does Not Show
+
+The indicator should not be read as evidence of achieved value for money. It does not compare forecast benefits with realised benefits after implementation. It also does not show whether optimism bias, demand forecasts, cost risks, or non-monetised impacts were borne out in practice.
+
+This makes it useful for understanding DfT's appraisal and decision pipeline, but limited for evaluation. A separate evaluation would be needed to assess whether the approved portfolio actually delivered high or very high value once implemented.
+
+## Relationship to Evaluation
+
+The indicator creates a portfolio-level evaluation opportunity. Evaluators can use it to identify which approved projects were expected to deliver strong VfM, then investigate:
+
+- whether the original categories were robust;
+- whether schemes delivered the benefits and costs assumed at approval;
+- whether lower or higher realised value was driven by delivery, demand, price, scope, or external-context changes;
+- whether non-monetised impacts strengthened or weakened achieved value;
+- whether lessons should change future TAG assumptions or DfT category judgements.
+
+This is where the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) and [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) can add value. They provide methods for judging actual value when the evidence is mixed and not all effects can be monetised.
+
+## Practical Implications
+
+For the knowledge base, the DfT indicator should be coded as an appraisal transparency source rather than an evaluation source.
+
+Useful note fields include:
+
+1. reporting year and project scope;
+2. spending included and excluded;
+3. category distribution by approved spending;
+4. stated limitations and uncertainty;
+5. any explicit caveats about expected versus achieved value;
+6. links back to the [DfT VfM Framework](dft-vfm-framework.qmd).
+
+This prevents a common mistake: treating an ex ante portfolio indicator as proof of ex post performance.
+
+## Links
+
+See also the [DfT VfM Framework](dft-vfm-framework.qmd), [DfT Transport Business Case](dft-transport-business-case.qmd), and [DfT VfM Case Examples](dft-vfm-case-examples.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References

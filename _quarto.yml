@@ -43,6 +43,16 @@ website:
           text: Magenta Book VfM Evaluation
         - href: notes/oecd-dac-evaluation-criteria.qmd
           text: OECD DAC Evaluation Criteria
+        - href: notes/dft-vfm-framework.qmd
+          text: DfT VfM Framework
+        - href: notes/dft-transport-business-case.qmd
+          text: DfT Transport Business Case
+        - href: notes/dft-tag-appraisal-evaluation.qmd
+          text: DfT TAG Appraisal and Evaluation
+        - href: notes/dft-vfm-indicator.qmd
+          text: DfT VfM Indicator
+        - href: notes/dft-vfm-case-examples.qmd
+          text: DfT VfM Case Examples
     - id: reports
       title: "Reports"
       style: docked
