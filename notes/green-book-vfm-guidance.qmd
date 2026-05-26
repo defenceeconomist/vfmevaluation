@@ -61,6 +61,8 @@ See also the [VfM Definitions](vfm-definitions.qmd) synthesis note.
 
 See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for how UK evaluation guidance connects VfM evaluation to Green Book appraisal.
 
+See also the [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) note for a UK public services approach to using cost-benefit analysis alongside broader criteria, standards, and mixed evidence.
+
 Return to the [notes overview](index.qmd).
 
 ## References

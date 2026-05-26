@@ -58,6 +58,14 @@ Summarises OPM's approach to assessing value for money, including criteria, rubr
 ::: {.section-card}
 <span class="page-badge badge-source">Source</span>
 
+### [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd)
+
+Summarises King and Hurrell's Verian guide to evaluating value for money in UK public services, including the relationship between cost-benefit analysis and broader Value for Investment assessment.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-source">Source</span>
+
 ### [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd)
 
 Summarises HM Treasury's Magenta Book guidance on value for money evaluation, including appraisal links, VfM methods, Four Es, rubric-based approaches, and mixed evidence synthesis.

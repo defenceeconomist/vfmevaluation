@@ -78,6 +78,8 @@ See also the [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd) no
 
 See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for UK government evaluation guidance.
 
+See also the [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) note for King and Hurrell's distinction between VfM as the evaluative question and cost-benefit analysis as one possible method.
+
 Return to the [notes overview](index.qmd).
 
 ## References

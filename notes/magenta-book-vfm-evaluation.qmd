@@ -70,6 +70,8 @@ The Magenta Book's treatment of rubric-based approaches is closely aligned with 
 
 The Annex A discussion also cites Julian King's OPM guide and gives examples of government evaluations using Four Es and rubric-based frameworks. This makes the OPM King approach part of the recognised UK government evaluation methods landscape, especially for interventions where monetisation is difficult or partial.
 
+The [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) develops a closely related UK public services argument: cost-benefit analysis can be useful evidence, but VfM evaluation often needs wider criteria, mixed evidence, and explicit standards to judge non-monetised public value.
+
 ## Practical Implications
 
 For evaluators, the Magenta Book points to a staged workflow:
@@ -85,6 +87,8 @@ For evaluators, the Magenta Book points to a staged workflow:
 The most credible VfM evaluations make the judgement traceable. Readers should be able to see how appraisal expectations, observed evidence, monetised analysis, unmonetised effects, uncertainty, and stakeholder-relevant criteria combine into the final conclusion.
 
 ## Links
+
+See also the [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) note for a practical account of combining cost-benefit analysis with broader evaluative judgement.
 
 Return to the [notes overview](index.qmd).
 

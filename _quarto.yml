@@ -39,6 +39,8 @@ website:
           text: NAO VfM Definition
         - href: notes/opm-king-vfm-guidance.qmd
           text: OPM King VfM Guidance
+        - href: notes/verian-value-for-investment-guidance.qmd
+          text: Verian Value for Investment Guidance
         - href: notes/magenta-book-vfm-evaluation.qmd
           text: Magenta Book VfM Evaluation
         - href: notes/oecd-dac-evaluation-criteria.qmd

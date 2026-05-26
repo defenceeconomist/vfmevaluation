@@ -1,6 +1,17 @@
 {
   "nodes": [
     {
+      "label": "A Guide to Evaluation of Value for Money in...",
+      "url": "https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf",
+      "citation_key": "king_hurrell_2024_verian_vfm",
+      "title": "A Guide to Evaluation of Value for Money in UK Public Services: Why Cost-Benefit Analysis Alone May Be Insufficient to Evaluate VfM, and How to Navigate a Solution",
+      "id": "cite:king_hurrell_2024_verian_vfm",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
       "label": "About Us",
       "url": "https://www.nao.org.uk/about-us/",
       "citation_key": "nao_about_us_vfm",
@@ -224,6 +235,15 @@
       "degree": 1
     },
     {
+      "label": "julianking.co.nz: Verian Group Valu...",
+      "url": "https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf",
+      "id": "https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
       "label": "Magenta Book Annex A: Analytical Methods fo...",
       "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-annex-a-analytical-methods-for-use-within-an-evaluation-html",
       "citation_key": "hm_treasury_evaluation_task_force_2026_magenta_book_annex_a",
@@ -364,6 +384,24 @@
       "degree": 1
     },
     {
+      "label": "veriangroup.com: guide evaluation v...",
+      "url": "https://www.veriangroup.com/news-and-insights/guide-evaluation-value-for-money",
+      "id": "https://www.veriangroup.com/news-and-insights/guide-evaluation-value-for-money",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "veriangroup.com: Verian%20Group%20...",
+      "url": "https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf",
+      "id": "https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
       "label": "VFM Diagram",
       "url": "https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf",
       "citation_key": "nao_2013_vfm_diagram",
@@ -424,18 +462,18 @@
       "label": "Green Book VfM Guidance",
       "kind": "internal",
       "path": "notes/green-book-vfm-guidance.qmd",
-      "incoming": 6,
-      "outgoing": 7,
-      "degree": 11
+      "incoming": 7,
+      "outgoing": 8,
+      "degree": 12
     },
     {
       "id": "notes/magenta-book-vfm-evaluation.qmd",
       "label": "Magenta Book VfM Evaluation",
       "kind": "internal",
       "path": "notes/magenta-book-vfm-evaluation.qmd",
-      "incoming": 10,
-      "outgoing": 9,
-      "degree": 17
+      "incoming": 11,
+      "outgoing": 10,
+      "degree": 18
     },
     {
       "id": "notes/nao-vfm-definition.qmd",
@@ -451,9 +489,9 @@
       "label": "Notes",
       "kind": "internal",
       "path": "notes/index.qmd",
-      "incoming": 11,
-      "outgoing": 11,
-      "degree": 11
+      "incoming": 12,
+      "outgoing": 12,
+      "degree": 12
     },
     {
       "id": "notes/oecd-dac-evaluation-criteria.qmd",
@@ -469,18 +507,27 @@
       "label": "OPM King VfM Guidance",
       "kind": "internal",
       "path": "notes/opm-king-vfm-guidance.qmd",
-      "incoming": 6,
-      "outgoing": 8,
-      "degree": 11
+      "incoming": 7,
+      "outgoing": 9,
+      "degree": 12
+    },
+    {
+      "id": "notes/verian-value-for-investment-guidance.qmd",
+      "label": "Verian Value for Investment Guidance",
+      "kind": "internal",
+      "path": "notes/verian-value-for-investment-guidance.qmd",
+      "incoming": 5,
+      "outgoing": 9,
+      "degree": 9
     },
     {
       "id": "notes/vfm-definitions.qmd",
       "label": "VfM Definitions",
       "kind": "internal",
       "path": "notes/vfm-definitions.qmd",
-      "incoming": 4,
-      "outgoing": 17,
-      "degree": 17
+      "incoming": 5,
+      "outgoing": 18,
+      "degree": 18
     }
   ],
   "edges": [
@@ -746,6 +793,11 @@
     },
     {
       "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
       "target": "notes/vfm-definitions.qmd",
       "kind": "internal"
     },
@@ -801,6 +853,11 @@
     },
     {
       "source": "notes/index.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
       "target": "notes/vfm-definitions.qmd",
       "kind": "internal"
     },
@@ -847,6 +904,11 @@
     {
       "source": "notes/magenta-book-vfm-evaluation.qmd",
       "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
       "kind": "internal"
     },
     {
@@ -975,6 +1037,56 @@
       "kind": "internal"
     },
     {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "cite:king_hurrell_2024_verian_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "https://www.veriangroup.com/news-and-insights/guide-evaluation-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/vfm-definitions.qmd",
+      "kind": "internal"
+    },
+    {
       "source": "notes/vfm-definitions.qmd",
       "target": "cite:hm_treasury_2022_green_book_vfm",
       "kind": "external"
@@ -1057,6 +1169,11 @@
     {
       "source": "notes/vfm-definitions.qmd",
       "target": "notes/oecd-dac-evaluation-criteria.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
       "kind": "internal"
     }
   ]

@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Source note on how DfT applies the five-case model and value for money evidence in transport business cases.">
+<meta name="description" content="Source note on King and Hurrell’s Verian guide to evaluating value for money in UK public services.">
 
-<title>DfT Transport Business Case – Value for Money Evaluation Knowledge Base</title>
+<title>Verian Value for Investment Guidance – Value for Money Evaluation Knowledge Base</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -89,6 +89,9 @@ div.csl-indent {
     "search-label": "Search"
   }
 }</script>
+<script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../assets/css/site.css">
@@ -131,7 +134,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../notes/dft-transport-business-case.html">DfT Transport Business Case</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../notes/verian-value-for-investment-guidance.html">Verian Value for Investment Guidance</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -183,7 +186,7 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../notes/verian-value-for-investment-guidance.html" class="sidebar-item-text sidebar-link">
+  <a href="../notes/verian-value-for-investment-guidance.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Verian Value for Investment Guidance</span></a>
   </div>
 </li>
@@ -207,7 +210,7 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../notes/dft-transport-business-case.html" class="sidebar-item-text sidebar-link active">
+  <a href="../notes/dft-transport-business-case.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">DfT Transport Business Case</span></a>
   </div>
 </li>
@@ -240,11 +243,23 @@ div.csl-indent {
    
   <ul>
   <li><a href="#source" id="toc-source" class="nav-link active" data-scroll-target="#source">Source</a></li>
-  <li><a href="#core-idea" id="toc-core-idea" class="nav-link" data-scroll-target="#core-idea">Core Idea</a></li>
-  <li><a href="#business-case-dimensions" id="toc-business-case-dimensions" class="nav-link" data-scroll-target="#business-case-dimensions">Business Case Dimensions</a></li>
-  <li><a href="#role-of-tag-and-the-vfm-framework" id="toc-role-of-tag-and-the-vfm-framework" class="nav-link" data-scroll-target="#role-of-tag-and-the-vfm-framework">Role of TAG and the VfM Framework</a></li>
-  <li><a href="#strategic-coherence-and-distribution" id="toc-strategic-coherence-and-distribution" class="nav-link" data-scroll-target="#strategic-coherence-and-distribution">Strategic Coherence and Distribution</a></li>
-  <li><a href="#relationship-to-evaluation" id="toc-relationship-to-evaluation" class="nav-link" data-scroll-target="#relationship-to-evaluation">Relationship to Evaluation</a></li>
+  <li><a href="#one-page-summary" id="toc-one-page-summary" class="nav-link" data-scroll-target="#one-page-summary">One-Page Summary</a></li>
+  <li><a href="#concept-map" id="toc-concept-map" class="nav-link" data-scroll-target="#concept-map">Concept Map</a></li>
+  <li><a href="#concept-notes" id="toc-concept-notes" class="nav-link" data-scroll-target="#concept-notes">Concept Notes</a>
+  <ul class="collapse">
+  <li><a href="#vfm-is-broader-than-cba" id="toc-vfm-is-broader-than-cba" class="nav-link" data-scroll-target="#vfm-is-broader-than-cba">VfM Is Broader Than CBA</a></li>
+  <li><a href="#cba-as-evidence-not-the-whole-judgement" id="toc-cba-as-evidence-not-the-whole-judgement" class="nav-link" data-scroll-target="#cba-as-evidence-not-the-whole-judgement">CBA as Evidence, Not the Whole Judgement</a></li>
+  <li><a href="#multiple-values" id="toc-multiple-values" class="nav-link" data-scroll-target="#multiple-values">Multiple Values</a></li>
+  <li><a href="#mixed-evidence" id="toc-mixed-evidence" class="nav-link" data-scroll-target="#mixed-evidence">Mixed Evidence</a></li>
+  <li><a href="#explicit-criteria-and-standards" id="toc-explicit-criteria-and-standards" class="nav-link" data-scroll-target="#explicit-criteria-and-standards">Explicit Criteria and Standards</a></li>
+  </ul></li>
+  <li><a href="#relationship-to-cost-benefit-analysis" id="toc-relationship-to-cost-benefit-analysis" class="nav-link" data-scroll-target="#relationship-to-cost-benefit-analysis">Relationship to Cost-Benefit Analysis</a></li>
+  <li><a href="#value-for-investment-process" id="toc-value-for-investment-process" class="nav-link" data-scroll-target="#value-for-investment-process">Value for Investment Process</a>
+  <ul class="collapse">
+  <li><a href="#design-phase" id="toc-design-phase" class="nav-link" data-scroll-target="#design-phase">Design Phase</a></li>
+  <li><a href="#implementation-phase" id="toc-implementation-phase" class="nav-link" data-scroll-target="#implementation-phase">Implementation Phase</a></li>
+  </ul></li>
+  <li><a href="#practical-note-taking-prompts" id="toc-practical-note-taking-prompts" class="nav-link" data-scroll-target="#practical-note-taking-prompts">Practical Note-Taking Prompts</a></li>
   <li><a href="#practical-implications" id="toc-practical-implications" class="nav-link" data-scroll-target="#practical-implications">Practical Implications</a></li>
   <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
@@ -256,12 +271,12 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">DfT Transport Business Case</h1>
+<h1 class="title">Verian Value for Investment Guidance</h1>
 </div>
 
 <div>
   <div class="description">
-    Source note on how DfT applies the five-case model and value for money evidence in transport business cases.
+    Source note on King and Hurrell’s Verian guide to evaluating value for money in UK public services.
   </div>
 </div>
 
@@ -280,69 +295,220 @@ div.csl-indent {
 
 <section id="source" class="level2">
 <h2 class="anchored" data-anchor-id="source">Source</h2>
-<p>This note summarises the Department for Transport’s transport business case guidance <span class="citation" data-cites="department_for_transport_2022_transport_business_case">(<a href="#ref-department_for_transport_2022_transport_business_case" role="doc-biblioref">Department for Transport 2022</a>)</span>. It focuses on how the business case process uses appraisal evidence, Transport Analysis Guidance, the Green Book, and DfT’s value for money framework.</p>
-<p>The related source page is:</p>
+<p>This note summarises King and Hurrell’s Verian guide, <em>A Guide to Evaluation of Value for Money in UK Public Services: Why Cost-Benefit Analysis Alone May Be Insufficient to Evaluate VfM, and How to Navigate a Solution</em> <span class="citation" data-cites="king_hurrell_2024_verian_vfm">(<a href="#ref-king_hurrell_2024_verian_vfm" role="doc-biblioref">King and Hurrell 2024</a>)</span>.</p>
+<p>The main sources are:</p>
 <ul>
-<li><a href="https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance">GOV.UK: Transport business case guidance</a></li>
+<li><a href="https://www.veriangroup.com/news-and-insights/guide-evaluation-value-for-money">Verian guide page: A guide to evaluation of Value for Money</a></li>
+<li><a href="https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf">Verian PDF: A Guide to Evaluation of Value for Money in UK Public Services</a></li>
+<li><a href="https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf">Julian King mirror: Verian Group Value for Money Guide, August 2024</a></li>
 </ul>
 </section>
-<section id="core-idea" class="level2">
-<h2 class="anchored" data-anchor-id="core-idea">Core Idea</h2>
-<p>DfT uses the five-case model to structure transport investment decisions. Value for money sits mainly in the economic dimension, but the guidance is clear that the five dimensions are connected. A proposal can only be strong if it has strategic fit, economic value, commercial viability, financial affordability, and credible delivery arrangements.</p>
-<p>The business case is therefore not just a container for a BCR. It is an iterative decision document that should become more accurate as evidence develops from strategic outline case to outline business case to full business case.</p>
+<section id="one-page-summary" class="level2">
+<h2 class="anchored" data-anchor-id="one-page-summary">One-Page Summary</h2>
+<p>King and Hurrell argue that value for money evaluation should not be reduced to cost-benefit analysis. CBA can be valuable evidence where costs and benefits can be credibly quantified and monetised, but many public services create value that is broader, contested, long term, uncertain, or difficult to monetise.</p>
+<p>The guide introduces <strong>Value for Investment</strong> as an interdisciplinary approach to VfM. It combines economics and evaluation by using mixed methods, explicit criteria, agreed standards, and evaluative reasoning. The aim is not to avoid economic analysis. The aim is to use economic analysis where it is appropriate, while also recognising social, environmental, cultural, institutional, distributional, and other forms of public value.</p>
+<p>The practical implication is that evaluators should design the VfM assessment around the decision context and value proposition. They should identify what value matters, who it matters to, what resources have been invested, which effects can be monetised, which effects require other evidence, and how trade-offs will be judged transparently.</p>
 </section>
-<section id="business-case-dimensions" class="level2">
-<h2 class="anchored" data-anchor-id="business-case-dimensions">Business Case Dimensions</h2>
-<p>The five dimensions create a practical frame for VfM:</p>
-<ul>
-<li>Strategic dimension: whether the proposal responds to a real transport problem and fits national, regional, local, and organisational priorities.</li>
-<li>Economic dimension: whether the proposal is the best choice for maximising social welfare, using options appraisal and DfT’s value for money framework.</li>
-<li>Commercial dimension: whether the market, procurement route, and supply-side capacity can deliver the proposal.</li>
-<li>Financial dimension: whether the proposal is affordable within the relevant budgets.</li>
-<li>Management dimension: whether the proposal can be delivered and managed from outputs through to outcomes.</li>
-</ul>
-<p>This matters for VfM evaluation because weak delivery, affordability, or commercial assumptions can undermine expected value even when the appraisal ratio looks strong.</p>
+<section id="concept-map" class="level2">
+<h2 class="anchored" data-anchor-id="concept-map">Concept Map</h2>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+  A[VfM evaluation] --&gt; B[Value for Investment]
+  A --&gt; C[Cost-benefit analysis]
+  A --&gt; D[Evaluative judgement]
+
+  B --&gt; E[Mixed methods]
+  B --&gt; F[Multiple public values]
+  B --&gt; G[Participatory design]
+  B --&gt; H[Criteria and standards]
+
+  C --&gt; I[Monetised costs and benefits]
+  C --&gt; J[Useful where feasible]
+  C --&gt; K[Partial evidence when value is hard to monetise]
+
+  D --&gt; L[Interpret evidence against standards]
+  D --&gt; M[Make trade-offs explicit]
+  D --&gt; N[Report a traceable judgement]
+
+  F --&gt; O[Social value]
+  F --&gt; P[Economic value]
+  F --&gt; Q[Environmental value]
+  F --&gt; R[Cultural and institutional value]
+
+  H --&gt; S[Design phase]
+  H --&gt; T[Implementation phase]
+  S --&gt; U[Value proposition and evaluation questions]
+  S --&gt; V[Criteria, standards, evidence plan]
+  T --&gt; W[Gather and analyse evidence]
+  T --&gt; X[Synthesise and report judgement]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 </section>
-<section id="role-of-tag-and-the-vfm-framework" class="level2">
-<h2 class="anchored" data-anchor-id="role-of-tag-and-the-vfm-framework">Role of TAG and the VfM Framework</h2>
-<p>The guidance positions TAG as the detailed transport appraisal and modelling guidance used to produce consistent evidence for business cases. DfT’s value for money framework then explains how appraisal outputs are converted into a VfM assessment and communicated to decision makers.</p>
-<p>The economic dimension should include economic, environmental, and social impacts. It should use monetised evidence where possible, but also account for qualitative and quantitative evidence where monetisation is not credible or complete. This aligns with the <a href="../notes/green-book-vfm-guidance.html">Green Book VfM Guidance</a> and the <a href="../notes/dft-vfm-framework.html">DfT VfM Framework</a>.</p>
+<section id="concept-notes" class="level2">
+<h2 class="anchored" data-anchor-id="concept-notes">Concept Notes</h2>
+<section id="vfm-is-broader-than-cba" class="level3">
+<h3 class="anchored" data-anchor-id="vfm-is-broader-than-cba">VfM Is Broader Than CBA</h3>
+<p>The guide’s central distinction is between VfM as the evaluation question and CBA as one possible method. A CBA can estimate whether monetised benefits exceed monetised costs, but VfM assessment may need to weigh several criteria at different stages of a policy or programme.</p>
+<p>This matters because public service interventions often produce value that is hard to capture in a single monetised ratio. Distribution, dignity, trust, resilience, prevention, user experience, environmental effects, institutional capability, and cultural value may be material even when they are not easily priced.</p>
 </section>
-<section id="strategic-coherence-and-distribution" class="level2">
-<h2 class="anchored" data-anchor-id="strategic-coherence-and-distribution">Strategic Coherence and Distribution</h2>
-<p>The 2022 guidance reflects the Green Book Review emphasis on strategic coherence, distributional analysis, and place-based impacts. This is important for transport because schemes often have uneven effects across people, places, transport users, non-users, businesses, and future generations.</p>
-<p>For evaluation, this means that the business case should not be treated only as a forecast of aggregate benefits. It is also a record of whose outcomes mattered, where benefits and costs were expected to fall, and which strategic objectives the intervention was supposed to advance.</p>
+<section id="cba-as-evidence-not-the-whole-judgement" class="level3">
+<h3 class="anchored" data-anchor-id="cba-as-evidence-not-the-whole-judgement">CBA as Evidence, Not the Whole Judgement</h3>
+<p>King and Hurrell do not reject CBA. They treat it as a potentially important input where monetisation is feasible, proportionate, and credible. The problem arises when CBA is treated as synonymous with VfM or when the monetised result crowds out important unmonetised evidence.</p>
+<p>In a Value for Investment assessment, CBA can sit alongside qualitative evidence, quantitative indicators, stakeholder evidence, implementation evidence, and rubric-based assessment. The final judgement should explain what the CBA covers, what it omits, and how omitted value affects the overall conclusion.</p>
 </section>
-<section id="relationship-to-evaluation" class="level2">
-<h2 class="anchored" data-anchor-id="relationship-to-evaluation">Relationship to Evaluation</h2>
-<p>The business case sets the expected value story. Evaluation tests that story.</p>
-<p>The management dimension is especially important because it should describe how outputs become outcomes and how benefits will be realised. A later VfM evaluation can use the business case to ask:</p>
+<section id="multiple-values" class="level3">
+<h3 class="anchored" data-anchor-id="multiple-values">Multiple Values</h3>
+<p>The guide broadens the value proposition beyond narrowly financial or monetised benefits. Evaluators should ask what kinds of value the investment is intended to create, for whom, and through what pathway.</p>
+<p>The values may include economic value, social value, environmental value, cultural value, public service quality, equity, capability, risk reduction, learning, and future optionality. The relevant set should be chosen for the policy or programme rather than copied mechanically from a generic list.</p>
+</section>
+<section id="mixed-evidence" class="level3">
+<h3 class="anchored" data-anchor-id="mixed-evidence">Mixed Evidence</h3>
+<p>Value for Investment uses mixed methods. Quantitative data can describe costs, outputs, outcomes, reach, timing, and trends. Qualitative evidence can explain how and why value was created, whose value counts, what trade-offs emerged, and what contextual factors shaped performance.</p>
+<p>Economic analysis remains part of this evidence mix. The key design choice is whether it should be the main method, a supporting line of evidence, or infeasible for the specific question and data conditions.</p>
+</section>
+<section id="explicit-criteria-and-standards" class="level3">
+<h3 class="anchored" data-anchor-id="explicit-criteria-and-standards">Explicit Criteria and Standards</h3>
+<p>The approach uses evaluative reasoning: evidence is interpreted against criteria and standards. Criteria define the dimensions of value and resource use that matter. Standards define what would count as poor, adequate, good, or excellent performance before the evidence is judged.</p>
+<p>This makes the judgement more transparent. Readers can see how evidence has been weighed, where evidence is weak, which trade-offs matter, and why the overall conclusion follows from the criteria.</p>
+</section>
+</section>
+<section id="relationship-to-cost-benefit-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="relationship-to-cost-benefit-analysis">Relationship to Cost-Benefit Analysis</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Approach</th>
+<th>Main contribution</th>
+<th>Main limitation</th>
+<th>Best use</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>CBA-led evaluation</td>
+<td>Produces a monetised comparison of costs and benefits, often through net present value or benefit-cost ratio.</td>
+<td>Can understate value when important effects cannot be credibly monetised or when distribution and non-market effects matter.</td>
+<td>Use when the main costs and benefits can be quantified and monetised with enough confidence to support decision making.</td>
+</tr>
+<tr class="even">
+<td>Rubric/evaluative judgement VfM</td>
+<td>Interprets mixed evidence against explicit criteria and standards.</td>
+<td>Does not produce a single comparable monetary metric and depends on the quality of criteria, standards, and evidence synthesis.</td>
+<td>Use when value is multidimensional, evidence is mixed, or judgement needs to include non-monetised effects.</td>
+</tr>
+<tr class="odd">
+<td>Combined Value for Investment assessment</td>
+<td>Uses CBA where useful while integrating wider evidence and criteria into a traceable VfM judgement.</td>
+<td>Requires careful design so the economic evidence and evaluative criteria are aligned rather than competing.</td>
+<td>Use when monetised analysis is informative but incomplete, or when decision makers need a broader account of public value.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="value-for-investment-process" class="level2">
+<h2 class="anchored" data-anchor-id="value-for-investment-process">Value for Investment Process</h2>
+<p>The guide presents Value for Investment as a practical design and implementation process.</p>
+<section id="design-phase" class="level3">
+<h3 class="anchored" data-anchor-id="design-phase">Design Phase</h3>
 <ol type="1">
-<li>Were the original objectives and critical success factors still relevant?</li>
-<li>Were the short-listed options and counterfactual assumptions reasonable?</li>
-<li>Did costs, benefits, risks, and delivery assumptions hold up?</li>
-<li>Were non-monetised and distributional effects tracked after approval?</li>
-<li>Did commercial, financial, or management issues affect achieved value?</li>
+<li>Understand the programme, policy, investment, decision context, and theory of change.</li>
+<li>Define the value proposition: what value is expected, for whom, and through which resources and activities.</li>
+<li>Develop evaluation questions that distinguish the overall VfM question from subquestions about economy, efficiency, effectiveness, equity, cost-effectiveness, or other relevant criteria.</li>
+<li>Select criteria that reflect the important dimensions of public value and good resource use.</li>
+<li>Define standards so that the assessment has a transparent basis for judgement.</li>
+<li>Identify evidence needs and methods, including whether CBA, CEA, break-even analysis, rubric assessment, qualitative inquiry, or other methods are appropriate.</li>
 </ol>
-<p>The <a href="../notes/magenta-book-vfm-evaluation.html">Magenta Book VfM Evaluation</a> provides the stronger evaluation framing for this comparison between expected and realised value.</p>
+</section>
+<section id="implementation-phase" class="level3">
+<h3 class="anchored" data-anchor-id="implementation-phase">Implementation Phase</h3>
+<ol type="1">
+<li>Gather evidence from cost data, monitoring data, outcome evidence, stakeholder perspectives, economic analysis, implementation evidence, and contextual analysis.</li>
+<li>Analyse evidence against each criterion and standard.</li>
+<li>Synthesise the evidence into criterion-level judgements.</li>
+<li>Make an overall VfM judgement that explains trade-offs, uncertainty, omitted evidence, and the relative contribution of monetised and non-monetised value.</li>
+<li>Report findings in a way that supports accountability, learning, and future resource allocation.</li>
+</ol>
+</section>
+</section>
+<section id="practical-note-taking-prompts" class="level2">
+<h2 class="anchored" data-anchor-id="practical-note-taking-prompts">Practical Note-Taking Prompts</h2>
+<p>Use these prompts when applying the guide to a programme or policy:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Prompt</th>
+<th>Notes to capture</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>What value is being assessed?</td>
+<td>Intended outcomes, public value, service quality, risk reduction, capability, learning, prevention, equity, or other material value.</td>
+</tr>
+<tr class="even">
+<td>For whom?</td>
+<td>Users, citizens, taxpayers, public bodies, delivery partners, places, future beneficiaries, and groups affected differently.</td>
+</tr>
+<tr class="odd">
+<td>What resources are used?</td>
+<td>Public spending, staff time, assets, political capital, data, partner resources, opportunity costs, and environmental resources.</td>
+</tr>
+<tr class="even">
+<td>Which values can and cannot be monetised?</td>
+<td>Effects suitable for CBA, effects better handled through quantitative non-monetised evidence, and effects needing qualitative judgement.</td>
+</tr>
+<tr class="odd">
+<td>Which criteria and standards will guide judgement?</td>
+<td>Programme-specific criteria, subcriteria, and performance standards agreed before evidence is interpreted.</td>
+</tr>
+<tr class="even">
+<td>What evidence is needed?</td>
+<td>Economic, financial, monitoring, outcome, process, qualitative, stakeholder, comparative, and contextual evidence.</td>
+</tr>
+<tr class="odd">
+<td>How will trade-offs be reported?</td>
+<td>Tensions between cost, quality, equity, speed, risk, uncertainty, monetised value, and wider public value.</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="practical-implications" class="level2">
 <h2 class="anchored" data-anchor-id="practical-implications">Practical Implications</h2>
-<p>For evaluators taking notes from a transport business case, the useful extraction fields are:</p>
-<ul>
-<li>stage of business case and investment decision point;</li>
-<li>strategic objectives and spending objectives;</li>
-<li>preferred option and alternatives rejected;</li>
-<li>VfM category, BCR, net present value, and non-monetised impacts;</li>
-<li>key risks, sensitivities, optimism bias, and uncertainty analysis;</li>
-<li>distributional and place-based claims;</li>
-<li>benefits management, monitoring, and evaluation commitments.</li>
-</ul>
-<p>These fields make it possible to connect DfT appraisal evidence to later process, impact, and value for money evaluation.</p>
+<p>For UK public service evaluation, the Verian guide supports a method choice sequence:</p>
+<ol type="1">
+<li>Start with the VfM question and decision context, not with a preferred method.</li>
+<li>Decide whether CBA can credibly answer all or part of the question.</li>
+<li>Identify the material non-monetised values that still need to be judged.</li>
+<li>Build criteria and standards that make those judgements explicit.</li>
+<li>Use mixed evidence to assess performance criterion by criterion.</li>
+<li>Explain how monetised and non-monetised evidence combine in the final judgement.</li>
+</ol>
+<p>The strongest VfM notes therefore show both the economic evidence and the evaluative reasoning. They do not hide behind a single ratio, but they also do not ignore quantitative or economic evidence where it can strengthen the assessment.</p>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>See also the <a href="../notes/dft-tag-appraisal-evaluation.html">DfT TAG Appraisal and Evaluation</a>, <a href="../notes/dft-vfm-framework.html">DfT VfM Framework</a>, and <a href="../notes/dft-vfm-case-examples.html">DfT VfM Case Examples</a> notes.</p>
+<p>See also the <a href="../notes/opm-king-vfm-guidance.html">OPM King VfM Guidance</a> note for the broader rubric-based approach to criteria, standards, evidence, synthesis, and judgement.</p>
+<p>See also the <a href="../notes/magenta-book-vfm-evaluation.html">Magenta Book VfM Evaluation</a> note for UK government evaluation guidance on appraisal links, economic methods, Four Es, and rubric-based approaches.</p>
+<p>See also the <a href="../notes/green-book-vfm-guidance.html">Green Book VfM Guidance</a> note for HM Treasury’s appraisal framing of value for money, social value, monetised and unmonetised effects, risk, and distribution.</p>
+<p>See also the <a href="../notes/vfm-definitions.html">VfM Definitions</a> synthesis note for comparison of HM Treasury, National Audit Office, and OECD framings.</p>
 <p>Return to the <a href="../notes/index.html">notes overview</a>.</p>
 </section>
 <section id="references" class="level2">
@@ -353,8 +519,8 @@ div.csl-indent {
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-department_for_transport_2022_transport_business_case" class="csl-entry" role="listitem">
-Department for Transport. 2022. <em>Transport Business Case Guidance</em>. GOV.UK. <a href="https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance">https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance</a>.
+<div id="ref-king_hurrell_2024_verian_vfm" class="csl-entry" role="listitem">
+King, Julian, and Alex Hurrell. 2024. <span>“A Guide to Evaluation of Value for Money in UK Public Services: Why Cost-Benefit Analysis Alone May Be Insufficient to Evaluate VfM, and How to Navigate a Solution.”</span> Verian Group. <a href="https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf">https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
