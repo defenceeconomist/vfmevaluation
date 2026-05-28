@@ -28,7 +28,7 @@ This section turns source guidance into practical evaluator-facing reports. Repo
 
 ### [Defence VfM Guidance](defence-vfm-guidance.qmd)
 
-Guidance for applying rubric-based value for money evaluation to defence capability, digital, and infrastructure programmes.
+Guidance for applying rubric-based value for money evaluation to defence capability, digital and cyber, infrastructure, and personnel programmes.
 :::
 :::
 

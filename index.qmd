@@ -49,7 +49,7 @@ Explore the emerging relationship between pages, citations, and linked source ma
 
 ### [Defence VfM Guidance](reports/defence-vfm-guidance.qmd)
 
-Apply rubric-based value for money evaluation to defence capability, digital, and infrastructure programmes.
+Apply rubric-based value for money evaluation to defence capability, digital and cyber, infrastructure, and personnel programmes.
 :::
 :::
 

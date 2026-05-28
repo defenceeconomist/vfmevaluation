@@ -15,7 +15,7 @@ format:
 
 ## Purpose
 
-This report converts a draft defence value for money (VfM) framework into practical guidance for evaluators. It is grounded in Oxford Policy Management's rubric-based approach to VfM assessment [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm] and Verian's Value for Investment guidance [@king_hurrell_2024_verian_vfm], then adapts those ideas to defence capability, digital, and infrastructure programmes.
+This report converts a draft defence value for money (VfM) framework into practical guidance for evaluators. It is grounded in Oxford Policy Management's rubric-based approach to VfM assessment [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm] and Verian's Value for Investment guidance [@king_hurrell_2024_verian_vfm], then adapts those ideas to defence capability, digital and cyber, infrastructure, and personnel programmes.
 
 The central message is simple: defence VfM is not proved by a benefit-cost ratio alone. Evaluators need a transparent judgement about whether resource use is good enough in context, given the capability created, the risks carried, the alternatives available, and the value that is hard to monetise.
 
@@ -193,9 +193,9 @@ Focus on whether the outcomes justify the resources used.
 
 ## Applying the Guidance by Programme Type
 
-### Major Capability Platforms
+### Programme Contexts and VfM Emphasis
 
-For combat air, submarines, destroyers, armoured vehicles, and similar platforms, use the platform descriptions as adaptation prompts rather than generic case studies.
+Use the programme descriptions as adaptation prompts rather than generic case studies. The point is to tailor the VfM framework to the main value mechanism, delivery constraints, users, and alternatives for the programme being assessed.
 
 | Programme type | VfM emphasis |
 |---|---|
@@ -203,10 +203,11 @@ For combat air, submarines, destroyers, armoured vehicles, and similar platforms
 | Submarines | Nuclear or specialist safety, stealth, industrial capacity, long-lead items, assurance, decommissioning liabilities, and strategic deterrence value. |
 | Surface warships | Shipyard flow, combat-system integration, fleet availability, interoperability, crew burden, growth margins, and upgrade path. |
 | Armoured vehicles | Protection, mobility, firepower, weight trade-offs, maintainability, soldier usability, fleet commonality, and alternative land-effect options. |
+| Digital and cyber programmes | Data, connectivity, software quality, cyber and anti-jamming resilience, user adoption, service reliability, security accreditation, interoperability, technology refresh, open standards, and avoidance of supplier lock-in. |
+| Infrastructure and estate programmes | Whole-life asset cost, planning and environmental constraints, construction and transition risk, maintainability, occupancy, user experience, community effects, land-disposal value, carbon, biodiversity, and future estate liabilities. |
+| Major personnel programmes | Workforce demand forecasting, attraction, selection, medical and security vetting, onboarding, training pipeline capacity, candidate experience, diversity and fairness, retention into trained strength, contractor performance, and cost per successful recruit. |
 
-For each platform, define what "good" means against the actual capability need, not against a generic list of desirable features.
-
-### Digital and Cyber Programmes
+For each programme, define what "good" means against the intended defence outcome and programme-specific value proposition, not against a generic list of desirable features.
 
 Digital programmes create value through data, connectivity, software, resilience, and user adoption. They need VfM criteria that recognise rapid technology cycles and cyber risk.
 
@@ -216,13 +217,15 @@ LETacCIS is another useful example. MOD describes it as a land tactical communic
 
 Do not treat system uptime, agile velocity, or licence cost as sufficient VfM evidence by themselves. Digital VfM depends on whether users can exploit the system securely and reliably in operational conditions.
 
-### Infrastructure and Estate Programmes
-
 Infrastructure programmes create value through places where personnel live, train, work, and operate. They need VfM criteria that account for long asset lives, planning and environmental constraints, communities, maintainability, and user experience.
 
 The Defence Estate Optimisation portfolio is the main public example. MOD describes it as Defence's largest estates change programme, investing £5.1 billion in modern, greener, and sustainable infrastructure, delivering accommodation for over 27,000 personnel and families, releasing surplus land for more than 32,000 homes, and forecasting over 200 hectares of biodiversity net-gain measures [@ministry_of_defence_2026_deo]. Evaluation should therefore combine cost and schedule evidence with estate rationalisation, personnel outcomes, biodiversity, land-disposal value, community effects, and future estate liabilities. The NAO's report on optimising the defence estate provides an important accountability source for judging delivery risks and assumptions [@national_audit_office_2021_optimising_defence_estate].
 
 Single Living Accommodation Modernisation shows the need to evaluate outputs and outcomes separately. DIO reported that Project SLAM built or refurbished more than 22,800 bedspaces across 52 locations, with a construction spend of nearly £1.3 billion and extensive use of modular construction [@dio_communications_team_2015_slam]. The NAO later found persistent single living accommodation problems, including low-quality accommodation and under-occupancy [@national_audit_office_2021_single_living_accommodation]. A VfM judgement should therefore ask not only whether rooms were delivered efficiently, but whether the accommodation system as a whole produced sustained improvements in quality, occupancy, welfare, retention, and maintenance burden.
+
+Major personnel programmes create value by sustaining the workforce needed for defence outputs. The Armed Forces Recruiting Programme is a useful example because the evaluation plan frames it as a move from three separate recruitment processes to a tri-service recruitment approach, supported by recruitment, transition, digital, data, estate, and cross-government inputs [@ministry_of_defence_2024_afrp_evaluation_plan]. A VfM assessment should therefore test whether recruitment resources increase the number, quality, suitability, and timeliness of recruits who progress into initial training and trained strength, while reducing candidate leakage, duplicated effort, avoidable estate cost, data inconsistency, and unfair barriers. It should not treat applications, marketing reach, or starts as sufficient evidence by themselves. The judgement needs to distinguish intermediate recruitment activity from the personnel outcomes that matter for readiness, resilience, diversity, and scarce skills.
+
+Programme types often overlap. A recruitment programme may depend on digital services, medical assessment capacity, estate choices, and training pipeline constraints. A cyber programme may include infrastructure, supplier, workforce, and operational-change elements. Evaluators should therefore tailor the criteria to the value mechanism and decision context rather than relying on the programme label.
 
 ## Reporting Template
 
