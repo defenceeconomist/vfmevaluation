@@ -1,0 +1,85 @@
+---
+title: "Sourcing Bid Evaluation"
+description: "Source note on bid evaluation as evidence for supplier choice, quality, price, social value, and deliverability."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on bid evaluation [@cabinet_office_2021_bid_evaluation].
+
+The main source is:
+
+- [GOV.UK PDF: Bid Evaluation Guidance Note](https://assets.publishing.service.gov.uk/media/60a387e48fa8f56a3e32fa9a/Bid_evaluation_guidance_note_May_2021.pdf)
+
+## One-Page Summary
+
+The bid evaluation guidance explains how to design and run robust evaluation processes to identify the most economically advantageous tender. The source is clear that this is not the same as the lowest cost bid: evaluation should balance price, quality, social value, deliverability, and published award criteria.
+
+For VfM rubric creation, the guidance is relevant because it turns procurement choice into auditable evidence. It supports rubric standards about whether evaluation criteria were objective, proportionate, relevant, clear, weighted appropriately, tested before publication, applied consistently, moderated, and documented.
+
+## Purpose and Scope
+
+The guidance covers assessment of bids against award criteria, not supplier selection criteria. It is aimed at practitioners designing and running bid evaluation processes.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Bid evaluation is the process of assessing bids to identify the most economically advantageous tender.
+- A good evaluation is about both the final award decision and the design of a process that can identify the right supplier.
+- Price, quality, social value, and deliverability need to be balanced.
+- Quality criteria should be objective, proportionate, relevant, and clear.
+- Evaluation models should be tested and published, then applied as published.
+- Evaluation reports and bidder feedback form part of the final award process.
+
+Inferred VfM implications:
+
+- Bid evaluation creates evidence for economy and effectiveness at the supplier-choice stage.
+- A rubric should test whether low price was challenged where it created deliverability risk.
+- Evaluation design quality is itself a VfM issue because weak criteria can select a supplier that cannot deliver value.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Bid evaluation contribution |
+|---|---|
+| Economy | Tests whether price evaluation distinguishes low cost from credible value. |
+| Effectiveness | Tests whether quality criteria are tied to service outcomes and requirements. |
+| Equity and fairness | Tests whether criteria, scoring, moderation, and feedback are transparent and consistently applied. |
+| Cost-effectiveness | Tests whether the winning bid offers the best combination of price, quality, social value, and deliverability. |
+| Risk and resilience | Tests whether low-cost, assumption-based, or contingent pricing risks are identified. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- evaluation strategy and timetable;
+- award criteria and weightings;
+- price, quality, social value, and deliverability scoring model;
+- rationale for weighting choices;
+- test outputs for the evaluation model;
+- published procurement documents;
+- evaluator training and conflict records;
+- moderation and consensus scoring records;
+- low-cost bid clarification or referral records;
+- final evaluation report and bidder feedback.
+
+## Relevance Rules Applied
+
+Include bid evaluation material where it informs criteria, standards, trade-offs, evidence quality, or accountability for supplier choice.
+
+Detailed procurement law process should be supporting context unless it affects the VfM judgement.
+
+## Limits and Exclusions
+
+This note does not cover selection-stage supplier qualification except where it affects financial standing or deliverability. Those issues are covered in the [Supplier Financial Standing](sourcing-supplier-financial-standing.qmd) note.
+
+## Links
+
+See also the [Sourcing Playbook](sourcing-playbook.qmd), [Should Cost Modelling](sourcing-should-cost-modelling.qmd), and [Risk Allocation and Pricing](sourcing-risk-allocation-pricing.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

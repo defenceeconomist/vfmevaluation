@@ -24,6 +24,10 @@ The practical implication is that evaluators should design the VfM assessment ar
 ## Concept Map
 
 ```{mermaid}
+%%| label: fig-verian-vfi-concept-map
+%%| fig-cap: "Concept map for Verian Value for Investment guidance"
+%%| fig-width: 12
+%%| fig-height: 8
 flowchart TD
   A[VfM evaluation] --> B[Value for Investment]
   A --> C[Cost-benefit analysis]
@@ -53,6 +57,10 @@ flowchart TD
   S --> V[Criteria, standards, evidence plan]
   T --> W[Gather and analyse evidence]
   T --> X[Synthesise and report judgement]
+```
+
+```{=html}
+<script src="../assets/js/concept_map_zoom.js"></script>
 ```
 
 ## Concept Notes

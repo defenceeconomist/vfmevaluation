@@ -15,18 +15,27 @@ format:
 
 ## Purpose
 
-This report converts a draft defence value for money (VfM) framework into practical guidance for evaluators. It is grounded in Oxford Policy Management's rubric-based approach to VfM assessment [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm] and Verian's Value for Investment guidance [@king_hurrell_2024_verian_vfm], then adapts those ideas to defence capability, digital and cyber, infrastructure, and personnel programmes.
+This report provides practical value for money (VfM) evaluation framework guidance for evaluators in the defence sector. It is not official policy. It is grounded in Oxford Policy Management's rubric-based approach to VfM assessment [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm] and Verian's Value for Investment guidance [@king_hurrell_2024_verian_vfm], then adapts those ideas to defence capability, digital and cyber, infrastructure, and personnel programmes.
 
-The central message is simple: defence VfM is not proved by a benefit-cost ratio alone. Evaluators need a transparent judgement about whether resource use is good enough in context, given the capability created, the risks carried, the alternatives available, and the value that is hard to monetise.
-
-::: {.cta-row}
-[Download PDF](defence-vfm-guidance.pdf){.cta-button}
-[Download Word](defence-vfm-guidance.docx){.cta-button .secondary}
-:::
+This report explains how to apply a defence VfM evaluation. The [Defence VfI Rubric Generation](defence-vfi-rubric-generation.qmd) report sits alongside it and explains how to build the criteria, subcriteria, standards, and evidence plan before applying the evaluation. Use that report when the framework itself needs to be generated or checked; use this report when the framework is being applied to an evaluation question.
 
 ## Evaluation Workflow
 
 Verian's Value for Investment process has two phases: design and implementation. The design phase covers understanding the programme, defining the value proposition and evaluation questions, setting criteria, setting standards, and determining the evidence needed. The implementation phase covers gathering evidence, analysing evidence, synthesising judgements through the criteria and standards, and reporting clear answers [@king_hurrell_2024_verian_vfm].
+
+### Using Source Guidance Within the Five Es
+
+This report keeps the five Es as the organising criteria: economy, efficiency, effectiveness, equity, and cost-effectiveness. Other important themes, including risk, resilience, learning, capability, evidence quality, commercial assurance, and efficiency savings, should normally be handled as subcriteria, standards, or evidence tests within those five criteria rather than added as separate criteria.
+
+Use the sources in different ways:
+
+| Source | Role within the five Es |
+|---|---|
+| OPM and Verian | Provide the judgement architecture: value proposition, criteria, subcriteria, standards, evidence, synthesis, and transparent trade-offs [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm; @king_hurrell_2024_verian_vfm]. |
+| Green Book | Anchors objectives, public value, options, monetised and unmonetised effects, distribution, risk, uncertainty, and decision advice [@hm_treasury_2026_green_book; @hm_treasury_2022_green_book_vfm]. |
+| JSP 507 | Supplies defence appraisal and evaluation evidence on requirements, whole-life cost, CEA, COEIA, affordability, risk, optimism bias, and outturn evaluation [@ministry_of_defence_2014_jsp507_part1; @ministry_of_defence_2014_jsp507_part2]. |
+| Sourcing guidance | Strengthens economy, equity, and cost-effectiveness through delivery model assessment, market health, should-cost evidence, bid evaluation, supplier resilience, risk allocation, pricing, KPIs, and benefits evidence [@cabinet_office_gcf_2026_sourcing_playbook]. |
+| Government Efficiency Framework | Strengthens efficiency evidence by testing baselines, counterfactuals, net savings, recurrence, double counting, assurance, and protection of outputs and outcomes [@hm_treasury_2025_government_efficiency_framework_summary; @hm_treasury_2025_government_efficiency_framework]. |
 
 ### 1. Understand the Programme
 
@@ -58,7 +67,7 @@ This follows OPM's principle that VfM criteria must be specific to the programme
 
 ### 3. Set Criteria for Good Resource Use
 
-Use the 5Es as a starting structure, then translate each criterion into defence language. Do not assume each E has equal weight in every programme.
+Use the 5Es as the criteria structure, then translate each criterion into defence language. Do not assume each E has equal weight in every programme. Do not create extra top-level criteria unless a separate governance process requires it. In this report, risk, resilience, learning, capability, evidence quality, sourcing, and assurance are treated as subcriteria, standards, or evidence checks within the five Es.
 
 | Criterion | Defence interpretation | Evaluator prompt |
 |---|---|---|
@@ -67,6 +76,33 @@ Use the 5Es as a starting structure, then translate each criterion into defence 
 | Effectiveness | Operational, organisational, and user value created by the delivered capability. | Does the capability work in the conditions that matter, with users able to exploit it? |
 | Equity | Fair distribution of benefits, burdens, access, risks, and future liabilities. | Are personnel, commands, allies, suppliers, communities, taxpayers, and future budgets treated fairly? |
 | Cost-effectiveness | Whether the total value created justifies the total resource use compared with credible alternatives. | Is the defence effect worth the acquisition, support, risk, opportunity, and through-life cost? |
+
+After selecting criteria, define a small number of subcriteria for each one before selecting indicators or evidence. In the OPM approach, the sequence matters: understand the value proposition, select relevant criteria, write programme-specific definitions, identify subcriteria, define standards, and only then decide what evidence is needed [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm]. Verian's Value for Investment guidance follows the same logic by using criteria and standards to make wider public value, trade-offs, and non-monetised effects explicit [@king_hurrell_2024_verian_vfm].
+
+Subcriteria should describe the dimensions of performance that would make resource use good in the programme context. They are not a generic checklist and they are not simply data headings. They should be derived from the value proposition, theory of change, decision context, stakeholder perspectives, and the main trade-offs the evaluation needs to judge.
+
+Good subcriteria usually do four things:
+
+- make each criterion specific enough to judge, for example by distinguishing input stewardship, output quality, access, risks, contribution, trade-offs, or non-monetised value;
+- cover the most material parts of the resource-to-value pathway without trying to measure everything;
+- separate different kinds of performance that might otherwise be hidden inside one rating, such as delivery speed, output quality, targeting, learning, and coordination;
+- support standards and evidence planning, so evaluators can later say what would count as poor, adequate, good, or excellent performance.
+
+Subcriteria should generally follow the main question each E is asking rather than repeat programme-specific evidence lists. Efficiency needs particular care: a narrow cost-per-output view may be useful for some activities, but it can miss important features of complex capability, digital, infrastructure, and personnel programmes. Following OPM's approach, efficiency subcriteria should distinguish technical, allocative, dynamic, and relational efficiency where those distinctions matter.
+
+| Criterion | Subcriteria should clarify | Generic subcriteria focus |
+|---|---|---|
+| Economy | Which inputs need stewardship, what quality threshold is required, and which cost or probity risks would undermine value. | Price reasonableness, input quality, procurement discipline, probity, cost drivers, stewardship, and risks of false economy. |
+| Efficiency | How resources are converted into outputs, whether the right activities are prioritised, whether learning improves resource use, and whether relationships reduce waste. | **Technical efficiency:** unit or activity cost, timeliness, output quality, budget adherence, process productivity, and avoidable rework. **Allocative efficiency:** portfolio balance, targeting, prioritisation, option choices, stopping lower-value activity, and shifting resources to higher-value opportunities. **Dynamic efficiency:** feedback loops, experimentation, learning from failure, incremental improvement, timely adaptation, and productivity over time. **Relational efficiency:** trust, coordination, partner alignment, information sharing, dispute resolution, reduced duplication, and lower transaction costs. |
+| Effectiveness | Which outputs must work, for whom, under what conditions, and how they plausibly contribute to intended outcomes. | Output quality, outcome contribution, causal assumptions, user or beneficiary uptake, unintended effects, and contextual conditions. |
+| Equity | How benefits, burdens, access, risks, and future liabilities are distributed across stakeholders and over time. | Inclusion, access, differential outcomes, distribution of costs and risks, burden sharing, dignity, and intergenerational effects. |
+| Cost-effectiveness | Which outcomes or impacts justify the resources used, what alternatives are credible, and how monetised and non-monetised value will be weighed. | Costs relative to outcomes, alternatives, opportunity cost, uncertainty, sustainability, equity goals, and qualitative value judgement. |
+
+These efficiency types should be used selectively. For example, technical efficiency may dominate a mature equipment delivery question, while dynamic and relational efficiency may be more important for cyber, digital, innovation, partnering, or complex transformation programmes.
+
+If an efficiency or savings claim is material, test it against Government Efficiency Framework-style evidence. A credible efficiency claim should distinguish forecast from realised savings, state the baseline and counterfactual, net off costs to deliver, show whether savings are recurring, prevent double counting, and demonstrate that outputs, outcomes, quality, safety, security, or strategic priorities have not deteriorated. Underspend, cancellation, delayed spending, inflation changes, reduced output, unfunded transfer of work, cost shifting to another organisation, or unsupported forecast savings should not be treated as efficiency evidence without a separate value argument.
+
+The detailed defence subcriteria and evidence prompts later in this report show how these general design prompts can be translated into programme-specific assessment headings.
 
 The 5Es are often most useful for ex-post or in-flight assessment. For ex-ante decisions, coordinate with the Green Book five-case model and use explicit criteria to make the strategic, economic, commercial, financial, and management cases easier to judge coherently.
 
@@ -83,6 +119,8 @@ OPM's practical contribution is the disciplined link from criteria to standards,
 
 Rubrics should be specific enough to guide judgement. For example, "good effectiveness" for a satellite communications programme is not the same as "good effectiveness" for accommodation modernisation. The former may turn on assured communications, contested-environment resilience, and allied interoperability; the latter may turn on living conditions, occupancy, maintainability, and effects on personnel welfare.
 
+For each E, standards should also state what evidence confidence is required. A "good" rating should not rest on weak source traceability, untested assumptions, unsupported efficiency claims, or evidence that covers only monetised effects while omitting material operational, social, environmental, distributional, or future value. Where evidence is partial, commercially sensitive, classified, or immature, the rating should explain how that limitation affects confidence.
+
 ### 5. Identify the Evidence and Methods Needed
 
 Use economic analysis where it is feasible, but do not let it crowd out other evidence. Verian's Value for Investment approach is useful for defence because many important effects are uncertain, classified, strategic, or difficult to monetise [@king_hurrell_2024_verian_vfm].
@@ -94,10 +132,39 @@ Common evidence sources include:
 - operational analysis, trials, exercises, user research, training records, and readiness data;
 - cyber, safety, security, resilience, interoperability, and data-governance evidence;
 - supplier, workforce, estate, environmental, community, and industrial-base evidence;
+- delivery model assessments, market health evidence, should-cost models, bid evaluation records, KPI baselines, payment mechanisms, risk allocation matrices, supplier financial standing checks, continuity plans, and benefits reports;
+- GEF-style efficiency evidence, including baselines, counterfactuals, gross and net savings, costs to deliver, recurrence, double-counting controls, outcome protection, and assurance records;
 - comparator evidence from allies, commercial alternatives, previous programmes, or portfolio options;
 - stakeholder evidence from users, front-line commands, maintainers, digital operators, commercial staff, suppliers, local communities, and allied partners.
 
-At this point, decide whether cost-benefit analysis, cost-effectiveness analysis, break-even analysis, scenario analysis, or another economic method can make a useful contribution. Include CBA where the cost-benefit test is relevant, outcomes and costs can be credibly quantified and monetised, and the necessary data, skills, time, and ethical conditions are present. Where those conditions do not hold, use CBA only for the monetisable part of the value story or use a rubric-based VfM assessment as the main method.
+At this point, decide which economic evidence is proportionate. JSP 507 is clear that full cost-benefit analysis has a limited role in MOD because few defence activities produce benefits that can sensibly be valued in monetary terms; most MOD appraisals therefore use cost-effectiveness analysis, and many equipment decisions use Combined Operational Effectiveness and Investment Appraisal to compare through-life cost with operational or business effectiveness [@ministry_of_defence_2014_jsp507_part1; @ministry_of_defence_2014_jsp507_part2]. Treat CBA as exceptional rather than the default. Use it only where the material benefits can credibly be monetised, such as some health, safety, environmental, business-change, or spend-to-save cases, and seek Defence Economics advice where JSP 507 requires it. For most defence VfM evaluations, prioritise whole-life cost, cost-effectiveness or COEIA-style option comparison, break-even analysis, scenario and sensitivity analysis, and rubric-based judgement of non-monetised operational, strategic, resilience, safety, welfare, and future value. Where any monetised analysis is used, state clearly what it covers, what it omits, and how the omitted value affects the overall VfM judgement. The [JSP 507 Investment Appraisal and Evaluation](../notes/jsp-507-investment-appraisal-evaluation.qmd) source note maps the guidance to VfI-style criteria, standards, and evidence prompts.
+
+### Evidence Quality and Assurance
+
+Evidence quality is not a separate top-level criterion in this report. It is a discipline that applies across all five Es. For each major evidence item, record what it informs, how it has been checked, what it cannot show, and how much weight it should carry in synthesis.
+
+| Evidence item | Five-E use | Quality checks | Common limitation | Use in synthesis |
+|---|---|---|---|---|
+| Business case and options appraisal | Economy, effectiveness, cost-effectiveness. | Check objectives, option set, critical success factors, appraisal boundary, treatment of unmonetised value, sensitivity, and optimism bias. | Forecast evidence may not match delivery reality. | Establish expected value, alternatives, and assumptions to test. |
+| Whole-life cost and should-cost models | Economy and cost-effectiveness. | Check cost completeness, base date, inflation, hidden costs, common costs, transfer payments, risk, assurance, and treatment of retained-client costs. | Future operating, upgrade, or dependency costs may be immature. | Judge cost realism, affordability, and false economy risk. |
+| Efficiency and benefits records | Efficiency and cost-effectiveness. | Check baseline, counterfactual, gross and net treatment, costs to deliver, recurrence, double counting, and no adverse outcome impact. | Savings may be forecast, deferred, shifted, or dependent on unproven service changes. | Distinguish claimed, forecast, delivered, and assured efficiency. |
+| Commercial and supplier evidence | Economy, equity, and cost-effectiveness. | Check delivery model rationale, market evidence, competition, framework route, bid evaluation, risk allocation, pricing, supplier financial standing, continuity, and benefits ownership. | Supplier data may be commercially sensitive or incomplete. | Judge whether sourcing choices support sustainable value. |
+| Operational, user, and service evidence | Effectiveness, equity, and cost-effectiveness. | Check relevance to operational conditions, user groups, readiness, quality, safety, cyber, security, and maintainability. | Trials or service data may not represent deployed conditions or all users. | Judge whether outputs plausibly create intended defence value. |
+| Stakeholder and qualitative evidence | Effectiveness and equity. | Check sampling, perspective coverage, triangulation, dissenting views, and classified or sensitive exclusions. | Evidence may be partial or shaped by role, incentives, or access constraints. | Explain how and why value is created or blocked. |
+
+### Rubric Readiness Check
+
+Before gathering evidence, check that the five-E framework is usable:
+
+- each criterion has a programme-specific definition linked to the value proposition;
+- subcriteria are limited to the material dimensions of value and resource use;
+- standards describe poor, adequate, good, and excellent performance before evidence is interpreted;
+- sourcing, risk, resilience, learning, assurance, and evidence quality are located inside the five Es rather than added as extra criteria;
+- efficiency or savings claims have planned evidence for baselines, counterfactuals, netting, recurrence, double counting, and outcome protection;
+- commercial value evidence covers delivery model, market health, should-cost, supplier resilience, risk allocation, pricing, KPIs, and benefits realisation where material;
+- monetised and non-monetised value are both visible;
+- alternatives, opportunity cost, affordability, uncertainty, distribution, and future liabilities are visible;
+- known evidence gaps and confidence implications are recorded.
 
 ### 6. Gather Evidence
 
@@ -138,9 +205,11 @@ Focus on whether the programme secured appropriate inputs at appropriate cost an
 | Subcriterion | Defence evidence |
 |---|---|
 | Commercial discipline | Procurement strategy, competition records, sole-source justification, open-book evidence, price benchmarking, should-cost analysis. |
+| Market and delivery model choice | Delivery model assessment, market health analysis, framework route rationale, insourcing or outsourcing comparison, early market engagement records. |
 | Whole-life cost control | Acquisition, support, infrastructure, training, workforce, digital, disposal, decommissioning, and upgrade cost models. |
 | Scarce capability inputs | Specialist engineering, nuclear, cyber, software, shipbuilding, aviation, construction, commercial, and safety skills. |
 | Long-lead and obsolescence management | Long-lead item plans, spares, technology roadmaps, refresh cycles, design-change control, inventory strategy. |
+| Supplier financial standing and continuity | Economic and financial standing checks, continuity plans, resolution plans, dependency mapping, critical supplier monitoring. |
 | Security and quality investment | Assurance, test, certification, safety, cyber, data protection, and quality-at-source decisions that prevent later rework or failure. |
 
 ### Efficiency: Delivery and Learning
@@ -153,6 +222,7 @@ Focus on whether resources were converted into useful outputs without avoidable 
 | Integration and test flow | Systems integration evidence, trials plans, certification progress, defect and rework logs, acceptance evidence. |
 | Governance speed | Decision logs, escalation routes, approvals time, change-control performance, delegated authority. |
 | Supply-chain and resource flow | Supplier performance, material availability, yard or facility capacity, workforce allocation, competing programme demands. |
+| Valid efficiency and savings claims | Baselines, counterfactuals, gross and net savings, costs to deliver, outturns, recurrence evidence, double-counting controls, outcome and quality protection. |
 | Dynamic and relational efficiency | Learning logs, adaptation decisions, joint working arrangements, information sharing, dispute resolution, lessons applied across projects. |
 
 ### Effectiveness: Operational Value
@@ -165,6 +235,7 @@ Focus on whether the delivered outputs plausibly create intended defence outcome
 | Reliability, availability, maintainability | Availability data, defect rates, mean time between failures, support burden, spares availability, maintainer feedback. |
 | Interoperability | Allied, joint, and legacy-system integration evidence; standards compliance; exercise results; data-sharing evidence. |
 | User adoption and readiness | Training completion, user feedback, doctrine and tactics updates, simulator use, operational readiness indicators. |
+| Service quality and benefits realisation | KPI baselines, benefits register, service management data, incident resolution, user satisfaction, quality thresholds, benefits owner evidence. |
 | Resilience and adaptability | Cyber resilience, contested-environment performance, safety, upgrade path, modularity, technical debt, climate resilience where relevant. |
 
 ### Equity: Distribution of Benefits and Burdens
@@ -176,7 +247,8 @@ Focus on fairness across stakeholders and time.
 | Risk allocation | Contract terms, liability, incentives, safety responsibilities, cyber responsibilities, insurance, decommissioning obligations. |
 | User and maintainer burden | Training load, supportability, operating cost, workload, safety, welfare, usability, deployment constraints. |
 | Cross-force and allied access | Allocation across services, units, geographies, readiness priorities, allied interoperability, coalition use. |
-| Industrial and workforce distribution | SME participation, regional effects, skills pipelines, sovereign capability, workshare, supplier resilience. |
+| Supplier access and market fairness | SME participation, framework access, competition design, barriers to entry, social value evidence, treatment of incumbents and new entrants. |
+| Industrial and workforce distribution | Regional effects, skills pipelines, sovereign capability, workshare, supplier resilience, workforce transition, knowledge transfer. |
 | Inter-generational fairness | Technical debt, deferred maintenance, disposal liabilities, carbon, estate condition, future budget pressure. |
 
 ### Cost-Effectiveness: Value Relative to Alternatives
@@ -186,9 +258,10 @@ Focus on whether the outcomes justify the resources used.
 | Subcriterion | Defence evidence |
 |---|---|
 | Total cost of ownership | Acquisition, operation, sustainment, infrastructure, training, refresh, disposal, and opportunity cost. |
-| Alternative options | Commercial service, allied collaboration, upgrade, lease, off-the-shelf buy, smaller scope, slower delivery, or non-materiel solution. |
+| Alternative options | Delivery model assessment; commercial service, allied collaboration, upgrade, lease, framework route, off-the-shelf buy, smaller scope, slower delivery, or non-materiel solution. |
 | Strategic and operational value | Deterrence, resilience, readiness, interoperability, mission success, personnel welfare, information advantage. |
 | Wider public value | Industrial capacity, exports, skills, environmental gains, community effects, cross-government reuse. |
+| Commercial value and incentives | Bid evaluation evidence, price-quality trade-offs, KPI design, payment mechanism, risk pricing, benefits realisation, contract management evidence. |
 | Uncertainty and sensitivity | Scenario analysis, optimism bias, cost risk, threat changes, demand changes, technology cycles. |
 
 ## Applying the Guidance by Programme Type
@@ -217,6 +290,8 @@ Skynet 6 illustrates the point. MOD describes it as the next-generation military
 
 Do not treat system uptime, agile velocity, or licence cost as sufficient VfM evidence by themselves. Digital VfM depends on whether users can exploit the system securely and reliably in operational conditions.
 
+A digital support contract shows how sourcing and GEF prompts can be absorbed into the existing five Es without creating new criteria. Economy would test the delivery model, framework route, should-cost model, retained-client cost, supplier standing, and false economy risks. Efficiency would test whether claimed savings are supported by a credible baseline, counterfactual, costs to deliver, recurrence, double-counting controls, and protected service quality. Effectiveness would test incident resolution, cyber compliance, service availability, user experience, and benefits realisation. Equity would test whether risk, workload, access, and service burdens are shifted unfairly to users, maintainers, smaller suppliers, or future budgets. Cost-effectiveness would test whether the whole-life cost is justified by better support, reduced duplication, cyber assurance, and credible alternatives.
+
 Infrastructure programmes create value through places where personnel live, train, work, and operate. They need VfM criteria that account for long asset lives, planning and environmental constraints, communities, maintainability, and user experience.
 
 The Defence Estate Optimisation portfolio is the main public example. MOD describes it as Defence's largest estates change programme, investing £5.1 billion in modern, greener, and sustainable infrastructure, delivering accommodation for over 27,000 personnel and families, releasing surplus land for more than 32,000 homes, and forecasting over 200 hectares of biodiversity net-gain measures [@ministry_of_defence_2026_deo]. Evaluation should therefore combine cost and schedule evidence with estate rationalisation, personnel outcomes, biodiversity, land-disposal value, community effects, and future estate liabilities. The NAO's report on optimising the defence estate provides an important accountability source for judging delivery risks and assumptions [@national_audit_office_2021_optimising_defence_estate].
@@ -235,7 +310,7 @@ Use a consistent reporting structure so readers can audit the judgement:
 4. **Evaluation questions:** What answers do decision-makers and stakeholders need?
 5. **Tailored criteria:** How were the 5Es translated into programme-specific definitions?
 6. **Standards:** What would poor, adequate, good, and excellent performance look like?
-7. **Evidence and methods:** What evidence was used, what was missing, and how credible is it?
+7. **Evidence and methods:** What evidence was used, what quality checks were applied, what was missing, and how credible is it?
 8. **Analysis and judgements:** What rating is given for each criterion, and why?
 9. **Trade-offs and uncertainty:** Which weaknesses are tolerable, which are material, and which undermine VfM?
 10. **Overall conclusion:** Is resource use justified in context?
@@ -250,11 +325,16 @@ Use a consistent reporting structure so readers can audit the judgement:
 - Reporting a single overall rating without explaining trade-offs and uncertainty.
 - Using generic 5E definitions that do not reflect the actual defence capability.
 - Confusing delivery outputs with sustained operational or welfare outcomes.
+- Treating underspend, deferral, cancellation, cost shifting, or unsupported forecast savings as efficiency.
+- Treating procurement compliance, bid scores, or contract award as enough evidence of commercial value.
+- Ignoring evidence limitations where data are classified, commercially sensitive, immature, or not representative of operational conditions.
 
 ## Conclusion
 
 The strongest defence VfM evaluations combine OPM's explicit criteria, standards, evidence, and judgement discipline with Verian's broader Value for Investment framing. That combination is well suited to defence because the value of a programme often lies in resilience, deterrence, interoperability, safety, welfare, sovereign choice, and future optionality as well as monetised benefits.
 
 Evaluators should therefore design VfM assessment as a transparent reasoning process. The question is not simply whether the programme spent less, delivered more, or produced a favourable ratio. It is whether the total resource use was justified by the operational, organisational, strategic, social, environmental, and future value created.
+
+For detailed guidance on generating the rubric architecture before applying it, see the [Defence VfI Rubric Generation](defence-vfi-rubric-generation.qmd) report.
 
 ## References

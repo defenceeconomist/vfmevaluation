@@ -1,0 +1,289 @@
+---
+title: "Defence VfI Rubric Generation"
+description: "Evaluator guidance for generating defence Value for Investment criteria, subcriteria, performance standards, and evidence plans."
+format:
+  html:
+    toc: true
+    format-links:
+      - pdf
+      - docx
+  pdf:
+    toc: true
+  docx:
+    toc: true
+---
+
+## Purpose and Use Case
+
+This report provides practical guidance for generating Value for Investment (VfI) rubrics for defence programmes. It is not official policy. It is a design guide for evaluators who need to create defensible criteria, subcriteria, performance standards, and evidence plans before judging value for money.
+
+The report complements the [Defence VfM Guidance](defence-vfm-guidance.qmd) report. That report explains how to apply a rubric-based VfM evaluation in defence. This report focuses one step earlier: how to build the rubric architecture itself.
+
+The method is grounded in Oxford Policy Management's approach to VfM assessment and Verian's Value for Investment guidance [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm; @king_hurrell_2024_verian_vfm]. Those sources provide the core judgement discipline: understand the programme, define the value proposition, select criteria, write standards, identify evidence, analyse mixed evidence, and synthesise a transparent overall judgement.
+
+Additional defence and UK government sources help populate the rubric:
+
+- the Green Book provides objectives, social value, option comparison, monetised and unmonetised effects, distribution, risk, and uncertainty [@hm_treasury_2026_green_book; @hm_treasury_2022_green_book_vfm];
+- JSP 507 provides MOD appraisal and evaluation evidence on requirements, options, whole-life cost, cost-effectiveness analysis, Combined Operational Effectiveness and Investment Appraisal, risk, optimism bias, affordability, and outturn evaluation [@ministry_of_defence_2014_jsp507_part1; @ministry_of_defence_2014_jsp507_part2];
+- the Sourcing Playbook and related sourcing guidance provide commercial evidence on delivery model choice, market health, should-cost modelling, bid evaluation, risk allocation, benefits, and supplier resilience [@cabinet_office_gcf_2026_sourcing_playbook];
+- the Government Efficiency Framework provides tests for efficiency claims, savings validity, baselines, netting, recurrence, assurance, and protection of outputs and outcomes [@hm_treasury_2025_government_efficiency_framework_summary; @hm_treasury_2025_government_efficiency_framework].
+
+Use this report when a defence evaluation needs a tailored rubric rather than a generic checklist. It is most useful for capability acquisition, digital and cyber programmes, infrastructure, support and logistics, personnel programmes, commercial service delivery, consultancy, and transformation activity.
+
+## Source Roles
+
+Each source should play a specific role in rubric generation. Do not copy every source heading into the rubric. Use the sources to define what good resource use means in the programme context.
+
+| Source | Use in rubric generation | Avoid |
+|---|---|---|
+| Verian Value for Investment | Define the value proposition, mixed evidence needs, criteria, standards, trade-offs, and final VfI judgement. | Treating cost-benefit analysis as the whole VfM answer. |
+| OPM VfM guidance | Structure the design sequence from criteria to standards to evidence and synthesis. | Copying generic 5E definitions without programme-specific interpretation. |
+| Green Book | Anchor objectives, public value, options, social costs and benefits, distribution, risk, uncertainty, and decision advice. | Assuming the highest benefit-cost ratio automatically determines the VfI judgement. |
+| JSP 507 | Translate appraisal and evaluation evidence into defence terms: requirement, options, through-life cost, CEA, COEIA, risk, affordability, and outturn evaluation. | Forcing monetised CBA where defence benefits are operational, strategic, uncertain, or hard to monetise. |
+| Sourcing Playbook | Test commercial preparation, delivery model choice, market evidence, should-cost evidence, bid evaluation, risk allocation, benefits, and supplier resilience. | Turning procedural sourcing steps into criteria when they do not affect value judgement. |
+| Government Efficiency Framework | Strengthen efficiency and savings standards: baselines, counterfactuals, net savings, recurrence, double counting, assurance, and outcome protection. | Treating financial efficiency reporting as a complete public value assessment. |
+
+The core rule is source discipline. Verian and OPM define the judgement architecture. Green Book, JSP 507, sourcing guidance, and GEF provide source-specific prompts, evidence tests, and standards for particular parts of that architecture.
+
+## Generation Workflow
+
+### 1. Define the Decision Context and Value Proposition
+
+Start by defining the decision the evaluation must inform. A rubric for an early approval decision will not look the same as a rubric for an in-flight programme review, contract re-let, benefits evaluation, or post-project outturn assessment.
+
+Record:
+
+- the programme boundary, lifecycle stage, and decision point;
+- the operational, organisational, commercial, or estate problem being addressed;
+- the main alternatives, including do minimum, upgrade, outsourcing, insourcing, framework route, allied collaboration, or non-materiel options;
+- the intended value for users, commands, maintainers, suppliers, allies, taxpayers, communities, and future programmes;
+- the resources consumed, including acquisition, support, workforce, facilities, training, data, opportunity cost, and through-life funding;
+- the conditions that must hold for value to emerge, such as user adoption, integration, threat assumptions, supportability, supplier performance, and affordability.
+
+This becomes the value proposition: what value is expected, for whom, through which resources and mechanisms, compared with which alternatives.
+
+### 2. Identify Source-Relevant Value Dimensions
+
+Read the value proposition against the source set. The aim is to identify material value dimensions, not to produce a long source checklist.
+
+| Source lens | Questions to ask |
+|---|---|
+| Green Book | What objectives and critical success factors define success? What social value, distribution, unmonetised effects, risks, and uncertainties are material? |
+| JSP 507 | What requirement, options, through-life costs, effectiveness measures, affordability constraints, and defence risks need appraisal or evaluation evidence? |
+| Sourcing | What delivery model, market, supplier, pricing, payment, KPI, risk allocation, and benefits evidence affects value? |
+| GEF | Are any efficiency or savings claims being made? Are they technical or allocative, cash releasing or non-cash releasing, forecast or realised? |
+| Verian and OPM | Which value dimensions require explicit criteria and standards because evidence will be mixed, contested, uncertain, or non-monetised? |
+
+At this stage, keep a source traceability log. For each candidate value dimension, note which source justifies considering it and whether the source claim is direct or an inference.
+
+### 3. Select Criteria
+
+Select a small set of criteria that will answer the VfI question. The default defence starting point is economy, efficiency, effectiveness, equity or distribution, and cost-effectiveness. Add risk and resilience, learning and capability, or evidence quality only where they materially affect the judgement and cannot be handled as subcriteria.
+
+Good criteria should:
+
+- reflect the programme's value proposition;
+- cover the main resource-to-value pathway;
+- be distinct enough to avoid double counting;
+- support standards and evidence collection;
+- make the main trade-offs visible to decision makers.
+
+Avoid criteria that are only data headings, process steps, or source chapter titles. A criterion should name something that can be judged.
+
+### 4. Derive Subcriteria
+
+Subcriteria translate each criterion into the dimensions of performance that matter for the programme. They should be few enough to support judgement and specific enough to guide evidence collection.
+
+Use source prompts selectively:
+
+- Green Book prompts help derive subcriteria on objectives, alternatives, social value, distribution, risk, uncertainty, and unmonetised effects.
+- JSP 507 prompts help derive subcriteria on requirement clarity, whole-life cost, CEA or COEIA, affordability, optimism bias, risk, and outturn evaluation.
+- Sourcing prompts help derive subcriteria on market health, delivery model, should-cost, quality, risk allocation, incentives, benefits, supplier resilience, and framework use.
+- GEF prompts help derive subcriteria on productivity, technical efficiency, allocative efficiency, net savings, recurrence, no adverse outcome impact, and assurance.
+- OPM and Verian prompts help test whether the subcriteria support mixed-evidence synthesis and transparent judgement.
+
+For each subcriterion, write a one-sentence judgement question. If a subcriterion cannot be turned into a judgement question, it is probably not ready.
+
+### 5. Write Performance Standards
+
+Write standards before interpreting evidence. Use four levels unless the evaluation has a reason to use a different scale:
+
+| Level | Meaning |
+|---|---|
+| Poor | Minimum expectations are not met, or weaknesses make resource use hard to justify. |
+| Adequate | Minimum expectations are met, but important weaknesses, gaps, or risks remain. |
+| Good | Performance meets reasonable expectations, evidence supports a positive judgement, and material risks are controlled. |
+| Excellent | Performance exceeds reasonable expectations, trade-offs are explicit, evidence is strong, and learning or assurance supports confidence. |
+
+Standards should be specific to the criterion. For example, "good efficiency" in a digital programme may require evidence of adaptation, reuse, and reduced manual effort; "good efficiency" in an equipment programme may require schedule realism, integration flow, and avoidable rework control.
+
+Do not write standards as numeric thresholds alone. Quantitative thresholds can be useful, but the standard should also state how quality, risk, distribution, and evidence confidence affect the judgement.
+
+### 6. Specify Evidence and Methods
+
+Evidence should follow the criteria and standards. Do not start with available data and retrofit the rubric around it.
+
+Common evidence types include:
+
+- business cases, approvals, options appraisals, and Green Book or JSP 507 analysis;
+- whole-life cost models, should-cost models, budgets, forecasts, outturns, and cost assurance;
+- COEIA, cost-effectiveness analysis, break-even analysis, sensitivity analysis, and scenario testing;
+- commercial strategies, delivery model assessments, market engagement, bid evaluation, contracts, KPIs, and supplier evidence;
+- GEF efficiency baselines, counterfactuals, net savings calculations, benefits tracking, and assurance records;
+- operational analysis, trials, user research, acceptance evidence, service data, readiness, reliability, and support evidence;
+- interviews, workshops, surveys, document review, contribution analysis, process evaluation, and stakeholder evidence.
+
+For each evidence item, specify what criterion it informs, what standard it helps judge, what quality checks are needed, and what limitations should be reported.
+
+### 7. Check Consistency, Gaps, Trade-Offs, and Assurance
+
+Before evidence collection starts, review the draft rubric.
+
+Ask:
+
+- Does every criterion trace back to the value proposition and at least one source rationale?
+- Are criteria distinct, or do they double count the same issue?
+- Are the standards clear enough that two evaluators could apply them consistently?
+- Does the evidence plan include both monetised and non-monetised value where material?
+- Are alternatives, opportunity cost, and affordability visible?
+- Are distribution, risk, uncertainty, and future liabilities visible?
+- Are efficiency claims tested against baselines, counterfactuals, netting, recurrence, double counting, and outcome protection?
+- Is there enough evidence to judge commercial value, delivery model choice, supplier resilience, and benefits realisation where sourcing is material?
+- What gaps will remain, and how will they affect confidence in the final judgement?
+
+The output of this step should be a rubric that can be used for evidence collection, analysis, synthesis, and reporting without redesigning the framework halfway through the evaluation.
+
+## Reusable Criteria Bank
+
+Use this bank as a starting point, then tailor it. Not every criterion belongs in every rubric.
+
+| Criterion | Defence definition | Candidate subcriteria | Source anchors |
+|---|---|---|---|
+| Economy | Stewardship of financial, workforce, supplier, estate, data, and specialist inputs at appropriate cost and quality. | Price reasonableness; input quality; whole-life cost control; procurement discipline; scarce skills; false economy risks. | OPM, Green Book, JSP 507, Sourcing Playbook. |
+| Efficiency | Conversion of resources into useful outputs through delivery, allocation, learning, and coordination. | Technical efficiency; allocative efficiency; dynamic efficiency; relational efficiency; schedule and rework control; governance speed. | OPM, GEF, JSP 507, Sourcing Playbook. |
+| Effectiveness | Delivery of intended operational, organisational, user, service, or estate outcomes. | Capability delivered; outcome contribution; reliability and availability; user adoption; interoperability; unintended effects. | Verian, Green Book, JSP 507. |
+| Equity and distribution | Fair distribution of benefits, burdens, access, risks, and future liabilities. | User and maintainer burden; cross-force access; place and community effects; supplier access; future budget pressure; intergenerational effects. | Green Book, OPM, Verian, sourcing guidance. |
+| Cost-effectiveness | Whether value created justifies the resources used compared with credible alternatives. | Through-life cost relative to outcomes; options comparison; COEIA or CEA; unmonetised value; sensitivity; opportunity cost. | Green Book, JSP 507, Verian, OPM. |
+| Risk and resilience | Whether major delivery, operational, commercial, financial, cyber, safety, and continuity risks are understood and managed. | Optimism bias; risk ownership; contingency; supplier resilience; supportability; exit routes; scenario robustness. | JSP 507, Green Book, Sourcing Playbook. |
+| Learning and capability | Whether the programme improves future resource use, institutional capability, and adaptive performance. | Lessons applied; knowledge transfer; data quality; reusable assets; capability development; reduced future dependency. | OPM, Verian, sourcing and consultancy guidance. |
+| Evidence quality and assurance | Whether the judgement is based on proportionate, transparent, reviewable, and decision-relevant evidence. | Source traceability; data quality; independent assurance; sensitivity testing; audit trail; limitations. | OPM, Verian, Green Book, JSP 507, GEF. |
+
+## Rubric Templates
+
+### Criteria Definition Template
+
+| Field | Drafting prompt |
+|---|---|
+| Criterion name | Use a short judgement term such as economy, effectiveness, or risk and resilience. |
+| Programme-specific definition | Describe what good performance means for this programme, not in generic terms. |
+| Main judgement question | Ask the question the criterion must answer. |
+| Source rationale | Cite the source prompts that justify including the criterion. |
+| Boundaries | State what is inside and outside the criterion to avoid double counting. |
+| Main trade-offs | Identify tensions with cost, quality, speed, risk, equity, or future value. |
+
+### Subcriteria Template
+
+| Criterion | Subcriterion | Judgement question | Candidate evidence | Source trace |
+|---|---|---|---|---|
+| Economy | Whole-life cost realism | Are acquisition, support, personnel, infrastructure, training, transition, disposal, and opportunity costs complete enough for judgement? | Cost model, JSP 507 appraisal, should-cost model, business case, cost assurance. | JSP 507, Green Book, sourcing. |
+| Efficiency | Valid efficiency claim | Does the claimed saving increase output for the same input, maintain output for lower input, or reallocate resources to a better route without adverse outcome impact? | Baseline, counterfactual, outturn, benefits log, net savings calculation, outcome indicators. | GEF, OPM. |
+| Effectiveness | Operational value | Does the capability or service perform in the conditions that matter to users and commanders? | Trials, acceptance evidence, operational analysis, readiness data, user evidence. | JSP 507, Verian. |
+| Risk and resilience | Supplier continuity | Is supplier financial standing, delivery resilience, and exit planning proportionate to the criticality of the service? | Financial standing checks, continuity plan, contract risk register, market assessment. | Sourcing Playbook. |
+
+### Performance Standards Template
+
+| Criterion | Poor | Adequate | Good | Excellent |
+|---|---|---|---|---|
+| Economy | Material input costs, quality thresholds, or cost drivers are not understood; stewardship weaknesses create avoidable waste or false economy. | Main costs and inputs are identified, but some assumptions, quality risks, or cost drivers are weakly evidenced. | Inputs are appropriate quality at reasonable cost, with whole-life cost and major cost drivers actively managed. | Stewardship is strong across financial, workforce, supplier, estate, and data inputs; choices protect long-term value and are independently reviewable. |
+| Efficiency | Delivery or savings claims rely on weak baselines, cost shifting, deferral, reduced output, or avoidable delay and rework. | Delivery is plausible and basic baselines exist, but output quality, net savings, recurrence, or adaptation evidence is incomplete. | Resources are converted into useful outputs with controlled delay and rework; efficiency claims are net, evidenced, and outcome-protecting. | Technical, allocative, dynamic, and relational efficiency are strong; realised efficiencies are sustained, assured, and used to improve future resource use. |
+| Effectiveness | Outputs do not meet minimum operational, service, or user requirements, or the contribution to intended outcomes is not credible. | Core outputs are delivered but evidence of quality, uptake, contribution, or unintended effects is partial. | Outputs meet the conditions that matter, users can exploit them, and evidence supports a credible outcome contribution. | Operational or service value is strong across demanding conditions, with clear contribution evidence, managed unintended effects, and learning for future decisions. |
+| Cost-effectiveness | The programme cannot show credible alternatives, complete enough costs, or a defensible relationship between resources and value. | The programme compares some options and costs, but important unmonetised value, uncertainty, or opportunity cost is weakly treated. | Whole-life cost and effectiveness evidence show that the programme compares well with credible alternatives, including non-monetised value and uncertainty. | The judgement is risk-adjusted, transparent, and robust across plausible scenarios; decision makers can see why the resource use is justified overall. |
+
+### Evidence Plan Template
+
+| Evidence item | Criterion informed | Method or source | Quality checks | Likely limitation | Use in synthesis |
+|---|---|---|---|---|---|
+| Business case and options appraisal | Cost-effectiveness, risk, evidence quality | Document review | Check option set, assumptions, appraisal boundary, sensitivity, and treatment of unmonetised effects. | May reflect forecast rather than realised performance. | Establish baseline expectations and alternatives. |
+| Whole-life cost and should-cost models | Economy, cost-effectiveness | Cost review | Check completeness, base date, inflation, optimism bias, hidden costs, common costs, and assurance. | May not capture future operating changes or classified dependencies. | Test cost realism and affordability. |
+| Trials, acceptance, and user evidence | Effectiveness, risk | Mixed methods | Check relevance to operational conditions, user groups, and limitations. | Trial conditions may differ from deployed context. | Judge whether outputs plausibly create intended value. |
+| Efficiency benefits records | Efficiency, evidence quality | GEF-style benefits review | Check baseline, counterfactual, gross/net treatment, recurrence, double counting, and outcome protection. | Forecast savings may not yet be realised. | Distinguish claimed, forecast, and realised efficiency. |
+| Commercial and supplier evidence | Economy, risk, resilience | Commercial document review and interviews | Check delivery model rationale, market evidence, risk allocation, payment mechanism, and supplier standing. | Supplier data may be commercially sensitive or incomplete. | Judge whether commercial choices support sustainable value. |
+
+## Worked Example: Defence Digital Support Contract
+
+This example shows how source prompts become a tailored rubric. It is illustrative only.
+
+### Context and Value Proposition
+
+A defence organisation is replacing a fragmented set of digital support arrangements with a new managed service for secure applications. The intended value is more reliable support, faster incident resolution, better cyber assurance, lower duplication, clearer supplier accountability, and improved user experience. The main alternatives are retaining current contracts, insourcing more support, using a framework call-off, or creating a hybrid model with retained internal product ownership.
+
+The decision needs to judge whether the proposed managed service represents good resource use before contract award and whether the rubric can later support in-flight benefits evaluation.
+
+### Source-to-Rubric Choices
+
+| Source prompt | Rubric implication |
+|---|---|
+| Verian and OPM require criteria, standards, and mixed evidence before judgement. | Build a rubric rather than relying only on bid scores or savings claims. |
+| Green Book requires objectives, alternatives, unmonetised effects, distribution, and risk. | Include alternatives, user experience, cyber risk, and service continuity alongside cost. |
+| JSP 507 supports whole-life cost, affordability, risk, and evaluation planning. | Require through-life cost, transition cost, retained-client cost, and outturn evaluation evidence. |
+| Sourcing Playbook requires delivery model, should-cost, KPIs, risk allocation, and supplier resilience. | Include commercial discipline, KPI quality, supplier resilience, and risk allocation subcriteria. |
+| GEF requires valid baselines, net savings, recurrence, and no adverse outcome impact. | Treat savings as unproven until baselines, costs to deliver, service quality, and recurrence are evidenced. |
+
+### Tailored Rubric Extract
+
+| Criterion | Programme-specific definition | Subcriteria | Evidence |
+|---|---|---|---|
+| Economy | The service is economical if the chosen inputs, supplier model, retained-client capability, and transition resources are suitable quality at reasonable whole-life cost. | Should-cost realism; retained-client cost; transition cost; price-quality balance; framework route justification. | Should-cost model, bid evaluation report, delivery model assessment, commercial strategy, contract pricing schedule. |
+| Efficiency | The service is efficient if it reduces duplication and improves support flow without degrading quality, cyber assurance, or user outcomes. | Incident handling productivity; automation and reuse; valid savings claim; reduced handoffs; governance speed. | Service baseline, counterfactual, KPI history, benefits register, GEF-style savings evidence, process maps. |
+| Effectiveness | The service is effective if it improves secure application support in the conditions that matter to defence users. | Incident resolution; user satisfaction; cyber compliance; service availability; support for priority missions. | SLA data, acceptance tests, cyber assurance, user research, operational stakeholder interviews. |
+| Risk and resilience | The service is resilient if supplier, transition, cyber, continuity, and exit risks are owned and managed at an efficient price. | Supplier financial standing; transition risk; exit plan; cyber risk ownership; continuity arrangements. | Supplier assessment, risk allocation matrix, transition plan, continuity plan, contract clauses. |
+| Cost-effectiveness | The service is cost-effective if whole-life cost is justified by better support, reduced duplication, cyber assurance, and credible alternatives analysis. | Options comparison; net benefits; uncertainty; non-monetised value; affordability. | Business case, options appraisal, sensitivity analysis, benefits evidence, unmonetised value narrative. |
+
+### Example Standards Extract
+
+| Criterion | Poor | Adequate | Good | Excellent |
+|---|---|---|---|---|
+| Efficiency | Savings depend on reduced service quality, unfunded transition work, weak baselines, or deferred costs. | A plausible savings case exists, but baseline, counterfactual, recurrence, or service-quality protection is incomplete. | Savings and productivity improvements are evidenced as net of transition cost, outcome-protecting, and linked to service improvements. | Realised efficiencies are sustained, independently reviewable, and accompanied by better service quality, cyber assurance, and reusable delivery learning. |
+| Risk and resilience | Key supplier, cyber, transition, or exit risks are unclear, transferred unrealistically, or priced inefficiently. | Main risks are identified, but ownership, mitigations, financial standing, or continuity evidence is partial. | Risks are owned by the party best able to manage them, priced transparently, and supported by credible transition and continuity plans. | Risk management is tested, assured, and adaptive, with clear exit routes, strong supplier resilience, and no hidden transfer of risk to users or future budgets. |
+
+### Evidence Gaps to Report
+
+If baseline service quality is weak, the evaluator should report that savings confidence is limited. If user evidence is missing, the effectiveness standard should not be rated above adequate without a clear justification. If supplier resilience or exit evidence is commercially sensitive, the report should explain what assurance was reviewed and what cannot be disclosed.
+
+## Reporting the Generated Rubric
+
+The final rubric pack should include:
+
+1. the value proposition and decision context;
+2. selected criteria and programme-specific definitions;
+3. subcriteria and judgement questions;
+4. poor, adequate, good, and excellent standards;
+5. evidence plan and source traceability;
+6. treatment of monetised and non-monetised value;
+7. treatment of alternatives, risk, uncertainty, distribution, and affordability;
+8. known evidence gaps and confidence implications;
+9. synthesis approach for the final VfI judgement.
+
+The rubric is ready to use when an evaluator can explain, before reviewing the evidence, what would count as poor, adequate, good, or excellent resource use and what evidence would support each judgement.
+
+## Links
+
+Source notes:
+
+- [Verian Value for Investment Guidance](../notes/verian-value-for-investment-guidance.qmd)
+- [OPM King VfM Guidance](../notes/opm-king-vfm-guidance.qmd)
+- [Green Book VfM Guidance](../notes/green-book-vfm-guidance.qmd)
+- [JSP 507 Investment Appraisal and Evaluation](../notes/jsp-507-investment-appraisal-evaluation.qmd)
+- [Sourcing and Consultancy Playbooks for VfM Rubric Creation](../notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd)
+- [Government Efficiency Framework and VfI Rubrics](../notes/government-efficiency-framework-vfi-rubric-relevance.qmd)
+
+Related report:
+
+- [Defence VfM Guidance](defence-vfm-guidance.qmd)
+
+Return to the [reports overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

@@ -1,6 +1,6 @@
 ---
 title: "Green Book VfM Guidance"
-description: "Source note on HM Treasury's Green Book definition of value for money."
+description: "Source note on HM Treasury's Green Book definition of value for money and its relevance to Value for Investment criteria, standards, and evidence planning."
 ---
 
 ## Source
@@ -12,48 +12,124 @@ The related source pages are:
 - [HM Treasury: The Green Book (2026)](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026)
 - [HM Treasury: Green Book Supplementary Guidance: Value for Money](https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money)
 
-## Core Idea
+## One-Page Summary
 
-The Green Book defines value for money as a balanced judgement about "the optimal use of public resources" to achieve a proposal's objectives.
+The Green Book is HM Treasury's central guidance on appraisal. It provides a structured way to assess the costs, benefits, and risks of different options for achieving government objectives. It is mandatory for UK government departments and arm's length bodies when developing proposals involving significant public spending.
 
-This makes VfM broader than choosing the option with the highest benefit-cost ratio. The preferred option must meet the proposal's objectives and optimise social value within the constraints faced by decision makers.
+The Green Book is mainly appraisal guidance, not evaluation guidance. Appraisal happens before approval and implementation; evaluation happens after approval and implementation. The Green Book still matters for evaluation because it requires practitioners to consider from the outset how a proposal will be monitored and evaluated, and because later evaluation should test whether the appraisal's objectives, costs, benefits, risks, assumptions, and distributional expectations held up in practice. The ROAMEF cycle links rationale, objectives, appraisal, monitoring, evaluation, and feedback.
 
-## Social Value
+The core Green Book value concept is social value, also described as public value. Social value covers the benefits, costs, and risks that affect the wellbeing of the UK population. It is not limited to financial returns to government or taxpayers. Material impacts may affect people, places, public bodies, businesses, households, charities, the environment, security, health, justice, climate, distribution, and future wellbeing.
 
-The Green Book links value for money to social value. Social value includes the benefits, costs, and risks that affect the wellbeing of the UK population, not only direct financial returns to government.
+The Green Book defines value for money as a balanced judgement about the optimal use of public resources to achieve a proposal's objectives. This judgement considers performance against objectives and critical success factors, monetisable social costs and benefits, unmonetisable social costs and benefits, public sector financial impact, distribution across social groups and places, and risk and uncertainty.
 
-This is why appraisal needs to consider effects on people, places, public bodies, businesses, households, charities, and the environment where those effects are material. Public value and social value are closely related terms in this guidance.
+This makes value for money broader than choosing the option with the highest benefit-cost ratio. Options that do not achieve the proposal's objectives cannot represent value for money. Benefit-cost ratios, net present social value, cost-effectiveness ratios, and other economic measures can be important evidence, but they must be interpreted alongside strategic fit, unmonetised effects, affordability, deliverability, distribution, risk, and uncertainty.
 
-## Factors in the Judgement
+The Green Book method starts with rationale and objectives. Practitioners should be clear about the problem or opportunity, why government action is needed, what would happen without intervention, and what specific objectives the proposal is intended to achieve. Critical success factors help screen and judge options by identifying the essential conditions that any worthwhile option must satisfy.
 
-The Green Book definition identifies several factors that should inform the VfM judgement:
+Option appraisal has two broad stages. Longlist appraisal generates a wide range of possible ways to meet the objectives, including business as usual or do minimum where relevant, then filters those options against critical success factors and constraints. Shortlist appraisal compares a manageable set of viable options in more detail, using social cost-benefit analysis or social cost-effectiveness analysis as appropriate.
 
-- Performance against the proposal's objectives and critical success factors.
-- Monetisable social costs and benefits.
-- Unmonetisable social costs and benefits.
-- Public sector financial impact.
-- Distribution of costs and benefits across social groups and places.
-- Risk and uncertainty.
+The Green Book requires appraisal to identify both monetised and unmonetised costs and benefits. Monetisation should be used where credible and proportionate, but important unmonetisable effects should still be recorded, described, and brought into the value for money judgement. The supplementary value for money guidance is especially useful because it shows how decision advice can legitimately prefer an option other than the highest benefit-cost ratio option when objectives, unmonetisable factors, risk, affordability, or strategic fit make another option stronger overall.
 
-The implication is that a summary metric can inform but not replace judgement. Benefit-cost ratios, net present social value, and other measures must be interpreted alongside unmonetised effects and uncertainty.
+Distributional and place-based analysis matter where costs, benefits, access, burdens, or risks fall unevenly across social groups or places. Distribution is therefore not an optional fairness add-on. Where material, it is part of the value for money judgement.
 
-## Supplementary Guidance
+Risk and uncertainty are central to the Green Book approach. Appraisal should identify risks, account for optimism bias where appropriate, test sensitivity to important assumptions, and explain switching values or scenarios where they are useful. A preferred option should not be presented as good value if the judgement depends on fragile assumptions that have not been tested.
 
-The Green Book supplementary guidance says VfM is about "finding the best way to use public resources" to deliver policy objectives. It explains the role of the five case model and shows how strategic and economic dimensions interact.
+Public sector financial impact is distinct from social value. A proposal may create social value while increasing public expenditure, or save public money while creating social costs. Green Book appraisal should make this distinction clear so decision makers understand both the welfare case and the budgetary implications.
 
-The guidance is especially useful for explaining why the highest benefit-cost ratio is not automatically the best VfM option. Decision advice can justify selecting a different option when objectives, unmonetisable factors, risk, affordability, or strategic fit make that option stronger overall.
+For Value for Investment (VfI), the Green Book is best treated as a major source of appraisal logic, option-comparison discipline, economic evidence, and decision-facing presentation standards. It does not by itself create programme-specific VfI criteria, subcriteria, rubrics, or mixed-methods synthesis. Those need to be designed through a VfI approach such as OPM or Verian [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm; @king_hurrell_2024_verian_vfm].
 
-## Practical Implications
+## VFI Relevance
 
-For evaluators and analysts, the Green Book framing means that a VfM assessment should:
+The Green Book is directly relevant to VfI because it defines UK central government's appraisal framing for value for money. It gives evaluators a disciplined source for thinking about objectives, options, social value, costs, benefits, risk, distribution, public sector affordability, and the difference between monetised evidence and the final balanced judgement.
 
-1. Start with clear objectives and critical success factors.
-2. Compare realistic options, including business as usual where relevant.
-3. Present monetised and unmonetised effects together.
-4. Explain risk, uncertainty, and distributional effects.
-5. Show why the preferred option is the balanced judgement, not only the highest ratio.
+Its practical contribution to VfI is strongest in five areas:
 
-This definition is particularly useful when linking ex post evaluation back to appraisal. Evaluation can test whether the social value, costs, risks, and distributional assumptions used in a business case held up in practice.
+- It anchors the VfI value proposition in objectives, critical success factors, public value, and realistic alternatives.
+- It prevents the VfI judgement from being reduced to a benefit-cost ratio or budget saving.
+- It supplies evidence prompts for cost, benefit, risk, uncertainty, distribution, and option comparison.
+- It helps connect ex post evaluation back to ex ante business-case assumptions.
+- It supports transparent advice to decision makers about why one option or intervention represents better overall use of public resources than another.
+
+The Green Book should not be copied mechanically into a VfI rubric. VfI still needs to decide which criteria matter in the programme context, how those criteria are defined, what subcriteria capture the most important performance story, what standards distinguish poor from good performance, and how mixed evidence will be synthesised into a judgement.
+
+## Source-to-VFI Matrix
+
+| Green Book material | Direct source contribution | Candidate VfI use |
+|---|---|---|
+| ROAMEF cycle | Links rationale, objectives, appraisal, monitoring, evaluation, and feedback. | Align VfI questions with the original appraisal logic and use evaluation evidence to test appraisal assumptions. |
+| Objectives and critical success factors | Establishes what the proposal must achieve and the conditions options must satisfy. | Define value proposition, strategic fit, effectiveness thresholds, and minimum acceptable performance standards. |
+| Social or public value | Frames value as effects on UK population wellbeing, not just financial return to government. | Broaden criteria beyond cost to include outcomes, quality, distribution, environment, security, resilience, and other public values. |
+| Longlist and shortlist appraisal | Requires realistic options and structured comparison before selecting a preferred option. | Strengthen cost-effectiveness and alternatives subcriteria; test whether the intervention still compares well with credible alternatives. |
+| Monetised costs and benefits | Provides social cost-benefit and cost-effectiveness evidence where valuation is credible. | Use benefit-cost ratios, net present social value, and cost-effectiveness ratios as evidence, not as the whole judgement. |
+| Unmonetised costs and benefits | Requires material effects that cannot be monetised to be recorded and considered. | Build rubric criteria and qualitative evidence prompts for value that is important but hard to price. |
+| Public sector financial impact | Separates budgetary affordability from social value. | Distinguish economy, affordability, and fiscal impact from overall value for money. |
+| Distributional and place-based analysis | Tests how impacts vary across social groups and places where relevant. | Inform equity, access, burden-sharing, and place-based subcriteria. |
+| Risk, uncertainty, optimism bias, sensitivity, and switching values | Requires explicit treatment of uncertain costs, benefits, delivery, and assumptions. | Set standards for confidence, resilience, risk-adjusted judgement, and evidence quality. |
+| Presentation of results and decision advice | Supports balanced advice rather than automatic selection by single metric. | Structure VfI reporting so ratings, trade-offs, uncertainty, and omitted effects are visible to decision makers. |
+| Monitoring and evaluation | Requires evaluation thinking from the outset and learning from previous evaluations. | Link evidence plans to appraisal assumptions, benefits realisation, outturn comparison, and learning loops. |
+
+## Criteria and Subcriteria Implications
+
+The following mappings are VfI implications inferred from the Green Book and the VfM supplementary guidance. They are not a complete Green Book rubric and should be tailored to the programme, decision stage, and value proposition.
+
+| VfI criterion area | Candidate subcriteria informed by the Green Book | Evidence implications |
+|---|---|---|
+| Economy | Resource stewardship; public sector financial impact; affordability; input cost realism; opportunity cost; appropriate treatment of transfers, sunk costs, and wider fiscal effects. | Evidence should include budgets, whole-life cost estimates, financial impacts, cost assumptions, price evidence, opportunity-cost reasoning, and explanation of what is inside or outside the appraisal boundary. |
+| Efficiency | Conversion of resources into outputs and outcomes; option design; delivery route; proportionality; avoidance of avoidable waste, delay, duplication, or excessive administrative burden. | Evidence should show whether the selected option uses resources well compared with feasible alternatives and whether implementation arrangements support timely, proportionate delivery. |
+| Effectiveness | Achievement of objectives; satisfaction of critical success factors; contribution to intended outcomes; quality of benefits; unintended effects. | Evidence should connect outputs and outcomes to the proposal's objectives, business-case assumptions, theory of change, monitoring data, and evaluation findings. |
+| Equity and distribution | Distribution of costs, benefits, access, risks, and burdens across social groups and places; place-based effects; differential impacts on affected populations. | Evidence should include distributional analysis, place analysis, disaggregated outcome data, stakeholder evidence, and explanation of who gains, who loses, and who bears risk. |
+| Cost-effectiveness | Social value relative to resources used; comparison with credible options; use of cost-benefit analysis or cost-effectiveness analysis where appropriate; treatment of unmonetised value. | Evidence should compare options, report monetised and non-monetised effects together, and explain whether the preferred option remains justified when key assumptions change. |
+| Risk and resilience | Optimism bias; delivery, demand, cost, benefit, and distributional uncertainty; sensitivity; switching values; scenario robustness; risk ownership. | Evidence standards should require transparent assumptions, risk-adjusted estimates, sensitivity tests, and clear explanation of whether uncertainty changes the VfI judgement. |
+| Strategic fit and deliverability | Fit with policy objectives; critical success factors; five-case model alignment; commercial, financial, and management feasibility. | Evidence should show that the option is not only economically attractive but also strategically necessary, affordable, commercially viable, and deliverable. |
+| Evidence quality and assurance | Robustness of appraisal evidence; proportionality; transparency; use of previous evaluation evidence; monitoring and evaluation plan; decision-facing audit trail. | Higher-quality evidence should be documented, proportionate, reviewable, linked to the appraisal case, and capable of supporting later evaluation and learning. |
+
+## Performance Standards: Design Prompts Only
+
+These prompts translate Green Book appraisal discipline into VfI-style standards. They are not final standards for any specific programme.
+
+| Standard level | Green Book-informed prompt |
+|---|---|
+| Poor | The proposal or evaluation cannot show clear objectives, credible alternatives, material costs and benefits, distributional effects, or risk assumptions. The VfM claim relies on a single metric, budget saving, or assertion without explaining unmonetised value, uncertainty, or whether objectives are met. |
+| Adequate | The proposal or evaluation identifies objectives, a reasonable option set, main costs and benefits, and key risks, but some unmonetised effects, distributional issues, public sector financial impacts, or sensitivities are weakly evidenced. |
+| Good | The proposal or evaluation compares credible options, explains objectives and critical success factors, presents monetised and unmonetised effects together, distinguishes social value from fiscal impact, and tests important risks and assumptions. |
+| Excellent | The proposal or evaluation gives decision makers a proportionate, transparent, risk-adjusted, and independently reviewable account of the optimal use of public resources, including objectives, alternatives, social value, affordability, distribution, uncertainty, and evidence needed for monitoring, evaluation, and feedback. |
+
+## Evidence Prompts
+
+Use these prompts when taking detailed notes from the Green Book or when drawing on it for a VfI evidence plan:
+
+- What is the problem, opportunity, or rationale for government action?
+- What objectives define the change the proposal is meant to achieve?
+- What critical success factors must any acceptable option satisfy?
+- What is the counterfactual, business-as-usual, or do-minimum position?
+- What longlist options were considered, and why were options removed?
+- What shortlist options were appraised in detail, and are they genuinely comparable?
+- What is the preferred option, and why does it represent the balanced judgement rather than simply the highest benefit-cost ratio?
+- Which social costs and benefits have been monetised, and how credible are the valuation assumptions?
+- Which material costs and benefits are unmonetised, and how are they described, weighted, or brought into the judgement?
+- What public sector financial impacts are expected, and how do they differ from social costs and benefits?
+- What distributional or place-based effects are material?
+- Who benefits, who bears costs, who bears risk, and whether any groups or places are affected differently?
+- What optimism bias, delivery risk, demand risk, cost uncertainty, benefit uncertainty, or distributional uncertainty has been identified?
+- Which sensitivity tests, switching values, scenarios, or risk-adjusted estimates change the judgement?
+- What affordability, commercial, financial, management, or delivery constraints affect the preferred option?
+- What monitoring data, benefits realisation evidence, and evaluation plan are needed to test the appraisal assumptions later?
+- What previous evaluation evidence informed the appraisal?
+- What evidence gaps remain, and how should they affect confidence in the VfI judgement?
+
+## Limits and Exclusions
+
+The Green Book is appraisal guidance. It is not a programme-specific criteria framework and it is not a complete VfI method.
+
+Several limits matter for rubric work:
+
+- The Green Book defines the central government appraisal approach to value for money, but it does not provide ready-made programme-specific VfI criteria, subcriteria, or performance standards.
+- It is strongest on objectives, option comparison, social value, economic appraisal, risk, distribution, and decision advice.
+- It should be paired with the Magenta Book when the task is evaluation rather than appraisal.
+- It should be paired with OPM or Verian VfI guidance when the task is rubric design, mixed-evidence synthesis, and explicit evaluative judgement.
+- It should be paired with sector guidance, such as JSP 507 for defence, where domain-specific costs, benefits, options, and risks need interpretation.
+- A high benefit-cost ratio, low budget cost, or strong affordability case is not by itself a complete VfI judgement.
+- All candidate subcriteria and standards in this note are design implications unless explicitly described as direct Green Book claims.
 
 ## Links
 
@@ -61,7 +137,13 @@ See also the [VfM Definitions](vfm-definitions.qmd) synthesis note.
 
 See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for how UK evaluation guidance connects VfM evaluation to Green Book appraisal.
 
+See also the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) note for the rubric-based approach to criteria, standards, evidence, synthesis, and judgement.
+
 See also the [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) note for a UK public services approach to using cost-benefit analysis alongside broader criteria, standards, and mixed evidence.
+
+See also the [JSP 507 Investment Appraisal and Evaluation](jsp-507-investment-appraisal-evaluation.qmd) note for MOD appraisal and evaluation evidence relevant to defence VfI.
+
+See also the [Government Efficiency Framework and VfI Rubrics](government-efficiency-framework-vfi-rubric-relevance.qmd) note for a similar source-to-rubric mapping approach focused on central government efficiency.
 
 Return to the [notes overview](index.qmd).
 

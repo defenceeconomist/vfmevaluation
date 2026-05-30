@@ -30,6 +30,10 @@ The approach is intended to be integrated with monitoring, evaluation, and learn
 ## Concept Map
 
 ```{mermaid}
+%%| label: fig-opm-vfm-concept-map
+%%| fig-cap: "Concept map for OPM value for money guidance"
+%%| fig-width: 12
+%%| fig-height: 8
 flowchart TD
   A[VfM as good resource use] --> B[Transparent evaluative judgement]
   A --> C[Opportunity cost and alternatives]
@@ -66,6 +70,10 @@ flowchart TD
   T --> U[Judgement by criterion]
   T --> V[Overall VfM judgement]
   V --> W[Actions to improve resource use]
+```
+
+```{=html}
+<script src="../assets/js/concept_map_zoom.js"></script>
 ```
 
 ## Concept Notes

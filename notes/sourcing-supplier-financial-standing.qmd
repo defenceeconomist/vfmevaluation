@@ -1,0 +1,85 @@
+---
+title: "Sourcing Supplier Financial Standing"
+description: "Source note on assessing and monitoring supplier economic and financial standing."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on assessing and monitoring the economic and financial standing of bidders and suppliers [@cabinet_office_2026_supplier_financial_standing].
+
+The main source is:
+
+- [GOV.UK HTML: Assessing and Monitoring the Economic and Financial Standing of Bidders and Suppliers](https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/assessing-and-monitoring-the-economic-and-financial-standing-of-suppliers-guidance-note-html--2)
+
+## One-Page Summary
+
+The guidance explains how to assess bidders' financial capacity before award, monitor suppliers' financial standing during contract life, and mitigate identified financial risks. Its purpose is to safeguard public service delivery.
+
+For VfM rubric creation, the source is relevant because a supplier that cannot financially perform a contract creates delivery, continuity, cost, and service failure risks. It also warns that assessment must be proportionate and fair: financial standing should be interpreted through contract criticality, risk mitigations, and supplier type rather than used mechanically to exclude suppliers.
+
+## Purpose and Scope
+
+The guidance covers pre-award assessment, risk mitigation, contractual provisions, ongoing monitoring, key suppliers, liquidity, forward-looking information, annual confirmation, financial distress events, standard financial ratios, and information sources.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Assessing and monitoring economic and financial standing is about understanding suppliers' capacity to perform a contract.
+- The assessment should support both pre-award decision-making and post-award monitoring.
+- Conditions must be proportionate to ensuring that suppliers have the financial capacity to perform the contract.
+- All bidders should be treated consistently unless relevant differences justify different treatment.
+- Contract criticality should inform the level of assessment and mitigation required.
+- Financial ratios and risk tools can inform assessment but should not be used mechanically without judgement.
+
+Inferred VfM implications:
+
+- Supplier financial standing is evidence for risk and resilience, not simply a pass/fail compliance step.
+- A VfM rubric should test proportionality: excessive financial thresholds may harm competition, while weak monitoring may expose public services to failure.
+- Monitoring after award is part of good resource use where contracts are critical or suppliers are financially material.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Supplier financial standing contribution |
+|---|---|
+| Economy | Tests whether financial requirements support competition without unnecessary exclusion. |
+| Effectiveness | Tests whether the supplier can sustain service delivery. |
+| Equity and fairness | Tests whether financial standing checks treat suppliers consistently and proportionately. |
+| Risk and resilience | Tests contract criticality, supplier liquidity, distress indicators, mitigations, and continuity planning. |
+| Cost-effectiveness | Tests whether financial risk mitigation is proportionate to contract value and service criticality. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- contract criticality assessment;
+- economic and financial standing assessment;
+- financial viability and risk assessment tool outputs where used;
+- bidder clarifications and mitigation proposals;
+- guarantees, bonds, parent company support, or other mitigations;
+- ongoing monitoring plan;
+- key supplier monitoring records;
+- financial distress event records;
+- annual confirmation of compliance;
+- continuity and resolution planning evidence.
+
+## Relevance Rules Applied
+
+Include supplier financial standing material where it informs delivery risk, continuity, proportionality, competition, mitigations, or post-award monitoring.
+
+Exclude detailed ratio formulae unless a specific rubric needs to assess the credibility of financial analysis.
+
+## Limits and Exclusions
+
+Financial standing evidence does not by itself prove VfM. It should be interpreted alongside market health, bid quality, pricing, delivery model, and contract performance evidence.
+
+## Links
+
+See also the [Market Management](sourcing-market-management.qmd), [Framework Agreements](sourcing-framework-agreements.qmd), and [Risk Allocation and Pricing](sourcing-risk-allocation-pricing.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

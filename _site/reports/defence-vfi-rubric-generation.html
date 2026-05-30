@@ -1,0 +1,1368 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="Evaluator guidance for generating defence Value for Investment criteria, subcriteria, performance standards, and evidence plans.">
+
+<title>Defence VfI Rubric Generation – Value for Money Evaluation Knowledge Base</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-114842380e7e43a303b24dc40bbf8511.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../assets/css/site.css">
+<link rel="stylesheet" href="../assets/css/link_network.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Value for Money Evaluation Knowledge Base</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../notes/index.html"> 
+<span class="menu-text">Notes</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../reports/index.html" aria-current="page"> 
+<span class="menu-text">Reports</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../NOTES.html"> 
+<span class="menu-text">Release Notes</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../reports/defence-vfi-rubric-generation.html">Defence VfI Rubric Generation</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../reports/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Reports Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../reports/defence-vfm-guidance.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Defence VfM Guidance</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../reports/defence-vfi-rubric-generation.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Defence VfI Rubric Generation</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#purpose-and-use-case" id="toc-purpose-and-use-case" class="nav-link active" data-scroll-target="#purpose-and-use-case">Purpose and Use Case</a></li>
+  <li><a href="#source-roles" id="toc-source-roles" class="nav-link" data-scroll-target="#source-roles">Source Roles</a></li>
+  <li><a href="#generation-workflow" id="toc-generation-workflow" class="nav-link" data-scroll-target="#generation-workflow">Generation Workflow</a>
+  <ul class="collapse">
+  <li><a href="#define-the-decision-context-and-value-proposition" id="toc-define-the-decision-context-and-value-proposition" class="nav-link" data-scroll-target="#define-the-decision-context-and-value-proposition">1. Define the Decision Context and Value Proposition</a></li>
+  <li><a href="#identify-source-relevant-value-dimensions" id="toc-identify-source-relevant-value-dimensions" class="nav-link" data-scroll-target="#identify-source-relevant-value-dimensions">2. Identify Source-Relevant Value Dimensions</a></li>
+  <li><a href="#select-criteria" id="toc-select-criteria" class="nav-link" data-scroll-target="#select-criteria">3. Select Criteria</a></li>
+  <li><a href="#derive-subcriteria" id="toc-derive-subcriteria" class="nav-link" data-scroll-target="#derive-subcriteria">4. Derive Subcriteria</a></li>
+  <li><a href="#write-performance-standards" id="toc-write-performance-standards" class="nav-link" data-scroll-target="#write-performance-standards">5. Write Performance Standards</a></li>
+  <li><a href="#specify-evidence-and-methods" id="toc-specify-evidence-and-methods" class="nav-link" data-scroll-target="#specify-evidence-and-methods">6. Specify Evidence and Methods</a></li>
+  <li><a href="#check-consistency-gaps-trade-offs-and-assurance" id="toc-check-consistency-gaps-trade-offs-and-assurance" class="nav-link" data-scroll-target="#check-consistency-gaps-trade-offs-and-assurance">7. Check Consistency, Gaps, Trade-Offs, and Assurance</a></li>
+  </ul></li>
+  <li><a href="#reusable-criteria-bank" id="toc-reusable-criteria-bank" class="nav-link" data-scroll-target="#reusable-criteria-bank">Reusable Criteria Bank</a></li>
+  <li><a href="#rubric-templates" id="toc-rubric-templates" class="nav-link" data-scroll-target="#rubric-templates">Rubric Templates</a>
+  <ul class="collapse">
+  <li><a href="#criteria-definition-template" id="toc-criteria-definition-template" class="nav-link" data-scroll-target="#criteria-definition-template">Criteria Definition Template</a></li>
+  <li><a href="#subcriteria-template" id="toc-subcriteria-template" class="nav-link" data-scroll-target="#subcriteria-template">Subcriteria Template</a></li>
+  <li><a href="#performance-standards-template" id="toc-performance-standards-template" class="nav-link" data-scroll-target="#performance-standards-template">Performance Standards Template</a></li>
+  <li><a href="#evidence-plan-template" id="toc-evidence-plan-template" class="nav-link" data-scroll-target="#evidence-plan-template">Evidence Plan Template</a></li>
+  </ul></li>
+  <li><a href="#worked-example-defence-digital-support-contract" id="toc-worked-example-defence-digital-support-contract" class="nav-link" data-scroll-target="#worked-example-defence-digital-support-contract">Worked Example: Defence Digital Support Contract</a>
+  <ul class="collapse">
+  <li><a href="#context-and-value-proposition" id="toc-context-and-value-proposition" class="nav-link" data-scroll-target="#context-and-value-proposition">Context and Value Proposition</a></li>
+  <li><a href="#source-to-rubric-choices" id="toc-source-to-rubric-choices" class="nav-link" data-scroll-target="#source-to-rubric-choices">Source-to-Rubric Choices</a></li>
+  <li><a href="#tailored-rubric-extract" id="toc-tailored-rubric-extract" class="nav-link" data-scroll-target="#tailored-rubric-extract">Tailored Rubric Extract</a></li>
+  <li><a href="#example-standards-extract" id="toc-example-standards-extract" class="nav-link" data-scroll-target="#example-standards-extract">Example Standards Extract</a></li>
+  <li><a href="#evidence-gaps-to-report" id="toc-evidence-gaps-to-report" class="nav-link" data-scroll-target="#evidence-gaps-to-report">Evidence Gaps to Report</a></li>
+  </ul></li>
+  <li><a href="#reporting-the-generated-rubric" id="toc-reporting-the-generated-rubric" class="nav-link" data-scroll-target="#reporting-the-generated-rubric">Reporting the Generated Rubric</a></li>
+  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="defence-vfi-rubric-generation.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="defence-vfi-rubric-generation.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Defence VfI Rubric Generation</h1>
+</div>
+
+<div>
+  <div class="description">
+    Evaluator guidance for generating defence Value for Investment criteria, subcriteria, performance standards, and evidence plans.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="purpose-and-use-case" class="level2">
+<h2 class="anchored" data-anchor-id="purpose-and-use-case">Purpose and Use Case</h2>
+<p>This report provides practical guidance for generating Value for Investment (VfI) rubrics for defence programmes. It is not official policy. It is a design guide for evaluators who need to create defensible criteria, subcriteria, performance standards, and evidence plans before judging value for money.</p>
+<p>The report complements the <a href="../reports/defence-vfm-guidance.html">Defence VfM Guidance</a> report. That report explains how to apply a rubric-based VfM evaluation in defence. This report focuses one step earlier: how to build the rubric architecture itself.</p>
+<p>The method is grounded in Oxford Policy Management’s approach to VfM assessment and Verian’s Value for Investment guidance <span class="citation" data-cites="king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm king_hurrell_2024_verian_vfm">(<a href="#ref-king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm" role="doc-biblioref">King et al. 2023</a>; <a href="#ref-king_hurrell_2024_verian_vfm" role="doc-biblioref">King and Hurrell 2024</a>)</span>. Those sources provide the core judgement discipline: understand the programme, define the value proposition, select criteria, write standards, identify evidence, analyse mixed evidence, and synthesise a transparent overall judgement.</p>
+<p>Additional defence and UK government sources help populate the rubric:</p>
+<ul>
+<li>the Green Book provides objectives, social value, option comparison, monetised and unmonetised effects, distribution, risk, and uncertainty <span class="citation" data-cites="hm_treasury_2026_green_book hm_treasury_2022_green_book_vfm">(<a href="#ref-hm_treasury_2026_green_book" role="doc-biblioref">HM Treasury 2026</a>, <a href="#ref-hm_treasury_2022_green_book_vfm" role="doc-biblioref">2022</a>)</span>;</li>
+<li>JSP 507 provides MOD appraisal and evaluation evidence on requirements, options, whole-life cost, cost-effectiveness analysis, Combined Operational Effectiveness and Investment Appraisal, risk, optimism bias, affordability, and outturn evaluation <span class="citation" data-cites="ministry_of_defence_2014_jsp507_part1 ministry_of_defence_2014_jsp507_part2">(<a href="#ref-ministry_of_defence_2014_jsp507_part1" role="doc-biblioref">Ministry of Defence 2014a</a>, <a href="#ref-ministry_of_defence_2014_jsp507_part2" role="doc-biblioref">2014b</a>)</span>;</li>
+<li>the Sourcing Playbook and related sourcing guidance provide commercial evidence on delivery model choice, market health, should-cost modelling, bid evaluation, risk allocation, benefits, and supplier resilience <span class="citation" data-cites="cabinet_office_gcf_2026_sourcing_playbook">(<a href="#ref-cabinet_office_gcf_2026_sourcing_playbook" role="doc-biblioref">Cabinet Office and Government Commercial Function 2026</a>)</span>;</li>
+<li>the Government Efficiency Framework provides tests for efficiency claims, savings validity, baselines, netting, recurrence, assurance, and protection of outputs and outcomes <span class="citation" data-cites="hm_treasury_2025_government_efficiency_framework_summary hm_treasury_2025_government_efficiency_framework">(<a href="#ref-hm_treasury_2025_government_efficiency_framework_summary" role="doc-biblioref">HM Treasury 2025a</a>, <a href="#ref-hm_treasury_2025_government_efficiency_framework" role="doc-biblioref">2025b</a>)</span>.</li>
+</ul>
+<p>Use this report when a defence evaluation needs a tailored rubric rather than a generic checklist. It is most useful for capability acquisition, digital and cyber programmes, infrastructure, support and logistics, personnel programmes, commercial service delivery, consultancy, and transformation activity.</p>
+</section>
+<section id="source-roles" class="level2">
+<h2 class="anchored" data-anchor-id="source-roles">Source Roles</h2>
+<p>Each source should play a specific role in rubric generation. Do not copy every source heading into the rubric. Use the sources to define what good resource use means in the programme context.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Use in rubric generation</th>
+<th>Avoid</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Verian Value for Investment</td>
+<td>Define the value proposition, mixed evidence needs, criteria, standards, trade-offs, and final VfI judgement.</td>
+<td>Treating cost-benefit analysis as the whole VfM answer.</td>
+</tr>
+<tr class="even">
+<td>OPM VfM guidance</td>
+<td>Structure the design sequence from criteria to standards to evidence and synthesis.</td>
+<td>Copying generic 5E definitions without programme-specific interpretation.</td>
+</tr>
+<tr class="odd">
+<td>Green Book</td>
+<td>Anchor objectives, public value, options, social costs and benefits, distribution, risk, uncertainty, and decision advice.</td>
+<td>Assuming the highest benefit-cost ratio automatically determines the VfI judgement.</td>
+</tr>
+<tr class="even">
+<td>JSP 507</td>
+<td>Translate appraisal and evaluation evidence into defence terms: requirement, options, through-life cost, CEA, COEIA, risk, affordability, and outturn evaluation.</td>
+<td>Forcing monetised CBA where defence benefits are operational, strategic, uncertain, or hard to monetise.</td>
+</tr>
+<tr class="odd">
+<td>Sourcing Playbook</td>
+<td>Test commercial preparation, delivery model choice, market evidence, should-cost evidence, bid evaluation, risk allocation, benefits, and supplier resilience.</td>
+<td>Turning procedural sourcing steps into criteria when they do not affect value judgement.</td>
+</tr>
+<tr class="even">
+<td>Government Efficiency Framework</td>
+<td>Strengthen efficiency and savings standards: baselines, counterfactuals, net savings, recurrence, double counting, assurance, and outcome protection.</td>
+<td>Treating financial efficiency reporting as a complete public value assessment.</td>
+</tr>
+</tbody>
+</table>
+<p>The core rule is source discipline. Verian and OPM define the judgement architecture. Green Book, JSP 507, sourcing guidance, and GEF provide source-specific prompts, evidence tests, and standards for particular parts of that architecture.</p>
+</section>
+<section id="generation-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="generation-workflow">Generation Workflow</h2>
+<section id="define-the-decision-context-and-value-proposition" class="level3">
+<h3 class="anchored" data-anchor-id="define-the-decision-context-and-value-proposition">1. Define the Decision Context and Value Proposition</h3>
+<p>Start by defining the decision the evaluation must inform. A rubric for an early approval decision will not look the same as a rubric for an in-flight programme review, contract re-let, benefits evaluation, or post-project outturn assessment.</p>
+<p>Record:</p>
+<ul>
+<li>the programme boundary, lifecycle stage, and decision point;</li>
+<li>the operational, organisational, commercial, or estate problem being addressed;</li>
+<li>the main alternatives, including do minimum, upgrade, outsourcing, insourcing, framework route, allied collaboration, or non-materiel options;</li>
+<li>the intended value for users, commands, maintainers, suppliers, allies, taxpayers, communities, and future programmes;</li>
+<li>the resources consumed, including acquisition, support, workforce, facilities, training, data, opportunity cost, and through-life funding;</li>
+<li>the conditions that must hold for value to emerge, such as user adoption, integration, threat assumptions, supportability, supplier performance, and affordability.</li>
+</ul>
+<p>This becomes the value proposition: what value is expected, for whom, through which resources and mechanisms, compared with which alternatives.</p>
+</section>
+<section id="identify-source-relevant-value-dimensions" class="level3">
+<h3 class="anchored" data-anchor-id="identify-source-relevant-value-dimensions">2. Identify Source-Relevant Value Dimensions</h3>
+<p>Read the value proposition against the source set. The aim is to identify material value dimensions, not to produce a long source checklist.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source lens</th>
+<th>Questions to ask</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Green Book</td>
+<td>What objectives and critical success factors define success? What social value, distribution, unmonetised effects, risks, and uncertainties are material?</td>
+</tr>
+<tr class="even">
+<td>JSP 507</td>
+<td>What requirement, options, through-life costs, effectiveness measures, affordability constraints, and defence risks need appraisal or evaluation evidence?</td>
+</tr>
+<tr class="odd">
+<td>Sourcing</td>
+<td>What delivery model, market, supplier, pricing, payment, KPI, risk allocation, and benefits evidence affects value?</td>
+</tr>
+<tr class="even">
+<td>GEF</td>
+<td>Are any efficiency or savings claims being made? Are they technical or allocative, cash releasing or non-cash releasing, forecast or realised?</td>
+</tr>
+<tr class="odd">
+<td>Verian and OPM</td>
+<td>Which value dimensions require explicit criteria and standards because evidence will be mixed, contested, uncertain, or non-monetised?</td>
+</tr>
+</tbody>
+</table>
+<p>At this stage, keep a source traceability log. For each candidate value dimension, note which source justifies considering it and whether the source claim is direct or an inference.</p>
+</section>
+<section id="select-criteria" class="level3">
+<h3 class="anchored" data-anchor-id="select-criteria">3. Select Criteria</h3>
+<p>Select a small set of criteria that will answer the VfI question. The default defence starting point is economy, efficiency, effectiveness, equity or distribution, and cost-effectiveness. Add risk and resilience, learning and capability, or evidence quality only where they materially affect the judgement and cannot be handled as subcriteria.</p>
+<p>Good criteria should:</p>
+<ul>
+<li>reflect the programme’s value proposition;</li>
+<li>cover the main resource-to-value pathway;</li>
+<li>be distinct enough to avoid double counting;</li>
+<li>support standards and evidence collection;</li>
+<li>make the main trade-offs visible to decision makers.</li>
+</ul>
+<p>Avoid criteria that are only data headings, process steps, or source chapter titles. A criterion should name something that can be judged.</p>
+</section>
+<section id="derive-subcriteria" class="level3">
+<h3 class="anchored" data-anchor-id="derive-subcriteria">4. Derive Subcriteria</h3>
+<p>Subcriteria translate each criterion into the dimensions of performance that matter for the programme. They should be few enough to support judgement and specific enough to guide evidence collection.</p>
+<p>Use source prompts selectively:</p>
+<ul>
+<li>Green Book prompts help derive subcriteria on objectives, alternatives, social value, distribution, risk, uncertainty, and unmonetised effects.</li>
+<li>JSP 507 prompts help derive subcriteria on requirement clarity, whole-life cost, CEA or COEIA, affordability, optimism bias, risk, and outturn evaluation.</li>
+<li>Sourcing prompts help derive subcriteria on market health, delivery model, should-cost, quality, risk allocation, incentives, benefits, supplier resilience, and framework use.</li>
+<li>GEF prompts help derive subcriteria on productivity, technical efficiency, allocative efficiency, net savings, recurrence, no adverse outcome impact, and assurance.</li>
+<li>OPM and Verian prompts help test whether the subcriteria support mixed-evidence synthesis and transparent judgement.</li>
+</ul>
+<p>For each subcriterion, write a one-sentence judgement question. If a subcriterion cannot be turned into a judgement question, it is probably not ready.</p>
+</section>
+<section id="write-performance-standards" class="level3">
+<h3 class="anchored" data-anchor-id="write-performance-standards">5. Write Performance Standards</h3>
+<p>Write standards before interpreting evidence. Use four levels unless the evaluation has a reason to use a different scale:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Level</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Poor</td>
+<td>Minimum expectations are not met, or weaknesses make resource use hard to justify.</td>
+</tr>
+<tr class="even">
+<td>Adequate</td>
+<td>Minimum expectations are met, but important weaknesses, gaps, or risks remain.</td>
+</tr>
+<tr class="odd">
+<td>Good</td>
+<td>Performance meets reasonable expectations, evidence supports a positive judgement, and material risks are controlled.</td>
+</tr>
+<tr class="even">
+<td>Excellent</td>
+<td>Performance exceeds reasonable expectations, trade-offs are explicit, evidence is strong, and learning or assurance supports confidence.</td>
+</tr>
+</tbody>
+</table>
+<p>Standards should be specific to the criterion. For example, “good efficiency” in a digital programme may require evidence of adaptation, reuse, and reduced manual effort; “good efficiency” in an equipment programme may require schedule realism, integration flow, and avoidable rework control.</p>
+<p>Do not write standards as numeric thresholds alone. Quantitative thresholds can be useful, but the standard should also state how quality, risk, distribution, and evidence confidence affect the judgement.</p>
+</section>
+<section id="specify-evidence-and-methods" class="level3">
+<h3 class="anchored" data-anchor-id="specify-evidence-and-methods">6. Specify Evidence and Methods</h3>
+<p>Evidence should follow the criteria and standards. Do not start with available data and retrofit the rubric around it.</p>
+<p>Common evidence types include:</p>
+<ul>
+<li>business cases, approvals, options appraisals, and Green Book or JSP 507 analysis;</li>
+<li>whole-life cost models, should-cost models, budgets, forecasts, outturns, and cost assurance;</li>
+<li>COEIA, cost-effectiveness analysis, break-even analysis, sensitivity analysis, and scenario testing;</li>
+<li>commercial strategies, delivery model assessments, market engagement, bid evaluation, contracts, KPIs, and supplier evidence;</li>
+<li>GEF efficiency baselines, counterfactuals, net savings calculations, benefits tracking, and assurance records;</li>
+<li>operational analysis, trials, user research, acceptance evidence, service data, readiness, reliability, and support evidence;</li>
+<li>interviews, workshops, surveys, document review, contribution analysis, process evaluation, and stakeholder evidence.</li>
+</ul>
+<p>For each evidence item, specify what criterion it informs, what standard it helps judge, what quality checks are needed, and what limitations should be reported.</p>
+</section>
+<section id="check-consistency-gaps-trade-offs-and-assurance" class="level3">
+<h3 class="anchored" data-anchor-id="check-consistency-gaps-trade-offs-and-assurance">7. Check Consistency, Gaps, Trade-Offs, and Assurance</h3>
+<p>Before evidence collection starts, review the draft rubric.</p>
+<p>Ask:</p>
+<ul>
+<li>Does every criterion trace back to the value proposition and at least one source rationale?</li>
+<li>Are criteria distinct, or do they double count the same issue?</li>
+<li>Are the standards clear enough that two evaluators could apply them consistently?</li>
+<li>Does the evidence plan include both monetised and non-monetised value where material?</li>
+<li>Are alternatives, opportunity cost, and affordability visible?</li>
+<li>Are distribution, risk, uncertainty, and future liabilities visible?</li>
+<li>Are efficiency claims tested against baselines, counterfactuals, netting, recurrence, double counting, and outcome protection?</li>
+<li>Is there enough evidence to judge commercial value, delivery model choice, supplier resilience, and benefits realisation where sourcing is material?</li>
+<li>What gaps will remain, and how will they affect confidence in the final judgement?</li>
+</ul>
+<p>The output of this step should be a rubric that can be used for evidence collection, analysis, synthesis, and reporting without redesigning the framework halfway through the evaluation.</p>
+</section>
+</section>
+<section id="reusable-criteria-bank" class="level2">
+<h2 class="anchored" data-anchor-id="reusable-criteria-bank">Reusable Criteria Bank</h2>
+<p>Use this bank as a starting point, then tailor it. Not every criterion belongs in every rubric.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Defence definition</th>
+<th>Candidate subcriteria</th>
+<th>Source anchors</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Economy</td>
+<td>Stewardship of financial, workforce, supplier, estate, data, and specialist inputs at appropriate cost and quality.</td>
+<td>Price reasonableness; input quality; whole-life cost control; procurement discipline; scarce skills; false economy risks.</td>
+<td>OPM, Green Book, JSP 507, Sourcing Playbook.</td>
+</tr>
+<tr class="even">
+<td>Efficiency</td>
+<td>Conversion of resources into useful outputs through delivery, allocation, learning, and coordination.</td>
+<td>Technical efficiency; allocative efficiency; dynamic efficiency; relational efficiency; schedule and rework control; governance speed.</td>
+<td>OPM, GEF, JSP 507, Sourcing Playbook.</td>
+</tr>
+<tr class="odd">
+<td>Effectiveness</td>
+<td>Delivery of intended operational, organisational, user, service, or estate outcomes.</td>
+<td>Capability delivered; outcome contribution; reliability and availability; user adoption; interoperability; unintended effects.</td>
+<td>Verian, Green Book, JSP 507.</td>
+</tr>
+<tr class="even">
+<td>Equity and distribution</td>
+<td>Fair distribution of benefits, burdens, access, risks, and future liabilities.</td>
+<td>User and maintainer burden; cross-force access; place and community effects; supplier access; future budget pressure; intergenerational effects.</td>
+<td>Green Book, OPM, Verian, sourcing guidance.</td>
+</tr>
+<tr class="odd">
+<td>Cost-effectiveness</td>
+<td>Whether value created justifies the resources used compared with credible alternatives.</td>
+<td>Through-life cost relative to outcomes; options comparison; COEIA or CEA; unmonetised value; sensitivity; opportunity cost.</td>
+<td>Green Book, JSP 507, Verian, OPM.</td>
+</tr>
+<tr class="even">
+<td>Risk and resilience</td>
+<td>Whether major delivery, operational, commercial, financial, cyber, safety, and continuity risks are understood and managed.</td>
+<td>Optimism bias; risk ownership; contingency; supplier resilience; supportability; exit routes; scenario robustness.</td>
+<td>JSP 507, Green Book, Sourcing Playbook.</td>
+</tr>
+<tr class="odd">
+<td>Learning and capability</td>
+<td>Whether the programme improves future resource use, institutional capability, and adaptive performance.</td>
+<td>Lessons applied; knowledge transfer; data quality; reusable assets; capability development; reduced future dependency.</td>
+<td>OPM, Verian, sourcing and consultancy guidance.</td>
+</tr>
+<tr class="even">
+<td>Evidence quality and assurance</td>
+<td>Whether the judgement is based on proportionate, transparent, reviewable, and decision-relevant evidence.</td>
+<td>Source traceability; data quality; independent assurance; sensitivity testing; audit trail; limitations.</td>
+<td>OPM, Verian, Green Book, JSP 507, GEF.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="rubric-templates" class="level2">
+<h2 class="anchored" data-anchor-id="rubric-templates">Rubric Templates</h2>
+<section id="criteria-definition-template" class="level3">
+<h3 class="anchored" data-anchor-id="criteria-definition-template">Criteria Definition Template</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Drafting prompt</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Criterion name</td>
+<td>Use a short judgement term such as economy, effectiveness, or risk and resilience.</td>
+</tr>
+<tr class="even">
+<td>Programme-specific definition</td>
+<td>Describe what good performance means for this programme, not in generic terms.</td>
+</tr>
+<tr class="odd">
+<td>Main judgement question</td>
+<td>Ask the question the criterion must answer.</td>
+</tr>
+<tr class="even">
+<td>Source rationale</td>
+<td>Cite the source prompts that justify including the criterion.</td>
+</tr>
+<tr class="odd">
+<td>Boundaries</td>
+<td>State what is inside and outside the criterion to avoid double counting.</td>
+</tr>
+<tr class="even">
+<td>Main trade-offs</td>
+<td>Identify tensions with cost, quality, speed, risk, equity, or future value.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="subcriteria-template" class="level3">
+<h3 class="anchored" data-anchor-id="subcriteria-template">Subcriteria Template</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Subcriterion</th>
+<th>Judgement question</th>
+<th>Candidate evidence</th>
+<th>Source trace</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Economy</td>
+<td>Whole-life cost realism</td>
+<td>Are acquisition, support, personnel, infrastructure, training, transition, disposal, and opportunity costs complete enough for judgement?</td>
+<td>Cost model, JSP 507 appraisal, should-cost model, business case, cost assurance.</td>
+<td>JSP 507, Green Book, sourcing.</td>
+</tr>
+<tr class="even">
+<td>Efficiency</td>
+<td>Valid efficiency claim</td>
+<td>Does the claimed saving increase output for the same input, maintain output for lower input, or reallocate resources to a better route without adverse outcome impact?</td>
+<td>Baseline, counterfactual, outturn, benefits log, net savings calculation, outcome indicators.</td>
+<td>GEF, OPM.</td>
+</tr>
+<tr class="odd">
+<td>Effectiveness</td>
+<td>Operational value</td>
+<td>Does the capability or service perform in the conditions that matter to users and commanders?</td>
+<td>Trials, acceptance evidence, operational analysis, readiness data, user evidence.</td>
+<td>JSP 507, Verian.</td>
+</tr>
+<tr class="even">
+<td>Risk and resilience</td>
+<td>Supplier continuity</td>
+<td>Is supplier financial standing, delivery resilience, and exit planning proportionate to the criticality of the service?</td>
+<td>Financial standing checks, continuity plan, contract risk register, market assessment.</td>
+<td>Sourcing Playbook.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="performance-standards-template" class="level3">
+<h3 class="anchored" data-anchor-id="performance-standards-template">Performance Standards Template</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Poor</th>
+<th>Adequate</th>
+<th>Good</th>
+<th>Excellent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Economy</td>
+<td>Material input costs, quality thresholds, or cost drivers are not understood; stewardship weaknesses create avoidable waste or false economy.</td>
+<td>Main costs and inputs are identified, but some assumptions, quality risks, or cost drivers are weakly evidenced.</td>
+<td>Inputs are appropriate quality at reasonable cost, with whole-life cost and major cost drivers actively managed.</td>
+<td>Stewardship is strong across financial, workforce, supplier, estate, and data inputs; choices protect long-term value and are independently reviewable.</td>
+</tr>
+<tr class="even">
+<td>Efficiency</td>
+<td>Delivery or savings claims rely on weak baselines, cost shifting, deferral, reduced output, or avoidable delay and rework.</td>
+<td>Delivery is plausible and basic baselines exist, but output quality, net savings, recurrence, or adaptation evidence is incomplete.</td>
+<td>Resources are converted into useful outputs with controlled delay and rework; efficiency claims are net, evidenced, and outcome-protecting.</td>
+<td>Technical, allocative, dynamic, and relational efficiency are strong; realised efficiencies are sustained, assured, and used to improve future resource use.</td>
+</tr>
+<tr class="odd">
+<td>Effectiveness</td>
+<td>Outputs do not meet minimum operational, service, or user requirements, or the contribution to intended outcomes is not credible.</td>
+<td>Core outputs are delivered but evidence of quality, uptake, contribution, or unintended effects is partial.</td>
+<td>Outputs meet the conditions that matter, users can exploit them, and evidence supports a credible outcome contribution.</td>
+<td>Operational or service value is strong across demanding conditions, with clear contribution evidence, managed unintended effects, and learning for future decisions.</td>
+</tr>
+<tr class="even">
+<td>Cost-effectiveness</td>
+<td>The programme cannot show credible alternatives, complete enough costs, or a defensible relationship between resources and value.</td>
+<td>The programme compares some options and costs, but important unmonetised value, uncertainty, or opportunity cost is weakly treated.</td>
+<td>Whole-life cost and effectiveness evidence show that the programme compares well with credible alternatives, including non-monetised value and uncertainty.</td>
+<td>The judgement is risk-adjusted, transparent, and robust across plausible scenarios; decision makers can see why the resource use is justified overall.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="evidence-plan-template" class="level3">
+<h3 class="anchored" data-anchor-id="evidence-plan-template">Evidence Plan Template</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Evidence item</th>
+<th>Criterion informed</th>
+<th>Method or source</th>
+<th>Quality checks</th>
+<th>Likely limitation</th>
+<th>Use in synthesis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Business case and options appraisal</td>
+<td>Cost-effectiveness, risk, evidence quality</td>
+<td>Document review</td>
+<td>Check option set, assumptions, appraisal boundary, sensitivity, and treatment of unmonetised effects.</td>
+<td>May reflect forecast rather than realised performance.</td>
+<td>Establish baseline expectations and alternatives.</td>
+</tr>
+<tr class="even">
+<td>Whole-life cost and should-cost models</td>
+<td>Economy, cost-effectiveness</td>
+<td>Cost review</td>
+<td>Check completeness, base date, inflation, optimism bias, hidden costs, common costs, and assurance.</td>
+<td>May not capture future operating changes or classified dependencies.</td>
+<td>Test cost realism and affordability.</td>
+</tr>
+<tr class="odd">
+<td>Trials, acceptance, and user evidence</td>
+<td>Effectiveness, risk</td>
+<td>Mixed methods</td>
+<td>Check relevance to operational conditions, user groups, and limitations.</td>
+<td>Trial conditions may differ from deployed context.</td>
+<td>Judge whether outputs plausibly create intended value.</td>
+</tr>
+<tr class="even">
+<td>Efficiency benefits records</td>
+<td>Efficiency, evidence quality</td>
+<td>GEF-style benefits review</td>
+<td>Check baseline, counterfactual, gross/net treatment, recurrence, double counting, and outcome protection.</td>
+<td>Forecast savings may not yet be realised.</td>
+<td>Distinguish claimed, forecast, and realised efficiency.</td>
+</tr>
+<tr class="odd">
+<td>Commercial and supplier evidence</td>
+<td>Economy, risk, resilience</td>
+<td>Commercial document review and interviews</td>
+<td>Check delivery model rationale, market evidence, risk allocation, payment mechanism, and supplier standing.</td>
+<td>Supplier data may be commercially sensitive or incomplete.</td>
+<td>Judge whether commercial choices support sustainable value.</td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="worked-example-defence-digital-support-contract" class="level2">
+<h2 class="anchored" data-anchor-id="worked-example-defence-digital-support-contract">Worked Example: Defence Digital Support Contract</h2>
+<p>This example shows how source prompts become a tailored rubric. It is illustrative only.</p>
+<section id="context-and-value-proposition" class="level3">
+<h3 class="anchored" data-anchor-id="context-and-value-proposition">Context and Value Proposition</h3>
+<p>A defence organisation is replacing a fragmented set of digital support arrangements with a new managed service for secure applications. The intended value is more reliable support, faster incident resolution, better cyber assurance, lower duplication, clearer supplier accountability, and improved user experience. The main alternatives are retaining current contracts, insourcing more support, using a framework call-off, or creating a hybrid model with retained internal product ownership.</p>
+<p>The decision needs to judge whether the proposed managed service represents good resource use before contract award and whether the rubric can later support in-flight benefits evaluation.</p>
+</section>
+<section id="source-to-rubric-choices" class="level3">
+<h3 class="anchored" data-anchor-id="source-to-rubric-choices">Source-to-Rubric Choices</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source prompt</th>
+<th>Rubric implication</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Verian and OPM require criteria, standards, and mixed evidence before judgement.</td>
+<td>Build a rubric rather than relying only on bid scores or savings claims.</td>
+</tr>
+<tr class="even">
+<td>Green Book requires objectives, alternatives, unmonetised effects, distribution, and risk.</td>
+<td>Include alternatives, user experience, cyber risk, and service continuity alongside cost.</td>
+</tr>
+<tr class="odd">
+<td>JSP 507 supports whole-life cost, affordability, risk, and evaluation planning.</td>
+<td>Require through-life cost, transition cost, retained-client cost, and outturn evaluation evidence.</td>
+</tr>
+<tr class="even">
+<td>Sourcing Playbook requires delivery model, should-cost, KPIs, risk allocation, and supplier resilience.</td>
+<td>Include commercial discipline, KPI quality, supplier resilience, and risk allocation subcriteria.</td>
+</tr>
+<tr class="odd">
+<td>GEF requires valid baselines, net savings, recurrence, and no adverse outcome impact.</td>
+<td>Treat savings as unproven until baselines, costs to deliver, service quality, and recurrence are evidenced.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="tailored-rubric-extract" class="level3">
+<h3 class="anchored" data-anchor-id="tailored-rubric-extract">Tailored Rubric Extract</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Programme-specific definition</th>
+<th>Subcriteria</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Economy</td>
+<td>The service is economical if the chosen inputs, supplier model, retained-client capability, and transition resources are suitable quality at reasonable whole-life cost.</td>
+<td>Should-cost realism; retained-client cost; transition cost; price-quality balance; framework route justification.</td>
+<td>Should-cost model, bid evaluation report, delivery model assessment, commercial strategy, contract pricing schedule.</td>
+</tr>
+<tr class="even">
+<td>Efficiency</td>
+<td>The service is efficient if it reduces duplication and improves support flow without degrading quality, cyber assurance, or user outcomes.</td>
+<td>Incident handling productivity; automation and reuse; valid savings claim; reduced handoffs; governance speed.</td>
+<td>Service baseline, counterfactual, KPI history, benefits register, GEF-style savings evidence, process maps.</td>
+</tr>
+<tr class="odd">
+<td>Effectiveness</td>
+<td>The service is effective if it improves secure application support in the conditions that matter to defence users.</td>
+<td>Incident resolution; user satisfaction; cyber compliance; service availability; support for priority missions.</td>
+<td>SLA data, acceptance tests, cyber assurance, user research, operational stakeholder interviews.</td>
+</tr>
+<tr class="even">
+<td>Risk and resilience</td>
+<td>The service is resilient if supplier, transition, cyber, continuity, and exit risks are owned and managed at an efficient price.</td>
+<td>Supplier financial standing; transition risk; exit plan; cyber risk ownership; continuity arrangements.</td>
+<td>Supplier assessment, risk allocation matrix, transition plan, continuity plan, contract clauses.</td>
+</tr>
+<tr class="odd">
+<td>Cost-effectiveness</td>
+<td>The service is cost-effective if whole-life cost is justified by better support, reduced duplication, cyber assurance, and credible alternatives analysis.</td>
+<td>Options comparison; net benefits; uncertainty; non-monetised value; affordability.</td>
+<td>Business case, options appraisal, sensitivity analysis, benefits evidence, unmonetised value narrative.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="example-standards-extract" class="level3">
+<h3 class="anchored" data-anchor-id="example-standards-extract">Example Standards Extract</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Poor</th>
+<th>Adequate</th>
+<th>Good</th>
+<th>Excellent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Efficiency</td>
+<td>Savings depend on reduced service quality, unfunded transition work, weak baselines, or deferred costs.</td>
+<td>A plausible savings case exists, but baseline, counterfactual, recurrence, or service-quality protection is incomplete.</td>
+<td>Savings and productivity improvements are evidenced as net of transition cost, outcome-protecting, and linked to service improvements.</td>
+<td>Realised efficiencies are sustained, independently reviewable, and accompanied by better service quality, cyber assurance, and reusable delivery learning.</td>
+</tr>
+<tr class="even">
+<td>Risk and resilience</td>
+<td>Key supplier, cyber, transition, or exit risks are unclear, transferred unrealistically, or priced inefficiently.</td>
+<td>Main risks are identified, but ownership, mitigations, financial standing, or continuity evidence is partial.</td>
+<td>Risks are owned by the party best able to manage them, priced transparently, and supported by credible transition and continuity plans.</td>
+<td>Risk management is tested, assured, and adaptive, with clear exit routes, strong supplier resilience, and no hidden transfer of risk to users or future budgets.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="evidence-gaps-to-report" class="level3">
+<h3 class="anchored" data-anchor-id="evidence-gaps-to-report">Evidence Gaps to Report</h3>
+<p>If baseline service quality is weak, the evaluator should report that savings confidence is limited. If user evidence is missing, the effectiveness standard should not be rated above adequate without a clear justification. If supplier resilience or exit evidence is commercially sensitive, the report should explain what assurance was reviewed and what cannot be disclosed.</p>
+</section>
+</section>
+<section id="reporting-the-generated-rubric" class="level2">
+<h2 class="anchored" data-anchor-id="reporting-the-generated-rubric">Reporting the Generated Rubric</h2>
+<p>The final rubric pack should include:</p>
+<ol type="1">
+<li>the value proposition and decision context;</li>
+<li>selected criteria and programme-specific definitions;</li>
+<li>subcriteria and judgement questions;</li>
+<li>poor, adequate, good, and excellent standards;</li>
+<li>evidence plan and source traceability;</li>
+<li>treatment of monetised and non-monetised value;</li>
+<li>treatment of alternatives, risk, uncertainty, distribution, and affordability;</li>
+<li>known evidence gaps and confidence implications;</li>
+<li>synthesis approach for the final VfI judgement.</li>
+</ol>
+<p>The rubric is ready to use when an evaluator can explain, before reviewing the evidence, what would count as poor, adequate, good, or excellent resource use and what evidence would support each judgement.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Source notes:</p>
+<ul>
+<li><a href="../notes/verian-value-for-investment-guidance.html">Verian Value for Investment Guidance</a></li>
+<li><a href="../notes/opm-king-vfm-guidance.html">OPM King VfM Guidance</a></li>
+<li><a href="../notes/green-book-vfm-guidance.html">Green Book VfM Guidance</a></li>
+<li><a href="../notes/jsp-507-investment-appraisal-evaluation.html">JSP 507 Investment Appraisal and Evaluation</a></li>
+<li><a href="../notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.html">Sourcing and Consultancy Playbooks for VfM Rubric Creation</a></li>
+<li><a href="../notes/government-efficiency-framework-vfi-rubric-relevance.html">Government Efficiency Framework and VfI Rubrics</a></li>
+</ul>
+<p>Related report:</p>
+<ul>
+<li><a href="../reports/defence-vfm-guidance.html">Defence VfM Guidance</a></li>
+</ul>
+<p>Return to the <a href="../reports/index.html">reports overview</a>.</p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-cabinet_office_gcf_2026_sourcing_playbook" class="csl-entry" role="listitem">
+Cabinet Office, and Government Commercial Function. 2026. <em>The Sourcing Playbook</em>. GOV.UK. <a href="https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html">https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html</a>.
+</div>
+<div id="ref-hm_treasury_2022_green_book_vfm" class="csl-entry" role="listitem">
+HM Treasury. 2022. <em>Green Book Supplementary Guidance: Value for Money</em>. GOV.UK. <a href="https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money">https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money</a>.
+</div>
+<div id="ref-hm_treasury_2025_government_efficiency_framework_summary" class="csl-entry" role="listitem">
+———. 2025a. <em>Government Efficiency Framework (GEF) Summary, Key Definitions and Criteria Guide</em>. GOV.UK. <a href="https://www.gov.uk/government/publications/the-government-efficiency-framework/government-efficiency-framework-gef-summary-key-definitions-and-criteria-guide">https://www.gov.uk/government/publications/the-government-efficiency-framework/government-efficiency-framework-gef-summary-key-definitions-and-criteria-guide</a>.
+</div>
+<div id="ref-hm_treasury_2025_government_efficiency_framework" class="csl-entry" role="listitem">
+———. 2025b. <em>The Government Efficiency Framework</em>. GOV.UK. <a href="https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2">https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2</a>.
+</div>
+<div id="ref-hm_treasury_2026_green_book" class="csl-entry" role="listitem">
+———. 2026. <em>The Green Book</em>. GOV.UK. <a href="https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026">https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026</a>.
+</div>
+<div id="ref-king_hurrell_2024_verian_vfm" class="csl-entry" role="listitem">
+King, Julian, and Alex Hurrell. 2024. <span>“A Guide to Evaluation of Value for Money in UK Public Services: Why Cost-Benefit Analysis Alone May Be Insufficient to Evaluate VfM, and How to Navigate a Solution.”</span> Verian Group. <a href="https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf">https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf</a>.
+</div>
+<div id="ref-king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm" class="csl-entry" role="listitem">
+King, Julian, Daniel Wate, Esther Namukasa, Alex Hurrell, Frances Hansford, Patrick Ward, and Shiva Faramarzifar. 2023. <em>Assessing Value for Money: The Oxford Policy Management Approach</em>. Second. Oxford Policy Management. <a href="https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf">https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf</a>.
+</div>
+<div id="ref-ministry_of_defence_2014_jsp507_part1" class="csl-entry" role="listitem">
+Ministry of Defence. 2014a. <em>JSP 507: Investment Appraisal and Evaluation, Part 1: Directive</em>. GOV.UK. <a href="https://assets.publishing.service.gov.uk/media/5a7cb922ed915d63cc65c75b/JSP507_Part_1_U.pdf">https://assets.publishing.service.gov.uk/media/5a7cb922ed915d63cc65c75b/JSP507_Part_1_U.pdf</a>.
+</div>
+<div id="ref-ministry_of_defence_2014_jsp507_part2" class="csl-entry" role="listitem">
+———. 2014b. <em>JSP 507: Investment Appraisal and Evaluation, Part 2: Guidance</em>. GOV.UK. <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275550/JSP507_Part_2_U.pdf">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275550/JSP507_Part_2_U.pdf</a>.
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p><a href="https://defenceeconomist.github.io">defenceeconomist.github.io</a></p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

@@ -30,6 +30,13 @@ This section turns source guidance into practical evaluator-facing reports. Repo
 
 Guidance for applying rubric-based value for money evaluation to defence capability, digital and cyber, infrastructure, and personnel programmes.
 :::
+::: {.section-card}
+<span class="page-badge badge-source">Report</span>
+
+### [Defence VfI Rubric Generation](defence-vfi-rubric-generation.qmd)
+
+Guidance for generating defence Value for Investment criteria, subcriteria, performance standards, and evidence plans.
+:::
 :::
 
 </div>

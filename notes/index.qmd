@@ -17,14 +17,45 @@ This section collects value for money evaluation notes. Start with the definitio
   <span>Source notes</span>
   <span>VfM criteria</span>
   <span>Evidence map</span>
+  <span><a href="../references.bib" download>Export BibTeX</a></span>
 </div>
 :::
 
 ## Source Notes {#source-notes .section-heading}
 
+```{=html}
+<div class="notes-filter" role="search" aria-label="Filter source note tiles">
+  <label for="notes-search">Find
+    <input id="notes-search" type="search" placeholder="Search notes" autocomplete="off" />
+  </label>
+  <label for="notes-section-filter">Section
+    <select id="notes-section-filter">
+      <option value="all">All sections</option>
+      <option value="Overview">Overview</option>
+      <option value="Central Gov Guidance">Central Gov Guidance</option>
+      <option value="King and VfI">King and VfI</option>
+      <option value="OECD DAC">OECD DAC</option>
+      <option value="DfT">DfT</option>
+      <option value="Sourcing Playbook">Sourcing Playbook</option>
+    </select>
+  </label>
+  <label for="notes-type-filter">Type
+    <select id="notes-type-filter">
+      <option value="all">All types</option>
+      <option value="Source note">Source note</option>
+      <option value="Synthesis">Synthesis</option>
+    </select>
+  </label>
+</div>
+<p class="notes-filter-count" id="notes-filter-count" aria-live="polite"></p>
+```
+
 ::: {.section-grid}
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-overview">Overview</span>
+<span class="page-badge badge-synthesis">Synthesis</span>
+</div>
 
 ### [VfM Definitions](vfm-definitions.qmd)
 
@@ -32,39 +63,21 @@ Compares authoritative definitions from HM Treasury, the National Audit Office, 
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-central">Central Gov Guidance</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [Green Book VfM Guidance](green-book-vfm-guidance.qmd)
 
-Summarises HM Treasury's Green Book definition of value for money, including social value, monetised and unmonetised effects, distribution, and risk.
+Summarises HM Treasury's Green Book definition of value for money and maps appraisal concepts to VfI criteria, subcriteria, standards, and evidence prompts.
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
-
-### [NAO VfM Definition](nao-vfm-definition.qmd)
-
-Summarises the National Audit Office definition of good value for money through economy, efficiency, effectiveness, and intended outcomes.
-:::
-
-::: {.section-card}
-<span class="page-badge badge-source">Source</span>
-
-### [OPM King VfM Guidance](opm-king-vfm-guidance.qmd)
-
-Summarises OPM's approach to assessing value for money, including criteria, rubrics, evidence standards, synthesis, judgement, and reporting.
-:::
-
-::: {.section-card}
-<span class="page-badge badge-source">Source</span>
-
-### [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd)
-
-Summarises King and Hurrell's Verian guide to evaluating value for money in UK public services, including the relationship between cost-benefit analysis and broader Value for Investment assessment.
-:::
-
-::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-central">Central Gov Guidance</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd)
 
@@ -72,7 +85,87 @@ Summarises HM Treasury's Magenta Book guidance on value for money evaluation, in
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-central">Central Gov Guidance</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Government Efficiency Framework Summary](government-efficiency-framework-summary.qmd)
+
+Summarises HM Treasury's concise GEF definitions and criteria for valid efficiency savings, including output protection, net savings, recurrence, and evidence quality.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-central">Central Gov Guidance</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Government Efficiency Framework](government-efficiency-framework.qmd)
+
+Summarises HM Treasury's full framework for defining, tracking, reporting, assuring, and governing central government efficiency savings.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-central">Central Gov Guidance</span>
+<span class="page-badge badge-synthesis">Synthesis</span>
+</div>
+
+### [Government Efficiency Framework and VfI Rubrics](government-efficiency-framework-vfi-rubric-relevance.qmd)
+
+Maps GEF material to VfI-style criteria, subcriteria, performance-standard prompts, and evidence requirements without creating a full rubric.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-central">Central Gov Guidance</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [JSP 507 Investment Appraisal and Evaluation](jsp-507-investment-appraisal-evaluation.qmd)
+
+Summarises MOD's appraisal and evaluation guidance and maps it to VfI criteria, subcriteria, performance-standard prompts, and evidence planning for defence programmes.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-central">Central Gov Guidance</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [NAO VfM Definition](nao-vfm-definition.qmd)
+
+Summarises the National Audit Office definition of good value for money through economy, efficiency, effectiveness, and intended outcomes.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-king">King and VfI</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [OPM King VfM Guidance](opm-king-vfm-guidance.qmd)
+
+Summarises OPM's approach to assessing value for money, including criteria, rubrics, evidence standards, synthesis, judgement, and reporting.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-king">King and VfI</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd)
+
+Summarises King and Hurrell's Verian guide to evaluating value for money in UK public services, including the relationship between cost-benefit analysis and broader Value for Investment assessment.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-oecd">OECD DAC</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd)
 
@@ -80,7 +173,10 @@ Summarises the OECD DAC evaluation criteria, including relevance, coherence, eff
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-oecd">OECD DAC</span>
+<span class="page-badge badge-synthesis">Synthesis</span>
+</div>
 
 ### [VfI and OECD DAC Relationship](vfi-oecd-dac-relationship.qmd)
 
@@ -88,7 +184,10 @@ Explains how Julian King's Value for Investment framing can use the OECD DAC cri
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-oecd">OECD DAC</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [Defence Logistics Vessel DAC VfM Evaluation](defence-logistics-vessel-dac-vfm-evaluation.qmd)
 
@@ -96,7 +195,10 @@ Summarises an ex-post evaluation of HNoMS Maud, showing how a DAC-inspired frame
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-dft">DfT</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [DfT VfM Framework](dft-vfm-framework.qmd)
 
@@ -104,7 +206,10 @@ Summarises DfT's framework for transport value for money assessment, including B
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-dft">DfT</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [DfT Transport Business Case](dft-transport-business-case.qmd)
 
@@ -112,7 +217,10 @@ Summarises how DfT applies the five-case model, TAG, Green Book guidance, and va
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-dft">DfT</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [DfT TAG Appraisal and Evaluation](dft-tag-appraisal-evaluation.qmd)
 
@@ -120,7 +228,10 @@ Summarises Transport Analysis Guidance as DfT's technical base for transport mod
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-dft">DfT</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [DfT VfM Indicator](dft-vfm-indicator.qmd)
 
@@ -128,13 +239,205 @@ Summarises DfT's portfolio indicator for expected value for money at approval an
 :::
 
 ::: {.section-card}
-<span class="page-badge badge-source">Source</span>
+<div class="badge-row">
+<span class="page-badge badge-dft">DfT</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
 
 ### [DfT VfM Case Examples](dft-vfm-case-examples.qmd)
 
 Summarises DfT's Integrated Transport Block and major bus-related scheme value for money assessments as practical portfolio examples.
 :::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-synthesis">Synthesis</span>
+</div>
+
+### [Sourcing and Consultancy Playbooks for VfM Rubric Creation](sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd)
+
+Sets transparent relevance rules for using sourcing and consultancy playbook material in VfM rubric creation.
 :::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Playbook](sourcing-playbook.qmd)
+
+Summarises Cabinet Office guidance on service delivery, outsourcing, insourcing, mixed economy sourcing, and contracting.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Framework Agreements](sourcing-framework-agreements.qmd)
+
+Explains how Sourcing Playbook responsibilities apply when using framework agreements and call-off contracts.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Delivery Model Assessment](sourcing-delivery-model-assessment.qmd)
+
+Summarises evidence-based assessment of in-house, outsourced, and hybrid delivery options.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Should Cost Modelling](sourcing-should-cost-modelling.qmd)
+
+Summarises should-cost modelling as whole-life cost evidence for sourcing and VfM judgement.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Bid Evaluation](sourcing-bid-evaluation.qmd)
+
+Summarises how bid evaluation balances price, quality, social value, and deliverability.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Benefits Measurement](sourcing-benefits-measurement.qmd)
+
+Summarises commercial benefits measurement, benefits registers, reviews, and benefits reporting.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Market Management](sourcing-market-management.qmd)
+
+Summarises market health, supplier access, competition, and market stewardship as VfM evidence.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Testing and Piloting](sourcing-testing-and-piloting.qmd)
+
+Summarises testing and piloting as evidence for service viability, user needs, and staged commitment.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Risk Allocation and Pricing](sourcing-risk-allocation-pricing.qmd)
+
+Summarises risk allocation, pricing approaches, incentives, and payment mechanisms.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Sourcing Supplier Financial Standing](sourcing-supplier-financial-standing.qmd)
+
+Summarises assessment and monitoring of supplier financial capacity and financial risk.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Consultancy Playbook](consultancy-playbook.qmd)
+
+Summarises guidance on commissioning consultants, improving outcomes, and building Civil Service capability.
+:::
+
+::: {.section-card}
+<div class="badge-row">
+<span class="page-badge badge-sourcing">Sourcing Playbook</span>
+<span class="page-badge badge-note-type">Source note</span>
+</div>
+
+### [Consultancy Knowledge and Skills Transfer](consultancy-knowledge-skills-transfer.qmd)
+
+Summarises guidance on knowledge generation, skills transfer, sharing, and reuse in consultancy engagements.
+:::
+:::
+
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const cards = Array.from(document.querySelectorAll("#source-notes .section-grid .section-card"));
+  const searchInput = document.getElementById("notes-search");
+  const sectionFilter = document.getElementById("notes-section-filter");
+  const typeFilter = document.getElementById("notes-type-filter");
+  const count = document.getElementById("notes-filter-count");
+
+  const getBadges = (card) => Array.from(card.querySelectorAll(".page-badge")).map((badge) => badge.textContent.trim());
+
+  cards.forEach((card) => {
+    const badges = getBadges(card);
+    card.dataset.section = badges[0] || "";
+    card.dataset.noteType = badges[1] || "";
+    card.dataset.searchText = card.textContent.toLowerCase();
+  });
+
+  const updateCards = () => {
+    const query = searchInput.value.trim().toLowerCase();
+    const section = sectionFilter.value;
+    const type = typeFilter.value;
+    let visible = 0;
+
+    cards.forEach((card) => {
+      const matchesSearch = !query || card.dataset.searchText.includes(query);
+      const matchesSection = section === "all" || card.dataset.section === section;
+      const matchesType = type === "all" || card.dataset.noteType === type;
+      const show = matchesSearch && matchesSection && matchesType;
+      card.classList.toggle("is-hidden", !show);
+      if (show) visible += 1;
+    });
+
+    count.textContent = `${visible} of ${cards.length} notes shown`;
+  };
+
+  [searchInput, sectionFilter, typeFilter].forEach((control) => {
+    control.addEventListener("input", updateCards);
+    control.addEventListener("change", updateCards);
+  });
+
+  updateCards();
+});
+</script>
+```
 
 ## Notes Map {#notes-map .section-heading}
 

@@ -1,0 +1,81 @@
+---
+title: "Sourcing Market Management"
+description: "Source note on market health, market capability, and market stewardship as VfM rubric evidence."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on market management [@cabinet_office_2021_market_management].
+
+The main source is:
+
+- [GOV.UK PDF: Market Management Guidance Note](https://assets.publishing.service.gov.uk/media/60a38814e90e07356e2bbc4f/Market_management_guidance_note_May_2021.pdf)
+
+## One-Page Summary
+
+The market management guidance defines market management as understanding the markets government sources from, recognising government's influence on those markets, and designing commercial strategies and contracts that promote healthy markets in the short, medium, and long term.
+
+For VfM rubric creation, the guidance is directly relevant to economy, resilience, supplier access, competition, and long-term value. It treats market health as part of good commercial stewardship, not as a background condition.
+
+## Purpose and Scope
+
+The guidance applies to in-scope outsourcing procurements and encourages wider public sector use. It introduces rules and guidance for market health assessment and for adapting commercial strategy and contract design to address market weaknesses.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Better market management should lead to more competitive markets, less over-reliance on one or two suppliers, and improved value for money.
+- Departments should conduct market health assessments and consider how commercial strategy and contract design can respond to market weaknesses.
+- Strategic outline business cases should demonstrate appropriate market assessment and consideration of options to promote market health.
+- Indicators can cover market structure, contestability, market outcomes, supplier concentration, switching, and market trends.
+
+Inferred VfM implications:
+
+- Economy depends on sustainable competition, not just the lowest price in a single tender.
+- Risk and resilience should test dependence on limited suppliers or fragile markets.
+- Equity and fairness can include whether procurement design supports supplier access and avoids unnecessary barriers.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Market management contribution |
+|---|---|
+| Economy | Tests whether price and competition are supported by a healthy, contestable market. |
+| Efficiency | Tests whether market engagement reduces avoidable sourcing failure, rework, or delay. |
+| Equity and fairness | Tests whether market design supports transparent access for capable suppliers, including smaller providers where relevant. |
+| Risk and resilience | Tests over-reliance, switching difficulty, supplier fragility, and market concentration. |
+| Cost-effectiveness | Tests whether the commercial strategy preserves long-term value rather than short-term price only. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- market health and capability assessment;
+- commercial pipeline and early market engagement evidence;
+- supplier concentration and contestability analysis;
+- switching and exit analysis;
+- evidence on barriers to entry or expansion;
+- strategic outline business case market section;
+- commercial strategy choices responding to market weaknesses;
+- records of supplier feedback and market testing.
+
+## Relevance Rules Applied
+
+Include market material where it informs competition, market stewardship, supplier access, resilience, alternatives, or long-term value.
+
+Exclude generic market description unless it affects a criterion, standard, evidence need, or trade-off.
+
+## Limits and Exclusions
+
+Market health is not sufficient evidence of VfM by itself. It should be combined with delivery model, cost, quality, risk, and benefits evidence.
+
+## Links
+
+See also the [Sourcing Playbook](sourcing-playbook.qmd), [Framework Agreements](sourcing-framework-agreements.qmd), and [Bid Evaluation](sourcing-bid-evaluation.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

@@ -1,0 +1,83 @@
+---
+title: "Sourcing Testing and Piloting"
+description: "Source note on testing, piloting, and learning before full-scale sourcing or service implementation."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on testing and piloting services [@cabinet_office_2021_testing_piloting].
+
+The main source is:
+
+- [GOV.UK PDF: Testing and Piloting Services Guidance Note](https://assets.publishing.service.gov.uk/media/60a388398fa8f56a3a295910/Testing_and_piloting_services_guidance_note_May_2021.pdf)
+
+## One-Page Summary
+
+The testing and piloting guidance explains how different forms of testing can improve outsourcing and insourcing projects by producing evidence about what works before full implementation. It covers policy trials, proof of concept, scoping phases, agile approaches, innovation partnerships, test-and-learn approaches, and pilots.
+
+For VfM rubric creation, this source is relevant because it makes uncertainty and learning explicit. Testing and piloting can generate evidence for service viability, user needs, requirements, commercial strategy, and implementation risk.
+
+## Purpose and Scope
+
+The guidance is aimed at practitioners developing testing and pilot approaches. It says testing and piloting should be considered as part of delivery model assessment, commercial strategy, and the project business case.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Testing and piloting provide insight and evidence into what works.
+- Early testing can help understand viability and whether the final delivery model is fit for purpose.
+- Testing against user needs is essential.
+- Departments should design, run, and evaluate tests and pilots, then incorporate findings into commercial strategy and market approach.
+- Multi-stage procurement approaches and financial models may need to reflect testing and piloting.
+
+Inferred VfM implications:
+
+- A VfM rubric should reward proportionate learning before irreversible commitment.
+- Pilot evidence can define realistic standards for effectiveness, efficiency, and risk.
+- Poor or absent learning can be a VfM weakness when uncertainty is high.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Testing and piloting contribution |
+|---|---|
+| Effectiveness | Tests whether the service model works for users and intended outcomes before scale-up. |
+| Efficiency | Tests whether learning reduces avoidable implementation failure, rework, or waste. |
+| Cost-effectiveness | Tests whether pilot costs are proportionate to decision uncertainty and potential value. |
+| Risk and resilience | Tests whether operational, demand, supplier, and implementation risks have been surfaced. |
+| Learning | Tests whether evidence from pilots changes requirements, delivery model, or commercial strategy. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- pilot or test plan;
+- user needs evidence;
+- test-and-learn design;
+- proof-of-concept findings;
+- pilot evaluation report;
+- decision log showing changes made because of testing;
+- procurement strategy reflecting staged commitment;
+- financial model showing pilot and scale-up costs;
+- lessons learned and risk updates.
+
+## Relevance Rules Applied
+
+Include testing material where it informs evidence, uncertainty, standards, user value, implementation risk, or staged commitment.
+
+Exclude testing mechanics unless they affect the credibility or use of the learning evidence.
+
+## Limits and Exclusions
+
+Testing evidence may be narrow or context-specific. It should not be treated as proof of full-scale effectiveness unless the pilot design supports that inference.
+
+## Links
+
+See also the [Delivery Model Assessment](sourcing-delivery-model-assessment.qmd), [Benefits Measurement](sourcing-benefits-measurement.qmd), and [Sourcing Playbook](sourcing-playbook.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

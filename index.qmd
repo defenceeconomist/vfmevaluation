@@ -16,6 +16,8 @@ This knowledge base organises practical notes on value for money evaluation: how
 ::: {.cta-row}
 [Open Notes](notes/index.qmd){.cta-button}
 [Start with Definitions](notes/vfm-definitions.qmd){.cta-button .secondary}
+[Export BibTeX](references.bib){.cta-button .secondary}
+[Release Notes](NOTES.md){.cta-button .secondary}
 :::
 :::
 
@@ -51,6 +53,15 @@ Explore the emerging relationship between pages, citations, and linked source ma
 
 Apply rubric-based value for money evaluation to defence capability, digital and cyber, infrastructure, and personnel programmes.
 :::
+
+::: {.section-card}
+<span class="page-badge badge-overview">Release notes</span>
+
+### [Release Notes](NOTES.md)
+
+Track release-level changes to the knowledge base.
+:::
+
 :::
 
 </div>

@@ -1,0 +1,83 @@
+---
+title: "Sourcing Benefits Measurement"
+description: "Source note on commercial benefits measurement and evidence for benefits realisation in contracts."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on commercial benefits measurement [@cabinet_office_2021_benefits_measurement].
+
+The main source is:
+
+- [GOV.UK PDF: Benefits Measurement Guidance Note](https://assets.publishing.service.gov.uk/media/60a38804e90e073576198cb6/Benefits_Measurement_Guidance_Note_May_2021.pdf)
+
+## One-Page Summary
+
+The benefits measurement guidance sets minimum requirements for measuring the realisation of commercial benefits in in-scope procurements. It requires commercial benefits and measurement methods to be captured in the benefits register during business case development, initial review after 12 months of delivery, annual reviews thereafter on a comply-or-explain basis, up-to-date benefits reports, and external review for a sample of complex outsourcing contracts.
+
+For VfM rubric creation, this source is important because it links contract delivery to intended commercial benefits. It helps prevent a VfM judgement that stops at procurement award or contract signature.
+
+## Purpose and Scope
+
+The guidance applies to new outsourcing procurements above the relevant threshold. It focuses on commercial benefits: benefits that materialise during contract implementation as a result of the selected commercial approach.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Monitoring benefits realisation is a critical aspect of policy delivery.
+- Commercial benefits should be identified in the benefits register and measured through mechanisms such as contractual KPIs or internal departmental KPIs.
+- A 12-month benefits review and subsequent annual reviews should be undertaken as a minimum on a comply-or-explain basis.
+- Benefits reports should compare baseline, target, and actual performance.
+- Accountability involves the commercial lead and the senior responsible owner.
+
+Inferred VfM implications:
+
+- VfM rubric evidence should include benefits realisation, not only procurement process evidence.
+- Benefits measurement supports effectiveness and cost-effectiveness criteria.
+- A strong rubric should test whether benefits were specific, measurable, owned, reviewed, and acted on.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Benefits measurement contribution |
+|---|---|
+| Effectiveness | Tests whether intended commercial benefits are being delivered during contract implementation. |
+| Cost-effectiveness | Tests whether realised benefits justify the selected commercial approach and resources used. |
+| Efficiency | Tests whether benefits monitoring identifies avoidable underperformance or management action. |
+| Accountability | Tests whether benefit ownership, reporting, and review are clear. |
+| Evidence quality | Tests whether baseline, target, actuals, and review records are maintained. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- business case benefits register;
+- categorisation of commercial benefits;
+- KPI definitions and measurement plan;
+- baseline, target, and actual performance data;
+- 12-month benefits review record;
+- annual benefits reports;
+- supplier consultation evidence where used;
+- SRO and commercial lead review records;
+- external review reports for complex outsourcing samples.
+
+## Relevance Rules Applied
+
+Include benefits material where it informs outcome evidence, standards, accountability, or the link between commercial approach and realised value.
+
+Exclude generic benefits-management process unless it changes the VfM evidence base.
+
+## Limits and Exclusions
+
+The source focuses on commercial benefits rather than all strategic policy benefits. A VfM rubric should combine this note with programme theory of change and wider public value evidence.
+
+## Links
+
+See also the [Sourcing Playbook](sourcing-playbook.qmd), [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd), and [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

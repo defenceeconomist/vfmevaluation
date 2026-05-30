@@ -3,6 +3,7 @@ project:
   output-dir: _site
   render:
     - index.qmd
+    - NOTES.md
     - notes/index.qmd
     - notes/**/*.qmd
     - reports/index.qmd
@@ -11,6 +12,7 @@ project:
     - python3 scripts/extract_link_graph.py --output data/notes_link_graph_payload.json --include-prefix notes/
   resources:
     - data/notes_link_graph_payload.json
+    - references.bib
     - assets/**
 
 website:
@@ -23,42 +25,95 @@ website:
         text: Notes
       - href: reports/index.qmd
         text: Reports
+      - href: NOTES.md
+        text: Release Notes
+    right:
+      - icon: github
+        href: https://github.com/defenceeconomist/vfmevaluation
+        aria-label: GitHub repository
   sidebar:
     - id: notes
       title: "Notes"
       style: docked
       search: true
+      collapse-level: 1
       contents:
-        - href: notes/index.qmd
-          text: Notes Overview
-        - href: notes/vfm-definitions.qmd
-          text: VfM Definitions
-        - href: notes/green-book-vfm-guidance.qmd
-          text: Green Book VfM Guidance
-        - href: notes/nao-vfm-definition.qmd
-          text: NAO VfM Definition
-        - href: notes/opm-king-vfm-guidance.qmd
-          text: OPM King VfM Guidance
-        - href: notes/verian-value-for-investment-guidance.qmd
-          text: Verian Value for Investment Guidance
-        - href: notes/magenta-book-vfm-evaluation.qmd
-          text: Magenta Book VfM Evaluation
-        - href: notes/oecd-dac-evaluation-criteria.qmd
-          text: OECD DAC Evaluation Criteria
-        - href: notes/vfi-oecd-dac-relationship.qmd
-          text: VfI and OECD DAC Relationship
-        - href: notes/defence-logistics-vessel-dac-vfm-evaluation.qmd
-          text: Defence Logistics Vessel DAC VfM Evaluation
-        - href: notes/dft-vfm-framework.qmd
-          text: DfT VfM Framework
-        - href: notes/dft-transport-business-case.qmd
-          text: DfT Transport Business Case
-        - href: notes/dft-tag-appraisal-evaluation.qmd
-          text: DfT TAG Appraisal and Evaluation
-        - href: notes/dft-vfm-indicator.qmd
-          text: DfT VfM Indicator
-        - href: notes/dft-vfm-case-examples.qmd
-          text: DfT VfM Case Examples
+        - section: "Overview"
+          contents:
+            - href: notes/index.qmd
+              text: Notes Overview
+            - href: notes/vfm-definitions.qmd
+              text: VfM Definitions
+        - section: "Central Gov Guidance"
+          contents:
+            - href: notes/green-book-vfm-guidance.qmd
+              text: Green Book VfM Guidance
+            - href: notes/magenta-book-vfm-evaluation.qmd
+              text: Magenta Book VfM Evaluation
+            - href: notes/government-efficiency-framework-summary.qmd
+              text: Government Efficiency Framework Summary
+            - href: notes/government-efficiency-framework.qmd
+              text: Government Efficiency Framework
+            - href: notes/government-efficiency-framework-vfi-rubric-relevance.qmd
+              text: Government Efficiency Framework and VfI Rubrics
+            - href: notes/jsp-507-investment-appraisal-evaluation.qmd
+              text: JSP 507 Investment Appraisal and Evaluation
+            - href: notes/nao-vfm-definition.qmd
+              text: NAO VfM Definition
+        - section: "King and VfI"
+          contents:
+            - href: notes/opm-king-vfm-guidance.qmd
+              text: OPM King VfM Guidance
+            - href: notes/verian-value-for-investment-guidance.qmd
+              text: Verian Value for Investment Guidance
+        - section: "OECD DAC"
+          contents:
+            - href: notes/oecd-dac-evaluation-criteria.qmd
+              text: OECD DAC Evaluation Criteria
+            - href: notes/vfi-oecd-dac-relationship.qmd
+              text: VfI and OECD DAC Relationship
+            - href: notes/defence-logistics-vessel-dac-vfm-evaluation.qmd
+              text: Defence Logistics Vessel DAC VfM Evaluation
+        - section: "DfT"
+          contents:
+            - href: notes/dft-vfm-framework.qmd
+              text: DfT VfM Framework
+            - href: notes/dft-transport-business-case.qmd
+              text: DfT Transport Business Case
+            - href: notes/dft-tag-appraisal-evaluation.qmd
+              text: DfT TAG Appraisal and Evaluation
+            - href: notes/dft-vfm-indicator.qmd
+              text: DfT VfM Indicator
+            - href: notes/dft-vfm-case-examples.qmd
+              text: DfT VfM Case Examples
+        - section: "Sourcing Playbook"
+          contents:
+            - href: notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd
+              text: Sourcing and Consultancy Playbooks for VfM Rubrics
+            - href: notes/sourcing-playbook.qmd
+              text: Sourcing Playbook
+            - href: notes/sourcing-framework-agreements.qmd
+              text: Sourcing Framework Agreements
+            - href: notes/sourcing-delivery-model-assessment.qmd
+              text: Sourcing Delivery Model Assessment
+            - href: notes/sourcing-should-cost-modelling.qmd
+              text: Sourcing Should Cost Modelling
+            - href: notes/sourcing-bid-evaluation.qmd
+              text: Sourcing Bid Evaluation
+            - href: notes/sourcing-benefits-measurement.qmd
+              text: Sourcing Benefits Measurement
+            - href: notes/sourcing-market-management.qmd
+              text: Sourcing Market Management
+            - href: notes/sourcing-testing-and-piloting.qmd
+              text: Sourcing Testing and Piloting
+            - href: notes/sourcing-risk-allocation-pricing.qmd
+              text: Sourcing Risk Allocation and Pricing
+            - href: notes/sourcing-supplier-financial-standing.qmd
+              text: Sourcing Supplier Financial Standing
+            - href: notes/consultancy-playbook.qmd
+              text: Consultancy Playbook
+            - href: notes/consultancy-knowledge-skills-transfer.qmd
+              text: Consultancy Knowledge and Skills Transfer
     - id: reports
       title: "Reports"
       style: docked
@@ -68,7 +123,8 @@ website:
           text: Reports Overview
         - href: reports/defence-vfm-guidance.qmd
           text: Defence VfM Guidance
-
+        - href: reports/defence-vfi-rubric-generation.qmd
+          text: Defence VfI Rubric Generation
 format:
   html:
     theme: cosmo

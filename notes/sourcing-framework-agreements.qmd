@@ -1,0 +1,80 @@
+---
+title: "Sourcing Playbook and Framework Agreements"
+description: "Source note on applying Sourcing Playbook policies when using framework agreements."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on using the Sourcing Playbook in conjunction with framework agreements [@cabinet_office_gcf_2023_sourcing_framework_agreements].
+
+The main source is:
+
+- [GOV.UK HTML: Using the Playbook in Conjunction with Framework Agreements](https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/using-the-playbook-in-conjunction-with-framework-agreements-html)
+
+## One-Page Summary
+
+This guidance clarifies how Sourcing Playbook policy responsibilities are shared between framework providers and calling-off contracting authorities. The central message for VfM rubric creation is that use of a framework does not remove the need for proportionate sourcing discipline.
+
+The source distinguishes framework provider responsibilities, calling-off authority responsibilities, and enabling information that a framework provider can make available. For example, a framework provider may carry out market health assessment before establishing the framework, while a calling-off authority may still need to consider whether the framework is the right route for its specific requirement.
+
+## Purpose and Scope
+
+The guidance applies where departments use framework agreements to meet service or capability needs. It is most relevant to rubric creation where a VfM judgement might otherwise assume that framework use is automatically economical, efficient, or compliant with the Sourcing Playbook.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Framework providers and calling-off authorities can hold different parts of the evidence base.
+- Market health and capability assessment may be undertaken at framework level, but call-off authorities may need supplementary assessment for their own requirements.
+- Framework use should still be considered against the delivery model, market, risk, and value questions raised by the Sourcing Playbook.
+
+Inferred VfM implications:
+
+- A VfM rubric should test the fit between the framework and the specific requirement, not just whether a framework route was available.
+- Frameworks can reduce transaction cost, but they can also limit competition, lock out new suppliers, or weaken requirement-specific evidence if used uncritically.
+- Evidence ownership matters: some rubric evidence will sit with the framework provider and some with the call-off authority.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Framework-specific rubric implication |
+|---|---|
+| Economy | Test whether framework pricing and competition remain appropriate for the requirement. |
+| Efficiency | Test whether framework use reduced avoidable process cost without skipping essential analysis. |
+| Effectiveness | Test whether the framework can deliver the specific service outcomes and quality thresholds. |
+| Equity and fairness | Test whether supplier access, competition, and transparency are preserved at framework and call-off stages. |
+| Risk and resilience | Test whether framework-level risk controls are sufficient for the criticality of the call-off. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- framework provider customer guidance;
+- framework-level market health and capability assessment;
+- call-off market and delivery model assessment;
+- rationale for using the framework route;
+- call-off competition records and evaluation report;
+- framework pricing information and benchmark evidence;
+- criticality assessment for the call-off;
+- supplier economic and financial standing checks where relevant.
+
+## Relevance Rules Applied
+
+Include framework material where it clarifies accountability, evidence ownership, market effects, supplier access, price discipline, or delivery model fit.
+
+Use framework procedural detail only as supporting context unless it changes the VfM judgement.
+
+## Limits and Exclusions
+
+This note does not treat framework compliance as a VfM standard by itself. The relevant VfM question is whether the framework route was suitable and well used for the specific requirement.
+
+## Links
+
+See also the [Sourcing Playbook](sourcing-playbook.qmd), [Market Management](sourcing-market-management.qmd), and [Supplier Financial Standing](sourcing-supplier-financial-standing.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

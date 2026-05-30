@@ -1,0 +1,140 @@
+---
+title: "JSP 507 Investment Appraisal and Evaluation"
+description: "Source note on MOD JSP 507 and its relevance to Value for Investment criteria, standards, and evidence planning in defence evaluation."
+---
+
+## Source
+
+This note summarises the Ministry of Defence's Joint Service Publication 507, *Investment Appraisal and Evaluation* [@ministry_of_defence_2014_jsp507_part1; @ministry_of_defence_2014_jsp507_part2].
+
+The main source page is:
+
+- [GOV.UK: MOD guide to investment appraisal and evaluation (JSP 507)](https://www.gov.uk/government/publications/jsp-507-mod-guide-to-investment-appraisal-and-evaluation)
+
+The source page describes JSP 507 as MOD guidance on investment appraisal and project evaluation. It says the publication applies HM Treasury Green Book appraisal and evaluation regulations within MOD, and that JSP 507 is issued and maintained by Defence Economics. The page was first published on 1 April 2011 and last updated on 28 January 2014, when the replacement publication was split into two parts.
+
+The two source documents are:
+
+- [JSP 507 Part 1: Directive](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275548/JSP507_Part_1_U.pdf), Version 6.0, January 2014, 49 pages.
+- [JSP 507 Part 2: Guidance](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275550/JSP507_Part_2_U.pdf), Version 6.0, January 2014, 216 pages.
+
+Part 1 sets the directive requirements. Part 2 provides guidance and policy-compliant business practices to help users comply with the directive.
+
+## One-Page Summary
+
+JSP 507 is MOD's practical handbook for applying appraisal and evaluation to defence decisions. It sits under the Green Book and translates central government appraisal principles into MOD business-case, investment-appraisal, private-sector, cost-effectiveness, risk, and evaluation practice.
+
+Part 1 makes the policy case for appraisal and evaluation. It frames appraisal as a systematic process for clarifying the requirement, considering alternative ways of meeting it, and estimating and presenting the costs and benefits of worthwhile options. It links appraisal to MOD's objective of demonstrating value for money and requires evaluation planning to accompany appraisals for projects, programmes, and policies that require investment appraisal.
+
+Part 2 is the more detailed technical guide. It covers cash-flow modelling, discounting, costs and benefits, cost-effectiveness analysis, Combined Operational Effectiveness and Investment Appraisal (COEIA), infrastructure costs, personnel costs, operating costs and benefits, optimism bias, risk, uncertainty, evaluation, and private-sector involvement.
+
+For Value for Investment (VfI), JSP 507 is not a complete rubric method. It does not provide programme-specific criteria, subcriteria, performance standards, or mixed-methods synthesis in the OPM or Verian sense. Its main contribution is different: it gives defence evaluators a disciplined evidence base for option comparison, whole-life cost, cost-effectiveness, affordability, risk, uncertainty, business-case scrutiny, and outturn evaluation.
+
+The practical use is to combine JSP 507 with a VfI judgement architecture. VfI supplies the structure for value proposition, criteria, standards, evidence synthesis, trade-offs, and final resource-use judgement [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm; @king_hurrell_2024_verian_vfm]. JSP 507 supplies defence-specific appraisal and evaluation evidence that can populate that structure.
+
+## VFI Relevance
+
+JSP 507 is strongest where a defence VfI assessment needs defensible appraisal and evaluation evidence. It is especially relevant to:
+
+- identifying credible options and comparators;
+- building whole-life cost evidence;
+- distinguishing relevant costs from sunk costs, transfer payments, common costs, hidden costs, and double counting;
+- using cost-effectiveness analysis where benefits cannot be monetised credibly;
+- presenting COEIA-style comparisons of operational or business effectiveness against through-life costs;
+- handling infrastructure, personnel, operating, and private-sector costs;
+- testing affordability alongside value;
+- treating optimism bias, risk, and uncertainty explicitly;
+- planning evaluation before implementation and using outturn evidence after implementation;
+- creating an audit trail for business-case scrutiny, assurance, and later learning.
+
+This makes JSP 507 highly relevant to VFI criteria, subcriteria, standards, and evidence planning, but mainly as source material. It should not be copied mechanically into a rubric. A defence VfI framework still needs to decide which criteria matter, what good performance means in context, which trade-offs are acceptable, and how monetised and non-monetised evidence will be synthesised.
+
+## Source-to-VFI Matrix
+
+| JSP 507 material | Direct source contribution | Candidate VfI use |
+|---|---|---|
+| Appraisal principles and business cases | Establishes appraisal as structured option comparison, linked to value for money, approval, accountability, and later evaluation. | Frame the value proposition, alternatives, decision context, and baseline expectations for the VfI assessment. |
+| Green Book relationship | Applies Green Book appraisal and evaluation regulations within MOD. | Connect defence VfI to social value, objectives, costs, benefits, risk, and unmonetised effects rather than treating defence as outside public value appraisal. |
+| Cash-flow models and discounting | Provides guidance on time horizons, base dates, option lives, inflation, discounting, and appraisal models. | Support economy and cost-effectiveness evidence through transparent whole-life cost and time-profile assumptions. |
+| Costs and benefits to include | Covers opportunity costs, sunk costs, common costs, hidden costs, transfer payments, double counting, and links with other budget areas. | Strengthen standards for evidence credibility and prevent weak economy or cost-effectiveness claims. |
+| Cost-effectiveness analysis and COEIA | Recognises the role of CEA and COEIA where monetary valuation of defence benefits is limited. | Support cost-effectiveness criteria by comparing through-life cost with operational or business effectiveness rather than forcing a single benefit-cost ratio. |
+| Infrastructure, personnel, and operating costs | Gives domain guidance for land, buildings, accommodation, equipment, leases, personnel numbers, personnel costs, redundancy, inventories, contingent liabilities, foreign exchange, revenues, and benefits. | Identify subcriteria and evidence prompts for whole-life resource stewardship across the main defence input categories. |
+| Non-quantifiable costs and benefits | Provides guidance for recording factors that matter to value for money but cannot be quantified easily. | Feed VfI treatment of non-monetised operational, strategic, resilience, welfare, environmental, or future value. |
+| Optimism bias, risk, and uncertainty | Covers optimism bias, risk, three-point estimating, sensitivity analysis, and contributory factors. | Define evidence standards for confidence, uncertainty, scenario testing, and risk-adjusted judgement. |
+| Evaluation chapter and templates | Covers the purpose, focus, timing, responsibility, planning, outturn evaluation, disclosure, and template material for evaluation. | Support the VfI evidence plan, evaluation questions, learning loop, outturn comparison, and traceable judgement. |
+| Private-sector involvement | Covers risk transfer, competition, single-option cases, outsourcing, tender evaluation, disclosure, exit strategy, and private finance. | Inform economy, efficiency, equity, and risk subcriteria where commercial strategy and supplier relationships are material to value. |
+
+## Criteria and Subcriteria Implications
+
+The following mappings are VfI implications inferred from JSP 507. They are not a complete JSP 507 rubric and should be tailored to the programme, decision stage, and value proposition.
+
+| VfI criterion area | Candidate defence subcriteria informed by JSP 507 | Evidence implications |
+|---|---|---|
+| Economy | Whole-life input stewardship; reasonable cost estimates; appropriate treatment of opportunity, sunk, common, hidden, and transfer costs; procurement and commercial discipline; infrastructure, personnel, and operating-cost completeness. | Cost models, business cases, commercial strategies, price benchmarks, cost assurance, cost-driver analysis, and audit trails should show that input choices are appropriate rather than merely cheap. |
+| Efficiency | Option selection discipline; technical efficiency in delivery; output efficiencies; affordability management; private-sector delivery model performance; governance and scrutiny efficiency. | Evidence should show how resources are converted into outputs, whether selected options remain feasible and affordable, and whether delivery arrangements reduce avoidable delay, rework, or transaction cost. |
+| Effectiveness | Operational or business effectiveness; achievement of intended benefits; treatment of non-quantifiable benefits; evaluation of outturn against expected results. | Evidence should include operational analysis, business-change benefits, user or beneficiary evidence, outturn evaluation, and clear explanation of benefits not captured in monetary terms. |
+| Equity | Distribution of costs, burdens, risks, liabilities, and benefits across users, commands, staff, suppliers, taxpayers, future budgets, and other public bodies. | JSP 507 does not provide an explicit equity rubric, so VfI should use its cost, personnel, contract, risk-transfer, and liability evidence to ask who benefits, who bears cost, and whether burdens are shifted or deferred. |
+| Cost-effectiveness | CEA and COEIA option comparison; through-life cost relative to operational or business effectiveness; alternatives and affordability; sensitivity to key assumptions. | Evidence should compare credible options, avoid unsupported monetisation, explain effectiveness measures, and test whether the preferred option remains justified under plausible scenarios. |
+| Risk and resilience | Optimism bias, quantified and unquantified risk, uncertainty, sensitivity, risk transfer, exit strategy, contingent liabilities, and foreign exchange exposure. | Evidence standards should require risk-adjusted assumptions, transparent sensitivity analysis, and clear ownership of major delivery, financial, commercial, and operational risks. |
+| Evidence quality and assurance | Appraisal planning, business-case checklist, scrutiny, Defence Economics advice, evaluation plans, outturn evaluation, disclosure, and lessons learned. | Higher-quality VfI evidence should be documented, reviewable, proportionate, and capable of supporting both approval and later evaluation. |
+
+## Performance Standards: Design Prompts Only
+
+These prompts translate JSP 507 evidence discipline into VfI-style standards. They are not final standards for any specific programme.
+
+| Standard level | JSP 507-informed prompt |
+|---|---|
+| Poor | The appraisal or evaluation lacks credible options, omits material through-life costs, treats uncertain benefits as certain, ignores optimism bias or major risks, or cannot explain why the selected option offers value for money. |
+| Adequate | The appraisal identifies a reasonable requirement and options, includes the main costs and benefits, records key assumptions, and has a basic evaluation plan, but evidence is incomplete or sensitivity to assumptions is only partly tested. |
+| Good | The appraisal compares credible options using whole-life cost, cost-effectiveness or COEIA evidence where appropriate, treats risk and uncertainty explicitly, explains non-quantifiable factors, and creates an evidence trail that can support later evaluation. |
+| Excellent | The appraisal and evaluation evidence are proportionate, transparent, risk-adjusted, independently reviewable, linked to the business case and evaluation plan, and capable of showing whether expected operational or business value was realised in practice. |
+
+## Evidence Prompts
+
+Use these prompts when drawing on JSP 507 for a defence VfI evidence plan:
+
+- What requirement or decision is being appraised, and what resource commitment or benefit claim triggers appraisal?
+- What options were considered, including the status quo or minimum-change option where relevant?
+- What is the time horizon, base date, discounting approach, and treatment of options with different lives?
+- Which costs are included across acquisition, operation, support, infrastructure, personnel, training, transition, disposal, and opportunity cost?
+- Which costs have been excluded as sunk costs, transfer payments, common costs, or double counting, and is that treatment justified?
+- Are hidden costs, consequential costs, contingent liabilities, foreign exchange exposure, cancellation costs, or effects on other budgets material?
+- Can material benefits be monetised credibly, or should the assessment rely mainly on CEA, COEIA, break-even analysis, or rubric-based judgement?
+- What operational or business effectiveness measures are used, and why do they represent value in this defence context?
+- How are non-quantifiable costs and benefits recorded, weighted, and reported alongside quantified evidence?
+- What optimism bias, risk, and uncertainty assumptions are used, and how have sensitivity or scenario tests changed the judgement?
+- What affordability constraints affect the preferred option, and do they alter the value-for-money conclusion?
+- What evidence shows whether expected benefits were realised after implementation?
+- Who owns the evaluation plan, when will evaluation occur, and how will lessons be disseminated?
+- What scrutiny, assurance, Defence Economics advice, or audit trail supports the evidence?
+
+## Limits and Exclusions
+
+JSP 507 is a 2014 MOD appraisal and evaluation source. It predates the current Green Book, the current Magenta Book, the Government Efficiency Framework, and the Verian Value for Investment guide. It should therefore be used as a defence appraisal and evaluation evidence source, not as the whole VfI method.
+
+Several limits matter for rubric work:
+
+- JSP 507 is appraisal and evaluation guidance, not a programme-specific criteria framework.
+- It is strongest on economic, financial, option, risk, and evaluation evidence.
+- It gives less direct help on equity, public value trade-offs, stakeholder values, and participatory standard-setting.
+- It supports cost-effectiveness and COEIA more directly than full cost-benefit analysis for many defence decisions.
+- It should be interpreted alongside Green Book and Magenta Book guidance for current central government appraisal and evaluation expectations.
+- VfI should provide the explicit criteria, subcriteria, standards, evidence synthesis, and overall judgement that JSP 507 does not by itself supply.
+
+## Links
+
+See also the [Defence VfM Guidance](../reports/defence-vfm-guidance.qmd) report for practical defence rubric guidance that uses JSP 507 alongside OPM and Verian VfI sources.
+
+See also the [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) note for the broader VfI approach to criteria, standards, mixed evidence, and non-monetised value.
+
+See also the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) note for the rubric-based approach to criteria, standards, evidence, synthesis, and judgement.
+
+See also the [Green Book VfM Guidance](green-book-vfm-guidance.qmd) note for current HM Treasury appraisal framing of value for money, social value, monetised and unmonetised effects, risk, and distribution.
+
+See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for UK government evaluation guidance on appraisal links, methods, Four Es, and rubric-based approaches.
+
+See also the [Government Efficiency Framework and VfI Rubrics](government-efficiency-framework-vfi-rubric-relevance.qmd) note for a similar source-to-rubric mapping approach.
+
+Return to the [notes overview](index.qmd).
+
+## References
