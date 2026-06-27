@@ -1,0 +1,114 @@
+---
+title: "Government Efficiency Framework Summary"
+description: "Source note on HM Treasury's summary, key definitions, and criteria guide for the Government Efficiency Framework."
+---
+
+## Source
+
+This source note summarises HM Treasury's **Government Efficiency Framework (GEF) Summary, Key Definitions and Criteria Guide**, updated 24 November 2025 [@hm_treasury_2025_government_efficiency_framework_summary].
+
+The source page is [Government Efficiency Framework (GEF) Summary, key definitions and criteria guide](https://www.gov.uk/government/publications/the-government-efficiency-framework/government-efficiency-framework-gef-summary-key-definitions-and-criteria-guide).
+
+## One-Page Summary
+
+Direct source claims:
+
+- The GEF sets common standards and definitions so central government organisations can categorise, hold, and report efficiency data consistently.
+- It defines efficiency as spending less to achieve the same or greater outputs, or achieving higher outputs with the same spending. Cost reductions intended to achieve less are non-efficiency savings.
+- Productivity gains count as efficiency only where outputs or outcomes stay the same or increase.
+- The framework distinguishes technical efficiency, allocative efficiency, cash releasing efficiency savings, and monetisable non-cash releasing efficiency savings.
+- Reportable efficiency savings should be calculated with quality data, net of costs and disbenefits, sustainable and recurring, free from double counting, clear in nature, and verifiable by an impartial third party.
+- Efficiencies should not adversely affect performance, outcomes, another department, or local government.
+
+Inferred VfI implications:
+
+- The summary is useful for rubric criteria on resource use, productivity, output or outcome protection, evidence quality, sustainability, and accountability.
+- It helps define the boundary between genuine value improvement and simple budget reduction.
+- It supports performance standards that reward demonstrable, durable, and evidenced efficiency rather than asserted or temporary savings.
+
+Candidate rubric material:
+
+- Ask whether claimed efficiencies preserve or improve outputs and outcomes.
+- Ask whether savings are calculated from a credible baseline, counterfactual, outturn data, costs to deliver, and disbenefits.
+- Distinguish cash-releasing savings from non-cash benefits and from non-efficiency savings.
+- Treat cancellation, deferral, cost shifting, and reduced ambition as weak or invalid evidence of VfI unless justified through separate value arguments.
+
+## Purpose and Scope
+
+Direct source claims:
+
+The summary guide is for accounting officers, finance directors, chief operating officers, budget holders, senior responsible owners, and finance or project teams involved in monitoring, delivery, appraisal, and evaluation of efficiency savings in government.
+
+The guide is a central government efficiency and savings framework. It is not presented as a complete evaluation method for public value, distribution, ethics, or broader social outcomes.
+
+Inferred VfI implications:
+
+For VfI rubric creation, the guide is best used as a technical source on efficiency claims and evidence standards. It should sit alongside broader VfI, Green Book, and Magenta Book sources when the rubric needs to make an overall resource-use judgement.
+
+## Key Concepts
+
+| Concept | Direct source claim | Rubric relevance |
+|---|---|---|
+| Efficiency | Spend less for the same or greater outputs, or deliver higher outputs for the same spend. | Defines the basic test for an efficiency claim. |
+| Productivity | Output per unit input; productivity only counts as efficiency if outputs or outcomes stay the same or increase. | Prevents false positives where activity becomes cheaper but value falls. |
+| Technical efficiency | Doing something better, faster, or for less. | Useful for economy and operational efficiency subcriteria. |
+| Allocative efficiency | Reallocating resources to a wholly different way of achieving the same or improved outcome. | Useful for alternatives, prevention, and resource allocation subcriteria. |
+| Cash releasing saving | A direct reduction in spending on an activity, project, programme, or policy. | Supports evidence prompts on realised budget impact. |
+| Monetisable non-cash releasing saving | A monetisable efficiency benefit without a direct spending reduction. | Supports productivity and capacity-use evidence prompts. |
+| Non-efficiency saving | A reduction in spend because less output or a different outcome is intended. | Supports exclusion rules for rubric evidence. |
+
+## VfI-Relevant Concepts
+
+Direct source claims:
+
+- Quality data is central to calculating and reporting efficiencies.
+- Efficiency claims should be net of costs and disbenefits.
+- Savings should not create unplanned consequential costs elsewhere in government.
+- Savings should be sustainable and should not defer or reallocate costs into later years.
+- Savings should be scored once and avoid double counting.
+- The calculation and nature of savings should be readily understood, reasonable, verifiable, auditable, and well evidenced.
+
+Inferred VfI implications:
+
+These concepts translate into VfI rubric dimensions on evidential credibility, durability, whole-system effects, and accountability. They also support explicit standards for poor, adequate, good, and excellent performance by separating asserted savings from realised, independently defensible efficiency gains.
+
+## Implications for Rubric Criteria
+
+| VfI design component | Candidate use | Source status |
+|---|---|---|
+| Criteria | Include efficiency, productivity, outcome protection, and evidence quality. | Inference from GEF definitions and reporting criteria. |
+| Subcriteria | Baseline quality, counterfactual, net savings, recurrence, double-counting control, and audit trail. | Inference from source criteria. |
+| Performance standards | Higher standards should require realised savings, maintained outcomes, transparent methodology, and independent assurance. | Inference from source criteria. |
+| Evidence | Require baseline cost, outturn spend, output or outcome data, cost-to-deliver, disbenefits, and documentation. | Directly supported for financial efficiency claims. |
+
+## Evidence Useful for Rubric Creation
+
+- Baseline cost or resource-use data.
+- Counterfactual spending profile, including assumptions.
+- Outturn spending and delivery data.
+- Evidence that outputs or outcomes were maintained or improved.
+- Calculation of gross and net savings.
+- Costs to deliver the efficiency.
+- Disbenefits and consequential costs.
+- Sustainability or recurrence evidence.
+- Double-counting checks across organisations or functions.
+- Documentation suitable for review by the NAO, GIAA, or independent auditors.
+
+## Limits and Exclusions
+
+The summary guide is not a complete VfI evaluation architecture. It focuses on efficiency and financial reporting, especially monetisable efficiency. It does not replace Green Book appraisal, Magenta Book evaluation, or VfI rubric design.
+
+Exclude or de-prioritise summary material where it is only a reporting instruction without evaluative significance. Use the full GEF note for more detailed treatment of data, maturity, governance, benefits realisation, and examples.
+
+## Links
+
+See also the [Government Efficiency Framework](government-efficiency-framework.qmd) source note.
+
+See also the [Government Efficiency Framework and VfI Rubrics](government-efficiency-framework-vfi-rubric-relevance.qmd) synthesis note.
+
+See also the [Green Book VfM Guidance](green-book-vfm-guidance.qmd), [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd), and [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+

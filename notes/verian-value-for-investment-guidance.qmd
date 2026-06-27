@@ -1,0 +1,166 @@
+---
+title: "Verian Value for Investment Guidance"
+description: "Source note on King and Hurrell's Verian guide to evaluating value for money in UK public services."
+---
+
+## Source
+
+This note summarises King and Hurrell's Verian guide, *A Guide to Evaluation of Value for Money in UK Public Services: Why Cost-Benefit Analysis Alone May Be Insufficient to Evaluate VfM, and How to Navigate a Solution* [@king_hurrell_2024_verian_vfm].
+
+The main sources are:
+
+- [Verian guide page: A guide to evaluation of Value for Money](https://www.veriangroup.com/news-and-insights/guide-evaluation-value-for-money)
+- [Verian PDF: A Guide to Evaluation of Value for Money in UK Public Services](https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf)
+- [Julian King mirror: Verian Group Value for Money Guide, August 2024](https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf)
+
+## One-Page Summary
+
+King and Hurrell argue that value for money evaluation should not be reduced to cost-benefit analysis. CBA can be valuable evidence where costs and benefits can be credibly quantified and monetised, but many public services create value that is broader, contested, long term, uncertain, or difficult to monetise.
+
+The guide introduces **Value for Investment** as an interdisciplinary approach to VfM. It combines economics and evaluation by using mixed methods, explicit criteria, agreed standards, and evaluative reasoning. The aim is not to avoid economic analysis. The aim is to use economic analysis where it is appropriate, while also recognising social, environmental, cultural, institutional, distributional, and other forms of public value.
+
+The practical implication is that evaluators should design the VfM assessment around the decision context and value proposition. They should identify what value matters, who it matters to, what resources have been invested, which effects can be monetised, which effects require other evidence, and how trade-offs will be judged transparently.
+
+## Concept Map
+
+```{mermaid}
+%%| label: fig-verian-vfi-concept-map
+%%| fig-cap: "Concept map for Verian Value for Investment guidance"
+%%| fig-width: 12
+%%| fig-height: 8
+flowchart TD
+  A[VfM evaluation] --> B[Value for Investment]
+  A --> C[Cost-benefit analysis]
+  A --> D[Evaluative judgement]
+
+  B --> E[Mixed methods]
+  B --> F[Multiple public values]
+  B --> G[Participatory design]
+  B --> H[Criteria and standards]
+
+  C --> I[Monetised costs and benefits]
+  C --> J[Useful where feasible]
+  C --> K[Partial evidence when value is hard to monetise]
+
+  D --> L[Interpret evidence against standards]
+  D --> M[Make trade-offs explicit]
+  D --> N[Report a traceable judgement]
+
+  F --> O[Social value]
+  F --> P[Economic value]
+  F --> Q[Environmental value]
+  F --> R[Cultural and institutional value]
+
+  H --> S[Design phase]
+  H --> T[Implementation phase]
+  S --> U[Value proposition and evaluation questions]
+  S --> V[Criteria, standards, evidence plan]
+  T --> W[Gather and analyse evidence]
+  T --> X[Synthesise and report judgement]
+```
+
+```{=html}
+<script src="../assets/js/concept_map_zoom.js"></script>
+```
+
+## Concept Notes
+
+### VfM Is Broader Than CBA
+
+The guide's central distinction is between VfM as the evaluation question and CBA as one possible method. A CBA can estimate whether monetised benefits exceed monetised costs, but VfM assessment may need to weigh several criteria at different stages of a policy or programme.
+
+This matters because public service interventions often produce value that is hard to capture in a single monetised ratio. Distribution, dignity, trust, resilience, prevention, user experience, environmental effects, institutional capability, and cultural value may be material even when they are not easily priced.
+
+### CBA as Evidence, Not the Whole Judgement
+
+King and Hurrell do not reject CBA. They treat it as a potentially important input where monetisation is feasible, proportionate, and credible. The problem arises when CBA is treated as synonymous with VfM or when the monetised result crowds out important unmonetised evidence.
+
+In a Value for Investment assessment, CBA can sit alongside qualitative evidence, quantitative indicators, stakeholder evidence, implementation evidence, and rubric-based assessment. The final judgement should explain what the CBA covers, what it omits, and how omitted value affects the overall conclusion.
+
+### Multiple Values
+
+The guide broadens the value proposition beyond narrowly financial or monetised benefits. Evaluators should ask what kinds of value the investment is intended to create, for whom, and through what pathway.
+
+The values may include economic value, social value, environmental value, cultural value, public service quality, equity, capability, risk reduction, learning, and future optionality. The relevant set should be chosen for the policy or programme rather than copied mechanically from a generic list.
+
+### Mixed Evidence
+
+Value for Investment uses mixed methods. Quantitative data can describe costs, outputs, outcomes, reach, timing, and trends. Qualitative evidence can explain how and why value was created, whose value counts, what trade-offs emerged, and what contextual factors shaped performance.
+
+Economic analysis remains part of this evidence mix. The key design choice is whether it should be the main method, a supporting line of evidence, or infeasible for the specific question and data conditions.
+
+### Explicit Criteria and Standards
+
+The approach uses evaluative reasoning: evidence is interpreted against criteria and standards. Criteria define the dimensions of value and resource use that matter. Standards define what would count as poor, adequate, good, or excellent performance before the evidence is judged.
+
+This makes the judgement more transparent. Readers can see how evidence has been weighed, where evidence is weak, which trade-offs matter, and why the overall conclusion follows from the criteria.
+
+## Relationship to Cost-Benefit Analysis
+
+| Approach | Main contribution | Main limitation | Best use |
+|---|---|---|---|
+| CBA-led evaluation | Produces a monetised comparison of costs and benefits, often through net present value or benefit-cost ratio. | Can understate value when important effects cannot be credibly monetised or when distribution and non-market effects matter. | Use when the main costs and benefits can be quantified and monetised with enough confidence to support decision making. |
+| Rubric/evaluative judgement VfM | Interprets mixed evidence against explicit criteria and standards. | Does not produce a single comparable monetary metric and depends on the quality of criteria, standards, and evidence synthesis. | Use when value is multidimensional, evidence is mixed, or judgement needs to include non-monetised effects. |
+| Combined Value for Investment assessment | Uses CBA where useful while integrating wider evidence and criteria into a traceable VfM judgement. | Requires careful design so the economic evidence and evaluative criteria are aligned rather than competing. | Use when monetised analysis is informative but incomplete, or when decision makers need a broader account of public value. |
+
+## Value for Investment Process
+
+The guide presents Value for Investment as a practical design and implementation process.
+
+### Design Phase
+
+1. Understand the programme, policy, investment, decision context, and theory of change.
+2. Define the value proposition: what value is expected, for whom, and through which resources and activities.
+3. Develop evaluation questions that distinguish the overall VfM question from subquestions about economy, efficiency, effectiveness, equity, cost-effectiveness, or other relevant criteria.
+4. Select criteria that reflect the important dimensions of public value and good resource use.
+5. Define standards so that the assessment has a transparent basis for judgement.
+6. Identify evidence needs and methods, including whether CBA, CEA, break-even analysis, rubric assessment, qualitative inquiry, or other methods are appropriate.
+
+### Implementation Phase
+
+1. Gather evidence from cost data, monitoring data, outcome evidence, stakeholder perspectives, economic analysis, implementation evidence, and contextual analysis.
+2. Analyse evidence against each criterion and standard.
+3. Synthesise the evidence into criterion-level judgements.
+4. Make an overall VfM judgement that explains trade-offs, uncertainty, omitted evidence, and the relative contribution of monetised and non-monetised value.
+5. Report findings in a way that supports accountability, learning, and future resource allocation.
+
+## Practical Note-Taking Prompts
+
+Use these prompts when applying the guide to a programme or policy:
+
+| Prompt | Notes to capture |
+|---|---|
+| What value is being assessed? | Intended outcomes, public value, service quality, risk reduction, capability, learning, prevention, equity, or other material value. |
+| For whom? | Users, citizens, taxpayers, public bodies, delivery partners, places, future beneficiaries, and groups affected differently. |
+| What resources are used? | Public spending, staff time, assets, political capital, data, partner resources, opportunity costs, and environmental resources. |
+| Which values can and cannot be monetised? | Effects suitable for CBA, effects better handled through quantitative non-monetised evidence, and effects needing qualitative judgement. |
+| Which criteria and standards will guide judgement? | Programme-specific criteria, subcriteria, and performance standards agreed before evidence is interpreted. |
+| What evidence is needed? | Economic, financial, monitoring, outcome, process, qualitative, stakeholder, comparative, and contextual evidence. |
+| How will trade-offs be reported? | Tensions between cost, quality, equity, speed, risk, uncertainty, monetised value, and wider public value. |
+
+## Practical Implications
+
+For UK public service evaluation, the Verian guide supports a method choice sequence:
+
+1. Start with the VfM question and decision context, not with a preferred method.
+2. Decide whether CBA can credibly answer all or part of the question.
+3. Identify the material non-monetised values that still need to be judged.
+4. Build criteria and standards that make those judgements explicit.
+5. Use mixed evidence to assess performance criterion by criterion.
+6. Explain how monetised and non-monetised evidence combine in the final judgement.
+
+The strongest VfM notes therefore show both the economic evidence and the evaluative reasoning. They do not hide behind a single ratio, but they also do not ignore quantitative or economic evidence where it can strengthen the assessment.
+
+## Links
+
+See also the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) note for the broader rubric-based approach to criteria, standards, evidence, synthesis, and judgement.
+
+See also the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note for UK government evaluation guidance on appraisal links, economic methods, Four Es, and rubric-based approaches.
+
+See also the [Green Book VfM Guidance](green-book-vfm-guidance.qmd) note for HM Treasury's appraisal framing of value for money, social value, monetised and unmonetised effects, risk, and distribution.
+
+See also the [VfM Definitions](vfm-definitions.qmd) synthesis note for comparison of HM Treasury, National Audit Office, and OECD framings.
+
+Return to the [notes overview](index.qmd).
+
+## References

@@ -1,0 +1,2600 @@
+{
+  "nodes": [
+    {
+      "label": "A Guide to Evaluation of Value for Money in...",
+      "url": "https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf",
+      "citation_key": "king_hurrell_2024_verian_vfm",
+      "title": "A Guide to Evaluation of Value for Money in UK Public Services: Why Cost-Benefit Analysis Alone May Be Insufficient to Evaluate VfM, and How to Navigate a Solution",
+      "id": "cite:king_hurrell_2024_verian_vfm",
+      "kind": "external",
+      "incoming": 4,
+      "outgoing": 0,
+      "degree": 4
+    },
+    {
+      "label": "About Us",
+      "url": "https://www.nao.org.uk/about-us/",
+      "citation_key": "nao_about_us_vfm",
+      "title": "About Us",
+      "id": "cite:nao_about_us_vfm",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "Applying Evaluation Criteria Thoughtfully",
+      "url": "https://doi.org/10.1787/543e84ed-en",
+      "citation_key": "oecd_2021_applying_criteria",
+      "title": "Applying Evaluation Criteria Thoughtfully",
+      "id": "cite:oecd_2021_applying_criteria",
+      "kind": "external",
+      "incoming": 3,
+      "outgoing": 0,
+      "degree": 3
+    },
+    {
+      "label": "Assessing and Monitoring the Economic and F...",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/assessing-and-monitoring-the-economic-and-financial-standing-of-suppliers-guidance-note-html--2",
+      "citation_key": "cabinet_office_2026_supplier_financial_standing",
+      "title": "Assessing and Monitoring the Economic and Financial Standing of Bidders and Suppliers",
+      "id": "cite:cabinet_office_2026_supplier_financial_standing",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Assessing Value for Money: The Oxford Polic...",
+      "url": "https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf",
+      "citation_key": "king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm",
+      "title": "Assessing Value for Money: The Oxford Policy Management Approach",
+      "id": "cite:king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm",
+      "kind": "external",
+      "incoming": 4,
+      "outgoing": 0,
+      "degree": 4
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: B...",
+      "url": "https://assets.publishing.service.gov.uk/media/60a387e48fa8f56a3e32fa9a/Bid_evaluation_guidance_note_May_2021.pdf",
+      "id": "https://assets.publishing.service.gov.uk/media/60a387e48fa8f56a3e32fa9a/Bid_evaluation_guidance_note_May_2021.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: B...",
+      "url": "https://assets.publishing.service.gov.uk/media/60a38804e90e073576198cb6/Benefits_Measurement_Guidance_Note_May_2021.pdf",
+      "id": "https://assets.publishing.service.gov.uk/media/60a38804e90e073576198cb6/Benefits_Measurement_Guidance_Note_May_2021.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: D...",
+      "url": "https://assets.publishing.service.gov.uk/media/60a387d5e90e07357422eb45/Delivery_model_assessment_guidance_note_May_2021.pdf",
+      "id": "https://assets.publishing.service.gov.uk/media/60a387d5e90e07357422eb45/Delivery_model_assessment_guidance_note_May_2021.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: J...",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275548/JSP507_Part_1_U.pdf",
+      "id": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275548/JSP507_Part_1_U.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: J...",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275550/JSP507_Part_2_U.pdf",
+      "id": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275550/JSP507_Part_2_U.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: K...",
+      "url": "https://assets.publishing.service.gov.uk/media/632dc02ad3bf7f567479bd05/Knowledge_and_Skills_Guidance_Note_September_2022__1_.pdf",
+      "id": "https://assets.publishing.service.gov.uk/media/632dc02ad3bf7f567479bd05/Knowledge_and_Skills_Guidance_Note_September_2022__1_.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: M...",
+      "url": "https://assets.publishing.service.gov.uk/media/60a38814e90e07356e2bbc4f/Market_management_guidance_note_May_2021.pdf",
+      "id": "https://assets.publishing.service.gov.uk/media/60a38814e90e07356e2bbc4f/Market_management_guidance_note_May_2021.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: S...",
+      "url": "https://assets.publishing.service.gov.uk/media/60a3879f8fa8f56a32f91cfd/Should_Cost_Modelling_guidance_note_May_2021.pdf",
+      "id": "https://assets.publishing.service.gov.uk/media/60a3879f8fa8f56a32f91cfd/Should_Cost_Modelling_guidance_note_May_2021.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: T...",
+      "url": "https://assets.publishing.service.gov.uk/media/60a388398fa8f56a3a295910/Testing_and_piloting_services_guidance_note_May_2021.pdf",
+      "id": "https://assets.publishing.service.gov.uk/media/60a388398fa8f56a3a295910/Testing_and_piloting_services_guidance_note_May_2021.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "assets.publishing.service.gov.uk: T...",
+      "url": "https://assets.publishing.service.gov.uk/media/631f2237e90e077db807dd00/The_Consultancy_Playbook_Version_1.1_September_2022.pdf",
+      "id": "https://assets.publishing.service.gov.uk/media/631f2237e90e077db807dd00/The_Consultancy_Playbook_Version_1.1_September_2022.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Benefits Measurement: Guidance Note",
+      "url": "https://assets.publishing.service.gov.uk/media/60a38804e90e073576198cb6/Benefits_Measurement_Guidance_Note_May_2021.pdf",
+      "citation_key": "cabinet_office_2021_benefits_measurement",
+      "title": "Benefits Measurement: Guidance Note",
+      "id": "cite:cabinet_office_2021_benefits_measurement",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Better Criteria for Better Evaluation: Revi...",
+      "url": "https://doi.org/10.1787/15a9c26b-en",
+      "citation_key": "oecd_2019_better_criteria",
+      "title": "Better Criteria for Better Evaluation: Revised Evaluation Criteria Definitions and Principles for Use",
+      "id": "cite:oecd_2019_better_criteria",
+      "kind": "external",
+      "incoming": 3,
+      "outgoing": 0,
+      "degree": 3
+    },
+    {
+      "label": "betterevaluation.org: opms approach...",
+      "url": "https://www.betterevaluation.org/tools-resources/opms-approach-assessing-value-for-money",
+      "id": "https://www.betterevaluation.org/tools-resources/opms-approach-assessing-value-for-money",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Bid Evaluation: Guidance Note",
+      "url": "https://assets.publishing.service.gov.uk/media/60a387e48fa8f56a3e32fa9a/Bid_evaluation_guidance_note_May_2021.pdf",
+      "citation_key": "cabinet_office_2021_bid_evaluation",
+      "title": "Bid Evaluation: Guidance Note",
+      "id": "cite:cabinet_office_2021_bid_evaluation",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Delivery Model Assessments: Guidance Note",
+      "url": "https://assets.publishing.service.gov.uk/media/60a387d5e90e07357422eb45/Delivery_model_assessment_guidance_note_May_2021.pdf",
+      "citation_key": "cabinet_office_2021_delivery_model_assessment",
+      "title": "Delivery Model Assessments: Guidance Note",
+      "id": "cite:cabinet_office_2021_delivery_model_assessment",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "DfT Value for Money Framework",
+      "url": "https://www.gov.uk/government/publications/dft-value-for-money-framework",
+      "citation_key": "department_for_transport_2025_vfm_framework",
+      "title": "DfT Value for Money Framework",
+      "id": "cite:department_for_transport_2025_vfm_framework",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "DfT Value for Money Indicator",
+      "url": "https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money",
+      "citation_key": "department_for_transport_2022_vfm_indicator",
+      "title": "DfT Value for Money Indicator",
+      "id": "cite:department_for_transport_2022_vfm_indicator",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "doi.org: 14702436.2025.2461459",
+      "url": "https://doi.org/10.1080/14702436.2025.2461459",
+      "id": "https://doi.org/10.1080/14702436.2025.2461459",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "doi.org: 15a9c26b en",
+      "url": "https://doi.org/10.1787/15a9c26b-en",
+      "id": "https://doi.org/10.1787/15a9c26b-en",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "doi.org: 543e84ed en",
+      "url": "https://doi.org/10.1787/543e84ed-en",
+      "id": "https://doi.org/10.1787/543e84ed-en",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "Evaluating Defence Projects - Success May B...",
+      "url": "https://doi.org/10.1080/14702436.2025.2461459",
+      "citation_key": "welde_engebo_gulichsen_prebensen_volden_2025_defence_projects",
+      "title": "Evaluating Defence Projects - Success May Be a Multidimensional Measure. A Case Study of a Logistics Support Vessel",
+      "id": "cite:welde_engebo_gulichsen_prebensen_volden_2025_defence_projects",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: assessing and monitoring th...",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/assessing-and-monitoring-the-economic-and-financial-standing-of-suppliers-guidance-note-html--2",
+      "id": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/assessing-and-monitoring-the-economic-and-financial-standing-of-suppliers-guidance-note-html--2",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: dft value for money framework",
+      "url": "https://www.gov.uk/government/publications/dft-value-for-money-framework",
+      "id": "https://www.gov.uk/government/publications/dft-value-for-money-framework",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: government efficiency frame...",
+      "url": "https://www.gov.uk/government/publications/the-government-efficiency-framework/government-efficiency-framework-gef-summary-key-definitions-and-criteria-guide",
+      "id": "https://www.gov.uk/government/publications/the-government-efficiency-framework/government-efficiency-framework-gef-summary-key-definitions-and-criteria-guide",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: green book supplementary gu...",
+      "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport",
+      "id": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: green book supplementary gu...",
+      "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money",
+      "id": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money",
+      "kind": "external",
+      "incoming": 3,
+      "outgoing": 0,
+      "degree": 3
+    },
+    {
+      "label": "gov.uk: jsp 507 mod guide to invest...",
+      "url": "https://www.gov.uk/government/publications/jsp-507-mod-guide-to-investment-appraisal-and-evaluation",
+      "id": "https://www.gov.uk/government/publications/jsp-507-mod-guide-to-investment-appraisal-and-evaluation",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: magenta book annex a analyt...",
+      "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-annex-a-analytical-methods-for-use-within-an-evaluation-html",
+      "id": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-annex-a-analytical-methods-for-use-within-an-evaluation-html",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: magenta book central govern...",
+      "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html",
+      "id": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: percentage of dft s apprais...",
+      "url": "https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money",
+      "id": "https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: risk allocation and pricing...",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/risk-allocation-and-pricing-approaches-guidance-note-html",
+      "id": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/risk-allocation-and-pricing-approaches-guidance-note-html",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: the government efficiency f...",
+      "url": "https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2",
+      "id": "https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: the green book 2026",
+      "url": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026",
+      "id": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "gov.uk: the magenta book",
+      "url": "https://www.gov.uk/government/publications/the-magenta-book",
+      "id": "https://www.gov.uk/government/publications/the-magenta-book",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: the sourcing playbook html",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html",
+      "id": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: transport appraisal and str...",
+      "url": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "id": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "gov.uk: transport business case gui...",
+      "url": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance",
+      "id": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: using the playbook in conju...",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/using-the-playbook-in-conjunction-with-framework-agreements-html",
+      "id": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/using-the-playbook-in-conjunction-with-framework-agreements-html",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: value for money assessment...",
+      "url": "https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block",
+      "id": "https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "gov.uk: value for money of major bu...",
+      "url": "https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes",
+      "id": "https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Government Efficiency Framework (GEF) Summa...",
+      "url": "https://www.gov.uk/government/publications/the-government-efficiency-framework/government-efficiency-framework-gef-summary-key-definitions-and-criteria-guide",
+      "citation_key": "hm_treasury_2025_government_efficiency_framework_summary",
+      "title": "Government Efficiency Framework (GEF) Summary, Key Definitions and Criteria Guide",
+      "id": "cite:hm_treasury_2025_government_efficiency_framework_summary",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "Green Book Supplementary Guidance: Value fo...",
+      "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money",
+      "citation_key": "hm_treasury_2022_green_book_vfm",
+      "title": "Green Book Supplementary Guidance: Value for Money",
+      "id": "cite:hm_treasury_2022_green_book_vfm",
+      "kind": "external",
+      "incoming": 3,
+      "outgoing": 0,
+      "degree": 3
+    },
+    {
+      "label": "Integrated Transport Block Funding: Value f...",
+      "url": "https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block",
+      "citation_key": "department_for_transport_2016_integrated_transport_block_vfm",
+      "title": "Integrated Transport Block Funding: Value for Money Assessment",
+      "id": "cite:department_for_transport_2016_integrated_transport_block_vfm",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "JSP 507: Investment Appraisal and Evaluatio...",
+      "url": "https://assets.publishing.service.gov.uk/media/5a7cb922ed915d63cc65c75b/JSP507_Part_1_U.pdf",
+      "citation_key": "ministry_of_defence_2014_jsp507_part1",
+      "title": "JSP 507: Investment Appraisal and Evaluation, Part 1: Directive",
+      "id": "cite:ministry_of_defence_2014_jsp507_part1",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "JSP 507: Investment Appraisal and Evaluatio...",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275550/JSP507_Part_2_U.pdf",
+      "citation_key": "ministry_of_defence_2014_jsp507_part2",
+      "title": "JSP 507: Investment Appraisal and Evaluation, Part 2: Guidance",
+      "id": "cite:ministry_of_defence_2014_jsp507_part2",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "julianking.co.nz: criteria",
+      "url": "https://www.julianking.co.nz/vfi/criteria/",
+      "id": "https://www.julianking.co.nz/vfi/criteria/",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "julianking.co.nz: Verian Group Valu...",
+      "url": "https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf",
+      "id": "https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Knowledge and Skills: Generation, Transfer...",
+      "url": "https://assets.publishing.service.gov.uk/media/632dc02ad3bf7f567479bd05/Knowledge_and_Skills_Guidance_Note_September_2022__1_.pdf",
+      "citation_key": "cabinet_office_2022_knowledge_skills_transfer",
+      "title": "Knowledge and Skills: Generation, Transfer and Sharing: Guidance Note",
+      "id": "cite:cabinet_office_2022_knowledge_skills_transfer",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Magenta Book Annex A: Analytical Methods fo...",
+      "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-annex-a-analytical-methods-for-use-within-an-evaluation-html",
+      "citation_key": "hm_treasury_evaluation_task_force_2026_magenta_book_annex_a",
+      "title": "Magenta Book Annex A: Analytical Methods for Use Within an Evaluation",
+      "id": "cite:hm_treasury_evaluation_task_force_2026_magenta_book_annex_a",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Magenta Book: Central Government Guidance o...",
+      "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html",
+      "citation_key": "hm_treasury_evaluation_task_force_2026_magenta_book",
+      "title": "Magenta Book: Central Government Guidance on Evaluation",
+      "id": "cite:hm_treasury_evaluation_task_force_2026_magenta_book",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Market Management: Guidance Note",
+      "url": "https://assets.publishing.service.gov.uk/media/60a38814e90e07356e2bbc4f/Market_management_guidance_note_May_2021.pdf",
+      "citation_key": "cabinet_office_2021_market_management",
+      "title": "Market Management: Guidance Note",
+      "id": "cite:cabinet_office_2021_market_management",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "nao.org.uk: about us",
+      "url": "https://www.nao.org.uk/about-us/",
+      "id": "https://www.nao.org.uk/about-us/",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "nao.org.uk: VFM diagram text.pdf",
+      "url": "https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf",
+      "id": "https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "oecd.org: applying evaluation crite...",
+      "url": "https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en",
+      "id": "https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "oecd.org: evaluation criteria",
+      "url": "https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html",
+      "id": "https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html",
+      "kind": "external",
+      "incoming": 3,
+      "outgoing": 0,
+      "degree": 3
+    },
+    {
+      "label": "opml.co.uk: bn assessing vfm.pdf",
+      "url": "https://www.opml.co.uk/sites/default/files/migrated_bolt_files/bn-assessing-vfm.pdf",
+      "id": "https://www.opml.co.uk/sites/default/files/migrated_bolt_files/bn-assessing-vfm.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "opml.co.uk: in depth opm approach a...",
+      "url": "https://www.opml.co.uk/publications/in-depth-opm-approach-assessing-value-for-money",
+      "id": "https://www.opml.co.uk/publications/in-depth-opm-approach-assessing-value-for-money",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "opml.co.uk: opm value money vfm app...",
+      "url": "https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf",
+      "id": "https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Risk Allocation and Pricing Approaches: Gui...",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/risk-allocation-and-pricing-approaches-guidance-note-html",
+      "citation_key": "cabinet_office_2026_risk_allocation_pricing",
+      "title": "Risk Allocation and Pricing Approaches: Guidance Note",
+      "id": "cite:cabinet_office_2026_risk_allocation_pricing",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Should Cost Modelling: Guidance Note",
+      "url": "https://assets.publishing.service.gov.uk/media/60a3879f8fa8f56a32f91cfd/Should_Cost_Modelling_guidance_note_May_2021.pdf",
+      "citation_key": "cabinet_office_2021_should_cost_modelling",
+      "title": "Should Cost Modelling: Guidance Note",
+      "id": "cite:cabinet_office_2021_should_cost_modelling",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Testing and Piloting Services: Guidance Note",
+      "url": "https://assets.publishing.service.gov.uk/media/60a388398fa8f56a3a295910/Testing_and_piloting_services_guidance_note_May_2021.pdf",
+      "citation_key": "cabinet_office_2021_testing_piloting",
+      "title": "Testing and Piloting Services: Guidance Note",
+      "id": "cite:cabinet_office_2021_testing_piloting",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "The Consultancy Playbook",
+      "url": "https://assets.publishing.service.gov.uk/media/631f2237e90e077db807dd00/The_Consultancy_Playbook_Version_1.1_September_2022.pdf",
+      "citation_key": "cabinet_office_gcf_2022_consultancy_playbook",
+      "title": "The Consultancy Playbook",
+      "id": "cite:cabinet_office_gcf_2022_consultancy_playbook",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "The Government Efficiency Framework",
+      "url": "https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2",
+      "citation_key": "hm_treasury_2025_government_efficiency_framework",
+      "title": "The Government Efficiency Framework",
+      "id": "cite:hm_treasury_2025_government_efficiency_framework",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "The Green Book",
+      "url": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026",
+      "citation_key": "hm_treasury_2026_green_book",
+      "title": "The Green Book",
+      "id": "cite:hm_treasury_2026_green_book",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "The Sourcing Playbook",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html",
+      "citation_key": "cabinet_office_gcf_2026_sourcing_playbook",
+      "title": "The Sourcing Playbook",
+      "id": "cite:cabinet_office_gcf_2026_sourcing_playbook",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "Transport Analysis Guidance",
+      "url": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport",
+      "citation_key": "department_for_transport_2025_tag",
+      "title": "Transport Analysis Guidance",
+      "id": "cite:department_for_transport_2025_tag",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Transport Appraisal and Strategic Modelling...",
+      "url": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "citation_key": "department_for_transport_2026_tasm",
+      "title": "Transport Appraisal and Strategic Modelling Division",
+      "id": "cite:department_for_transport_2026_tasm",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "label": "Transport Business Case Guidance",
+      "url": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance",
+      "citation_key": "department_for_transport_2022_transport_business_case",
+      "title": "Transport Business Case Guidance",
+      "id": "cite:department_for_transport_2022_transport_business_case",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Using the Playbook in Conjunction with Fram...",
+      "url": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/using-the-playbook-in-conjunction-with-framework-agreements-html",
+      "citation_key": "cabinet_office_gcf_2023_sourcing_framework_agreements",
+      "title": "Using the Playbook in Conjunction with Framework Agreements",
+      "id": "cite:cabinet_office_gcf_2023_sourcing_framework_agreements",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Value for Money Assessment for Major Bus-Re...",
+      "url": "https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes",
+      "citation_key": "department_for_transport_2016_major_bus_schemes_vfm",
+      "title": "Value for Money Assessment for Major Bus-Related Schemes",
+      "id": "cite:department_for_transport_2016_major_bus_schemes_vfm",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "Value for Money Criteria",
+      "url": "https://www.julianking.co.nz/vfi/criteria/",
+      "citation_key": "king_2019_vfm_criteria",
+      "title": "Value for Money Criteria",
+      "id": "cite:king_2019_vfm_criteria",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "veriangroup.com: guide evaluation v...",
+      "url": "https://www.veriangroup.com/news-and-insights/guide-evaluation-value-for-money",
+      "id": "https://www.veriangroup.com/news-and-insights/guide-evaluation-value-for-money",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "veriangroup.com: Verian%20Group%20...",
+      "url": "https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf",
+      "id": "https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf",
+      "kind": "external",
+      "incoming": 1,
+      "outgoing": 0,
+      "degree": 1
+    },
+    {
+      "label": "VFM Diagram",
+      "url": "https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf",
+      "citation_key": "nao_2013_vfm_diagram",
+      "title": "VFM Diagram",
+      "id": "cite:nao_2013_vfm_diagram",
+      "kind": "external",
+      "incoming": 2,
+      "outgoing": 0,
+      "degree": 2
+    },
+    {
+      "id": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "label": "Consultancy Knowledge and Skills Transfer",
+      "kind": "internal",
+      "path": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "incoming": 3,
+      "outgoing": 6,
+      "degree": 7
+    },
+    {
+      "id": "notes/consultancy-playbook.qmd",
+      "label": "Consultancy Playbook",
+      "kind": "internal",
+      "path": "notes/consultancy-playbook.qmd",
+      "incoming": 3,
+      "outgoing": 6,
+      "degree": 7
+    },
+    {
+      "id": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "label": "Defence Logistics Vessel DAC VfM Evaluation",
+      "kind": "internal",
+      "path": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "incoming": 1,
+      "outgoing": 6,
+      "degree": 6
+    },
+    {
+      "id": "notes/dft-tag-appraisal-evaluation.qmd",
+      "label": "DfT TAG Appraisal and Evaluation",
+      "kind": "internal",
+      "path": "notes/dft-tag-appraisal-evaluation.qmd",
+      "incoming": 4,
+      "outgoing": 9,
+      "degree": 10
+    },
+    {
+      "id": "notes/dft-transport-business-case.qmd",
+      "label": "DfT Transport Business Case",
+      "kind": "internal",
+      "path": "notes/dft-transport-business-case.qmd",
+      "incoming": 4,
+      "outgoing": 8,
+      "degree": 9
+    },
+    {
+      "id": "notes/dft-vfm-case-examples.qmd",
+      "label": "DfT VfM Case Examples",
+      "kind": "internal",
+      "path": "notes/dft-vfm-case-examples.qmd",
+      "incoming": 3,
+      "outgoing": 10,
+      "degree": 11
+    },
+    {
+      "id": "notes/dft-vfm-framework.qmd",
+      "label": "DfT VfM Framework",
+      "kind": "internal",
+      "path": "notes/dft-vfm-framework.qmd",
+      "incoming": 5,
+      "outgoing": 11,
+      "degree": 12
+    },
+    {
+      "id": "notes/dft-vfm-indicator.qmd",
+      "label": "DfT VfM Indicator",
+      "kind": "internal",
+      "path": "notes/dft-vfm-indicator.qmd",
+      "incoming": 3,
+      "outgoing": 8,
+      "degree": 8
+    },
+    {
+      "id": "notes/government-efficiency-framework.qmd",
+      "label": "Government Efficiency Framework",
+      "kind": "internal",
+      "path": "notes/government-efficiency-framework.qmd",
+      "incoming": 3,
+      "outgoing": 7,
+      "degree": 7
+    },
+    {
+      "id": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "label": "Government Efficiency Framework and VfI Rubrics",
+      "kind": "internal",
+      "path": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "incoming": 5,
+      "outgoing": 11,
+      "degree": 12
+    },
+    {
+      "id": "notes/government-efficiency-framework-summary.qmd",
+      "label": "Government Efficiency Framework Summary",
+      "kind": "internal",
+      "path": "notes/government-efficiency-framework-summary.qmd",
+      "incoming": 3,
+      "outgoing": 8,
+      "degree": 8
+    },
+    {
+      "id": "notes/green-book-vfm-guidance.qmd",
+      "label": "Green Book VfM Guidance",
+      "kind": "internal",
+      "path": "notes/green-book-vfm-guidance.qmd",
+      "incoming": 11,
+      "outgoing": 13,
+      "degree": 19
+    },
+    {
+      "id": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "label": "JSP 507 Investment Appraisal and Evaluation",
+      "kind": "internal",
+      "path": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "incoming": 2,
+      "outgoing": 13,
+      "degree": 13
+    },
+    {
+      "id": "notes/magenta-book-vfm-evaluation.qmd",
+      "label": "Magenta Book VfM Evaluation",
+      "kind": "internal",
+      "path": "notes/magenta-book-vfm-evaluation.qmd",
+      "incoming": 17,
+      "outgoing": 10,
+      "degree": 24
+    },
+    {
+      "id": "notes/nao-vfm-definition.qmd",
+      "label": "NAO VfM Definition",
+      "kind": "internal",
+      "path": "notes/nao-vfm-definition.qmd",
+      "incoming": 2,
+      "outgoing": 8,
+      "degree": 8
+    },
+    {
+      "id": "notes/index.qmd",
+      "label": "Notes",
+      "kind": "internal",
+      "path": "notes/index.qmd",
+      "incoming": 31,
+      "outgoing": 31,
+      "degree": 31
+    },
+    {
+      "id": "notes/oecd-dac-evaluation-criteria.qmd",
+      "label": "OECD DAC Evaluation Criteria",
+      "kind": "internal",
+      "path": "notes/oecd-dac-evaluation-criteria.qmd",
+      "incoming": 6,
+      "outgoing": 9,
+      "degree": 12
+    },
+    {
+      "id": "notes/opm-king-vfm-guidance.qmd",
+      "label": "OPM King VfM Guidance",
+      "kind": "internal",
+      "path": "notes/opm-king-vfm-guidance.qmd",
+      "incoming": 16,
+      "outgoing": 9,
+      "degree": 21
+    },
+    {
+      "id": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "label": "Sourcing and Consultancy Playbooks for VfM Rubric Creation",
+      "kind": "internal",
+      "path": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "incoming": 1,
+      "outgoing": 18,
+      "degree": 18
+    },
+    {
+      "id": "notes/sourcing-benefits-measurement.qmd",
+      "label": "Sourcing Benefits Measurement",
+      "kind": "internal",
+      "path": "notes/sourcing-benefits-measurement.qmd",
+      "incoming": 3,
+      "outgoing": 6,
+      "degree": 8
+    },
+    {
+      "id": "notes/sourcing-bid-evaluation.qmd",
+      "label": "Sourcing Bid Evaluation",
+      "kind": "internal",
+      "path": "notes/sourcing-bid-evaluation.qmd",
+      "incoming": 8,
+      "outgoing": 7,
+      "degree": 11
+    },
+    {
+      "id": "notes/sourcing-delivery-model-assessment.qmd",
+      "label": "Sourcing Delivery Model Assessment",
+      "kind": "internal",
+      "path": "notes/sourcing-delivery-model-assessment.qmd",
+      "incoming": 6,
+      "outgoing": 7,
+      "degree": 9
+    },
+    {
+      "id": "notes/sourcing-market-management.qmd",
+      "label": "Sourcing Market Management",
+      "kind": "internal",
+      "path": "notes/sourcing-market-management.qmd",
+      "incoming": 5,
+      "outgoing": 6,
+      "degree": 8
+    },
+    {
+      "id": "notes/sourcing-playbook.qmd",
+      "label": "Sourcing Playbook",
+      "kind": "internal",
+      "path": "notes/sourcing-playbook.qmd",
+      "incoming": 8,
+      "outgoing": 10,
+      "degree": 14
+    },
+    {
+      "id": "notes/sourcing-framework-agreements.qmd",
+      "label": "Sourcing Playbook and Framework Agreements",
+      "kind": "internal",
+      "path": "notes/sourcing-framework-agreements.qmd",
+      "incoming": 4,
+      "outgoing": 6,
+      "degree": 7
+    },
+    {
+      "id": "notes/sourcing-risk-allocation-pricing.qmd",
+      "label": "Sourcing Risk Allocation and Pricing",
+      "kind": "internal",
+      "path": "notes/sourcing-risk-allocation-pricing.qmd",
+      "incoming": 6,
+      "outgoing": 6,
+      "degree": 8
+    },
+    {
+      "id": "notes/sourcing-should-cost-modelling.qmd",
+      "label": "Sourcing Should Cost Modelling",
+      "kind": "internal",
+      "path": "notes/sourcing-should-cost-modelling.qmd",
+      "incoming": 6,
+      "outgoing": 6,
+      "degree": 8
+    },
+    {
+      "id": "notes/sourcing-supplier-financial-standing.qmd",
+      "label": "Sourcing Supplier Financial Standing",
+      "kind": "internal",
+      "path": "notes/sourcing-supplier-financial-standing.qmd",
+      "incoming": 5,
+      "outgoing": 6,
+      "degree": 8
+    },
+    {
+      "id": "notes/sourcing-testing-and-piloting.qmd",
+      "label": "Sourcing Testing and Piloting",
+      "kind": "internal",
+      "path": "notes/sourcing-testing-and-piloting.qmd",
+      "incoming": 3,
+      "outgoing": 6,
+      "degree": 7
+    },
+    {
+      "id": "notes/verian-value-for-investment-guidance.qmd",
+      "label": "Verian Value for Investment Guidance",
+      "kind": "internal",
+      "path": "notes/verian-value-for-investment-guidance.qmd",
+      "incoming": 13,
+      "outgoing": 9,
+      "degree": 17
+    },
+    {
+      "id": "notes/vfi-oecd-dac-relationship.qmd",
+      "label": "VfI and OECD DAC Relationship",
+      "kind": "internal",
+      "path": "notes/vfi-oecd-dac-relationship.qmd",
+      "incoming": 1,
+      "outgoing": 11,
+      "degree": 11
+    },
+    {
+      "id": "notes/vfm-definitions.qmd",
+      "label": "VfM Definitions",
+      "kind": "internal",
+      "path": "notes/vfm-definitions.qmd",
+      "incoming": 5,
+      "outgoing": 18,
+      "degree": 18
+    }
+  ],
+  "edges": [
+    {
+      "source": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "target": "cite:cabinet_office_2022_knowledge_skills_transfer",
+      "kind": "external"
+    },
+    {
+      "source": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "target": "https://assets.publishing.service.gov.uk/media/632dc02ad3bf7f567479bd05/Knowledge_and_Skills_Guidance_Note_September_2022__1_.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "target": "notes/consultancy-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/consultancy-playbook.qmd",
+      "target": "cite:cabinet_office_gcf_2022_consultancy_playbook",
+      "kind": "external"
+    },
+    {
+      "source": "notes/consultancy-playbook.qmd",
+      "target": "https://assets.publishing.service.gov.uk/media/631f2237e90e077db807dd00/The_Consultancy_Playbook_Version_1.1_September_2022.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/consultancy-playbook.qmd",
+      "target": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/consultancy-playbook.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/consultancy-playbook.qmd",
+      "target": "notes/sourcing-bid-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/consultancy-playbook.qmd",
+      "target": "notes/sourcing-delivery-model-assessment.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "target": "cite:welde_engebo_gulichsen_prebensen_volden_2025_defence_projects",
+      "kind": "external"
+    },
+    {
+      "source": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "target": "https://doi.org/10.1080/14702436.2025.2461459",
+      "kind": "external"
+    },
+    {
+      "source": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "target": "notes/oecd-dac-evaluation-criteria.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "cite:department_for_transport_2025_tag",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "cite:department_for_transport_2026_tasm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-transport",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/dft-transport-business-case.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-tag-appraisal-evaluation.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "cite:department_for_transport_2022_transport_business_case",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/dft-tag-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/dft-vfm-case-examples.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-transport-business-case.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "cite:department_for_transport_2016_integrated_transport_block_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "cite:department_for_transport_2016_major_bus_schemes_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "https://www.gov.uk/government/publications/value-for-money-assessment-of-the-integrated-transport-block",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "https://www.gov.uk/government/publications/value-for-money-of-major-bus-related-schemes",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/dft-tag-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/dft-vfm-indicator.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-case-examples.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "cite:department_for_transport_2025_vfm_framework",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "cite:department_for_transport_2026_tasm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "https://www.gov.uk/government/publications/dft-value-for-money-framework",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/dft-tag-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/dft-transport-business-case.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/dft-vfm-indicator.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-framework.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "cite:department_for_transport_2022_vfm_indicator",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "https://www.gov.uk/government/publications/percentage-of-dft-s-appraised-project-spending-that-is-assessed-as-good-or-very-good-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/dft-transport-business-case.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/dft-vfm-case-examples.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/dft-vfm-indicator.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-summary.qmd",
+      "target": "cite:hm_treasury_2025_government_efficiency_framework_summary",
+      "kind": "external"
+    },
+    {
+      "source": "notes/government-efficiency-framework-summary.qmd",
+      "target": "https://www.gov.uk/government/publications/the-government-efficiency-framework/government-efficiency-framework-gef-summary-key-definitions-and-criteria-guide",
+      "kind": "external"
+    },
+    {
+      "source": "notes/government-efficiency-framework-summary.qmd",
+      "target": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-summary.qmd",
+      "target": "notes/government-efficiency-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-summary.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-summary.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-summary.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-summary.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "cite:hm_treasury_2025_government_efficiency_framework",
+      "kind": "external"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "cite:hm_treasury_2025_government_efficiency_framework_summary",
+      "kind": "external"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "cite:king_hurrell_2024_verian_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "cite:king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "notes/government-efficiency-framework-summary.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "notes/government-efficiency-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework.qmd",
+      "target": "cite:hm_treasury_2025_government_efficiency_framework",
+      "kind": "external"
+    },
+    {
+      "source": "notes/government-efficiency-framework.qmd",
+      "target": "https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2",
+      "kind": "external"
+    },
+    {
+      "source": "notes/government-efficiency-framework.qmd",
+      "target": "notes/government-efficiency-framework-summary.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework.qmd",
+      "target": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/government-efficiency-framework.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "cite:hm_treasury_2022_green_book_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "cite:hm_treasury_2026_green_book",
+      "kind": "external"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "cite:king_hurrell_2024_verian_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "cite:king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026",
+      "kind": "external"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/green-book-vfm-guidance.qmd",
+      "target": "notes/vfm-definitions.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/consultancy-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/defence-logistics-vessel-dac-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-tag-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-transport-business-case.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-vfm-case-examples.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-vfm-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/dft-vfm-indicator.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/government-efficiency-framework-summary.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/government-efficiency-framework.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/nao-vfm-definition.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/oecd-dac-evaluation-criteria.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-benefits-measurement.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-bid-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-delivery-model-assessment.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-framework-agreements.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-market-management.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-risk-allocation-pricing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-should-cost-modelling.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-supplier-financial-standing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/sourcing-testing-and-piloting.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/vfi-oecd-dac-relationship.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/index.qmd",
+      "target": "notes/vfm-definitions.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "cite:king_hurrell_2024_verian_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "cite:king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "cite:ministry_of_defence_2014_jsp507_part1",
+      "kind": "external"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "cite:ministry_of_defence_2014_jsp507_part2",
+      "kind": "external"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275548/JSP507_Part_1_U.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/275550/JSP507_Part_2_U.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "https://www.gov.uk/government/publications/jsp-507-mod-guide-to-investment-appraisal-and-evaluation",
+      "kind": "external"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "notes/government-efficiency-framework-vfi-rubric-relevance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/jsp-507-investment-appraisal-evaluation.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "cite:hm_treasury_2022_green_book_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "cite:hm_treasury_evaluation_task_force_2026_magenta_book",
+      "kind": "external"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "cite:hm_treasury_evaluation_task_force_2026_magenta_book_annex_a",
+      "kind": "external"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "https://www.gov.uk/government/publications/the-magenta-book",
+      "kind": "external"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-annex-a-analytical-methods-for-use-within-an-evaluation-html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/magenta-book-vfm-evaluation.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/nao-vfm-definition.qmd",
+      "target": "cite:nao_2013_vfm_diagram",
+      "kind": "external"
+    },
+    {
+      "source": "notes/nao-vfm-definition.qmd",
+      "target": "cite:nao_about_us_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/nao-vfm-definition.qmd",
+      "target": "https://www.nao.org.uk/about-us/",
+      "kind": "external"
+    },
+    {
+      "source": "notes/nao-vfm-definition.qmd",
+      "target": "https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/nao-vfm-definition.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/nao-vfm-definition.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/nao-vfm-definition.qmd",
+      "target": "notes/oecd-dac-evaluation-criteria.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/nao-vfm-definition.qmd",
+      "target": "notes/vfm-definitions.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "cite:oecd_2019_better_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "cite:oecd_2021_applying_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "https://doi.org/10.1787/15a9c26b-en",
+      "kind": "external"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "https://doi.org/10.1787/543e84ed-en",
+      "kind": "external"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/oecd-dac-evaluation-criteria.qmd",
+      "target": "notes/vfm-definitions.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "cite:king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "https://www.betterevaluation.org/tools-resources/opms-approach-assessing-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "https://www.opml.co.uk/publications/in-depth-opm-approach-assessing-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "https://www.opml.co.uk/sites/default/files/2024-06/opm-value-money-vfm-approach-v2-1.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "https://www.opml.co.uk/sites/default/files/migrated_bolt_files/bn-assessing-vfm.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "notes/oecd-dac-evaluation-criteria.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/opm-king-vfm-guidance.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-benefits-measurement.qmd",
+      "target": "cite:cabinet_office_2021_benefits_measurement",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-benefits-measurement.qmd",
+      "target": "https://assets.publishing.service.gov.uk/media/60a38804e90e073576198cb6/Benefits_Measurement_Guidance_Note_May_2021.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-benefits-measurement.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-benefits-measurement.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-benefits-measurement.qmd",
+      "target": "notes/sourcing-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-benefits-measurement.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-bid-evaluation.qmd",
+      "target": "cite:cabinet_office_2021_bid_evaluation",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-bid-evaluation.qmd",
+      "target": "https://assets.publishing.service.gov.uk/media/60a387e48fa8f56a3e32fa9a/Bid_evaluation_guidance_note_May_2021.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-bid-evaluation.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-bid-evaluation.qmd",
+      "target": "notes/sourcing-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-bid-evaluation.qmd",
+      "target": "notes/sourcing-risk-allocation-pricing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-bid-evaluation.qmd",
+      "target": "notes/sourcing-should-cost-modelling.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-bid-evaluation.qmd",
+      "target": "notes/sourcing-supplier-financial-standing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "cite:cabinet_office_gcf_2022_consultancy_playbook",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "cite:cabinet_office_gcf_2026_sourcing_playbook",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/consultancy-knowledge-skills-transfer.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/consultancy-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-benefits-measurement.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-bid-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-delivery-model-assessment.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-framework-agreements.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-market-management.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-risk-allocation-pricing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-should-cost-modelling.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-supplier-financial-standing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/sourcing-testing-and-piloting.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-consultancy-playbooks-vfm-rubric-relevance.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-delivery-model-assessment.qmd",
+      "target": "cite:cabinet_office_2021_delivery_model_assessment",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-delivery-model-assessment.qmd",
+      "target": "https://assets.publishing.service.gov.uk/media/60a387d5e90e07357422eb45/Delivery_model_assessment_guidance_note_May_2021.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-delivery-model-assessment.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-delivery-model-assessment.qmd",
+      "target": "notes/sourcing-bid-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-delivery-model-assessment.qmd",
+      "target": "notes/sourcing-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-delivery-model-assessment.qmd",
+      "target": "notes/sourcing-should-cost-modelling.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-delivery-model-assessment.qmd",
+      "target": "notes/sourcing-testing-and-piloting.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-framework-agreements.qmd",
+      "target": "cite:cabinet_office_gcf_2023_sourcing_framework_agreements",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-framework-agreements.qmd",
+      "target": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/using-the-playbook-in-conjunction-with-framework-agreements-html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-framework-agreements.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-framework-agreements.qmd",
+      "target": "notes/sourcing-market-management.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-framework-agreements.qmd",
+      "target": "notes/sourcing-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-framework-agreements.qmd",
+      "target": "notes/sourcing-supplier-financial-standing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-market-management.qmd",
+      "target": "cite:cabinet_office_2021_market_management",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-market-management.qmd",
+      "target": "https://assets.publishing.service.gov.uk/media/60a38814e90e07356e2bbc4f/Market_management_guidance_note_May_2021.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-market-management.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-market-management.qmd",
+      "target": "notes/sourcing-bid-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-market-management.qmd",
+      "target": "notes/sourcing-framework-agreements.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-market-management.qmd",
+      "target": "notes/sourcing-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "cite:cabinet_office_gcf_2026_sourcing_playbook",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "notes/sourcing-bid-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "notes/sourcing-delivery-model-assessment.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "notes/sourcing-market-management.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "notes/sourcing-risk-allocation-pricing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "notes/sourcing-should-cost-modelling.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-playbook.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-risk-allocation-pricing.qmd",
+      "target": "cite:cabinet_office_2026_risk_allocation_pricing",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-risk-allocation-pricing.qmd",
+      "target": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/risk-allocation-and-pricing-approaches-guidance-note-html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-risk-allocation-pricing.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-risk-allocation-pricing.qmd",
+      "target": "notes/sourcing-bid-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-risk-allocation-pricing.qmd",
+      "target": "notes/sourcing-should-cost-modelling.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-risk-allocation-pricing.qmd",
+      "target": "notes/sourcing-supplier-financial-standing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-should-cost-modelling.qmd",
+      "target": "cite:cabinet_office_2021_should_cost_modelling",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-should-cost-modelling.qmd",
+      "target": "https://assets.publishing.service.gov.uk/media/60a3879f8fa8f56a32f91cfd/Should_Cost_Modelling_guidance_note_May_2021.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-should-cost-modelling.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-should-cost-modelling.qmd",
+      "target": "notes/sourcing-bid-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-should-cost-modelling.qmd",
+      "target": "notes/sourcing-delivery-model-assessment.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-should-cost-modelling.qmd",
+      "target": "notes/sourcing-risk-allocation-pricing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-supplier-financial-standing.qmd",
+      "target": "cite:cabinet_office_2026_supplier_financial_standing",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-supplier-financial-standing.qmd",
+      "target": "https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/assessing-and-monitoring-the-economic-and-financial-standing-of-suppliers-guidance-note-html--2",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-supplier-financial-standing.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-supplier-financial-standing.qmd",
+      "target": "notes/sourcing-framework-agreements.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-supplier-financial-standing.qmd",
+      "target": "notes/sourcing-market-management.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-supplier-financial-standing.qmd",
+      "target": "notes/sourcing-risk-allocation-pricing.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-testing-and-piloting.qmd",
+      "target": "cite:cabinet_office_2021_testing_piloting",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-testing-and-piloting.qmd",
+      "target": "https://assets.publishing.service.gov.uk/media/60a388398fa8f56a3a295910/Testing_and_piloting_services_guidance_note_May_2021.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/sourcing-testing-and-piloting.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-testing-and-piloting.qmd",
+      "target": "notes/sourcing-benefits-measurement.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-testing-and-piloting.qmd",
+      "target": "notes/sourcing-delivery-model-assessment.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/sourcing-testing-and-piloting.qmd",
+      "target": "notes/sourcing-playbook.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "cite:king_hurrell_2024_verian_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "https://www.julianking.co.nz/wp-content/uploads/2024/08/Verian-Group-Value-for-Money-Guide-August-2024.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "https://www.veriangroup.com/hubfs/Verian%20Group%20-%20Value%20for%20Money%20Guide%20-%20August%202024.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "https://www.veriangroup.com/news-and-insights/guide-evaluation-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/verian-value-for-investment-guidance.qmd",
+      "target": "notes/vfm-definitions.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "cite:king_2019_vfm_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "cite:oecd_2019_better_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "cite:oecd_2021_applying_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "https://doi.org/10.1787/15a9c26b-en",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "https://doi.org/10.1787/543e84ed-en",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "https://www.julianking.co.nz/vfi/criteria/",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "notes/oecd-dac-evaluation-criteria.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "notes/opm-king-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfi-oecd-dac-relationship.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "cite:hm_treasury_2022_green_book_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "cite:hm_treasury_2026_green_book",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "cite:nao_2013_vfm_diagram",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "cite:nao_about_us_vfm",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "cite:oecd_2019_better_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "cite:oecd_2021_applying_criteria",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "https://www.gov.uk/government/publications/green-book-supplementary-guidance-value-for-money",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "https://www.nao.org.uk/about-us/",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "https://www.nao.org.uk/wp-content/uploads/sites/4/2013/03/VFM_diagram_text.pdf",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "https://www.oecd.org/en/topics/sub-issues/development-co-operation-evaluation-and-effectiveness/evaluation-criteria.html",
+      "kind": "external"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "notes/green-book-vfm-guidance.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "notes/index.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "notes/magenta-book-vfm-evaluation.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "notes/nao-vfm-definition.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "notes/oecd-dac-evaluation-criteria.qmd",
+      "kind": "internal"
+    },
+    {
+      "source": "notes/vfm-definitions.qmd",
+      "target": "notes/verian-value-for-investment-guidance.qmd",
+      "kind": "internal"
+    }
+  ]
+}

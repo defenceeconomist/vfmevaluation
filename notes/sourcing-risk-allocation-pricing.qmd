@@ -1,0 +1,83 @@
+---
+title: "Sourcing Risk Allocation and Pricing"
+description: "Source note on risk allocation, pricing approaches, and payment mechanisms in public contracts."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on risk allocation and pricing approaches [@cabinet_office_2026_risk_allocation_pricing].
+
+The main source is:
+
+- [GOV.UK HTML: Risk Allocation and Pricing Approaches Guidance Note](https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/risk-allocation-and-pricing-approaches-guidance-note-html)
+
+## One-Page Summary
+
+The risk allocation and pricing guidance explains that inappropriate or disproportionate risk allocation is widely recognised as a reason government contracts underperform or fail. It emphasises that the aim is not to transfer as much risk as possible to suppliers, but to allocate risk appropriately between parties and reflect that allocation in pricing and payment mechanisms.
+
+For VfM rubric creation, this is a key source for risk, resilience, pricing, incentives, and sustainability. It supports a standard that a contract may be poor VfM if risk transfer produces underperformance, excessive risk pricing, supplier distress, or incentives outside the supplier's control.
+
+## Purpose and Scope
+
+The guidance supports contracting authorities when considering risk allocation as part of commercial strategy. It covers risk identification, analysis, evaluation, treatment, allocation, pricing structures, payment mechanisms, incentivisation, disincentivisation, and inflation management.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Effective risk management is crucial to successful contract delivery.
+- Inappropriate risk balance can lead to poor value for money and underperformance.
+- Risk should be allocated to the party best able to manage it, bearing in mind ability to assess, price, reduce, mitigate, and respond to the risk.
+- Transferring risk can promote VfM where the supplier adds value in bearing and managing that risk.
+- Payment mechanisms and pricing approaches should align incentives with contracted requirements and realistic risk ownership.
+
+Inferred VfM implications:
+
+- Risk allocation should be a rubric criterion or subcriterion for complex services.
+- Pricing evidence should be interpreted with risk allocation, not separately from it.
+- Rubric standards should test whether incentives are within the supplier's control and whether government retained risks it is better placed to manage.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Risk allocation and pricing contribution |
+|---|---|
+| Economy | Tests whether risk pricing is efficient rather than inflated by inappropriate transfer. |
+| Efficiency | Tests whether payment mechanisms incentivise timely, productive delivery. |
+| Effectiveness | Tests whether incentives support the outcomes and performance standards required. |
+| Cost-effectiveness | Tests whether the risk-price trade-off improves overall value relative to alternatives. |
+| Risk and resilience | Tests whether risks are identified, allocated, monitored, and managed through contract life. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- risk register and risk allocation matrix;
+- commercial strategy risk analysis;
+- pricing model and payment mechanism;
+- inflation and indexation rationale;
+- supplier pricing assumptions;
+- onerous contract review or root cause analysis where applicable;
+- contract change records;
+- risk monitoring reports;
+- performance and payment data.
+
+## Relevance Rules Applied
+
+Include risk and pricing material where it informs trade-offs, incentives, affordability, deliverability, supplier behaviour, or resilience.
+
+Exclude generic descriptions of pricing models unless they affect the VfM standard for the contract being judged.
+
+## Limits and Exclusions
+
+This note does not specify the correct pricing model for every contract. Rubric standards should be tailored to the service, risk profile, supplier market, and delivery model.
+
+## Links
+
+See also the [Should Cost Modelling](sourcing-should-cost-modelling.qmd), [Bid Evaluation](sourcing-bid-evaluation.qmd), and [Supplier Financial Standing](sourcing-supplier-financial-standing.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

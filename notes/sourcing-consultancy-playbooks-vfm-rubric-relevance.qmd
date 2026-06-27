@@ -1,0 +1,107 @@
+---
+title: "Sourcing and Consultancy Playbooks for VfM Rubric Creation"
+description: "Synthesis note setting transparent rules for using sourcing and consultancy playbooks in VfM rubric creation."
+---
+
+## Source
+
+This synthesis note reads the Sourcing Playbook and selected sourcing guidance notes alongside the Consultancy Playbook and knowledge transfer guidance [@cabinet_office_gcf_2026_sourcing_playbook; @cabinet_office_gcf_2022_consultancy_playbook].
+
+It is a synthesis note, not a separate government source. Where it draws rubric implications, those are inferences from the source notes.
+
+## One-Page Summary
+
+The sourcing and consultancy playbooks are relevant to VfM rubric creation because they define what good commercial preparation, market engagement, delivery model choice, bid evaluation, risk allocation, benefits monitoring, and knowledge transfer should look like in public sector sourcing.
+
+They should not be used as a checklist where every procedural step becomes a rubric criterion. They should be used selectively where they help define good resource use, relevant evidence, explicit standards, and trade-offs.
+
+The main rubric contribution is a stronger bridge between commercial practice and evaluative judgement:
+
+- sourcing choices define the alternatives and cost side of VfM;
+- market and supplier evidence define economy, fairness, and resilience;
+- bid evaluation evidence defines how price, quality, social value, and deliverability were weighed;
+- risk allocation and pricing evidence define whether the contract is sustainable;
+- benefits and knowledge transfer evidence define whether value is realised after award.
+
+## Transparent Relevance Rules
+
+| Treatment | Rule | Example |
+|---|---|---|
+| Include | The material defines value proposition, resource use, delivery model choice, quality thresholds, criteria, standards, evidence, trade-offs, alternatives, or accountability. | Delivery model assessment criteria, should-cost assumptions, benefit baselines, risk allocation matrix. |
+| Use as supporting context | The material explains process or governance that affects evidence credibility but is not itself a VfM criterion. | Approval routes, record keeping, consultation with specialist teams. |
+| Exclude | The material is procedural detail with no evaluative significance, duplicated elsewhere, or too tool-specific for a generic rubric. | Detailed spreadsheet mechanics, generic contact routes, legal process detail that does not affect judgement. |
+
+## Source-to-Rubric Matrix
+
+| Source note | Primary rubric contribution | Main VfM criteria informed |
+|---|---|---|
+| [Sourcing Playbook](sourcing-playbook.qmd) | Commercial lifecycle and 11 policy areas for good sourcing. | Economy, efficiency, effectiveness, cost-effectiveness, risk. |
+| [Framework Agreements](sourcing-framework-agreements.qmd) | Responsibility split and requirement-specific use of frameworks. | Economy, efficiency, fairness, risk. |
+| [Delivery Model Assessment](sourcing-delivery-model-assessment.qmd) | Alternatives analysis for in-house, outsourced, and hybrid delivery. | Cost-effectiveness, effectiveness, risk, capability. |
+| [Should Cost Modelling](sourcing-should-cost-modelling.qmd) | Whole-life cost evidence, assumptions, and cost driver analysis. | Economy, cost-effectiveness, evidence quality, risk. |
+| [Bid Evaluation](sourcing-bid-evaluation.qmd) | Price, quality, social value, deliverability, and award evidence. | Economy, effectiveness, fairness, cost-effectiveness. |
+| [Benefits Measurement](sourcing-benefits-measurement.qmd) | Commercial benefits, baselines, targets, actuals, and review. | Effectiveness, cost-effectiveness, accountability. |
+| [Market Management](sourcing-market-management.qmd) | Market health, competition, supplier access, and market stewardship. | Economy, fairness, resilience, long-term value. |
+| [Testing and Piloting](sourcing-testing-and-piloting.qmd) | Evidence from tests, pilots, learning, and staged commitment. | Effectiveness, efficiency, learning, risk. |
+| [Risk Allocation and Pricing](sourcing-risk-allocation-pricing.qmd) | Appropriate risk ownership, pricing, incentives, and payment mechanisms. | Economy, risk, resilience, cost-effectiveness. |
+| [Supplier Financial Standing](sourcing-supplier-financial-standing.qmd) | Financial capacity, proportionality, mitigations, and monitoring. | Risk, resilience, fairness, effectiveness. |
+| [Consultancy Playbook](consultancy-playbook.qmd) | Necessity, scope, client effectiveness, outcomes, and consultancy value. | Economy, effectiveness, cost-effectiveness, learning. |
+| [Consultancy Knowledge and Skills Transfer](consultancy-knowledge-skills-transfer.qmd) | Knowledge generation, transfer, sharing, and reuse. | Learning, capability, effectiveness, sustainability. |
+
+## Candidate Rubric Areas
+
+| Candidate area | Core VfM question | Evidence prompts |
+|---|---|---|
+| Economy and commercial discipline | Were inputs, suppliers, consultancy support, and market routes selected at reasonable cost and suitable quality? | Market assessment, should-cost model, pricing rationale, framework route rationale, evaluation report. |
+| Delivery model and alternatives | Was the chosen model justified against credible in-house, outsourced, hybrid, framework, or consultancy alternatives? | Delivery model assessment, options appraisal, business case, cost and non-cost criteria. |
+| Quality and effectiveness | Were specifications, KPIs, evaluation criteria, and benefits aligned with intended outcomes? | Specification, KPI baselines, bid quality criteria, benefits register, review reports. |
+| Cost-effectiveness | Did the value expected or realised justify the whole-life cost and opportunity cost? | Should-cost model, benefits evidence, comparator options, sensitivity analysis, realised performance. |
+| Market fairness and resilience | Did the commercial approach support healthy competition, supplier access, and sustainable provision? | Market health assessment, supplier engagement, framework competition evidence, EFS checks. |
+| Risk allocation and incentives | Were risks allocated to the party best able to manage them, at an efficient price, with incentives aligned to delivery? | Risk allocation matrix, pricing model, payment mechanism, contract monitoring. |
+| Learning and capability | Did the intervention generate reusable knowledge, transfer skills, and reduce avoidable future dependency? | Knowledge transfer plan, capability evidence, reuse records, consultancy close-out evidence. |
+
+## Candidate Standards for Rubric Drafting
+
+These are candidate standards to adapt, not a final rubric.
+
+| Level | Generic standard |
+|---|---|
+| Poor | Commercial route, costs, risks, quality expectations, or benefits are weakly defined; evidence cannot support a clear VfM judgement. |
+| Adequate | Core sourcing evidence exists, but important assumptions, trade-offs, or post-award value evidence are incomplete. |
+| Good | Delivery model, cost, market, risk, quality, and benefits evidence are proportionate and clearly linked to the VfM judgement. |
+| Excellent | Evidence is robust, tested, and used adaptively; trade-offs are explicit; benefits, resilience, and learning are monitored through delivery. |
+
+## Candidate Evidence Checklist
+
+For generic public-sector VfM rubric creation, consider whether the evidence base includes:
+
+- value proposition and theory of change;
+- business case and options appraisal;
+- delivery model assessment;
+- market health and capability assessment;
+- should-cost model and assumptions;
+- pilot or testing evidence where uncertainty is material;
+- specification, KPIs, baselines, and quality criteria;
+- bid evaluation report;
+- social value and fairness evidence where relevant;
+- risk allocation matrix, pricing model, and payment mechanism;
+- supplier financial standing and continuity evidence;
+- benefits register and benefits reports;
+- knowledge generation and transfer evidence for consultancy.
+
+## Limits and Exclusions
+
+The playbooks should not be used to force every procurement process into a VfM rubric. The rules are selective: a source item is relevant only where it changes what good resource use means, what evidence is needed, how standards should be framed, or how trade-offs should be weighed.
+
+Where a rubric implication is not directly stated in a source note, it should be labelled as an inference and justified by linking back to the relevant source material.
+
+## Links
+
+See also the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd), [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd), and [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

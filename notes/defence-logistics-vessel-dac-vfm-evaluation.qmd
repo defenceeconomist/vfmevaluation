@@ -1,0 +1,134 @@
+---
+title: "Defence Logistics Vessel DAC VfM Evaluation"
+description: "Source note on Welde et al.'s ex-post evaluation of HNoMS Maud as a DAC-inspired defence value for money case."
+---
+
+## Source
+
+This note summarises Welde, Engebo, Gulichsen, Prebensen, and Volden's 2025 article on ex-post evaluation of the Norwegian Navy's logistics support vessel HNoMS Maud [@welde_engebo_gulichsen_prebensen_volden_2025_defence_projects].
+
+The related source page is:
+
+- [Taylor & Francis: Evaluating defence projects - success may be a multidimensional measure](https://doi.org/10.1080/14702436.2025.2461459)
+
+## Core Idea
+
+The article uses HNoMS Maud to show why defence project success and value for money cannot be judged only by delivery time, budget, and technical scope. A defence acquisition can have weak delivery performance but still produce important operational and strategic value. Conversely, a project can be delivered efficiently while failing to meet long-term defence needs.
+
+The central contribution is a worked ex-post evaluation of a major defence acquisition using a DAC-inspired framework. The framework links the familiar project management question of whether the project was delivered efficiently to broader questions about whether the delivered capability is useful, relevant, sustainable, and valuable.
+
+## Case Background
+
+HNoMS Maud is a logistics and support vessel acquired for the Royal Norwegian Navy. The project arose from a combination of NATO and national needs. NATO's 2002 Prague Capabilities Commitment emphasised deployable logistics support, while Norway's new frigates needed support to operate beyond coastal duties.
+
+The project objective was to acquire a logistics and support capability that would increase the endurance, flexibility, and mobility of Norwegian naval forces. The Norwegian Parliament approved the project in 2009. The contract was awarded to Daewoo Shipbuilding & Marine Engineering in South Korea in 2013, with expected delivery in September 2016.
+
+The vessel was delivered after a turbulent construction period and arrived in Norway in 2019. It was not operationally mature until later, with continuing technical issues affecting systems such as replenishment-at-sea equipment and the Integrated Platform Management System.
+
+## Evaluation Design
+
+The evaluation was conducted four years after completion to allow benefits to begin materialising. It used document review, project accounts, interviews, conversations with key participants, and an on-site vessel inspection at Haakonsvern Naval Base.
+
+The evaluation is both summative and formative. It judges the completed project, but its main purpose is learning for future defence acquisitions. This matters because ex-post evaluations of defence projects are rare, partly because of classified information and partly because project evaluation is often less systematic than ex-ante appraisal.
+
+The authors use a goal-oriented evaluation methodology. Actual outcomes are compared with the goals formulated in the project's business case. This makes the business case important: if goals are incomplete or poorly specified, the evaluation can expose that weakness.
+
+## DAC-Inspired Criteria
+
+The framework is inspired by the OECD DAC criteria, but it is adapted to public project success. It uses six criteria grouped across three levels of success.
+
+| Level | Criterion | Evaluation question |
+|---|---|---|
+| Operational | Efficiency | Was the project implemented efficiently in terms of cost, time, and quality? |
+| Tactical | Effectiveness | Were the agreed user goals attained, and did the project contribute to them? |
+| Strategic | Relevance | Is there a need for what the project delivers, judged against national priorities and stakeholder preferences? |
+| Strategic | Sustainability | Are the benefits likely to persist through the vessel's lifetime, with acceptable long-run financial, environmental, and social impacts? |
+| Strategic | Other impacts | What positive or negative consequences beyond agreed outcomes can be attributed to the project? |
+| Strategic | Benefit-cost efficiency | Is willingness to pay for what the project delivers proportionate to cost, where cost-benefit analysis is feasible? |
+
+This is not a mechanical checklist. The criteria create a structured route from project delivery to military utility and societal value. The article's most useful VfM lesson is that efficiency is necessary but insufficient: the evaluator must ask whether the delivered capability remains relevant and useful in a changing strategic context.
+
+## Operational Success
+
+Operational success concerns whether the project organisation converted resources into the delivered vessel efficiently.
+
+On time, the project performed poorly. The contract specified delivery in September 2016, but the vessel was delayed by more than two years and only reached Norway in 2019. From a product-readiness perspective, the delay was longer because the vessel was not fully operational until later. This distinction is important: handover is not the same as having a usable capability.
+
+The delay was driven by a mix of project and supplier risks. The South Korean shipyard faced severe financial and management problems after the oil price crisis, including corruption proceedings against senior management. The project also faced cultural and language barriers, geographical distance, time-zone separation, and a high turnover of project managers.
+
+On cost, the judgement is more nuanced. In nominal terms, final cost was far above the original budget. Adjusted using the defence index, the project was moderately over budget. Adjusted for both inflation and exchange-rate compensation, the final cost was below the maximum budget. The case shows that cost performance in defence procurement can depend heavily on the baseline and indexation method used.
+
+On quality, the vessel was eventually considered useful and well designed, but the achieved quality was below original aspirations because requirements had been cut after the first tender round. Continuing issues with the Integrated Platform Management System are especially important because Maud relies on a relatively small crew and high automation.
+
+The operational judgement is therefore mixed: late delivery and technical problems, but broadly controlled costs after exchange-rate compensation and eventual delivery of a capable vessel.
+
+## Tactical Success
+
+Tactical success concerns whether the vessel achieves user-level goals for the Navy and allied operations.
+
+The evaluation finds that Maud is a useful national and international operational resource. Its replenishment-at-sea capability allows Norwegian and allied vessels to maintain readiness and endurance without returning to port. It is built to NATO standards, making it compatible with allied vessels.
+
+The vessel has been deployed with NATO's Standing Maritime Group 1, and informants reported strong demand for its services. The crewing model was also expanded from one crew to two, increasing potential sailing days substantially.
+
+Maud supports the Navy's long-term endurance by transporting and transferring fuel, food, ammunition, materiel, and personnel. However, its full potential is constrained by wider capability dependencies. The vessel was designed to support helicopter operations, but Norway's failure to acquire NH90 helicopters means neither Maud nor the frigates have the intended helicopter capability.
+
+The vessel can also support other branches of the Armed Forces and civil emergency authorities, though not to the extent originally intended after requirements were reduced. Its hospital capability, container capacity, crane, and logistics functions could be valuable in some humanitarian or emergency scenarios.
+
+The tactical judgement is generally positive: the vessel provides real operational value, especially for NATO and offshore naval activity, but some benefits depend on complementary capabilities and operating patterns.
+
+## Strategic Success
+
+Strategic success asks whether Maud remains relevant to defence needs and whether its long-term benefits justify the investment.
+
+The article finds a strong international strategic rationale. Norway relies on NATO collective security, and Maud allows Norway to contribute a valuable logistics capability to allied maritime operations. The vessel helps Norway strengthen its NATO profile and support operations that matter to alliance security.
+
+The national strategic case is less clear. Norway's Navy is small, and Maud's value depends on a continued commitment to offshore surface operations. If future naval strategy shifted toward coastal operations, the need for Maud would weaken. The vessel's long-term relevance is therefore tied to future fleet structure, especially whether frigates or equivalent ocean-going vessels are retained.
+
+The evaluation also identifies wider learning benefits. The project gave Norway experience in large international procurement, especially from a South Korean supplier, and highlighted the importance of culture, language, supplier governance, and payment incentives.
+
+From a societal value perspective, conventional cost-benefit analysis is difficult because defence benefits are hard to monetise. The authors therefore frame value more broadly: Maud contributes to protecting the nation, insuring against uncertain future threats, and supporting global influence and international security. Its strongest value-for-society argument is the international dimension.
+
+## VfM Lessons
+
+The case is valuable for VfM evaluation because it shows how a criteria framework can make a complex judgement transparent.
+
+First, delivery performance and value are related but distinct. Maud was late and technically difficult, yet it may still deliver important long-term value if it remains central to Norwegian and NATO operations.
+
+Second, programme theory matters. The article argues that a theory of change should test the logic from outputs to user effects and wider impacts. In this case, the project goals did not clearly state the NATO contribution, even though NATO needs were central to the project's origin and later value.
+
+Third, front-end appraisal should consider genuinely different options. The appraisal of what became Maud appears to have examined variants of a single vessel concept rather than alternative ways of strengthening military capability.
+
+Fourth, VfM in defence depends on complementary systems. Maud's value is affected by frigates, helicopters, crewing, operating budgets, NATO demand, and future fleet structure. Evaluating the vessel in isolation would understate these dependencies.
+
+Fifth, international procurement risk needs explicit treatment. Culture, language, supplier financial health, governance, and payment terms all affected delivery. The authors recommend payment profiles that give suppliers stronger incentives for timely, high-quality delivery.
+
+## Relationship to DAC Criteria
+
+The paper is a useful companion to the [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd) note because it shows the criteria being adapted to a defence acquisition rather than applied in development assistance.
+
+The adaptation is important. The article does not simply reproduce the revised DAC set of relevance, coherence, effectiveness, efficiency, impact, and sustainability. Instead, it uses a public-project-success model derived from DAC thinking. "Other impacts" covers wider positive and negative consequences, while "benefit-cost efficiency" makes explicit the VfM question of whether benefits are proportionate to cost.
+
+The paper also complements [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) and [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd), because it demonstrates the same broad principle: credible VfM evaluation often requires structured qualitative judgement alongside cost, delivery, and performance evidence.
+
+## Practical Implications for Defence VfM Evaluation
+
+For future defence cases, the note suggests recording:
+
+1. the original strategic rationale, including alliance commitments and national objectives;
+2. the theory of change from capability delivery to military effects and societal value;
+3. operational efficiency evidence on cost, schedule, quality, and readiness;
+4. tactical effectiveness evidence from users, exercises, deployments, and operational demand;
+5. strategic relevance evidence linked to future force structure and threat context;
+6. dependencies on other capabilities, personnel, budgets, doctrine, and allies;
+7. wider positive and negative impacts, including learning from procurement and implementation;
+8. whether monetised analysis is feasible, and how non-monetised defence value will be judged.
+
+The Maud example is especially useful because it resists a simple pass/fail conclusion. It shows that a defence acquisition may be operationally troubled, tactically useful, and strategically contingent at the same time.
+
+## Links
+
+See also the [OECD DAC Evaluation Criteria](oecd-dac-evaluation-criteria.qmd), [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd), and [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References

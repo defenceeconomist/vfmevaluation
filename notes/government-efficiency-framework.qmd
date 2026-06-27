@@ -1,0 +1,126 @@
+---
+title: "Government Efficiency Framework"
+description: "Source note on HM Treasury's full Government Efficiency Framework."
+---
+
+## Source
+
+This source note summarises HM Treasury's **The Government Efficiency Framework**, updated 24 November 2025 [@hm_treasury_2025_government_efficiency_framework].
+
+The source page is [The Government Efficiency Framework](https://www.gov.uk/government/publications/the-government-efficiency-framework/the-government-efficiency-framework--2).
+
+## One-Page Summary
+
+Direct source claims:
+
+- The GEF is a standard approach for tracking, monitoring, oversight, and reporting of efficiency savings across central government.
+- It gives definitions, reporting standards, best-practice reporting processes, and guidance on reporting efficiency savings to HM Treasury.
+- It focuses primarily on productivity and efficiency where they can be measured in financial terms.
+- It identifies two types of efficiency: technical efficiency and allocative efficiency.
+- It identifies five broad drivers of efficiency: markets and competition, organisation and workforce, service redesign and alternative delivery mechanisms, technology efficiencies, and estates and condition.
+- It separates cash releasing efficiencies from monetisable non-cash releasing efficiencies, while noting that quantifiable non-monetisable and qualitative benefits should be handled through Green Book and Magenta Book guidance.
+- It sets requirements for data, reporting, benefits realisation, risk management, governance, assurance, and oversight.
+
+Inferred VfI implications:
+
+- The GEF is a strong source for the efficiency side of a VfI rubric, especially for savings validity, productivity, recurrent savings, and evidence quality.
+- It also helps identify subcriteria for economy, efficiency, cost-effectiveness, risk, delivery confidence, and accountability.
+- It should not be treated as the whole VfI method because it deliberately narrows its main scope to financial efficiency reporting.
+
+Candidate rubric material:
+
+- Efficiency claims should show preserved or improved outputs and outcomes, not just reduced expenditure.
+- Strong evidence should include baselines, counterfactuals, outturns, net savings, cost-to-deliver, impacts on other bodies, maturity stage, risks, assurance, and benefits tracking.
+- Rubric standards can distinguish opportunities, forecast savings, delivered outputs, and realised savings using GEF maturity levels.
+
+## Purpose and Scope
+
+Direct source claims:
+
+The GEF applies to bodies classified by the ONS to central government, including central government departments, agencies, most non-departmental public bodies, and arm's-length bodies. It is expected to be adopted by officials involved in monitoring, delivery, appraisal, and evaluation of efficiency savings.
+
+The framework aims to establish a centralised, consistent, and enduring process for departments to categorise, track, and report efficiency savings.
+
+Inferred VfI implications:
+
+The source is directly relevant where a VfI rubric needs to judge government efficiency claims or savings programmes. It is less complete for public value criteria that require non-monetised outcomes, distribution, rights, user experience, or legitimacy unless paired with other sources.
+
+## Key Concepts
+
+| Concept | Direct source claim | VfI use |
+|---|---|---|
+| Efficiency | Spend less for the same or greater outputs, or produce higher outputs with the same spend. | Defines the threshold for resource-use improvement. |
+| Productivity | Output per unit input; output or outcome must stay the same or increase to count as efficiency. | Supports standards for productivity evidence. |
+| Technical efficiency | Achieving a given output for the lowest input. | Supports economy and operational efficiency criteria. |
+| Allocative efficiency | Maximising outcomes by allocating resources in a wholly different way. | Supports alternative options and prevention criteria. |
+| Drivers of efficiency | Markets, workforce, service redesign, technology, and estates. | Provides candidate subcriteria and evidence domains. |
+| Cash releasing savings | Direct reduction in spending on an activity, project, programme, or policy. | Supports budget impact evidence. |
+| Monetisable non-cash savings | Monetisable efficiency without a direct spending reduction. | Supports productivity, capacity, and user-time evidence. |
+| Net efficiency | Gross efficiency less costs to deliver. | Supports cost-effectiveness and whole-cost standards. |
+| Maturity levels | Pipeline levels 0-3 and delivery/realisation levels 4-5. | Supports performance standards and confidence ratings. |
+| Governance and assurance | Departments should review and assure efficiency data and reporting, monitor outputs and outcomes, and provide challenge. | Supports accountability and evidence credibility criteria. |
+
+## VfI-Relevant Concepts
+
+Direct source claims:
+
+- Cost-effectiveness and cost-benefit analysis from the Green Book are relevant when measuring technical and allocative efficiencies.
+- Baselines are required to measure benefits, including the current situation or starting point against which change is measured.
+- Cash releasing savings should be calculated from baseline cost information, a counterfactual spending profile, and outturn spending data.
+- Non-cash releasing savings need a comprehensive methodology with appropriate assurance.
+- Efficiencies should be net of costs, should not create unintended consequential costs, and should not harm performance or outcomes.
+- Longer-term transformation programmes should set costs and benefits out in a business case and monitor them through life.
+- Departments should track the efficiency measure, what drives it, where and when it will be realised, forecast savings, costs to deliver, impacts elsewhere, and actual realised savings to date.
+- Benefits realisation should be integrated into project, programme, and portfolio management before, during, and after delivery.
+- Efficiency methodology should be agreed and documented early, supported by evidence and reasonable assumptions, accurately claimed, period-aligned, reviewed, verified, and governed.
+- Risk management should consider delivery risk and realisation risk, especially where savings are embedded in budgets or wider portfolios.
+
+Inferred VfI implications:
+
+These concepts turn efficiency from a narrow savings assertion into a structured evaluative claim: there is a value proposition, a baseline, a counterfactual, an evidence standard, a delivery confidence judgement, and a check that performance and outcomes have not deteriorated.
+
+## Implications for Rubric Criteria
+
+| Candidate rubric area | GEF material | Implication for VfI design |
+|---|---|---|
+| Economy | Markets, competition, procurement, unit cost benchmarking, estates costs. | Include subcriteria on input cost discipline and market-informed pricing. |
+| Efficiency | Productivity, technical efficiency, service redesign, technology, workforce, demand management. | Include subcriteria on outputs per input and avoidable waste. |
+| Cost-effectiveness | Allocative efficiency, prevention, cost-benefit and cost-effectiveness analysis, net efficiency. | Include subcriteria on alternatives and benefits relative to cost. |
+| Effectiveness protection | No adverse impact on outcomes or strategic priorities. | Make maintained or improved outcomes a threshold condition. |
+| Risk and resilience | Delivery risk, realisation risk, budget control risk, risk escalation. | Include evidence prompts on delivery confidence and mitigations. |
+| Governance and accountability | Reporting, ownership, ARAC oversight, independent scrutiny, auditability. | Include subcriteria on assurance, ownership, and traceability. |
+| Evidence quality | Quality data, baselines, counterfactuals, outturns, documentation, impartial verification. | Include standards for poor to excellent evidence strength. |
+
+## Evidence Useful for Rubric Creation
+
+- Efficiency measure description and driver.
+- Baseline cost, output, and outcome data.
+- Counterfactual spending profile and assumptions.
+- Forecast gross savings, costs to deliver, and net savings.
+- Outturn savings and realised budget or productivity impact.
+- Output and outcome monitoring to show performance has not fallen.
+- Identification of effects on other business areas, departments, local government, or users.
+- Maturity level from opportunity identification to realised saving.
+- Benefits register and benefits realisation plan.
+- Risk register, confidence level, mitigations, and escalation records.
+- Assurance records, independent scrutiny, ARAC or senior approval, and audit trail.
+- Evidence of avoided double counting where multiple organisations or functions are involved.
+
+## Limits and Exclusions
+
+The GEF is primarily a financial tool for efficiency reporting. Non-monetisable benefits are outside its main scope, and the framework points users to the Green Book and Magenta Book for wider monitoring and evaluation. It should therefore inform VfI rubric components on efficiency, savings validity, and evidence quality, but it should not define the complete value judgement.
+
+Do not treat cancellation, underspend, lower-than-forecast demand, cost deferral, reallocation to a different outcome, or income increases as efficiency evidence unless the specific GEF criteria are met.
+
+## Links
+
+See also the [Government Efficiency Framework Summary](government-efficiency-framework-summary.qmd) source note.
+
+See also the [Government Efficiency Framework and VfI Rubrics](government-efficiency-framework-vfi-rubric-relevance.qmd) synthesis note.
+
+See also the [Green Book VfM Guidance](green-book-vfm-guidance.qmd) and [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) notes for broader appraisal and evaluation context.
+
+Return to the [notes overview](index.qmd).
+
+## References
+

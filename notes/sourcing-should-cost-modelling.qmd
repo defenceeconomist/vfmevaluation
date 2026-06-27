@@ -1,0 +1,81 @@
+---
+title: "Sourcing Should Cost Modelling"
+description: "Source note on should-cost modelling as whole-life cost evidence for sourcing and VfM judgement."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on should-cost modelling [@cabinet_office_2021_should_cost_modelling].
+
+The main source is:
+
+- [GOV.UK PDF: Should Cost Modelling Guidance Note](https://assets.publishing.service.gov.uk/media/60a3879f8fa8f56a32f91cfd/Should_Cost_Modelling_guidance_note_May_2021.pdf)
+
+## One-Page Summary
+
+The should-cost modelling guidance describes should-cost models as whole-life cost models used to plan, monitor, support decision-making, and drive value for money in public services and public works.
+
+For VfM rubric creation, should-cost modelling is relevant because it provides the cost side of the resource-use judgement. It can inform delivery model assessment, business cases, bid deliverability checks, negotiation, contract management, and monitoring. It also creates evidence for whether prices are plausible, whether cost drivers are understood, and whether low-cost bids are deliverable.
+
+## Purpose and Scope
+
+The guidance is high-level rather than a technical modelling manual. It explains what should-cost models are, when and why contracting authorities should produce them, and key considerations when developing or procuring them.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Should-cost models describe whole-life cost modelling.
+- They can range from simple spreadsheets to complex specialist models.
+- Effective modelling can support planning, monitoring, decision-making, and value for money.
+- The guidance links modelling to multiple phases, including planning, design, build, populate, review, quality assurance, and use.
+- Should-cost models can help assess bid deliverability and may sometimes be used in formal evaluation criteria.
+
+Inferred VfM implications:
+
+- Should-cost models are evidence, not the VfM judgement itself.
+- A rubric should test model purpose, assumptions, data quality, assurance, sensitivity, and use in decision-making.
+- Models are especially relevant to economy, cost-effectiveness, risk, affordability, and deliverability.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Should-cost contribution |
+|---|---|
+| Economy | Tests whether expected costs and cost drivers are understood before procurement. |
+| Efficiency | Tests whether the delivery model or bid converts resources into outputs at plausible cost. |
+| Cost-effectiveness | Tests whether whole-life cost is weighed against expected benefits and alternatives. |
+| Risk and resilience | Tests whether cost uncertainty, inflation, demand, transition, and supplier risk are visible. |
+| Evidence quality | Tests whether assumptions, data, version control, and quality assurance are adequate. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- should-cost model and model specification;
+- book of assumptions and data log;
+- development checklist and quality assurance plan;
+- sensitivity analysis and scenario outputs;
+- comparison of should-cost estimate with bids;
+- records of model governance and review;
+- documented use of model outputs in delivery model assessment, business case, evaluation, negotiation, or contract management.
+
+## Relevance Rules Applied
+
+Include should-cost material where it informs resource use, whole-life cost, alternatives, deliverability, pricing, assumptions, or evidence quality.
+
+Exclude technical spreadsheet mechanics unless they affect whether the cost evidence is credible enough for a rubric judgement.
+
+## Limits and Exclusions
+
+This note does not summarise the separate should-cost tools and templates. Those tools are better cited as supporting materials where a specific evaluation needs them.
+
+## Links
+
+See also the [Delivery Model Assessment](sourcing-delivery-model-assessment.qmd), [Bid Evaluation](sourcing-bid-evaluation.qmd), and [Risk Allocation and Pricing](sourcing-risk-allocation-pricing.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

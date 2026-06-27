@@ -1,0 +1,82 @@
+---
+title: "Consultancy Knowledge and Skills Transfer"
+description: "Source note on knowledge generation, transfer, and sharing from consultancy engagements."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on knowledge and skills generation, transfer, and sharing [@cabinet_office_2022_knowledge_skills_transfer].
+
+The main source is:
+
+- [GOV.UK PDF: Knowledge and Skills: Generation, Transfer and Sharing Guidance Note](https://assets.publishing.service.gov.uk/media/632dc02ad3bf7f567479bd05/Knowledge_and_Skills_Guidance_Note_September_2022__1_.pdf)
+
+## One-Page Summary
+
+The guidance note explains how departments should incorporate knowledge generation, knowledge and skills transfer, and sharing across consultancy engagements. It defines knowledge as a human or organisational asset enabling effective decisions and action in context, and skills as learned capacity to perform a task to a specified expectation.
+
+For VfM rubric creation, this source is important because consultancy value should include reusable knowledge and internal capability, not only the immediate contracted output. It supports rubric standards about whether knowledge transfer is planned at the start, embedded in procurement and controls, specified in the contract, delivered during the assignment, captured, and shared for reuse.
+
+## Purpose and Scope
+
+The guidance applies to consultancy assignments and associated spend. It supports the Consultancy Playbook's aim of making knowledge generation and transfer a default expectation.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Government aims to use and reuse knowledge that it creates or that is created on its behalf through consultancy and associated spend.
+- The default expectation is that consultancy assignments should consider knowledge generation, transfer, and sharing.
+- Procurement and controls processes should test knowledge generation and sharing.
+- Departments should frame knowledge and skills transfer at the start, consider previous knowledge, and engage relevant internal capability such as HR and workforce planning.
+
+Inferred VfM implications:
+
+- Knowledge transfer is not an optional add-on; it can be a VfM criterion for consultancy engagements.
+- A rubric should test whether transfer is specific, resourced, observable, and reusable.
+- Evidence should distinguish deliverable handover from actual capability development.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Knowledge and skills contribution |
+|---|---|
+| Effectiveness | Tests whether the consultancy produced knowledge that improved decisions or action. |
+| Efficiency | Tests whether reusable knowledge reduced duplication and future dependency. |
+| Cost-effectiveness | Tests whether the assignment created lasting capability relative to its cost. |
+| Learning and capability | Tests whether transfer, capture, sharing, and reuse were planned and evidenced. |
+| Evidence quality | Tests whether knowledge outputs and skills outcomes are observable, not merely asserted. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- knowledge and skills transfer plan;
+- statement of expected knowledge products or skills outcomes;
+- procurement and controls assessment of knowledge transfer;
+- contract clauses or deliverables covering transfer and sharing;
+- training, coaching, shadowing, or community-of-practice evidence;
+- knowledge assets uploaded or shared through appropriate platforms;
+- internal staff feedback on capability gained;
+- reuse evidence after the assignment;
+- exit and handover records.
+
+## Relevance Rules Applied
+
+Include knowledge and skills material where it informs capability, sustainability, learning, effectiveness, reuse, and future dependency.
+
+Exclude generic knowledge management terminology unless it helps define a standard or evidence requirement.
+
+## Limits and Exclusions
+
+Knowledge transfer evidence can be weak if it only records that a product was delivered. A VfM rubric should look for evidence that people or teams can use the knowledge after the consultancy ends.
+
+## Links
+
+See also the [Consultancy Playbook](consultancy-playbook.qmd), [OPM King VfM Guidance](opm-king-vfm-guidance.qmd), and [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

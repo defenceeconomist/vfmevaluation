@@ -1,0 +1,74 @@
+---
+title: "DfT VfM Framework"
+description: "Source note on the Department for Transport's framework for value for money assessments."
+---
+
+## Source
+
+This note summarises the Department for Transport's value for money framework and the role of the Transport Appraisal and Strategic Modelling division in maintaining value for money guidance [@department_for_transport_2025_vfm_framework; @department_for_transport_2026_tasm].
+
+The related source pages are:
+
+- [GOV.UK: DfT value for money framework](https://www.gov.uk/government/publications/dft-value-for-money-framework)
+- [DfT: Transport appraisal and strategic modelling division](https://www.gov.uk/government/groups/transport-appraisal-and-strategic-modelling-division)
+
+## Core Idea
+
+DfT's framework is an appraisal framework for judging whether expected costs are justified by expected benefits. It is designed for decision advice on proposed transport interventions, especially where ministers and investment boards need a clear value for money statement.
+
+The framework sits inside the wider government appraisal system. It draws on the [Green Book VfM Guidance](green-book-vfm-guidance.qmd), uses DfT's [Transport Analysis Guidance](dft-tag-appraisal-evaluation.qmd) for transport-specific appraisal methods, and feeds the economic dimension of the [DfT Transport Business Case](dft-transport-business-case.qmd).
+
+## VfM Metrics
+
+The framework starts from monetised appraisal. Benefit-cost ratios (BCRs), net present values, present value of benefits, and present value of costs are central because they give decision makers a disciplined way to compare expected social benefits with expected resource costs.
+
+DfT also recognises that a single monetised ratio is incomplete. Transport proposals can have important environmental, social, place-based, distributional, safety, reliability, resilience, and landscape effects that may not be fully monetised. The VfM judgement therefore needs to combine monetised evidence with qualitative and quantitative evidence on non-monetised impacts.
+
+## VfM Categories
+
+DfT communicates results through value for money categories. The category is not simply the initial BCR band. Analysts are expected to consider non-monetised impacts, risk, uncertainty, sensitivity tests, and the robustness of the analysis before recommending a final category.
+
+This makes the category a structured judgement. The BCR provides the starting point, but the final judgement should explain whether other effects strengthen, weaken, or materially change the initial conclusion.
+
+## Risk and Uncertainty
+
+The framework places weight on uncertainty because transport benefits and costs often depend on long-term demand, delivery risk, behavioural response, technology change, environmental assumptions, and wider economic conditions.
+
+Good VfM advice should therefore show:
+
+- central estimates and the assumptions behind them;
+- sensitivity tests around material drivers of benefits and costs;
+- switching values where useful for showing what would need to change to alter the category;
+- optimism bias, cost risk, and delivery risk where relevant;
+- the direction and scale of non-monetised effects.
+
+The practical implication is that uncertainty is part of the VfM judgement, not a caveat added after the result.
+
+## Relationship to Evaluation
+
+The DfT framework is mainly ex ante. It guides decisions before schemes are approved and implemented. It does not itself provide a full method for ex post value for money evaluation.
+
+However, it creates a clear evaluation agenda. If appraisal expects benefits from journey time savings, reliability, safety, mode shift, carbon reduction, local growth, or distributional effects, later evaluation should test whether those benefits were delivered and whether the appraisal assumptions were credible.
+
+This links directly to the [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd) note. The Magenta Book is more explicit about evaluating actual costs, outcomes, unintended effects, and alternatives after implementation. DfT's framework supplies the original appraisal expectations that evaluation can test.
+
+## Practical Implications
+
+For transport evaluators, the framework is useful as a baseline for reconstructing the original value proposition:
+
+1. Identify the original VfM category and its monetised basis.
+2. Separate monetised impacts from non-monetised impacts.
+3. Trace the assumptions that drove the BCR or net present value.
+4. Check whether sensitivity tests covered the risks that later mattered.
+5. Compare expected and realised costs, benefits, and distributional effects.
+6. Record lessons for future TAG parameters, optimism bias, and appraisal practice.
+
+Where effects cannot be monetised convincingly, evaluators may need a rubric-based or criteria-based synthesis. That is where the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) complements DfT's category framework.
+
+## Links
+
+See also the [DfT Transport Business Case](dft-transport-business-case.qmd), [DfT TAG Appraisal and Evaluation](dft-tag-appraisal-evaluation.qmd), and [DfT VfM Indicator](dft-vfm-indicator.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References

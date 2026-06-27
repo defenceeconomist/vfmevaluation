@@ -1,0 +1,59 @@
+---
+title: "Value for Money Evaluation Knowledge Base"
+page-layout: full
+toc: false
+---
+
+<div class="landing-stack">
+
+::: {.hero-panel}
+<span class="hero-eyebrow">Evaluation evidence and judgement</span>
+
+# Value for money evaluation
+
+This knowledge base organises practical notes on value for money evaluation: how evaluators define criteria, assemble evidence, make transparent judgements, and report credible conclusions.
+
+::: {.cta-row}
+[Open Notes](notes/index.qmd){.cta-button}
+[Start with Definitions](notes/vfm-definitions.qmd){.cta-button .secondary}
+[Export BibTeX](references.bib){.cta-button .secondary}
+[Release Notes](NOTES.md){.cta-button .secondary}
+:::
+:::
+
+::: {.section-grid}
+::: {.section-card}
+<span class="page-badge badge-overview">Source note</span>
+
+### [VfM Definitions](notes/vfm-definitions.qmd)
+
+Compare authoritative definitions from HM Treasury, the National Audit Office, and OECD DAC.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-overview">Source note</span>
+
+### [Magenta Book VfM Evaluation](notes/magenta-book-vfm-evaluation.qmd)
+
+Read the source note on HM Treasury's guidance for value for money evaluation.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-overview">Knowledge map</span>
+
+### [Notes Map](notes/index.qmd#notes-map)
+
+Explore the emerging relationship between pages, citations, and linked source material.
+:::
+
+::: {.section-card}
+<span class="page-badge badge-overview">Release notes</span>
+
+### [Release Notes](NOTES.md)
+
+Track release-level changes to the knowledge base.
+:::
+
+:::
+
+</div>

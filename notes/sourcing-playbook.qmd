@@ -1,0 +1,105 @@
+---
+title: "Sourcing Playbook"
+description: "Source note on Cabinet Office guidance for service delivery, sourcing, outsourcing, insourcing, mixed economy delivery, and contracting."
+---
+
+## Source
+
+This note summarises the Cabinet Office and Government Commercial Function's *The Sourcing Playbook* [@cabinet_office_gcf_2026_sourcing_playbook].
+
+The main source is:
+
+- [GOV.UK HTML: The Sourcing Playbook](https://www.gov.uk/government/publications/the-sourcing-and-consultancy-playbooks/the-sourcing-playbook-html)
+
+## One-Page Summary
+
+The Sourcing Playbook is government guidance on service delivery, including outsourcing, insourcing, mixed economy sourcing, and contracting. It sets out 11 key policies that central government departments are expected to follow when considering service delivery and market engagement.
+
+The direct source claim most relevant to VfM rubric creation is that better sourcing depends on disciplined preparation before going to market: publishing pipelines, understanding markets, validating projects, choosing a delivery model, developing should-cost estimates, testing first-generation outsourcing, setting KPIs, allocating risk appropriately, designing pricing and payment mechanisms, assessing supplier financial standing, and planning for resolution.
+
+The VfM implication is that a sourcing VfM rubric should not start with the contract award result. It should test whether the authority has made a traceable choice about the right delivery model, the right market strategy, the right quality and performance standards, and the right risk and payment design before judging whether the final contract represents good resource use.
+
+## Purpose and Scope
+
+The playbook applies to service delivery choices across outsourcing, insourcing, mixed economy approaches, and contracting. It is aimed at commercial, procurement, finance, project delivery, policy, legal, digital, and operational colleagues involved in public service delivery decisions.
+
+For VfM rubric creation, the source is useful because it identifies what government treats as material to good sourcing:
+
+- the health and capability of the market;
+- early engagement and transparency;
+- evidence-based delivery model assessment;
+- should-cost modelling and whole-life cost understanding;
+- testing and piloting before committing to scale;
+- clear specifications, KPIs, baselines, and evaluation criteria;
+- risk allocation, pricing, supplier financial standing, and resolution planning;
+- contract management and strategic supplier relationship management.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Sourcing decisions should consider insourcing, outsourcing, and mixed economy models rather than assuming market delivery.
+- Delivery model assessments should be evidence based and supported by should-cost modelling.
+- Market health matters because the government can influence supplier markets through pipelines, frameworks, commercial strategies, contract design, and demand aggregation.
+- Evaluation criteria should avoid a bias toward low-cost bids and should account for quality, social value, and deliverability.
+- Risk should be allocated appropriately rather than transferred indiscriminately.
+- Contracts should include KPIs and baselines, but those measures need to reflect the intended service outcomes.
+
+Inferred VfM implications:
+
+- Economy is not just price minimisation; it includes commercial discipline, market stewardship, and the avoidance of false economies.
+- Efficiency includes the quality of the sourcing process, not only the efficiency of the eventual supplier.
+- Effectiveness depends on whether the chosen delivery model and contract design can plausibly deliver the intended outcomes.
+- Cost-effectiveness depends on the selected delivery model compared with credible alternatives.
+- Risk and resilience may need to be explicit rubric criteria or subcriteria for complex services.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Playbook contribution to rubric design |
+|---|---|
+| Economy | Tests whether the authority understood market pricing, cost drivers, competition, and whole-life cost before committing resources. |
+| Efficiency | Tests whether preparation, approval, sourcing, piloting, and contract design avoided avoidable delay, rework, or transaction cost. |
+| Effectiveness | Tests whether requirements, KPIs, baselines, and supplier incentives are aligned with intended service outcomes. |
+| Equity and fairness | Tests whether market engagement, supplier access, and social value considerations support fair and transparent competition. |
+| Cost-effectiveness | Tests whether the chosen delivery model is justified against in-house, outsourced, hybrid, and other feasible alternatives. |
+| Risk and resilience | Tests whether allocation of operational, financial, performance, and continuity risk supports sustainable delivery. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- commercial pipeline entries and market engagement records;
+- market health and capability assessments;
+- project validation review outputs;
+- delivery model assessment records;
+- should-cost models, assumptions logs, and quality assurance records;
+- pilot or test-and-learn evidence;
+- service specifications, KPI baselines, and performance measures;
+- bid evaluation model and evaluation report;
+- risk allocation matrix, pricing model, and payment mechanism;
+- supplier economic and financial standing assessment;
+- resolution plan and continuity arrangements;
+- contract management and benefits reporting records.
+
+## Relevance Rules Applied
+
+The playbook is relevant where it helps define what "good" sourcing looks like before, during, and after procurement. It is especially relevant to criteria, standards, evidence sources, trade-offs, alternatives, and accountability.
+
+It should be used as a framework source rather than as evidence that any individual procurement is good VfM. The evaluator still needs programme-specific standards and evidence.
+
+## Limits and Exclusions
+
+This note does not summarise every procedural requirement in the playbook. Procedural details are only included where they affect VfM rubric design.
+
+The playbook is also not a complete evaluation method. It identifies commercial practices that should be tested by a VfM rubric, but the rubric still needs evaluative standards, evidence quality checks, and synthesis rules from sources such as the [OPM King VfM Guidance](opm-king-vfm-guidance.qmd) and [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd).
+
+## Links
+
+See also the [Delivery Model Assessment](sourcing-delivery-model-assessment.qmd), [Should Cost Modelling](sourcing-should-cost-modelling.qmd), [Bid Evaluation](sourcing-bid-evaluation.qmd), [Market Management](sourcing-market-management.qmd), and [Risk Allocation and Pricing](sourcing-risk-allocation-pricing.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

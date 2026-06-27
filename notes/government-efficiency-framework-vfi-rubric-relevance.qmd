@@ -1,0 +1,123 @@
+---
+title: "Government Efficiency Framework and VfI Rubrics"
+description: "Synthesis note mapping the Government Efficiency Framework to VfI-style rubric criteria, subcriteria, standards, and evidence prompts."
+---
+
+## Source
+
+This synthesis uses the Government Efficiency Framework summary guide and full framework [@hm_treasury_2025_government_efficiency_framework_summary; @hm_treasury_2025_government_efficiency_framework].
+
+It interprets the GEF through the VfI judgement architecture used in King/OPM and Verian guidance: value proposition, criteria, standards, mixed evidence, synthesis, trade-offs, and an explicit overall resource-use judgement [@king_wate_namukasa_hurrell_hansford_ward_faramarzifar_2023_opm_vfm; @king_hurrell_2024_verian_vfm].
+
+## One-Page Summary
+
+Direct source claims:
+
+- The GEF defines and standardises central government efficiency reporting.
+- It distinguishes technical and allocative efficiency, cash releasing and monetisable non-cash releasing savings, and efficiency from non-efficiency savings.
+- It requires quality data, baselines, counterfactuals, outturns, netting of costs, no adverse impact on outcomes, sustainability, avoidance of double counting, and documentation that can withstand impartial scrutiny.
+- It provides efficiency drivers, reporting expectations, maturity levels, benefits realisation guidance, risk requirements, and governance expectations.
+
+Inferred VfI implications:
+
+- The GEF can supply criteria and subcriteria for the efficiency and cost-effectiveness parts of a VfI rubric, but it does not supply a complete VfI method.
+- VfI should provide the judgement architecture: define the value proposition, choose criteria, set standards, combine financial and non-financial evidence, handle trade-offs, and make the final resource-use judgement.
+- GEF evidence standards are especially useful for distinguishing claimed savings, forecast efficiencies, delivered efficiencies, and independently defensible realised efficiencies.
+
+Candidate rubric material:
+
+- Use GEF definitions to test whether an efficiency claim is valid.
+- Use GEF drivers to identify candidate subcriteria.
+- Use GEF maturity levels and evidence requirements to design performance standards.
+- Use GEF reporting and assurance expectations to build evidence prompts.
+
+## Transparent Use Rules
+
+| Rule | Use in VfI rubric creation | Status |
+|---|---|---|
+| Include | Material that defines efficiency, productivity, savings categories, evidence quality, net savings, recurrence, outcome protection, double counting, or assurance. | Directly relevant. |
+| Include | Material on drivers such as procurement, workforce, demand management, digital, estates, prevention, and shared services where it helps specify candidate subcriteria. | Directly relevant as source context; rubric use is inference. |
+| Use as supporting context | Reporting process, maturity levels, and governance arrangements where they inform standards for evidence strength and delivery confidence. | Relevant for standards and prompts. |
+| Use as supporting context | Examples from functional areas, including property, workforce, data, digital, counter fraud, and project delivery. | Useful as examples, not universal criteria. |
+| Exclude | Procedural reporting mechanics that do not affect criteria, standards, evidence, synthesis, or accountability. | Low rubric relevance. |
+| Exclude | Claims of savings caused by cancellation, underspend, demand shortfall, deferral, legislation or tax changes, lower inflation, or cost shifting. | Excluded by GEF unless separate value evidence is provided. |
+| Exclude from final judgement | Treating GEF financial efficiency as a complete public value assessment. | Requires wider VfI, Green Book, and Magenta Book evidence. |
+
+## Source-to-Rubric Matrix
+
+| Source | Strongest contribution | Candidate VfI criteria | Candidate evidence prompts |
+|---|---|---|---|
+| GEF summary guide | Concise definitions and criteria for efficiency savings. | Efficiency, productivity, outcome protection, evidence credibility. | Does the claim preserve or improve outputs and outcomes? Is it net, recurring, verifiable, and not double counted? |
+| Full GEF chapters 1-2 | Purpose, scope, efficiency, productivity, technical efficiency, allocative efficiency. | Value proposition, efficiency, cost-effectiveness. | What is the efficiency claim, and is it technical, allocative, cash releasing, or non-cash releasing? |
+| Full GEF chapter 3 | Drivers of efficiency. | Economy, efficiency, cost-effectiveness, delivery model choice. | Which driver is being used: markets, workforce, service redesign, technology, or estates? |
+| Full GEF chapter 4 | Categories, criteria, baselines, net costs, cross-government effects, long-term transformation. | Cost-effectiveness, evidence quality, whole-system effects. | What baseline, counterfactual, costs to deliver, disbenefits, and cross-government impacts are evidenced? |
+| Full GEF chapter 5 | Data, reporting, tracking, maturity levels, targets, public reporting. | Evidence quality, delivery confidence, accountability. | What maturity stage has the efficiency reached? Are forecast and realised savings distinguished? |
+| Full GEF chapter 6 | Benefits realisation, methodology, risk, governance, assurance. | Risk, resilience, learning, accountability. | Are benefits owners, methods, risks, assurance, and escalation routes documented? |
+| Green Book and Magenta Book links | Wider appraisal and evaluation context for non-monetised value. | Effectiveness, social value, distribution, mixed evidence. | What non-monetised effects and trade-offs sit outside GEF financial reporting? |
+
+## Criteria and Subcriteria Mapping
+
+| VfI criterion area | Candidate subcriteria from GEF | Rubric implication |
+|---|---|---|
+| Economy | Market management, competition, procurement, supplier costs, unit cost benchmarking, estates running costs. | Infer: strong performance should show disciplined input costs without hidden quality loss or cost shifting. |
+| Efficiency | Productivity, technical efficiency, service redesign, digital automation, shared services, demand management, workforce deployment. | Infer: strong performance should show more or equal output for the same or lower input. |
+| Effectiveness | No adverse impact on outcomes or strategic priorities; delivery of intended benefits. | Directly supported as a threshold: savings are not efficiency if outcomes are harmed. |
+| Cost-effectiveness | Allocative efficiency, prevention, alternatives, net efficiency, costs to deliver, Green Book cost-effectiveness/cost-benefit links. | Infer: strong performance should show that the chosen resource allocation improves value relative to credible alternatives. |
+| Risk and resilience | Delivery risk, realisation risk, budget control risk, escalation where plans are off track. | Infer: standards should reflect confidence that savings are deliverable, durable, and managed. |
+| Accountability and assurance | Ownership, central datasets, ARAC oversight, independent scrutiny, auditability, documentation. | Infer: higher standards require transparent, reviewable claims and clear accountability. |
+| Learning and capability | Data quality, benefits management, evidence reuse, digital/data process improvement, workforce capability. | Infer: rubric prompts should ask whether efficiency capability improves, not only whether a saving is booked. |
+
+## Performance Standards: Design Prompts Only
+
+These are prompts for standard design, not a complete rubric.
+
+| Standard level | GEF-informed design prompt | Source status |
+|---|---|---|
+| Poor | Claimed saving is mainly cancellation, underspend, deferral, income increase, or reduced output; baseline and outcome protection are weak. | Inference from GEF exclusions and criteria. |
+| Adequate | Efficiency opportunity is plausible and scoped, with a basic baseline, forecast, owner, and delivery plan. | Inference from maturity levels 0-2. |
+| Good | Methodology is documented; forecast savings are net of costs; output/outcome impacts, risks, and double counting are actively managed. | Inference from GEF criteria, reporting, and risk sections. |
+| Excellent | Realised savings are evidenced with quality data, outturns, sustained recurrence, independent assurance, benefits tracking, and no adverse outcome impact. | Inference from GEF criteria and governance expectations. |
+
+## Evidence Prompts
+
+For a VfI-style rubric, the GEF suggests asking:
+
+- What is the value proposition: lower cost for the same or better output, higher output for the same cost, or reallocation to a better route to the same outcome?
+- What type of efficiency is claimed: technical, allocative, cash releasing, or monetisable non-cash releasing?
+- What baseline is used, and why is it credible?
+- What counterfactual spending or delivery profile is used, and what assumptions drive it?
+- What outturn data shows actual realised savings or productivity change?
+- Are savings gross or net, and what costs to deliver have been included?
+- What disbenefits, consequential costs, or impacts on other organisations have been tested?
+- What evidence shows that outputs, outcomes, quality, and strategic priorities have not deteriorated?
+- Are savings recurring and sustainable, rather than deferred or shifted?
+- How has double counting been prevented?
+- What is the maturity level of the efficiency measure?
+- Who owns the benefit, who validates it, and what independent assurance has been applied?
+- What risks could prevent realisation, and what escalation route exists?
+- What non-monetised benefits or harms need Green Book, Magenta Book, or wider VfI evidence?
+
+## Limits and Exclusions
+
+The GEF is a central government efficiency and savings framework. It is not a complete VfM or VfI evaluation method. Use it to strengthen the efficiency, savings, evidence, and assurance components of a VfI rubric; use VfI guidance for the overall judgement architecture and use the Green Book and Magenta Book for wider appraisal and evaluation evidence.
+
+All rubric implications in this note are inferences unless explicitly described as direct source claims.
+
+## Links
+
+Source notes:
+
+- [Government Efficiency Framework Summary](government-efficiency-framework-summary.qmd)
+- [Government Efficiency Framework](government-efficiency-framework.qmd)
+
+Related VfI and central guidance notes:
+
+- [Verian Value for Investment Guidance](verian-value-for-investment-guidance.qmd)
+- [OPM King VfM Guidance](opm-king-vfm-guidance.qmd)
+- [Magenta Book VfM Evaluation](magenta-book-vfm-evaluation.qmd)
+- [Green Book VfM Guidance](green-book-vfm-guidance.qmd)
+
+Return to the [notes overview](index.qmd).
+
+## References
+

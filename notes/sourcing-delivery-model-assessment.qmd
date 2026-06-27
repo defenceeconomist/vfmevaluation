@@ -1,0 +1,82 @@
+---
+title: "Sourcing Delivery Model Assessment"
+description: "Source note on delivery model assessments for public service sourcing decisions."
+---
+
+## Source
+
+This note summarises Cabinet Office guidance on delivery model assessments [@cabinet_office_2021_delivery_model_assessment].
+
+The main source is:
+
+- [GOV.UK PDF: Delivery Model Assessments Guidance Note](https://assets.publishing.service.gov.uk/media/60a387d5e90e07357422eb45/Delivery_model_assessment_guidance_note_May_2021.pdf)
+
+## One-Page Summary
+
+The delivery model assessment guidance describes an evidence-based approach for deciding whether a service, or part of a service, should be delivered in-house, procured from the market, or delivered through a hybrid model.
+
+For VfM rubric creation, this is one of the strongest sourcing documents because it directly links alternatives, strategic fit, operational criteria, cost evidence, whole-life cost, and recommendation-making. It supports a rubric standard that a procurement is not good VfM merely because the selected supplier is competitive; the selected delivery model must also be justified against feasible alternatives.
+
+## Purpose and Scope
+
+The guidance supports departments in creating and running an analytical process for delivery model choice. It states that delivery model assessment is not a target operating model, budget mechanism, full sourcing strategy, or supplier evaluation. It is a structured decision process for choosing the mechanism for service delivery.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Delivery model assessment is an analytical, evidence-based approach to support a recommendation on in-house, market, or hybrid delivery.
+- The process should define the service and delivery options, identify strategic and operational evaluation criteria, build or use a should-cost model, conduct evaluation, align cost and non-cost evidence, and document recommendations.
+- Strategic and operational criteria can include strategy, policy, service characteristics, people and assets, market and suppliers, risk, controls, and transition considerations.
+- Cost evaluation should consider whole-life costs rather than only immediate procurement cost.
+
+Inferred VfM implications:
+
+- Delivery model assessment supplies the alternatives logic for cost-effectiveness.
+- It provides candidate subcriteria for strategic fit, operational deliverability, market viability, capability, transition risk, and resilience.
+- It helps avoid retrofitting a procurement justification after the preferred route has already been chosen.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Delivery model assessment contribution |
+|---|---|
+| Economy | Tests whether cost evidence covers whole-life resource use and realistic delivery options. |
+| Efficiency | Tests whether the delivery model avoids avoidable transaction cost, duplication, transition waste, or management burden. |
+| Effectiveness | Tests whether the model is capable of delivering the required service quality and outcomes. |
+| Cost-effectiveness | Tests whether the recommended model is justified against in-house, outsourced, hybrid, public sector, third sector, and other feasible options. |
+| Risk and resilience | Tests whether risks differ by delivery model and whether the preferred model can manage them. |
+| Capability | Tests whether the authority or market has the people, assets, data, and management capability needed. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- service definition and technical specification;
+- list of feasible delivery options and screening rationale;
+- strategic and operational criteria with weightings;
+- evidence base for each option;
+- should-cost model and assumptions;
+- sensitivity testing of criteria weights and costs;
+- market evidence;
+- in-house capability evidence;
+- transition and implementation risk assessment;
+- documented recommendation and approval trail.
+
+## Relevance Rules Applied
+
+Include delivery model content where it informs alternatives, criteria, standards, evidence, and trade-offs. It is directly relevant to rubric creation because it defines the decision frame before procurement or service redesign.
+
+## Limits and Exclusions
+
+Detailed operating model design is out of scope unless it changes the evidence used to judge VfM. Supplier-specific evaluation belongs in the [Bid Evaluation](sourcing-bid-evaluation.qmd) note rather than this note.
+
+## Links
+
+See also the [Sourcing Playbook](sourcing-playbook.qmd), [Should Cost Modelling](sourcing-should-cost-modelling.qmd), and [Testing and Piloting](sourcing-testing-and-piloting.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::

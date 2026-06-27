@@ -1,0 +1,87 @@
+---
+title: "Consultancy Playbook"
+description: "Source note on commissioning and engaging consultants to improve outcomes, value for money, and Civil Service capability."
+---
+
+## Source
+
+This note summarises the Cabinet Office and Government Commercial Function's *The Consultancy Playbook* [@cabinet_office_gcf_2022_consultancy_playbook].
+
+The main source is:
+
+- [GOV.UK PDF: The Consultancy Playbook](https://assets.publishing.service.gov.uk/media/631f2237e90e077db807dd00/The_Consultancy_Playbook_Version_1.1_September_2022.pdf)
+
+## One-Page Summary
+
+The Consultancy Playbook gives government guidance on commissioning and engaging consultants more effectively, achieving better outcomes and value for money, and supporting Civil Service capability through the creation of knowledge and skills.
+
+For VfM rubric creation, the playbook is relevant because consultancy value is often not captured by simple deliverable completion. A credible rubric should test why external advice is needed, whether the delivery model is justified, whether evaluation criteria and pricing are aligned with outcomes, whether government acts as an effective client, and whether knowledge generation and transfer reduce future dependence on consultants.
+
+## Purpose and Scope
+
+The playbook applies to central government departments and arm's-length bodies going to market for consultancy services. It defines consultancy broadly as advice to fill a knowledge gap and distinguishes that from staff substitution or routine service delivery.
+
+## VfM-Relevant Concepts
+
+Direct source claims:
+
+- Consultancy can bring valuable expertise, but government should access the right skills at the right time and in the right way.
+- Consultancy should be used to fill specific skills and knowledge gaps.
+- The playbook emphasises right-at-the-start decisions, going to market, and maximising value throughout the engagement.
+- It covers delivery model choice, setting procurements up for success, market engagement, specifications, evaluation criteria, routes to market, pricing and payment mechanisms, bid evaluation, spend data, client effectiveness, and knowledge generation and transfer.
+- Knowledge generation and transfer are central to reducing reliance on external consultants.
+
+Inferred VfM implications:
+
+- A consultancy VfM rubric should test the justification for external advice before testing supplier performance.
+- Effectiveness includes usefulness of advice for decisions and implementation, not only production of reports.
+- Learning and capability should be explicit criteria or subcriteria for consultancy engagements.
+- Economy should consider whether consultancy scope, route to market, and pricing are proportionate to the knowledge gap.
+
+## Implications for Rubric Criteria
+
+| VfM criterion | Consultancy playbook contribution |
+|---|---|
+| Economy | Tests whether consultancy was necessary, scoped tightly, and priced proportionately. |
+| Efficiency | Tests whether government acted as an effective client and avoided poor handoffs, unclear requirements, or duplicated effort. |
+| Effectiveness | Tests whether advice, analysis, or support improved decisions, delivery, policy, or organisational outcomes. |
+| Cost-effectiveness | Tests whether external support was justified against internal delivery, upskilling, or alternative routes. |
+| Learning and capability | Tests whether knowledge and skills were generated, transferred, captured, and reused. |
+| Equity and fairness | Tests transparent market engagement and supplier access, including SMEs where relevant. |
+
+## Evidence Useful for Rubric Creation
+
+Candidate evidence:
+
+- decision record explaining the knowledge or skills gap;
+- delivery model assessment or alternatives analysis;
+- consultancy business case and approval record;
+- specification and statement of outcomes;
+- evaluation criteria and bid evaluation report;
+- pricing and payment mechanism;
+- spend data capture;
+- client-side resourcing plan;
+- deliverable acceptance records;
+- knowledge generation and transfer plan;
+- reuse evidence, capability-building evidence, and lessons learned.
+
+## Relevance Rules Applied
+
+Include consultancy playbook material where it informs necessity, alternatives, scope, outcome quality, client capability, knowledge transfer, evidence, or standards.
+
+Exclude generic consultancy process where it does not affect VfM judgement.
+
+## Limits and Exclusions
+
+The playbook does not provide a complete evaluation framework for every consultancy assignment. A rubric still needs programme-specific standards for what counts as useful knowledge, improved decision-making, or sustained capability.
+
+## Links
+
+See also the [Consultancy Knowledge and Skills Transfer](consultancy-knowledge-skills-transfer.qmd), [Sourcing Bid Evaluation](sourcing-bid-evaluation.qmd), and [Sourcing Delivery Model Assessment](sourcing-delivery-model-assessment.qmd) notes.
+
+Return to the [notes overview](index.qmd).
+
+## References
+
+::: {#refs}
+:::
