@@ -8,6 +8,12 @@ toc: true
 
 This page records release-level changes to the Value for Money Evaluation Knowledge Base.
 
+## Site Structure Update - 2026-06-29
+
+### Removed
+
+- Removed the Reports section from the published knowledge base navigation and static site output.
+
 ## Initial Release - 2026-05-30
 
 Initial public release of the knowledge base.

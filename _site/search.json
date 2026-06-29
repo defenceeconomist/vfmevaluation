@@ -2020,7 +2020,14 @@
     "href": "NOTES.html",
     "title": "Release Notes",
     "section": "",
-    "text": "This page records release-level changes to the Value for Money Evaluation Knowledge Base.\n\n\nInitial public release of the knowledge base.\n\n\n\nSource-note library for value for money evaluation, including OPM, Verian Value for Investment, Green Book, Magenta Book, JSP 507, NAO, OECD DAC, DfT, Government Efficiency Framework, and sourcing guidance.\nInteractive notes map showing relationships between notes, citations, and linked sources.\nShared BibTeX bibliography for source traceability.\nQuarto website structure with notes, search, sidebars, and rendered HTML outputs.\n\n\n\n\n\nCentral government appraisal, evaluation, and efficiency guidance.\nKing, OPM, and Verian Value for Investment guidance.\nOECD DAC evaluation criteria and VfI relationship notes.\nDepartment for Transport value for money and appraisal material.\nSourcing and consultancy playbook material for VfM rubric creation.\n\n\n\n\n\nThis is the baseline release. Future entries should describe user-facing additions, substantial content revisions, structural site changes, source updates, and rendered-output changes that matter to readers."
+    "text": "This page records release-level changes to the Value for Money Evaluation Knowledge Base.\n\n\n\n\n\nRemoved the Reports section from the published knowledge base navigation and static site output.\n\n\n\n\n\nInitial public release of the knowledge base.\n\n\n\nSource-note library for value for money evaluation, including OPM, Verian Value for Investment, Green Book, Magenta Book, JSP 507, NAO, OECD DAC, DfT, Government Efficiency Framework, and sourcing guidance.\nInteractive notes map showing relationships between notes, citations, and linked sources.\nShared BibTeX bibliography for source traceability.\nQuarto website structure with notes, search, sidebars, and rendered HTML outputs.\n\n\n\n\n\nCentral government appraisal, evaluation, and efficiency guidance.\nKing, OPM, and Verian Value for Investment guidance.\nOECD DAC evaluation criteria and VfI relationship notes.\nDepartment for Transport value for money and appraisal material.\nSourcing and consultancy playbook material for VfM rubric creation.\n\n\n\n\n\nThis is the baseline release. Future entries should describe user-facing additions, substantial content revisions, structural site changes, source updates, and rendered-output changes that matter to readers."
+  },
+  {
+    "objectID": "NOTES.html#site-structure-update---2026-06-29",
+    "href": "NOTES.html#site-structure-update---2026-06-29",
+    "title": "Release Notes",
+    "section": "",
+    "text": "Removed the Reports section from the published knowledge base navigation and static site output."
   },
   {
     "objectID": "NOTES.html#initial-release---2026-05-30",
